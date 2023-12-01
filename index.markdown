@@ -4,3 +4,17 @@
 
 layout: home
 ---
+
+{:refdef: style="text-align: center;"}
+[![Man at the Crossroads](/images/crossroads.jpg)](/images/crossroads.jpg)
+{: refdef}
+
+## Pirate Cookbook / Поваренная книга пирата:
+
+[In English](/en/pirate-cookbook)
+
+[На русском](/ru/pirate-cookbook)
+<br><br>
+
+## [Library / Библиотека](library)
+<br>

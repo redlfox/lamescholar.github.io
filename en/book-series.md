@@ -1,0 +1,119 @@
+---
+title: Book series
+---
+
+Cambridge Library Collection - <https://libgen.is/search.php?req=Cambridge+Library+Collection&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+
+Publishing History - <https://www.publishinghistory.com/>
+
+A Series of Series - <https://seriesofseries.com/>
+<br><br>
+
+{:refdef: style="text-align: center;"}
+![Books](/images/booksen.jpg)
+{: refdef}
+<br>
+
+# Book series by topic
+
+[Art](#art)
+
+[Fiction](#fiction)
+
+[History](#history)
+
+[Math](#math)
+
+[Philosophy](#philosophy)
+
+[Society](#society)
+<br><br>
+
+<a id="art"></a>
+# Art:
+
+ART-COLLECTOR.RU Pictures Archive - <https://rutracker.org/forum/viewtopic.php?t=939626>
+
+History of XX century in B/W photos:
+
+<https://rutracker.org/forum/viewtopic.php?t=1036836>
+
+<http://static.rutracker.cc/old_attach/12401697.rar>
+<br><br>
+
+<a id="fiction"></a>
+# Fiction:
+
+Delphi Complete - <https://libgen.is/search.php?req=Delphi+Complete&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+
+Harvard Classics - <https://rutracker.org/forum/viewtopic.php?t=6244440>
+
+Library of America:
+
+<https://en.wikipedia.org/wiki/Library_of_America>
+
+[Internet Archive](/en/internet-archive)
+
+Loeb Classical Library - <https://libgen.is/search.php?req=Loeb+Classical+Library&open=0&res=25&view=simple&phrase=1&column=def>
+
+Oxford World Classics - <https://libgen.is/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+
+Penguin Classics - <https://libgen.is/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+
+Viking Portable Library - <https://archive.org/search?query=title%3A%28portable%29+AND+publisher%3A%28penguin%29>
+
+World's Classics - <https://seriesofseries.com/worlds-classics/>
+
+Bibliothèque de la Pléiade - <https://www3.yggtorrent.wtf/torrent/ebook/livres/1045545-biblioth%C3%A8que+de+la+pl%C3%A9iade+-+116+volumes+pdf+djvu+fr>
+<br><br>
+
+<a id="history"></a>
+# History:
+
+The Cambridge Ancient History
+
+The New Cambridge Medieval History
+
+The New Cambridge Modern History
+
+<https://rutracker.org/forum/viewtopic.php?t=5923844>
+<br><br>
+
+<a id="math"></a>
+# Math:
+
+Graduate Studies in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6299486>
+
+Graduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003453>
+
+Undergraduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003927>
+
+Soviet books in mathematics for students in English - <https://archive.org/details/@mirtitles>
+
+Soviet books in mathematics for students in German - <https://mathematikalpha.de/schuelerbuecherei>
+<br><br>
+
+<a id="philosophy"></a>
+# Philosophy:
+
+Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
+
+The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.is/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
+<br><br>
+
+<a id="society"></a>
+# Society:
+
+{:refdef: style="text-align: center;"}
+![MELS](/images/mels.jpg)
+{: refdef}
+
+Marx and Engels Collected Works - <https://rutracker.org/forum/viewtopic.php?t=6244838>
+
+Marx's Capital 4 Volumes - <https://rutracker.org/forum/viewtopic.php?t=6245165>
+
+Lenin Collected Works - <https://rutracker.org/forum/viewtopic.php?t=6244821>
+
+Stalin Works - <https://rutracker.org/forum/viewtopic.php?t=6244850>
+
+Trotsky Works - <https://rutracker.org/forum/viewtopic.php?t=5351069>

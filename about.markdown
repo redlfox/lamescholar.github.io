@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is made to propagate piracy and access to sources. Made with [Jekyll](/en/jekyll).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Этот сайт создан для распространения пиратства и доступа к источникам. Cделан с помощью [Jekyll](/ru/jekyll).
+<br><br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+"Доступ к новым знаниям надо расширять, а не городить на этом пути новые заборы"
 
+[Сергей Капица](/2023/09/22/kapitsa-intellectual-property.html)
 
-[jekyll-organization]: https://github.com/jekyll
+"Access to new knowledge should be expanded, not new fences erected on this path"
+
+Sergey Kapitsa

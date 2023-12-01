@@ -1,0 +1,57 @@
+---
+title: P2P
+---
+
+Ниже я перечисляю программы, которые позволят тебе пользоваться P2P-сетями.
+<br><br>
+
+BitTorrent:
+
+qBittorent - <https://www.qbittorrent.org/download.php>
+
+Рекомендации. Ограничьте скорость отдачи до 2 МБ/c. Ограничьте число слотов отдачи до 4, число слотов одного торрента - до 2. Так не будет большой нагрузки на диск и интернет, скорость не будет распыляться на множество пиров. qBittorent позволяет переименовывать папки и без проблем продолжать раздавать. Это полезно, если вы особым образом организуете библиотеку, а папка раздачи названа неподходящим образом.
+
+Torrent File Editor - программа для создания торрентов.
+
+<https://torrent-file-editor.github.io/>
+<br><br>
+
+Soulseek - <http://www.slsknet.org/news/node/1>
+
+Ник - legen848dary
+<br><br>
+
+Direct Connect:
+
+ApexDC++ - <https://www.apexdc.net/download/>
+
+Ник - legen848dary
+<br><br>
+
+Общенаправленные торрент-сайты:
+
+RuTracker - <http://rutracker.org/forum/index.php>
+
+YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
+
+MIRCrew - <https://mircrew-releases.org/index.php>
+
+The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
+
+1337x - <https://1337x.to/>
+
+BT4G - <https://bt4gprx.com/>
+
+BTDigg - <https://btdig.com/index.htm>
+
+The Pirate Bay - <https://thepiratebay.org/index.html>
+<br><br>
+
+Часто раздачи содержат образы дисков(.iso, .mdf). Их монтируют, например, программой DAEMON Tools Lite.
+
+<https://www.daemon-tools.cc/rus/home>
+<br><br>
+
+Информация:
+
+<https://habr.com/ru/articles/318400/>
