@@ -2,13 +2,11 @@
 title: VPN
 ---
 
-VPS+OpenVPN:
+VPS+WireGuard:
 
-<https://www.youtube.com/watch?v=jPOZhnnS4pM>
+<https://www.youtube.com/watch?v=2AYuijbofiM>
 
 <https://vps.today/>
-
-Если при включённом VPN не работают другие подключения к Wi-Fi, попробуй получить статический IP.
 <br><br>
 
 Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=ru>
