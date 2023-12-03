@@ -11,7 +11,7 @@ Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 
 New issues in PDF:
 
-YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date>
+[YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 
 DownMagaz.NET - <https://downmagaz.net/>
 
@@ -139,7 +139,7 @@ Wszechświat:
 
 Philosophy Now - <https://magzdb.org/j/5590>
 
-Philosophie - <https://www3.yggtorrent.wtf/engine/search?name=philosophie&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date>
+Philosophie - [YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=philosophie&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 <br><br>
 
 <a id="society"></a>
