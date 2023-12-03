@@ -36,12 +36,6 @@ Script for transript:
 import whisper
 
 model = whisper.load_model("base")
-
-audio = whisper.load_audio("name of the media file with extension")
-audio = whisper.pad_or_trim(audio)
-
-mel = whisper.log_mel_spectrogram(audio).to(model.device)
-
 options = whisper.DecodingOptions(language="ru")
 result = model.transcribe(r"path to the media file")
 
@@ -74,10 +68,7 @@ options = whisper.DecodingOptions(language="ru")
 
 Win+R cmd
 
-```
-cd path to the folder with media file
 python path to folder named whisper\w.py
-```
 <br>
 
 whisper for subtitles:

@@ -36,12 +36,6 @@ Cкрипт для расшифровки:
 import whisper
 
 model = whisper.load_model("base")
-
-audio = whisper.load_audio("название медиафайла с расширением")
-audio = whisper.pad_or_trim(audio)
-
-mel = whisper.log_mel_spectrogram(audio).to(model.device)
-
 options = whisper.DecodingOptions(language="ru")
 result = model.transcribe(r"путь к медиафайлу")
 
@@ -74,10 +68,7 @@ options = whisper.DecodingOptions(language="ru")
 
 Win+R cmd
 
-```
-cd путь к папке с медиафайлом
 python путь к папке whisper\w.py
-```
 <br>
 
 whisper для субтитров:
