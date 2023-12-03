@@ -69,13 +69,13 @@ Meduza - <https://meduza.io/articles>
 
 Известия: Лента - <https://iz.ru/feed>
 
-Коммерсантъ - <https://www.kommersant.ru/daily?from=burger>
+Коммерсантъ - <https://www.kommersant.ru/publishing/86>
 
 Коммерсантъ Weekend - <https://www.kommersant.ru/weekend>
 
-Коммерсантъ История - <https://www.kommersant.ru/theme/1215>
+Коммерсантъ: Культура - <https://www.kommersant.ru/rubric/8>
 
-Коммерсант: Культура - <https://www.kommersant.ru/rubric/8>
+Коммерсантъ: Материалы сайта - <https://www.kommersant.ru/publishing/57>
 
 Литературная газета - <https://lgz.ru/>
 
