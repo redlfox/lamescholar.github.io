@@ -21,7 +21,7 @@ RealClearBooks - <https://www.realclearbooks.com/>
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
-# News websites:
+# News sites:
 
 Pew Research Center - <https://www.pewresearch.org/publications/>
 
