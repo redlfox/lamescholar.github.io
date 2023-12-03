@@ -21,13 +21,22 @@ RealClearBooks - <https://www.realclearbooks.com/>
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
+# News media:
+
+Pew Research Center - <https://www.pewresearch.org/publications/>
+
+Statista: Daily Data - <https://www.statista.com/chartoftheday/>
+
+Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
+
+Bloomberg - <https://www.bloomberg.com/>
+<br><br>
+
 # Online newspaper:
 
 The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 
 W3Newspapers - <https://www.w3newspapers.com/>
-
-Pew Research Center - <https://www.pewresearch.org/publications/>
 
 The New York Times - <https://www.nytimes.com/section/todayspaper>
 
@@ -43,8 +52,6 @@ The Washington Post: Latest From The Post - <https://www.washingtonpost.com/late
 
 Los Angeles Times - <https://www.latimes.com/latest>
 
-Bloomberg - <https://www.bloomberg.com/>
-
 The Independent - <https://www.independent.co.uk/>
 
 The Telegraph - <https://www.telegraph.co.uk/>
@@ -52,10 +59,6 @@ The Telegraph - <https://www.telegraph.co.uk/>
 The Times - <https://www.thetimes.co.uk/>
 
 Financial TImes - <https://www.ft.com/news-feed>
-
-Statista: Daily Data - <https://www.statista.com/chartoftheday/>
-
-Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
 
 Süddeutsche Zeitung - <https://www.sueddeutsche.de/>
 

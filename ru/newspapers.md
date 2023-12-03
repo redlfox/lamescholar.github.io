@@ -40,10 +40,11 @@ Google News - <https://news.google.com/newspapers>
 РИА Новости - <https://ria.ru/archive/>
 
 ТАСС - <https://tass.ru/search>
+<br><br>
 
 # Новостные интернет-издания:
 
-euro|topics - <https://www.eurotopics.net/ru/#>
+eurotopics - <https://www.eurotopics.net/ru/#>
 
 Lenta.ru - <https://lenta.ru/archive/>
 
@@ -54,10 +55,11 @@ Meduza - <https://meduza.io/articles>
 Газета.Ru - <https://www.gazeta.ru/news/>
 
 Свободная пресса - <https://svpressa.ru/all/news-archive/>
+<br><br>
 
 # Онлайн газеты на русском:
 
-Дайджест прессы по проблемам российской науки - <http://www.prometeus.nsc.ru/science/digest/>
+РАН. СО РАН. Сибирь - Дайджест прессы - <http://www.prometeus.nsc.ru/science/digest/>
 
 Троицкий вариант — Наука - <https://www.trv-science.ru/category/pdf/>
 
@@ -178,7 +180,7 @@ Meduza - <https://meduza.io/articles>
 Новая жизнь - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126741>
 <br><br>
 
-# Аггрегаторы новостей:
+# Агрегаторы новостей:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
@@ -187,13 +189,22 @@ RealClearBooks - <https://www.realclearbooks.com/>
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
+# Новостные интернет-издания на других языках:
+
+Pew Research Center - <https://www.pewresearch.org/publications/>
+
+Statista: Daily Data - <https://www.statista.com/chartoftheday/>
+
+Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
+
+Bloomberg - <https://www.bloomberg.com/>
+<br><br>
+
 # Онлайн газеты на других языках:
 
 The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 
 W3Newspapers - <https://www.w3newspapers.com/>
-
-Pew Research Center - <https://www.pewresearch.org/publications/>
 
 The New York Times - <https://www.nytimes.com/section/todayspaper>
 
@@ -209,8 +220,6 @@ The Washington Post: Latest From The Post - <https://www.washingtonpost.com/late
 
 Los Angeles Times - <https://www.latimes.com/latest>
 
-Bloomberg - <https://www.bloomberg.com/>
-
 The Independent - <https://www.independent.co.uk/>
 
 The Telegraph - <https://www.telegraph.co.uk/>
@@ -218,10 +227,6 @@ The Telegraph - <https://www.telegraph.co.uk/>
 The Times - <https://www.thetimes.co.uk/>
 
 Financial TImes - <https://www.ft.com/news-feed>
-
-Statista: Daily Data - <https://www.statista.com/chartoftheday/>
-
-Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
 
 Süddeutsche Zeitung - <https://www.sueddeutsche.de/>
 
