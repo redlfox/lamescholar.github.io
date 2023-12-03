@@ -393,6 +393,7 @@
     <outline type="rss" text="Коммерсантъ" xmlUrl="https://www.kommersant.ru/RSS/news.xml" htmlUrl="https://www.kommersant.ru/publishing/86"/>
     <outline type="rss" text="Коммерсантъ Weekend" xmlUrl="https://www.kommersant.ru/rss/weekend.xml" htmlUrl="https://www.kommersant.ru/weekend?IssueId=147297"/>
     <outline type="rss" text="Коммерсантъ: Культура" xmlUrl="https://www.kommersant.ru/rss/section-culture.xml" htmlUrl="https://www.kommersant.ru/rubric/8"/>
+    <outline type="rss" text="Коммерсантъ: Материалы сайта" xmlUrl="https://www.kommersant.ru/RSS/corp.xml" htmlUrl="https://www.kommersant.ru/publishing/57"/>
     <outline type="rss" text="Коммерсантъ: Пермь" xmlUrl="https://www.kommersant.ru/rss/regions/perm_all.xml" htmlUrl="https://kommersant.ru/regions/59/"/>
     <outline type="rss" text="Комсомольская правда" xmlUrl="https://www.kp.ru/rss/allsections.xml" htmlUrl="https://www.kp.ru/rss/allsections.xml"/>
     <outline type="rss" text="ЛІГА.Новости" xmlUrl="https://www.liga.net/news/all/rss.xml" htmlUrl="https://www.liga.net"/>
