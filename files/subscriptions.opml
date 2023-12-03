@@ -162,6 +162,7 @@
     <outline type="rss" text="New York Magazine" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:nymag.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" htmlUrl="https://news.google.com/search?q=when:24h+allinurl:nymag.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="New Zealand Herald" xmlUrl="https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp;_website=nzh" htmlUrl="https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp;_website=nzh"/>
     <outline type="rss" text="Newsweek" xmlUrl="https://www.newsweek.com/rss" htmlUrl="https://www.newsweek.com"/>
+    <outline type="rss" text="Nikkei Asia" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aasia.nikkei.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:asia.nikkei.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="NPR: Books" xmlUrl="https://feeds.npr.org/1032/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1032"/>
     <outline type="rss" text="NPR: News" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001"/>
     <outline type="rss" text="NRC" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Anrc.nl&amp;hl=nl&amp;gl=NL&amp;ceid=NL%3Anl" htmlUrl="https://news.google.com/search?q=when:24h+inurl:nrc.nl&amp;hl=nl&amp;gl=NL&amp;ceid=NL:nl"/>
