@@ -112,6 +112,7 @@
     <outline type="rss" text="L&#39;Express" xmlUrl="https://www.lexpress.fr/arc/outboundfeeds/rss/alaune.xml" htmlUrl="https://www.lexpress.fr/arc/outboundfeeds/rss/alaune.xml"/>
     <outline type="rss" text="L&#39;Obs" xmlUrl="https://news.google.com/rss/search?hl=fr&amp;gl=FR&amp;ceid=FR%3Afr&amp;oc=11&amp;q=when%3A24h%20inurl%3Anouvelobs.com" htmlUrl="https://news.google.com/search?hl=fr&amp;gl=FR&amp;ceid=FR:fr&amp;oc=11&amp;q=when:24h+inurl:nouvelobs.com"/>
     <outline type="rss" text="L&#39;Obs - BibliObs" xmlUrl="https://www.nouvelobs.com/bibliobs/rss.xml" htmlUrl="https://www.nouvelobs.com/bibliobs/rss.xml"/>
+    <outline type="rss" text="L&#39;Obs - Opinions" xmlUrl="https://www.nouvelobs.com/opinions/rss.xml" htmlUrl="https://www.nouvelobs.com/opinions/rss.xml"/>
     <outline type="rss" text="l&#39;Opinion" xmlUrl="https://www.lopinion.fr/index.rss" htmlUrl="https://www.lopinion.fr/index.rss"/>
     <outline type="rss" text="La Croix" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Ala-croix.com&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" htmlUrl="https://news.google.com/search?q=when:24h+inurl:la-croix.com&amp;hl=fr&amp;gl=FR&amp;ceid=FR:fr"/>
     <outline type="rss" text="La Croix: Débats" xmlUrl="https://www.la-croix.com/RSS/UNIVERS_WDEB" htmlUrl="https://www.la-croix.com"/>
@@ -162,9 +163,10 @@
     <outline type="rss" text="NPR: News" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001"/>
     <outline type="rss" text="NRC" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Anrc.nl&amp;hl=nl&amp;gl=NL&amp;ceid=NL%3Anl" htmlUrl="https://news.google.com/search?q=when:24h+inurl:nrc.nl&amp;hl=nl&amp;gl=NL&amp;ceid=NL:nl"/>
     <outline type="rss" text="NRC: Boeken" xmlUrl="https://www.nrc.nl/index/boeken/rss/" htmlUrl="https://www.nrc.nl/index/boeken/rss/"/>
+    <outline type="rss" text="NYT" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Anytimes.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:nytimes.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="NYT &gt; Books &gt; Book Review" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml"/>
     <outline type="rss" text="NYT &gt; Opinion &gt; Columnists" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/columnists.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/columnists.xml"/>
-    <outline type="rss" text="NYT &gt; Top Stories" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <outline type="rss" text="NYT &gt; Science" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"/>
     <outline type="rss" text="O Globo" xmlUrl="https://pox.globo.com/rss/oglobo/" htmlUrl="https://pox.globo.com/rss/oglobo/"/>
     <outline type="rss" text="Open Culture" xmlUrl="https://www.openculture.com/feed/rss2" htmlUrl="https://www.openculture.com/"/>
     <outline type="rss" text="Paraskhnio" xmlUrl="https://www.paraskhnio.gr/feed/" htmlUrl="https://www.paraskhnio.gr/"/>
