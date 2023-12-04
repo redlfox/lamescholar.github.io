@@ -12,7 +12,7 @@ title: Перевод
 
 Из-за этих недостатков нужен опенсорсный аналог ChatGPT. И он есть. Как он работает на поверхности? Вставляешь текст статьи в текстовый файл. Форматируешь макросами. Запускаешь скрипт. В случае средней статьи ждёшь 20 минут. И получаешь текстовый файл с переводом всей статьи.
 
-На платформе [Hugging Face](https://huggingface.co/tasks/translation) можно найти опенсорсные языковые модели - нейронные сети, которые были обучены на больших массивах параллельного перевода. Для каждой пары языков - отдельная модель, обученная на своей базе параллельных переводов. Этими моделями можно пользоваться офлайн. Для этого нужно скачать веса модели. Для пар en-ru, ru-en, en-de, de-en есть хорошая модель [wmt-19](https://huggingface.co/facebook/wmt19-en-ru). Для всех остальных языков необходимо пользоваться [opus-mt](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en).
+На платформе [Hugging Face](https://huggingface.co/tasks/translation) можно найти опенсорсные языковые модели - нейронные сети, которые были обучены на больших массивах параллельного перевода. Для каждой пары языков - отдельная модель, обученная на своей базе параллельных переводов. Этими моделями можно пользоваться офлайн. Для этого нужно скачать веса модели. Для пар en-ru, ru-en, en-de, de-en есть хорошая модель [wmt19](https://huggingface.co/facebook/wmt19-en-ru). Для всех остальных языков необходимо пользоваться [opus-mt](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en).
 
 Перевод производится с помощью скрипта на [Python](https://www.python.org/downloads/). При установке нужно нажать галочку у опции Add python.exe to PATH. После скачивания нужно установить необходимые пакеты:
 
@@ -21,17 +21,30 @@ Win+R cmd
 pip install transformers[torch] sentencepiece sacremoses colorama
 <br><br>
 
-Скачивание весов:
+Скрипт для скачивания весов:
 
-Win+R
+```
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+
+model_name = "facebook/wmt19-en-ru"
+
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+
+tokenizer.save_pretrained('./wmt19-en-ru')
+model.save_pretrained('./wmt19-en-ru')
+```
+
+Создайте файл model_download.py и поместите в него этот код. Дальше нужно отправиться в командную строку.
+
+Win+R cmd
 
 ```
 cd путь к папке, в которой сохранятся веса
-
-git lfs clone https://huggingface.co/facebook/wmt-19-en-ru
+python model_download.py
 ```
 
-В папке появится папка wmt-19-en-ru. У нас есть веса. Теперь создадим скрипт, который будет использовать эти веса для перевода.
+В папке появится папка wmt19-en-ru. У нас есть веса. Теперь создадим скрипт, который будет использовать эти веса для перевода.
 
 Скрипт для перевода:
 
@@ -42,7 +55,8 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 init()
 
-model = './wmt-19-en-ru'
+model = './wmt19-en-ru'
+
 tokenizer = AutoTokenizer.from_pretrained(model)
 model = AutoModelForSeq2SeqLM.from_pretrained(model)
 
@@ -270,7 +284,7 @@ python translate.py
 Остановить запись. Сохранить записанный макрос... Можете назвать его Сборка.
 <br><br>
 
-Итак. Что у нас есть по итогу? Cкрипт и четыре макроса. Команды для командной строки в целях удобства стоит записать в файлик cmd.txt. Если нужно установить другую модель или использовать другую модель в переводе, открываем скрипт тем же Notepad++ и изменяем название модели. Например, если скачиваешь модель open-mt-fr-en, в скрипте model_download.py меняешь facebook/wmt-19-en-ru на, например, Helsinki-NLP/opus-mt-fr-en, а wmt-19-en-ru на opus-mt-fr-en. Если меняешь модель для перевода, в скрипте translate.py меняешь wmt19-en-ru на opus-mt-fr-en.
+Итак. Что у нас есть по итогу? Два скрипта и четыре макроса. Команды для командной строки в целях удобства стоит записать в файлик cmd.txt. Если нужно установить другую модель или использовать другую модель в переводе, открываем скрипт тем же Notepad++ и изменяем название модели. Например, если скачиваешь модель open-mt-fr-en, в скрипте model_download.py меняешь facebook/wmt19-en-ru на, например, Helsinki-NLP/opus-mt-fr-en, а wmt19-en-ru на opus-mt-fr-en. Если меняешь модель для перевода, в скрипте translate.py меняешь wmt19-en-ru на opus-mt-fr-en.
 <br><br>
 
 Это что касается перевода текстов. С помощью этих моделей также можно переводить субтитры в формате .srt. Для этого создаёшь следующий скрипт:
@@ -286,6 +300,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 init()
 
 model = './wmt19-en-ru'
+
 tokenizer = AutoTokenizer.from_pretrained(model)
 model = AutoModelForSeq2SeqLM.from_pretrained(model)
 

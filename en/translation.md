@@ -12,7 +12,7 @@ title: Translation
 
 Because of these disadvantages, an open source analogue of ChatGPT is needed. And it exists. How does it work on the surface? You insert the text of the article into a text file. Format it with macros. Run the script. In the case of an average article, wait 20 minutes. And you get a text file with a translation of the entire article.
 
-On the [Hugging Face](https://huggingface.co/tasks/translation) platform it is possible to find open source language models - neural networks that have been trained on large volumes of parallel translation. For each pair of languages - a separate model trained on its database of parallel translations. These models can be used offline. To do this, you need to download the weights of the model. There is a good model for en-ru, ru-en, en-de, de-en pairs - [wmt-19](https://huggingface.co/facebook/wmt19-de-en). For all other languages, you must use [opus-mt](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en).
+On the [Hugging Face](https://huggingface.co/tasks/translation) platform it is possible to find open source language models - neural networks that have been trained on large volumes of parallel translation. For each pair of languages - a separate model trained on its database of parallel translations. These models can be used offline. To do this, you need to download the weights of the model. There is a good model for en-ru, ru-en, en-de, de-en pairs - [wmt19](https://huggingface.co/facebook/wmt19-de-en). For all other languages, you must use [opus-mt](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en).
 
 Translation made using scripts in [Python](https://www.python.org/downloads/). When installing, you need to tick the option Add option python.exe to PATH. After downloading, you need to install the necessary packages:
 
@@ -21,16 +21,30 @@ Win+R cmd
 pip install transformers[torch] sentencepiece sacremoses colorama
 <br><br>
 
-Downloading weights:
+Script for downloading weights:
+
+```
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+
+model_name = "facebook/wmt19-de-en"
+
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+
+tokenizer.save_pretrained('./wmt19-de-en')
+model.save_pretrained('./wmt19-de-en')
+```
+
+Create a model_download.py file and put this code in it. Then go to the command line.
 
 Win+R cmd
 
 ```
 cd path to folder, where weights will be saved
-git lfs clone https://huggingface.co/facebook/wmt-19-de-en
+python model_download.py
 ```
 
-wmt-19-de-en folder will appear soon. We have weights. Now let's create a script that will use these weights for translation.
+wmt19-de-en folder will appear soon. We have weights. Now let's create a script that will use these weights for translation.
 
 Script for translation:
 
@@ -41,7 +55,8 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 init()
 
-model = './wmt-19-de-en'
+model = './wmt19-de-en'
+
 tokenizer = AutoTokenizer.from_pretrained(model)
 model = AutoModelForSeq2SeqLM.from_pretrained(model)
 
@@ -289,7 +304,7 @@ Replace with:\r\n\r\n
 Stop Recording. Save Currently Recorded Macro... You can call it Assemble.
 <br><br>
 
-So. What do we have as a result? Script and four macros. Commands for the command line for convenience should be written to a file cmd.txt. If you need to install another model or use another model in translation, open the script with the same Notepad++ and change the name of the model. For example, if you download the open-mt-fr-en model, in the model_download script.py change facebook/wmt-19-de-en to, for example, Helsinki-NLP/opus-mt-fr-ru, and wmt-19-de-en to opus-mt-fr-en. If you change the model for translation, in the script translate.py change wmt19-de-en to opus-mt-fr-en.
+So. What do we have as a result? Two scripts and four macros. Commands for the command line for convenience should be written to a file cmd.txt. If you need to install another model or use another model in translation, open the script with the same Notepad++ and change the name of the model. For example, if you download the open-mt-fr-en model, in the model_download script.py change facebook/wmt19-de-en to, for example, Helsinki-NLP/opus-mt-fr-ru, and wmt19-de-en to opus-mt-fr-en. If you change the model for translation, in the script translate.py change wmt19-de-en to opus-mt-fr-en.
 <br><br>
 
 This is what concerns the translation of texts. You can also use these models to translate subtitles in .srt format. To do this, create the following script:
@@ -304,7 +319,8 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 init()
 
-model = './wmt-19-de-en'
+model = './wmt19-de-en'
+
 tokenizer = AutoTokenizer.from_pretrained(model)
 model = AutoModelForSeq2SeqLM.from_pretrained(model)
 
