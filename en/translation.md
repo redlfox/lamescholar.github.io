@@ -336,7 +336,7 @@ def load_files(path: str):
 
 
 def save_srt(path: str, file: Path, translate_text: list):
-    with open(f'{Path(path) / Path(file).name.split(Path(file).suffix)[0]}.ru.srt', "w", encoding="utf-8") as fl:
+    with open(f'{Path(path) / Path(file).name.split(Path(file).suffix)[0]}.translation.srt', "w", encoding="utf-8") as fl:
         for phrase in translate_text:
             fl.write(phrase)
 
