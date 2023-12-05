@@ -2,12 +2,14 @@
 title: Hello
 ---
 
-Hello. Pirate Cookbook will help you find everything you can get in Internet for free. Piracy is possible thanks to modern technologies of distribution of information. Yet this free flow of information remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Modern Internet artificially stricts distribution of cultural heritage of humanity for sake of outdated system of commodity production.
+Hello. Pirate Cookbook will help you find everything you can get in Internet for free.
 
 The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of Cookbook.
 
 With this collection of guides you will be able to [create](/en/digitization), share, [find](/en/book-searching) and read ebooks, to find [newspapers](/en/newspapers), [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films), series, and play them on your computer.
 <br><br>
+
+Piracy is possible thanks to modern technologies of distribution of information. Yet this free flow of information remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Modern Internet artificially stricts distribution of cultural heritage of humanity for sake of outdated system of commodity production.
 
 Help share the knowledge. Share the link.
 
