@@ -3,7 +3,7 @@ title: Libraries
 ---
 
 {:refdef: style="text-align: center;"}
-![The Library of Babel](/images/babel.jpg)
+[![The Library of Babel](/images/babel.jpg)](https://library.lol/main/F99402AE51086BDE12EE2319FD45BC48)
 {: refdef}
 <br>
 

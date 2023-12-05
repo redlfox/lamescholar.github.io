@@ -3,7 +3,7 @@ title: Библиотеки
 ---
 
 {:refdef: style="text-align: center;"}
-![The Library of Babel](/images/babel.jpg)
+[![The Library of Babel](/images/babel.jpg)](https://imwerden.de/publ-6162)
 {: refdef}
 <br>
 
