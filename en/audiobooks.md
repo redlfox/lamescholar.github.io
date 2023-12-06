@@ -34,8 +34,6 @@ You have mp3 and cover.
 
 2. Translate subtitles (1.srt) from German to English with [wmt19-de-en](/en/translation) model from Hugging Face (2.srt).
 
-3. [Редактируешь](https://notepad-plus-plus.org/downloads/) перевод субтитров (2.srt).
-
 3.  [Edit](https://notepad-plus-plus.org/downloads/) translated subtitles (2.srt)
 
 4. Make video out of mp3 and cover with ffmpeg.
