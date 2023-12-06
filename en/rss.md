@@ -40,6 +40,8 @@ You'll get yarr.exe in C:\cygwin64\home\your username\yarr\_output\windows
 You can import my subscriptions:
 
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
+
+To read foreign languages use Google Chrome in-build Google Translate. Right-click some blank space, choose Translate to English.
 <br><br>
 
 How to find RSS feed? Add to URL:
@@ -85,5 +87,3 @@ Item description selector: .//div[1]/a/img
 
 substring(string(.//div[2]/time), 0, 18)
 ```
-
-To read foreign languages use Google Chrome in-build Google Translate. Right-click some blank space, choose Translate to English.
