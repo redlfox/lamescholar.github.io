@@ -85,3 +85,5 @@ Item description selector: .//div[1]/a/img
 
 substring(string(.//div[2]/time), 0, 18)
 ```
+
+To read foreign languages use Google Chrome in-build Google Translate. Right-click some blank space, choose Translate to English.
