@@ -85,3 +85,5 @@ Item description selector: .//div[1]/a/img
 
 substring(string(.//div[2]/time), 0, 18)
 ```
+
+Чтобы читать иностранные языки используй Google Translate, встроенный в Google Chrome, для перевода на английский (Google Translate сносно переводит только на английский). Кликни правой кнопкой мыши по пустому месту, выбери Перевести на English.
