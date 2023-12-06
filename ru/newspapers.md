@@ -210,9 +210,7 @@ The New York Times - <https://www.nytimes.com/section/todayspaper>
 
 The New York Times - TimesWire - <https://www.nytimes.com/timeswire>
 
-The Wall Street Journal - <https://www.wsj.com/news/archive/?mod=wsjfooter>
-
-The Wall Street Journal: Latest Headlines - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
+The Wall Street Journal - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
 
 The Washington Post - <https://www.washingtonpost.com/todays_paper/updates/>
 
