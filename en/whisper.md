@@ -69,7 +69,7 @@ options = whisper.DecodingOptions(language="ru")
 Win+R cmd
 
 python path to folder named whisper\w.py
-<br>
+<br><br>
 
 whisper for subtitles:
 
