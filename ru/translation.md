@@ -367,8 +367,6 @@ cd путь к папке со скриптом
 python translatesubs.py
 путь, где лежат субтитры
 ```
-
-Через 30 минут перевод готов.
-<br><br>
+<br>
 
 Источник кода: <https://codeby.net/threads/perevodim-tekst-s-pomoschju-predobuchennoj-modeli-transformers-hugging-face-i-python.81875/>

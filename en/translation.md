@@ -387,8 +387,6 @@ cd path to folder with script
 python translatesubs.py
 path with subtitles
 ```
-
-After 30 minutes, the translation is ready.
-<br><br>
+<br>
 
 Code source: <https://codeby.net/threads/perevodim-tekst-s-pomoschju-predobuchennoj-modeli-transformers-hugging-face-i-python.81875/>
