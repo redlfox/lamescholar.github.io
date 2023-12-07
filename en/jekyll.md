@@ -160,7 +160,7 @@ git push
 You can create .bat file and put these commands into it. Then the commit can be done with two clicks. To prevent the command line from closing immediately after executing commands, add pause command.
 <br><br>
 
-# Starting site locally
+# Starting the site locally
 
 To counter an error,  you need to add webrick to Gemfile:
 
@@ -169,7 +169,7 @@ cd username.github.io
 bundle add webrick
 ```
 
-Starting site:
+Starting the site:
 
 ```
 cd username.github.io
