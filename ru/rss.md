@@ -64,7 +64,15 @@ when:24h inurl:profile.ru
 
 <https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aprofile.ru&hl=ru&gl=RU&ceid=RU%3Aru>
 
-Если сайт не генерирует RSS-ленту, ты можешь сгенерировать его с помощью rss-bridge:
+В случае журнала с редкой публикацией можно расширить временной отрезок с 24h до 168h (1 неделя):
+
+when:168h inurl:forbes.ru
+
+<https://news.google.com/search?q=when%3A168h%20inurl%3Aforbes.ru&hl=ru&gl=RU&ceid=RU%3Aru>
+
+<https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aforbes.ru&hl=ru&gl=RU&ceid=RU%3Aru>
+
+Также ты можешь сгенерировать RSS-ленту с помощью rss-bridge:
 
 rss-bridge - <https://github.com/RSS-Bridge/rss-bridge>
 
