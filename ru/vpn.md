@@ -2,11 +2,13 @@
 title: VPN
 ---
 
-VPS+WireGuard:
-
-<https://www.youtube.com/watch?v=2AYuijbofiM>
+VPS+Outline:
 
 <https://vps.today/>
+
+<https://mobaxterm.mobatek.net/download.html>
+
+<https://getoutline.org/get-started/>
 <br><br>
 
 Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=ru>
