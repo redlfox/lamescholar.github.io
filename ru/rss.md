@@ -2,7 +2,7 @@
 title: RSS
 ---
 
-RSS-файл собирает обновления с некоторого сайта, так что с RSS reader'ом ты получаешь ленту последних обновлений. Обычно [блоги](/ru/blogs), [газеты](/ru/newspapers) и [журналы](/ru/articles) генерируют RSS-файл.
+RSS - это XML-файл, который собирает обновления с некоторого сайта, так что с RSS reader'ом ты получаешь ленту последних обновлений. Обычно [блоги](/ru/blogs), [газеты](/ru/newspapers) и [журналы](/ru/articles) генерируют RSS-ленту.
 <br><br>
 
 yet another rss reader - <https://github.com/nkanaev/yarr>
