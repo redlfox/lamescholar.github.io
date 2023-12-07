@@ -2,11 +2,11 @@
 title: VPN
 ---
 
-VPS+Outline:
+VPS+AmneziaVPN:
 
 <https://mobaxterm.mobatek.net/download.html>
 
-<https://getoutline.org/get-started/>
+<https://amnezia.org/en/downloads>
 <br><br>
 
 Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=en>
