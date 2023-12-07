@@ -432,7 +432,7 @@
     <outline type="rss" text="Фонтанка.ру" xmlUrl="https://www.fontanka.ru/fontanka.rss" htmlUrl="https://www.fontanka.ru"/>
     <outline type="rss" text="Хакер" xmlUrl="https://xakep.ru/feed/" htmlUrl="https://xakep.ru"/>
     <outline type="rss" text="Цензор.НЕТ" xmlUrl="https://static.censor.net/censornet/rss/rss_ru_news.xml" htmlUrl="https://static.censor.net/censornet/rss/rss_ru_news.xml"/>
-    <outline type="rss" text="Эксперт" xmlUrl="https://news.google.com/rss/search?q=when%3A48h%20inurl%3Aexpert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:48h+inurl:expert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
+    <outline type="rss" text="Эксперт" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aexpert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:expert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
   </outline>
 </body>
 </opml>
