@@ -2,11 +2,7 @@
 title: VPN
 ---
 
-VPS+AmneziaVPN:
-
-<https://mobaxterm.mobatek.net/download.html>
-
-<https://amnezia.org/en/downloads>
+VPS+WireGuard
 <br><br>
 
 Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=en>

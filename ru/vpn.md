@@ -2,13 +2,11 @@
 title: VPN
 ---
 
-VPS+AmneziaVPN:
+VPS+WireGuard:
 
 <https://vps.today/>
 
-<https://mobaxterm.mobatek.net/download.html>
-
-<https://amnezia.org/en/downloads>
+<https://www.youtube.com/watch?v=2AYuijbofiM>
 <br><br>
 
 Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=ru>
