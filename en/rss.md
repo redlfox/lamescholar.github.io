@@ -64,7 +64,15 @@ And add rss to URL:
 
 <https://news.google.com/rss/search?q=when%3A24h%20inurl%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen>
 
-If the site doesn't generate RSS feed, you can generate it using rss-bridge:
+If it's not a newspaper, but a magazine, you can extend period of time from 24h to 168h (1 week):
+
+when:168h inurl:spectator.co.uk
+
+<https://news.google.com/search?q=when%3A168h%20inurl%3Aspectator.co.uk&hl=en-GB&gl=GB&ceid=GB%3Aen>
+
+<https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aspectator.co.uk&hl=en-GB&gl=GB&ceid=GB%3Aen>
+
+Also you can generate RSS feed using rss-bridge:
 
 rss-bridge - <https://github.com/RSS-Bridge/rss-bridge>
 
