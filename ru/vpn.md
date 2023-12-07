@@ -4,9 +4,9 @@ title: VPN
 
 VPS+WireGuard:
 
-<https://vps.today/>
-
 <https://www.youtube.com/watch?v=2AYuijbofiM>
+
+<https://vps.today/>
 <br><br>
 
 Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=ru>
