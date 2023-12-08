@@ -37,6 +37,8 @@ make build_windows  # -> _output/windows/yarr.exe
 
 You'll get yarr.exe in C:\cygwin64\home\your username\yarr\_output\windows
 
+[yarr.exe compiled by me](/files/yarr.exe)
+
 You can import my subscriptions:
 
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
