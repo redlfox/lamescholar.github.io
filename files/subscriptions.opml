@@ -359,6 +359,7 @@
     <outline type="rss" text="RT на русском" xmlUrl="https://russian.rt.com/rss" htmlUrl="https://russian.rt.com/rss"/>
     <outline type="rss" text="RTVI" xmlUrl="https://rtvi.com/rss" htmlUrl="https://rtvi.com/"/>
     <outline type="rss" text="TAdviser" xmlUrl="https://www.tadviser.ru/xml/tadviser.xml" htmlUrl="https://www.tadviser.ru/"/>
+    <outline type="rss" text="The Art Newspaper Russia" xmlUrl="https://www.theartnewspaper.ru/rss/" htmlUrl="https://www.theartnewspaper.ru"/>
     <outline type="rss" text="The Bell" xmlUrl="https://thebell.io/feed/" htmlUrl="https://thebell.io"/>
     <outline type="rss" text="The Insider" xmlUrl="https://theins.ru/feed/" htmlUrl="https://theins.ru/feed/"/>
     <outline type="rss" text="The Moscow Times" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=The+Moscow+Times&amp;feed_1=https%3A%2F%2Fwww.moscowtimes.ru%2Frss%2Fnews&amp;feed_2=https%3A%2F%2Fwww.moscowtimes.ru%2Frss%2Fopinion&amp;feed_3=https%3A%2F%2Fwww.moscowtimes.ru%2Frss%2Fft&amp;feed_4=&amp;feed_5=&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" htmlUrl="https://www.moscowtimes.ru/ft"/>
@@ -378,6 +379,7 @@
     <outline type="rss" text="Взгляд" xmlUrl="https://vz.ru/export/yandex.xml" htmlUrl="https://vz.ru/"/>
     <outline type="rss" text="Военное обозрение" xmlUrl="https://topwar.ru/rss.xml" htmlUrl="https://topwar.ru/"/>
     <outline type="rss" text="Вокруг света" xmlUrl="https://www.vokrugsveta.ru/rss-feeds/rss.xml" htmlUrl="https://www.vokrugsveta.ru/rss-feeds/rss.xml"/>
+    <outline type="rss" text="Газета.Ru" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Agazeta.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:gazeta.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Голос Америки" xmlUrl="https://www.golosameriki.com/api/zkivremjvq" htmlUrl="https://www.golosameriki.com/api/zkivremjvq"/>
     <outline type="rss" text="Деловой Петербург" xmlUrl="https://www.dp.ru/news.rss" htmlUrl="https://www.dp.ru/news.rss"/>
     <outline type="rss" text="Дилетант: Статьи" xmlUrl="https://diletant.media/rss/articles/" htmlUrl="http://diletant.media"/>
