@@ -18,7 +18,8 @@ Author: lamescholar - 2023-12-09
 3) List of RSS feeds + RSS reader to collect news from news sites
 <br><br>
 
-**1) VPN. Virtual server + WireGuard.
+**1) VPN. Virtual server + WireGuard.**
+<br><br>
 
 **2) Bypass Paywalls Clean is an extension that opens articles accessible only to subscribers of newspapers and magazines.**
 
