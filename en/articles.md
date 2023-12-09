@@ -186,10 +186,6 @@ L'Obs - <https://www.nouvelobs.com/depeche/>
 
 L'Expresso - <https://lespresso.it/>
 
-Le Monde diplomatique EO - <https://eo.mondediplo.com/arkivoj>
-
-Мир дипломатии - <https://ru.mondediplo.com/>
-
 Le Point - <https://www.lepoint.fr/24h-infos/>
 <br><br>
 
@@ -210,6 +206,10 @@ Rīgas Laiks - <https://ru.rigaslaiks.art/>
 Book History - <https://muse.jhu.edu/journal/23>
 
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
+
+Le Monde diplomatique EO - <https://eo.mondediplo.com/arkivoj>
+
+Мир дипломатии - <https://ru.mondediplo.com/>
 
 New Left Review:
 
@@ -237,7 +237,9 @@ Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
 
 e-flux: Journal - <https://www.e-flux.com/journal/>
 
-Le Monde Libertaire - <https://monde-libertaire.net/?page=papier>
+International Socialism - <https://en.wikipedia.org/wiki/International_Socialism_(magazine)>
+
+Marxism Today - <https://banmarchive.org.uk/marxism-today/>
 
 New German Critique - <https://www.jstor.org/journal/newgermcrit>
 
@@ -245,8 +247,6 @@ syg.ma - <https://syg.ma/>
 
 The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
 
-International Socialism - <https://en.wikipedia.org/wiki/International_Socialism_(magazine)>
-
-Marxism Today - <https://banmarchive.org.uk/marxism-today/>
+Le Monde Libertaire - <https://monde-libertaire.net/?page=papier>
 
 Reason - <https://reason.com/archives/>

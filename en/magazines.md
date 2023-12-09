@@ -172,6 +172,13 @@ Der Spiegel:
 <https://de.downmagaz.net/tags/Der%20Spiegel/>
 
 <https://magzdb.org/j/1948>
+<br><br>
+
+American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
+
+Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date&page=2>
+
+Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
 Le Monde diplomatique:
 
@@ -180,13 +187,6 @@ Le Monde diplomatique:
 <http://magzdb.org/j/5941>
 
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
-<br><br>
-
-American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
-
-Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date&page=2>
-
-Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
 Socialist Worker - <https://www.socialist.ca/issues>
 
