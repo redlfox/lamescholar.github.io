@@ -33,6 +33,17 @@ Google News - <https://news.google.com/newspapers>
 Журналы и газеты на рутрекере - <https://rutracker.org/forum/viewforum.php?f=31>
 <br><br>
 
+# Новостные агрегаторы:
+
+eurotopics - <https://www.eurotopics.net/ru/#>
+
+Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
+
+Дзен: книга - <https://dzen.ru/news/search?issue_tld=ru&text=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0>
+
+ИноСМИ: Наука - <https://inosmi.ru/science/>
+<br><br>
+
 # Информационные агентства:
 
 Интерфакс - <https://www.interfax.ru/>
@@ -44,13 +55,9 @@ Google News - <https://news.google.com/newspapers>
 
 # Новостные интернет-издания:
 
-eurotopics - <https://www.eurotopics.net/ru/#>
-
 Lenta.ru - <https://lenta.ru/archive/>
 
 Meduza - <https://meduza.io/articles>
-
-ИноСМИ: Наука - <https://inosmi.ru/science/>
 
 Газета.Ru - <https://www.gazeta.ru/news/>
 
