@@ -33,7 +33,7 @@ Google News - <https://news.google.com/newspapers>
 Журналы и газеты на рутрекере - <https://rutracker.org/forum/viewforum.php?f=31>
 <br><br>
 
-# Новостные агрегаторы:
+# Агрегаторы новостей:
 
 eurotopics - <https://www.eurotopics.net/ru/#>
 
@@ -187,7 +187,7 @@ Meduza - <https://meduza.io/articles>
 Новая жизнь - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126741>
 <br><br>
 
-# Агрегаторы новостей:
+# Агрегаторы новостей на других языках:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
