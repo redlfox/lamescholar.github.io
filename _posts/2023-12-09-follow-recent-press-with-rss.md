@@ -13,7 +13,7 @@ Author: lamescholar - 2023-12-09
 
 1) VPN in case there is a strong censorship in your country
 
-2) Bypass Paywall Clean to bypass paywall
+2) Bypass Paywalls Clean to bypass paywall
 
 3) List of RSS feeds + RSS reader to collect news from news sites
 <br><br>
