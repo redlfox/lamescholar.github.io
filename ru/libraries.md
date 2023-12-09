@@ -45,6 +45,8 @@ RoyalLib.com - <https://royallib.com/>
 
 Библиотека Мошкова - <http://lib.ru/>
 
+Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
+
 Элементы - <https://elementy.ru/nauchno-populyarnaya_biblioteka>
 
 VIVOS VOCO! - <http://vivovoco.astronet.ru/>
@@ -53,7 +55,7 @@ VIVOS VOCO! - <http://vivovoco.astronet.ru/>
 
 Mathesis - <https://www.mathesis.ru/books/>
 
-Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
+Горелик: Список публикаций - <https://ggorelik.narod.ru/index_all_chron.html>
 
 Gutenberg - <https://www.gutenberg.org/>
 
@@ -92,7 +94,7 @@ Henry's Bibliothek:
 
 # Библиотеки по темам
 
-[Национальные электронные библиотеки](#national)
+[Национальные](#national)
 
 [Учебники](#textbooks)
 
@@ -112,7 +114,7 @@ Henry's Bibliothek:
 <br><br>
 
 <a id="national"></a>
-# Национальные электронные библиотеки:
+# Национальные:
 
 <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 

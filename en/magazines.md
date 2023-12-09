@@ -17,7 +17,7 @@ DownMagaz.NET - <https://downmagaz.net/>
 
 Mobilism (EN) - <https://forum.mobilism.org/viewforum.php?f=123>
 
-Boerse (DE) - <https://boerse.kz/boerse/dokumente/magazine-und-zeitschriften/>
+Boerse (DE) - <https://boerse.am/boerse/dokumente/magazine-und-zeitschriften/>
 
 Edicola di MIRCrew (IT) - <https://mircrew-releases.org/viewforum.php?f=43&sid=d24bb98af07354a797bab77e64da30ec>
 <br><br>

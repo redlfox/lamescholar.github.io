@@ -50,7 +50,7 @@ Henry's Bibliothek:
 
 # Libraries by topic
 
-[National electronic libraries](#national)
+[National](#national)
 
 [History](#history)
 
@@ -60,7 +60,7 @@ Henry's Bibliothek:
 <br><br>
 
 <a id="national"></a>
-# National electronic libraries:
+# National:
 
 <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 

@@ -34,6 +34,8 @@ RuTracker - <http://rutracker.org/forum/index.php>
 
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
 
+Boerse - <https://boerse.am/>
+
 MIRCrew - <https://mircrew-releases.org/index.php>
 
 The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
