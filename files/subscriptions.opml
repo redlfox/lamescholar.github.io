@@ -90,7 +90,6 @@
     <outline type="rss" text="Haaretz: Opinion" xmlUrl="https://www.haaretz.com/srv/opinion-rss" htmlUrl="https://www.haaretz.com/opinion"/>
     <outline type="rss" text="Harper&#39;s Magazine" xmlUrl="https://harpers.org/feed/" htmlUrl="https://harpers.org/"/>
     <outline type="rss" text="HistoryExtra" xmlUrl="https://www.historyextra.com/feed/atom/" htmlUrl="https://www.historyextra.com"/>
-    <outline type="rss" text="i" xmlUrl="https://inews.co.uk/feed" htmlUrl="https://wp.inews.co.uk/"/>
     <outline type="rss" text="Il Fatto Quotidiano" xmlUrl="https://www.ilfattoquotidiano.it/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
     <outline type="rss" text="Il Giorno" xmlUrl="https://www.ilgiorno.it/rss" htmlUrl="https://www.ilgiorno.it/rss"/>
     <outline type="rss" text="il manifesto" xmlUrl="https://cms.ilmanifesto.it/feed" htmlUrl="https://cms.ilmanifesto.it"/>
@@ -98,6 +97,7 @@
     <outline type="rss" text="Il Sole 24 ORE: Libri" xmlUrl="https://www.ilsole24ore.com/rss/cultura--libri.xml" htmlUrl="https://www.ilsole24ore.com/rss/cultura--libri.xml"/>
     <outline type="rss" text="In These Times" xmlUrl="https://inthesetimes.com/rss" htmlUrl="https://inthesetimes.com/rss"/>
     <outline type="rss" text="in.gr" xmlUrl="https://www.in.gr/feed/" htmlUrl="https://www.in.gr"/>
+    <outline type="rss" text="iNews" xmlUrl="https://inews.co.uk/feed" htmlUrl="https://wp.inews.co.uk/"/>
     <outline type="rss" text="Información: Arte y Letras" xmlUrl="https://www.informacion.es/rss/microsite/7050" htmlUrl="https://www.informacion.es/rss/microsite/7050"/>
     <outline type="rss" text="Internazionale" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml" htmlUrl="https://www.internazionale.it/"/>
     <outline type="rss" text="Jacobin" xmlUrl="https://jacobin.com/feed/" htmlUrl="https://jacobin.com/feed/"/>
@@ -428,6 +428,7 @@
     <outline type="rss" text="Новости Mail.ru" xmlUrl="https://news.mail.ru/rss" htmlUrl="https://news.mail.ru/"/>
     <outline type="rss" text="Новости ООН" xmlUrl="https://news.un.org/feed/subscribe/ru/news/all/rss.xml" htmlUrl="https://news.un.org/feed/subscribe/ru/news/all/rss.xml"/>
     <outline type="rss" text="Новые Известия" xmlUrl="https://newizv.ru/rss" htmlUrl="https://newizv.ru"/>
+    <outline type="rss" text="ОВД-Инфо" xmlUrl="https://ovd.info/rss.xml" htmlUrl="https://ovd.info/"/>
     <outline type="rss" text="Парламентская газета" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=%D0%9F%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F+%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0&amp;feed_1=https%3A%2F%2Fwww.pnp.ru%2Frss%2Findex.xml&amp;feed_2=&amp;feed_3=&amp;feed_4=&amp;feed_5=&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" htmlUrl="https://www.pnp.ru/"/>
     <outline type="rss" text="Профиль" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aprofile.ru%2F&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:profile.ru/&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="РБК" xmlUrl="https://rssexport.rbc.ru/rbcnews/news/30/full.rss" htmlUrl="https://www.rbc.ru"/>
