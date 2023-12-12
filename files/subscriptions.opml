@@ -147,7 +147,7 @@
     <outline type="rss" text="marx21" xmlUrl="https://www.marx21.de/feed/" htmlUrl="https://www.marx21.de/"/>
     <outline type="rss" text="MintPress News" xmlUrl="https://www.mintpressnews.com/feed/" htmlUrl="https://www.mintpressnews.com"/>
     <outline type="rss" text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com"/>
-    <outline type="rss" text="Monthly Review" xmlUrl="https://monthlyreview.org/feed/" htmlUrl="https://monthlyreview.org"/>
+    <outline type="rss" text="Monthly Review" xmlUrl="https://monthlyreviewarchives.org/mr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://monthlyreviewarchives.org/mr"/>
     <outline type="rss" text="n-tv" xmlUrl="https://www.n-tv.de/rss" htmlUrl="https://www.n-tv.de/"/>
     <outline type="rss" text="National Post" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Anationalpost.com&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:nationalpost.com&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
