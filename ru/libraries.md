@@ -344,27 +344,27 @@ Henry's Bibliothek:
 <a id="philosophy"></a>
 # Философия:
 
-<https://www.philosophy.ru/library/>
+Philosophy.ru: Библиотека - <https://www.philosophy.ru/library/>
 
-<https://ancientrome.ru/antlitr/>
+Античная литература - <https://ancientrome.ru/antlitr/>
 
-<http://khazarzar.skeptik.net/books/index_ph.htm>
+Библиотека Руслана Хазарзара - <http://khazarzar.skeptik.net/books/index_ph.htm>
 
-<http://i-text.narod.ru/omsk/libery/index/index-1.htm>
+Библиотека Философского факультета ОмГПУ - <http://i-text.narod.ru/omsk/libery/index/index-1.htm>
 
-<https://zarya.xyz/>
+Заря - <https://zarya.xyz/>
 
-<https://platona.net/load/>
+ПлатонаНет - <https://platona.net/load/>
 
-<http://books.atheism.ru/>
+Философия и атеизм - <http://books.atheism.ru/>
 
-<https://www.nietzsche.ru/>
+Фридрих Ницше - <https://www.nietzsche.ru/>
 
-<http://caute.ru/ilyenkov/texts.html>
+Читая Ильенкова - <http://caute.ru/ilyenkov/texts.html>
 
-<http://yanko.lib.ru/>
+Янко Слава (Библиотека Fort/Da) - <http://yanko.lib.ru/>
 
-<https://www.earlymoderntexts.com/texts>
+Early Modern Philosophy - <https://www.earlymoderntexts.com/texts>
 <br><br>
 
 <a id="fiction"></a>

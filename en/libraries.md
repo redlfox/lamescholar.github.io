@@ -142,7 +142,7 @@ Henry's Bibliothek:
 <a id="philosophy"></a>
 # Philosophy
 
-<https://www.earlymoderntexts.com/texts>
+Early Modern Philosophy - <https://www.earlymoderntexts.com/texts>
 
 <a id="psychology"></a>
 # Psychology:
