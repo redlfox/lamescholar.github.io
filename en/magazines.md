@@ -153,9 +153,9 @@ Time - <https://forum.mobilism.org/search.php?keywords=time+usa&sr=topics&sf=tit
 
 Russian Life - <https://archive.org/details/pub_soviet-life?&sort=-date>
 
-Economist - <https://archive.org/details/pub_economist?sort=-date>
+The Economist - <https://archive.org/details/pub_economist?sort=-date>
 
-Independent - <https://archive.org/details/pub_independent?sort=-date>
+The Independent - <https://archive.org/details/pub_independent?sort=-date>
 
 Life - <https://archive.org/details/pub_life?sort=-date>
 
