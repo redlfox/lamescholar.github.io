@@ -167,7 +167,7 @@
     <outline type="rss" text="NRC: Boeken" xmlUrl="https://www.nrc.nl/index/boeken/rss/" htmlUrl="https://www.nrc.nl/index/boeken/rss/"/>
     <outline type="rss" text="NYT" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Anytimes.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:nytimes.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="NYT &gt; Books &gt; Book Review" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml"/>
-    <outline type="rss" text="NYT &gt; Opinion &gt; Columnists" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/columnists.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/columnists.xml"/>
+    <outline type="rss" text="NYT &gt; Opinion" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/opinion.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/opinion.xml"/>
     <outline type="rss" text="NYT &gt; Science" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"/>
     <outline type="rss" text="O Globo" xmlUrl="https://pox.globo.com/rss/oglobo/" htmlUrl="https://pox.globo.com/rss/oglobo/"/>
     <outline type="rss" text="Open Culture" xmlUrl="https://www.openculture.com/feed/rss2" htmlUrl="https://www.openculture.com/"/>
@@ -227,8 +227,8 @@
     <outline type="rss" text="The Globe and Mail: Opinion" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Atheglobeandmail.com%2Fopinion%2F&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:theglobeandmail.com/opinion/&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="The Grayzone" xmlUrl="https://thegrayzone.com/feed/" htmlUrl="https://thegrayzone.com/"/>
     <outline type="rss" text="The Guardian US" xmlUrl="https://www.theguardian.com/us/rss" htmlUrl="https://www.theguardian.com/us"/>
+    <outline type="rss" text="The Guardian US: Opinion" xmlUrl="https://www.theguardian.com/us/commentisfree/rss" htmlUrl="https://www.theguardian.com/us/commentisfree"/>
     <outline type="rss" text="The Guardian: Books" xmlUrl="https://www.theguardian.com/books/rss" htmlUrl="https://www.theguardian.com/books"/>
-    <outline type="rss" text="The Guardian: Columnists" xmlUrl="https://www.theguardian.com/index/contributors/rss" htmlUrl="https://www.theguardian.com/index/contributors"/>
     <outline type="rss" text="The Hindu" xmlUrl="https://www.thehindu.com/feeder/default.rss" htmlUrl="https://www.thehindu.com/"/>
     <outline type="rss" text="The Independent" xmlUrl="https://www.independent.co.uk/rss" htmlUrl="https://www.independent.co.uk/"/>
     <outline type="rss" text="The Independent Culture" xmlUrl="https://www.independent.co.uk/arts-entertainment/rss" htmlUrl="https://www.independent.co.uk/arts-entertainment"/>
@@ -251,10 +251,10 @@
     <outline type="rss" text="The Verge" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=The+Verge&amp;feed_1=https%3A%2F%2Fwww.theverge.com%2Frss%2Findex.xml&amp;feed_2=&amp;feed_3=&amp;feed_4=&amp;feed_5=&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" htmlUrl="https://www.theverge.com/"/>
     <outline type="rss" text="The Virginian-Pilot" xmlUrl="https://www.pilotonline.com/feed/" htmlUrl="https://www.pilotonline.com"/>
     <outline type="rss" text="The Virginian-Pilot: Books" xmlUrl="https://www.pilotonline.com/things-to-do/books/feed/" htmlUrl="https://www.pilotonline.com"/>
-    <outline type="rss" text="The Virginian-Pilot: Columnists" xmlUrl="https://www.pilotonline.com/opinion/columnists/feed/" htmlUrl="https://www.pilotonline.com"/>
+    <outline type="rss" text="The Virginian-Pilot: Opinion" xmlUrl="https://www.pilotonline.com/opinion/feed/" htmlUrl="https://www.pilotonline.com"/>
     <outline type="rss" text="The Washington Post" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Awashingtonpost.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:washingtonpost.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Washington Post: Books" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awashingtonpost.com/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:washingtonpost.com/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
-    <outline type="rss" text="The Washington Post: Columns" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/opinions/columns/" htmlUrl="https://www.washingtonpost.com/arcio/rss/category/opinions/columns/"/>
+    <outline type="rss" text="The Washington Post: Opinion" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/opinions/" htmlUrl="https://www.washingtonpost.com/arcio/rss/category/opinions/"/>
     <outline type="rss" text="The Week" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Atheweek.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:theweek.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
     <outline type="rss" text="TheHill" xmlUrl="https://thehill.com/homenews/feed/" htmlUrl="https://thehill.com"/>
     <outline type="rss" text="TheWrap" xmlUrl="https://www.thewrap.com/feed/" htmlUrl="https://www.thewrap.com/"/>
