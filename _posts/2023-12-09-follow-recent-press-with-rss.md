@@ -40,7 +40,7 @@ With Bypass Paywalls Clean it's good to have adblock. uBlock Origin.
 
 **3) To use RSS you need to have a collection RSS feeds themselves and RSS reader.**
 
-Best (in my opinion) RSS reader - yarr (yet another rss reader).
+The best (in my opinion) RSS reader is yarr (yet another rss reader).
 
 Here's the page on GitHub.
 
