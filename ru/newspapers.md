@@ -285,6 +285,8 @@ The New York Times - <https://forum.mobilism.org/search.php?keywords=the+new+yor
 
 The New York Times Book Review - <https://forum.mobilism.org/search.php?keywords=the+new+york+times+book+review&sr=topics&sf=titleonly>
 
+The Wall Street Journal - <https://forum.mobilism.org/search.php?keywords=the+wall+street+journal&sr=topics&sf=titleonly>
+
 The Washington Post - <https://forum.mobilism.org/search.php?keywords=The+Washington+Post&sr=topics&sf=titleonly>
 
 Financial Times USA - <https://forum.mobilism.org/search.php?keywords=Financial+Times+USA&sr=topics&sf=titleonly>
