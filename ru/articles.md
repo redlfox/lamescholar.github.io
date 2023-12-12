@@ -291,6 +291,12 @@ Russian Studies in Philosophy - <https://www.tandfonline.com/loi/mrsp19>
 
 Философская антропология - <https://pa.iphras.ru/issue/archive>
 
+Philosophy Now - <https://philosophynow.org/issues>
+
+Philosophie - <https://www.philomag.com/archives>
+
+Philosophie DE - <https://www.philomag.de/>
+
 The Philosophical Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/philrevi>
 
 Noûs - <https://onlinelibrary.wiley.com/loi/14680068>
@@ -304,12 +310,6 @@ Ethics - <https://www.journals.uchicago.edu/loi/et>
 Philosophy & Public Affairs - <https://onlinelibrary.wiley.com/loi/10884963>
 
 Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
-
-Philosophy Now - <https://philosophynow.org/issues>
-
-Philosophie - <https://www.philomag.com/archives>
-
-Philosophie DE - <https://www.philomag.de/>
 <br><br>
 
 <a id="economy"></a>

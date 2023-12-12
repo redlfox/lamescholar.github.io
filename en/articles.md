@@ -139,6 +139,12 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <a id="philosophy"></a>
 # Philosophical journals:
 
+Philosophy Now - <https://philosophynow.org/issues>
+
+Philosophie - <https://www.philomag.com/archives>
+
+Philosophie DE - <https://www.philomag.de/>
+
 Russian Studies in Philosophy - <https://www.tandfonline.com/loi/mrsp19>
 
 The Philosophical Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/philrevi>
@@ -154,12 +160,6 @@ Ethics - <https://www.journals.uchicago.edu/loi/et>
 Philosophy & Public Affairs - <https://onlinelibrary.wiley.com/loi/10884963>
 
 Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
-
-Philosophy Now - <https://philosophynow.org/issues>
-
-Philosophie - <https://www.philomag.com/archives>
-
-Philosophie DE - <https://www.philomag.de/>
 <br><br>
 
 <a id="society"></a>
