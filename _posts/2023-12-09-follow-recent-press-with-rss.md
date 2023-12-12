@@ -29,7 +29,7 @@ For Chrome you need to download an archive.
 
 <https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip>
 
-Unzip. In Chrome open the extensions settings. Turn on Developer mode. Add unpacked extension - folder.
+Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpacked extension - folder.
 
 Done.
 
