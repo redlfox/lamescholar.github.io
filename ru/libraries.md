@@ -344,23 +344,27 @@ Henry's Bibliothek:
 <a id="philosophy"></a>
 # Философия:
 
-<https://platona.net/load/>
+<https://www.philosophy.ru/library/>
+
+<https://ancientrome.ru/antlitr/>
 
 <http://khazarzar.skeptik.net/books/index_ph.htm>
 
-<http://books.atheism.ru/>
-
-<https://www.philosophy.ru/library/>
-
 <http://i-text.narod.ru/omsk/libery/index/index-1.htm>
-
-<http://yanko.lib.ru/>
-
-<http://caute.ru/ilyenkov/texts.html>
 
 <https://zarya.xyz/>
 
+<https://platona.net/load/>
+
+<http://books.atheism.ru/>
+
 <https://www.nietzsche.ru/>
+
+<http://caute.ru/ilyenkov/texts.html>
+
+<http://yanko.lib.ru/>
+
+<https://www.earlymoderntexts.com/texts>
 <br><br>
 
 <a id="fiction"></a>

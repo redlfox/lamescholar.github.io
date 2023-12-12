@@ -54,6 +54,8 @@ Henry's Bibliothek:
 
 [History](#history)
 
+[Philosophy](#philosophy)
+
 [Psychology](#psychology)
 
 [Society](#society)
@@ -136,6 +138,11 @@ Henry's Bibliothek:
 
 <http://i.ezproxy.nypl.org/login?url=https://link.gale.com/apps/USDD?u=nypl>
 <br><br>
+
+<a id="philosophy"></a>
+# Philosophy
+
+<https://www.earlymoderntexts.com/texts>
 
 <a id="psychology"></a>
 # Psychology:
