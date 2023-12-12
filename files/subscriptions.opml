@@ -380,7 +380,6 @@
     <outline type="rss" text="Lenta.ru" xmlUrl="https://lenta.ru/rss" htmlUrl="https://lenta.ru/rss"/>
     <outline type="rss" text="Life.ru" xmlUrl="https://life.ru/rss" htmlUrl="https://life.ru"/>
     <outline type="rss" text="Meduza" xmlUrl="https://meduza.io/rss2/all" htmlUrl="https://meduza.io/rss2/all"/>
-    <outline type="rss" text="Republic" xmlUrl="https://republic.ru/export/all.xml" htmlUrl="https://republic.ru"/>
     <outline type="rss" text="RT на русском" xmlUrl="https://russian.rt.com/rss" htmlUrl="https://russian.rt.com/rss"/>
     <outline type="rss" text="RTVI" xmlUrl="https://rtvi.com/rss" htmlUrl="https://rtvi.com/"/>
     <outline type="rss" text="TAdviser" xmlUrl="https://www.tadviser.ru/xml/tadviser.xml" htmlUrl="https://www.tadviser.ru/"/>
