@@ -336,7 +336,7 @@ Henry's Bibliothek:
 <a id="psychology"></a>
 # Психология:
 
-<http://psylib.org.ua/books/index.htm>
+<https://psylib.org.ua/books/index.htm>
 
 <http://psychclassics.yorku.ca/index.htm>
 <br><br>
