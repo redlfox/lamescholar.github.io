@@ -26,11 +26,10 @@ Boerse (DE) - <https://boerse.am/boerse/dokumente/magazine-und-zeitschriften/>
 Edicola di MIRCrew (IT) - <https://mircrew-releases.org/viewforum.php?f=43&sid=d24bb98af07354a797bab77e64da30ec>
 <br><br>
 
-ImWerden:
-
-<https://imwerden.de/periodicals>
-
-<https://vtoraya-literatura.com/periodika.html>
+ImWerden:<br>
+<https://imwerden.de/periodicals><br>
+<https://vtoraya-literatura.com/periodika.html><br>
+Оцифровывают толстые журналы, альманахи, сборники.
 
 Журналы СССР - <https://web.archive.org/web/20230323125005/https://sites.google.com/site/zurnalysssr/>
 
@@ -38,7 +37,8 @@ ImWerden:
 
 magzDB - <http://magzdb.org/>
 
-workerbee - <https://1337x.to/user/workerbee/>
+workerbee - <https://1337x.to/user/workerbee/><br>
+Релизер на сайте 1337x, создающий раздачи журналов и коллекций книг отдельных авторов.
 
 Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 <br><br>
@@ -80,50 +80,39 @@ philosophy journals reddit
 <a id="natural"></a>
 # Естественно-научные журналы:
 
-Вестник Императорской Академии наук Санкт-Петербурга:
-
-<https://www.biodiversitylibrary.org/bibliography/11493#/summary>
-
-<https://www.biodiversitylibrary.org/bibliography/95237#/summary>
-
+Вестник Императорской Академии наук Санкт-Петербурга:<br>
+<https://www.biodiversitylibrary.org/bibliography/11493#/summary><br>
+<https://www.biodiversitylibrary.org/bibliography/95237#/summary><br>
 <https://www.biodiversitylibrary.org/bibliography/49351#/summary>
 
 Вестник опытной физики и элементарной математики - <https://vofem.ru/ru/>
 
-Соросовский образовательный журнал - <https://rutracker.org/forum/viewtopic.php?t=4051336>
+Соросовский образовательный журнал - <https://rutracker.org/forum/viewtopic.php?t=4051336><br>
+Отличный журнал, выпускавший актуальные обзорные статьи отечественных учёных.
 
-Математическое просвещение:
-
-<https://rutracker.org/forum/viewtopic.php?t=6132656>
-
+Математическое просвещение:<br>
+<https://rutracker.org/forum/viewtopic.php?t=6132656><br>
 <https://mccme.ru/free-books/matpros.html>
 
-Квант - <https://kvant.ras.ru/>
+Квант - <https://kvant.ras.ru/><br>
+Советский и российский журнал для старшеклассников с глубокими статьями по физике и математике.
 
-Математическое образование:
-
-<https://www.mathedu.ru/catalogue/collections/journals/>
-
+Математическое образование:<br>
+<https://www.mathedu.ru/catalogue/collections/journals/><br>
 <https://matob.ru/archive.html>
 
 Хакер - <http://magzdb.org/j/377>
 
 Журнал Министерства народного просвещения - <https://runivers.ru/lib/book7643/>
 
-Природа и люди:
-
-<https://rutracker.org/forum/viewtopic.php?t=4884459>
-
-<https://magzdb.org/j/298>
-
+Природа и люди:<br>
+<https://rutracker.org/forum/viewtopic.php?t=4884459><br>
+<https://magzdb.org/j/298><br>
 <https://www.prlib.ru/section/1328388>
 
 Вестник знания:
-
-[Wikipedia](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)
-
-<https://epizodyspace.ru/bibl/vestnik_znaniya/vestnik_znaniya.html>
-
+[Wikipedia](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)<br>
+<https://epizodyspace.ru/bibl/vestnik_znaniya/vestnik_znaniya.html><br>
 <https://magzdb.org/j/261>
 
 Великие люди биографическая библиотека Вестника знания - [НЭБ](https://rusneb.ru/search/?q=%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D0%BA+%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%83+%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17)
@@ -140,12 +129,9 @@ philosophy journals reddit
 
 В мире науки - <https://rutracker.org/forum/viewtopic.php?t=1831010>
 
-Природа:
-
-<https://priroda.ras.ru/>
-
-<https://www.ras.ru/publishing/nature.aspx>
-
+Природа:<br>
+<https://priroda.ras.ru/><br>
+<https://www.ras.ru/publishing/nature.aspx><br>
 <https://rutracker.org/forum/viewtopic.php?t=6131553>
 
 Наука и жизнь - <https://rutracker.org/forum/viewtopic.php?t=5276847>
@@ -166,10 +152,8 @@ philosophy journals reddit
 
 Человек и природа - <https://rutracker.org/forum/viewtopic.php?t=5510846>
 
-Nature:
-
-<https://magzdb.org/j/1826>
-
+Nature:<br>
+<https://magzdb.org/j/1826><br>
 <https://rutracker.org/forum/viewtopic.php?t=6246112>
 
 Science - <https://rutracker.org/forum/viewtopic.php?t=6246112>
@@ -204,37 +188,26 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Spektrum Der Wissenschaft - <https://rutracker.org/forum/viewtopic.php?t=376192>
 
-Wszechświat:
-
-<https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive>
-
+Wszechświat:<br>
+<https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive><br>
 [The Digital Library of the Warsaw University of Technology](https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-)
 <br><br>
 
 <a id="art"></a>
 # Искусство:
 
-Искусство кино:
-
-<https://rutracker.org/forum/viewtopic.php?t=6125405>
-
-<https://rutracker.org/forum/viewtopic.php?t=5099852>
-
+Искусство кино:<br>
+<https://rutracker.org/forum/viewtopic.php?t=6125405><br>
+<https://rutracker.org/forum/viewtopic.php?t=5099852><br>
 <https://rutracker.org/forum/viewtopic.php?t=6125427>
 
-Курьер ЮНЕСКО:
-
-<https://rutracker.org/forum/viewtopic.php?t=3607530>
-
+Курьер ЮНЕСКО:<br>
+<https://rutracker.org/forum/viewtopic.php?t=3607530><br>
 <https://rutracker.org/forum/viewtopic.php?t=4207119>
 
-Наше Наследие:
+Наше Наследие - <https://rutracker.org/forum/viewtopic.php?t=3202031>
 
-<https://rutracker.org/forum/viewtopic.php?t=3202031>
-
-Советское фото:
-
-<https://rutracker.org/forum/viewtopic.php?t=5721701>
+Советское фото - <https://rutracker.org/forum/viewtopic.php?t=5721701>
 <br><br>
 
 <a id="history"></a>
@@ -250,16 +223,12 @@ Wszechświat:
 
 Исторический вестник - <https://runivers.ru/lib/book9629/>
 
-Сборник Русского исторического общества:
-
-<https://runivers.ru/lib/book9408/>
-
+Сборник Русского исторического общества:<br>
+<https://runivers.ru/lib/book9408/><br>
 <http://mir.k156.ru/sirio/sirio_index.html>
 
-Чтения в историческом обществе Нестора-летописца:
-
-<https://rutracker.org/forum/viewtopic.php?t=2585959>
-
+Чтения в историческом обществе Нестора-летописца:<br>
+<https://rutracker.org/forum/viewtopic.php?t=2585959><br>
 <https://rutracker.org/forum/viewtopic.php?t=6079627>
 
 Старые годы - <https://imwerden.de/periodical-2212-page-1.html>
@@ -284,62 +253,46 @@ Wszechświat:
 
 Одиссей. Человек в истории - <https://rutracker.org/forum/viewtopic.php?t=4997827>
 
-Казус. Индивидуальное и уникальное в истории:
-
-<https://rutracker.org/forum/viewtopic.php?t=4994100>
-
+Казус. Индивидуальное и уникальное в истории:<br>
+<https://rutracker.org/forum/viewtopic.php?t=4994100><br>
 <https://rutracker.org/forum/viewtopic.php?t=5645547>
 
 Прометей - <https://imwerden.de/periodical-2142-page-1.html>
 
-Диалог со временем:
-
-<https://www.elibrary.ru/contents.asp?titleid=25294>
-
+Диалог со временем:<br>
+<https://www.elibrary.ru/contents.asp?titleid=25294><br>
 <https://roii.ru/publications/dialogue>
 
 Французский ежегодник - <https://rutracker.org/forum/viewtopic.php?t=5384475>
 
-Український історичний журнал:
-
-<https://rutracker.org/forum/viewtopic.php?t=5562751>
-
-<https://rutracker.org/forum/viewtopic.php?t=5565001>
-
+Український історичний журнал:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5562751><br>
+<https://rutracker.org/forum/viewtopic.php?t=5565001><br>
 <https://rutracker.org/forum/viewtopic.php?t=5564687>
 
-Российская история:
-
-<https://xn----7sbxcach3agmieaceq1th.xn--p1ai/archive>
-
+Российская история:<br>
+<https://xn----7sbxcach3agmieaceq1th.xn--p1ai/archive><br>
 <https://rutracker.org/forum/viewtopic.php?t=5355615>
 
-Родина:
-
-<https://oldjornal.ucoz.net/index/zhurnal_quot_rodina_quot/0-27>
-
+Родина:<br>
+<https://oldjornal.ucoz.net/index/zhurnal_quot_rodina_quot/0-27><br>
 <https://rutracker.org/forum/viewtopic.php?t=5883982>
 
 Журнал российских и восточноевропейских исторических исследований - <https://rutracker.org/forum/viewtopic.php?t=5052726>
 
 Русский сборник - <https://rutracker.org/forum/viewtopic.php?t=5397126>
 
-Красный архив:
-
-<https://rutracker.org/forum/viewtopic.php?t=6268854>
-
+Красный архив:<br>
+<https://rutracker.org/forum/viewtopic.php?t=6268854><br>
 <https://rutracker.org/forum/viewtopic.php?t=4298815>
 
 Известия ЦК КПСС - <https://rutracker.org/forum/viewtopic.php?t=4131882>
 
 Источник - <https://rutracker.org/forum/viewtopic.php?t=6372581>
 
-Исторический архив:
-
-<https://rutracker.org/forum/viewtopic.php?t=5763205>
-
-<https://imwerden.de/razdel-2019-str-1.html>
-
+Исторический архив:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5763205><br>
+<https://imwerden.de/razdel-2019-str-1.html><br>
 <https://rutracker.org/forum/viewtopic.php?t=5933432>
 
 Минувшее - <https://imwerden.de/razdel-2134-str-1.html>
@@ -370,10 +323,8 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379>
 
 Нива - <https://runivers.ru/lib/book9158/>
 
-Всемирная иллюстрация:
-
-[Internet Archive](https://archive.org/search?query=%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%B0%D1%8F+%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F&sort=date)
-
+Всемирная иллюстрация:<br>
+[Internet Archive](https://archive.org/search?query=%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%B0%D1%8F+%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F&sort=date)<br>
 <http://lib.sptl.spb.ru/ru/nodes/2454-vsemirnaya-illyustratsiya-1869-1898>
 
 Летопись - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D1%8C_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB))
@@ -384,38 +335,28 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379>
 
 Отечественные записки - <https://rutracker.org/forum/viewtopic.php?t=5390433>
 
-Родина:
-
-<https://rutracker.org/forum/viewtopic.php?t=1908009>
-
-<https://rutracker.org/forum/viewtopic.php?t=1888319>
-
+Родина:<br>
+<https://rutracker.org/forum/viewtopic.php?t=1908009><br>
+<https://rutracker.org/forum/viewtopic.php?t=1888319><br>
 <https://rutracker.org/forum/viewtopic.php?t=4489965>
 
-Современник:
-
-[НЭБ](https://rusneb.ru/search/?q=%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17&c%5B%5D=18)
-
-<https://rutracker.org/forum/viewtopic.php?t=4990250>
-
+Современник:<br>
+[НЭБ](https://rusneb.ru/search/?q=%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17&c%5B%5D=18)<br>
+<https://rutracker.org/forum/viewtopic.php?t=4990250><br>
 <https://rutracker.org/forum/viewtopic.php?t=3589084>
 
 Аполон - <https://rutracker.org/forum/viewtopic.php?t=3276663>
 
 ЛЕФ - <https://rutracker.org/forum/viewtopic.php?t=5073711>
 
-Вопросы литературы:
-
-<https://rutracker.org/forum/viewtopic.php?t=5278859>
-
+Вопросы литературы:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5278859><br>
 <https://rutracker.org/forum/viewtopic.php?t=5875468>
 
 Новый мир - <https://rutracker.org/forum/viewtopic.php?t=4938890>
 
-Наш современник:
-
-<https://rutracker.org/forum/viewtopic.php?t=5258315>
-
+Наш современник:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5258315><br>
 <https://rutracker.org/forum/viewtopic.php?t=4978557>
 
 Иностранная литература - <https://rutracker.org/forum/viewtopic.php?t=4547639>
@@ -488,12 +429,9 @@ Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByD
 
 Про книги - <https://nsb-bibliophile.ru/arkhiv-nomerov-zhurnala-pro-knigi>
 
-Вестник Европы:
-
-<https://rutracker.org/forum/viewtopic.php?t=5130322>
-
-<https://rutracker.org/forum/viewtopic.php?t=2606955>
-
+Вестник Европы:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5130322><br>
+<https://rutracker.org/forum/viewtopic.php?t=2606955><br>
 <https://rutracker.org/forum/viewtopic.php?t=2578193>
 
 Русское богатство - <https://rutracker.org/forum/viewtopic.php?t=5465802>
@@ -504,12 +442,9 @@ Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByD
 
 Век XX и мир - <https://rutracker.org/forum/viewtopic.php?t=5668582>
 
-Столица:
-
-<https://yeltsin.ru/archive/inventory/31/>
-
-<https://rutracker.org/forum/viewtopic.php?t=5208582>
-
+Столица:<br>
+<https://yeltsin.ru/archive/inventory/31/><br>
+<https://rutracker.org/forum/viewtopic.php?t=5208582><br>
 <https://rutracker.org/forum/viewtopic.php?t=1697805>
 
 Студенческий меридиан - <http://magzdb.org/j/3489>
@@ -537,10 +472,8 @@ Newsweek - <https://archive.org/details/pub_newsweek-us?sort=-date>
 
 Vital Speeches of the Day - <https://archive.org/details/pub_vital-speeches-of-the-day?sort=-date>
 
-Der Spiegel:
-
-<https://de.downmagaz.net/tags/Der%20Spiegel/>
-
+Der Spiegel:<br>
+<https://de.downmagaz.net/tags/Der%20Spiegel/><br>
 <https://magzdb.org/j/1948>
 <br><br>
 
@@ -550,12 +483,9 @@ Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date&page=2>
 
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
-Le Monde diplomatique:
-
-[YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
-
-<http://magzdb.org/j/5941>
-
+Le Monde diplomatique:<br>
+[YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)<br>
+<http://magzdb.org/j/5941><br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
 
 Socialist Worker - <https://www.socialist.ca/issues>
