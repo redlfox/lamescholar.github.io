@@ -124,19 +124,19 @@ Henry's Bibliothek:
 <a id="history"></a>
 # History:
 
-<https://histdoc.net/history/history.html>
+Digital Handbook for Research on Soviet History - <https://dccollection.share.library.harvard.edu/openaccess>
 
-<https://dccollection.share.library.harvard.edu/openaccess>
+History of Finland - <https://histdoc.net/history/history.html>
 
-<http://www.perseus.tufts.edu/hopper/>
+Perseus Digital Library - <http://www.perseus.tufts.edu/hopper/>
 
-<https://velikirat.nb.rs/>
+Early English Books Online - <https://www.nypl.org/research/collections/articles-databases/search?q=Early+English+Books+Online&page=1>
 
-<https://www.nypl.org/research/collections/articles-databases/search?q=Early+English+Books+Online&page=1>
+Nineteenth Century Collections Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/exploreCollections?userGroupName=nypl&prodId=NCCO>
 
-<http://i.ezproxy.nypl.org/login?url=https://infotrac.galegroup.com/itweb/nypl?db=NCCO>
+U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/start.do?p=USDD&u=nypl>
 
-<http://i.ezproxy.nypl.org/login?url=https://link.gale.com/apps/USDD?u=nypl>
+Велики рат - <https://velikirat.nb.rs/>
 <br><br>
 
 <a id="philosophy"></a>

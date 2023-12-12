@@ -194,49 +194,51 @@ Studmed - <https://www.studmed.ru/>
 <a id="history"></a>
 # История:
 
-<https://istmat.org/>
+XIII век - <http://thietmar.narod.ru/>
 
-<https://istmat.org/vive-liberta>
+Библиотека Annals - <http://annales.info/>
 
-<http://militera.lib.ru/>
+Библиотека русской революции и гражданской войны - <https://rev-lib.com/>
 
-<http://annales.info/>
+Восточная Литература - <https://www.vostlit.info/>
 
-<https://www.vostlit.info/>
+Восточная Пруссия в литературе - <https://prussia.online/>
 
-<http://ulfdalir.ru/>
+Институт археологии Российской академии наук - <https://www.archaeolog.ru/ru/>
 
-<http://thietmar.narod.ru/>
+Искра Research - <http://iskra-research.org/index.html>
 
-<https://historylib.org/>
+Истмат - <https://istmat.org/>
 
-<https://rusneb.ru/>
+Истмат: Vive Liberta - <https://istmat.org/vive-liberta>
 
-<https://runivers.ru/lib/index_lib.php>
+Историческая библиотека - <https://historylib.org/>
 
-<http://elib.shpl.ru/ru/nodes/9500-knizhnye-izdaniya>
+Книги по авиации - <http://amyat.narod.ru/>
 
-<http://docs.historyrussia.org/ru/nodes/1-glavnaya>
+Милитера - <http://militera.lib.ru/>
 
-<http://iskra-research.org/index.html>
+Руниверс - <https://runivers.ru/lib/index_lib.php>
 
-<https://rev-lib.com/>
+Ульвдавир - <http://ulfdalir.ru/>
 
-<http://amyat.narod.ru/>
+Электронная библиотека ГПИБ - <http://elib.shpl.ru/ru/nodes/9500-knizhnye-izdaniya>
 
-<https://histdoc.net/history/history.html>
+Электронная библиотека исторических документов - <http://docs.historyrussia.org/ru/nodes/1-glavnaya>
 
-<https://dccollection.share.library.harvard.edu/openaccess>
+Digital Handbook for Research on Soviet History - <https://dccollection.share.library.harvard.edu/openaccess>
 
-<http://www.perseus.tufts.edu/hopper/>
+History of Finland - <https://histdoc.net/history/history.html>
 
-<https://velikirat.nb.rs/>
+Perseus Digital Library - <http://www.perseus.tufts.edu/hopper/>
 
-<https://www.nypl.org/research/collections/articles-databases/search?q=Early+English+Books+Online&page=1>
+Early English Books Online - <https://www.nypl.org/research/collections/articles-databases/search?q=Early+English+Books+Online&page=1>
 
-<http://i.ezproxy.nypl.org/login?url=https://infotrac.galegroup.com/itweb/nypl?db=NCCO>
+Nineteenth Century Collections Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/exploreCollections?userGroupName=nypl&prodId=NCCO>
 
-<http://i.ezproxy.nypl.org/login?url=https://link.gale.com/apps/USDD?u=nypl>
+U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/start.do?p=USDD&u=nypl>
+
+Велики рат - <https://velikirat.nb.rs/>
 <br><br>
 
 <a id="space"></a>
