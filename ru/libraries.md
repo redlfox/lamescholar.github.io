@@ -176,17 +176,19 @@ Henry's Bibliothek:
 <a id="textbooks"></a>
 # Учебники:
 
-<https://www.studmed.ru/>
+Alleng - <http://www.alleng.org/>
 
-<http://eqworld.ipmnet.ru/ru/library.htm>
+EqWorld - <http://eqworld.ipmnet.ru/ru/library.htm>
+
+Studmed - <https://www.studmed.ru/>
+
+Школьные учебники СССР - <https://sheba.spb.ru/shkola/>
+
+Электронная библиотека Физтеха:
 
 <https://lib.mipt.ru/>
 
-[Wikipedia](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0)
-
-<http://www.alleng.org/>
-
-<https://sheba.spb.ru/shkola/>
+[Преобразование треугольник-звезда (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0)
 <br><br>
 
 <a id="history"></a>
@@ -240,11 +242,11 @@ Henry's Bibliothek:
 <a id="space"></a>
 # Космос:
 
-<https://epizodyspace.ru/bibl/biblioteka.html>
+Астронет - <http://www.astronet.ru/>
 
-<http://www.buran.ru/htm/homepage.htm>
+Буран.ру - <http://www.buran.ru/htm/homepage.htm>
 
-<http://www.astronet.ru/>
+Эпизоды космонавтики - <https://epizodyspace.ru/bibl/biblioteka.html>
 <br><br>
 
 <a id="math"></a>
