@@ -133,21 +133,29 @@ Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-soc
 
 Критическая масса - <https://magazines.gorky.media/km>
 
-Top 100 - <https://thejohnfox.com/2021/08/ranking-of-the-100-best-literary-magazines/>
+Granta - <https://granta.com/issues>
 
-Ploughshares - <https://muse.jhu.edu/journal/542>
-
-Harper's Magazine - <https://harpers.org/issues/>
-
-New England's Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/newenglandrev>
-
-Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.do?userGroupName=nypl&prodId=BRIP>
-
-Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
+Harper's Magazine - <https://harpers.org/>
 
 London Review of Books - <https://www.lrb.co.uk/archive?sort=newest>
 
 Los Angeles Review - <https://lareviewofbooks.org/articles/>
+
+Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
+
+The Atlantic - <https://www.theatlantic.com/world/>
+
+The New York Review of Books - <https://www.nybooks.com/issues/>
+
+The New Yorker - <https://www.newyorker.com/>
+
+New England's Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/newenglandrev>
+
+Ploughshares - <https://muse.jhu.edu/journal/542>
+
+Top 100 - <https://thejohnfox.com/2021/08/ranking-of-the-100-best-literary-magazines/>
+
+Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.do?userGroupName=nypl&prodId=BRIP>
 <br><br>
 
 <a id="society"></a>

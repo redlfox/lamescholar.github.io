@@ -4,6 +4,8 @@ title: Интернет-издания
 
 [Твой блог](/ru/jekyll)
 
+Proshloe - <https://proshloe.com/>
+
 LitNov.ru | Литературные новости - <http://litnov.ru/>
 
 «Горький» - <https://gorky.media/>
@@ -44,6 +46,6 @@ Michael Roberts blog - <https://thenextrecession.wordpress.com/>
 
 Rick Roderick - <http://rickroderick.org/>
 
-Divine Curation - <https://divinecuration.github.io/index.html>
+divine curation - <https://divinecuration.github.io/index.html>
 
-Neglected Books - <https://neglectedbooks.com/>
+The Neglected Books - <https://neglectedbooks.com/>
