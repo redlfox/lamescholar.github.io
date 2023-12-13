@@ -54,6 +54,8 @@ make build_windows  # -> _output/windows/yarr.exe
 
 /rss.xml
 
+Поищи RSS-ленту на странице.
+
 Попробуй загуглить "URL rss".
 
 Если нет результата, используй [Google Новости](https://news.google.com/home?hl=ru&gl=RU&ceid=RU:ru). Сделай такого рода запрос:

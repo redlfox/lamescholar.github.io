@@ -54,6 +54,8 @@ How to find RSS feed? Add to URL:
 
 /rss.xml
 
+Look for RSS feed on the page.
+
 Try to google ""URL rss".
 
 If no result, use [Google News](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en). Make this kind of search:
