@@ -11,7 +11,7 @@ Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 
 New issues in PDF:
 
-[YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+[YggTorrent](https://www3.yggtorrent.qa/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 
 DownMagaz.NET - <https://downmagaz.net/>
 
@@ -62,21 +62,21 @@ American History Illustrated - <https://archive.org/search?query=%22American+His
 <a id="literary"></a>
 # Literary magazines:
 
+The New York Review of Books - <https://1337x.to/torrent/5472591/The-New-York-Review-of-Books-2022-complete-20-issues/>
+
+The New York Review of Science Fiction - <https://magzdb.org/j/6068>
+
 The New Yorker - <https://magzdb.org/j/1798>
 
 The Paris Review - <https://1337x.to/torrent/5479243/The-Paris-Review-2022-complete-4-issues/>
 
-The New York Review of Books - <https://1337x.to/torrent/5472591/The-New-York-Review-of-Books-2022-complete-20-issues/>
-
-The New York Review of Science Fiction - <https://magzdb.org/j/6068>
+Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
 Granta - <https://archive.org/search.php?query=granta>
 
 Harper's Magazine - <https://archive.org/details/pub_harpers-magazine?sort=-date>
 
 The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
-
-Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
 Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH>
 <br><br>
@@ -89,10 +89,8 @@ Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByD
 <a id="natural"></a>
 # Natural sciences journals:
 
-Nature:
-
-<https://magzdb.org/j/1826>
-
+Nature:<br>
+<https://magzdb.org/j/1826><br>
 <https://rutracker.org/forum/viewtopic.php?t=6246112>
 
 Science - <https://rutracker.org/forum/viewtopic.php?t=6246112>
@@ -127,10 +125,8 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Spektrum Der Wissenschaft - <https://rutracker.org/forum/viewtopic.php?t=376192>
 
-Wszechświat:
-
-<https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive>
-
+Wszechświat:<br>
+<https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive><br>
 [The Digital Library of the Warsaw University of Technology](https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-)
 <br><br>
 
@@ -139,7 +135,7 @@ Wszechświat:
 
 Philosophy Now - <https://magzdb.org/j/5590>
 
-Philosophie - [YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=philosophie&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philosophie&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 <br><br>
 
 <a id="society"></a>
@@ -167,10 +163,8 @@ Newsweek - <https://archive.org/details/pub_newsweek-us?sort=-date>
 
 Vital Speeches of the Day - <https://archive.org/details/pub_vital-speeches-of-the-day?sort=-date>
 
-Der Spiegel:
-
-<https://de.downmagaz.net/tags/Der%20Spiegel/>
-
+Der Spiegel:<br>
+<https://de.downmagaz.net/tags/Der%20Spiegel/><br>
 <https://magzdb.org/j/1948>
 <br><br>
 
@@ -180,12 +174,9 @@ Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date&page=2>
 
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
-Le Monde diplomatique:
-
-[YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
-
-<http://magzdb.org/j/5941>
-
+Le Monde diplomatique:<br>
+[YggTorrent](https://www3.yggtorrent.qa/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)<br>
+<http://magzdb.org/j/5941><br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
 
 Socialist Worker - <https://www.socialist.ca/issues>

@@ -15,7 +15,7 @@ Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 
 Новые выпуски в PDF:
 
-[YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+[YggTorrent](https://www3.yggtorrent.qa/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 
 DownMagaz.NET - <https://downmagaz.net/>
 
@@ -383,21 +383,21 @@ Urbi - <https://imwerden.de/publ-12829.html>
 
 Крокодил - <https://croco.uno/>
 
+The New York Review of Books - <https://1337x.to/torrent/5472591/The-New-York-Review-of-Books-2022-complete-20-issues/>
+
+The New York Review of Science Fiction - <https://magzdb.org/j/6068>
+
 The New Yorker - <https://magzdb.org/j/1798>
 
 The Paris Review - <https://1337x.to/torrent/5479243/The-Paris-Review-2022-complete-4-issues/>
 
-The New York Review of Books - <https://1337x.to/torrent/5472591/The-New-York-Review-of-Books-2022-complete-20-issues/>
-
-The New York Review of Science Fiction - <https://magzdb.org/j/6068>
+Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
 Granta - <https://archive.org/search.php?query=granta>
 
 Harper's Magazine - <https://archive.org/details/pub_harpers-magazine?sort=-date>
 
 The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
-
-Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
 Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH>
 <br><br>
@@ -484,7 +484,7 @@ Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date&page=2>
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
 Le Monde diplomatique:<br>
-[YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)<br>
+[YggTorrent](https://www3.yggtorrent.qa/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)<br>
 <http://magzdb.org/j/5941><br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
 
@@ -540,7 +540,7 @@ Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&s
 
 Philosophy Now - <https://magzdb.org/j/5590>
 
-Philosophie - [YggTorrent](https://www3.yggtorrent.wtf/engine/search?name=philosophie&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philosophie&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 <br><br>
 
 <a id="economy"></a>
