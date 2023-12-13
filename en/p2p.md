@@ -32,7 +32,7 @@ General use torrent sites:
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
-YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
+YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search>
 
 Boerse - <https://boerse.am/>
 
