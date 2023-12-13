@@ -532,7 +532,9 @@ Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&s
 
 История философии - <https://hp.iphras.ru/issue/archive>
 
-Историко-философский ежегодник - <https://ife.iphras.ru/issue/archive>
+Историко-философский ежегодник:<br>
+<https://rutracker.org/forum/viewtopic.php?t=3454155><br>
+<https://ife.iphras.ru/issue/archive>
 
 Философия науки и техники - <https://pst.iphras.ru/issue/archive>
 
