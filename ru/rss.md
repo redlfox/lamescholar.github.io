@@ -84,18 +84,18 @@ XPathBridge - <https://rss-bridge.org/bridge01/#bridge-XPathBridge>
 
 Чтобы использовать XPathBridge, тебе нужно найти XPath (путь к элементу в HTML-файле) необходимых элементов RSS-ленты. Нажми правой кнопкой мыши на элемент (заголовок, картинка, время) и выбери Посмотреть код. Нажми правой кнопкой мыши на строку кода и выбери Copy->Copy full XPath.
 
-Пример использования XPathBridge для Frankfurter Allgemeine Zeitung:
+Пример использования XPathBridge для e-flux Notes:
 
 ```
-https://www.faz.net/faz-live
+https://www.e-flux.com/notes/
 
-/html/body/div[1]/div[5]/div/div/div/div[@class="ticker-news-item"]
+/html/body/div[1]/div[3]/div[1]/div[3]/div[2]/div
 
-concat(string(.//div[2]/h2/div[1]/text()), "~", string(.//div[2]/h2/div/a/text()))
+.//div[2]
 
-Item description selector: .//div[1]/a/img
+Item description selector: .//div[3]
 
-.//div[2]/h2/div/a/@href
+.//div[2]/a/@href
 
-substring(string(.//div[2]/time), 0, 18)
+.//div[1]
 ```
