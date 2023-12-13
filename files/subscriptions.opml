@@ -135,6 +135,7 @@
     <outline type="rss" text="Le Monde" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr/rss/une.xml"/>
     <outline type="rss" text="Le Monde des Livres" xmlUrl="https://www.lemonde.fr/livres/rss_full.xml" htmlUrl="https://www.lemonde.fr/livres/rss_full.xml"/>
     <outline type="rss" text="Le Monde diplomatique EO" xmlUrl="https://eo.mondediplo.com/rss" htmlUrl="https://eo.mondediplo.com/rss"/>
+    <outline type="rss" text="Le Monde EN" xmlUrl="https://www.lemonde.fr/en/rss/une.xml" htmlUrl="https://www.lemonde.fr/en/rss/une.xml"/>
     <outline type="rss" text="Le Monde: Débats" xmlUrl="https://www.lemonde.fr/idees/rss_full.xml" htmlUrl="https://www.lemonde.fr/idees/rss_full.xml"/>
     <outline type="rss" text="Le nouvel Economiste" xmlUrl="https://www.lenouveleconomiste.fr/feed/" htmlUrl="https://www.lenouveleconomiste.fr/"/>
     <outline type="rss" text="Le Temps" xmlUrl="https://www.letemps.ch/articles.rss" htmlUrl="https://www.letemps.ch/articles.rss"/>
@@ -462,16 +463,21 @@
     <outline type="rss" text="Эксперт" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aexpert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:expert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
   </outline>
   <outline text="Газеты і часопісы">
+    <outline type="rss" text="devby.io" xmlUrl="https://devby.io/rss" htmlUrl="https://devby.io/rss"/>
     <outline type="rss" text="Hrodna.life" xmlUrl="https://ru.hrodna.life/feed/" htmlUrl="https://ru.hrodna.life/feed/"/>
+    <outline type="rss" text="Office Life" xmlUrl="https://officelife.media/feed/" htmlUrl="https://officelife.media"/>
     <outline type="rss" text="REFORM.by" xmlUrl="https://reform.by/feed" htmlUrl="https://reform.by"/>
+    <outline type="rss" text="Telegraf.news" xmlUrl="https://telegraf.news/feed/" htmlUrl="https://telegraf.news/feed/"/>
     <outline type="rss" text="«Новы Час»" xmlUrl="https://novychas.online/rss" htmlUrl="https://novychas.online/"/>
     <outline type="rss" text="БДГ Деловая газета" xmlUrl="https://bdg.by/rss" htmlUrl="https://bdg.by/rss"/>
     <outline type="rss" text="БелТА" xmlUrl="https://www.belta.by/rss" htmlUrl="https://www.belta.by/"/>
     <outline type="rss" text="Белсат" xmlUrl="https://belsat.eu/rss-ru.xml" htmlUrl="https://belsat.eu/ru/news"/>
     <outline type="rss" text="Зеркало" xmlUrl="https://news.zerkalo.io/rss/a~1.rss" htmlUrl="https://news.zerkalo.io/rss/a~1.rss"/>
+    <outline type="rss" text="Маланка Медиа" xmlUrl="https://malanka.media/feed" htmlUrl="https://malanka.media"/>
     <outline type="rss" text="Медиазона Беларусь" xmlUrl="https://mediazona.by/rss" htmlUrl="https://mediazona.by"/>
     <outline type="rss" text="Наша Ніва" xmlUrl="https://nashaniva.com/?c=rss-all&amp;lang=ru" htmlUrl="https://nashaniva.com/ru"/>
     <outline type="rss" text="Солидарность" xmlUrl="https://gazetaby.com/rss/" htmlUrl="https://gazetaby.com/"/>
+    <outline type="rss" text="Хартия&#39;97" xmlUrl="https://charter97.org/ru/rss/all/" htmlUrl="https://charter97.org/"/>
   </outline>
 </body>
 </opml>

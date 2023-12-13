@@ -37,6 +37,8 @@ Google News - <https://news.google.com/newspapers>
 
 eurotopics - <https://www.eurotopics.net/ru/#>
 
+True Story - <https://thetruestory.news/>
+
 Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
 
 Дзен: книга - <https://dzen.ru/news/search?issue_tld=ru&text=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0>
