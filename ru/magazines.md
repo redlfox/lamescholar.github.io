@@ -110,7 +110,7 @@ philosophy journals reddit
 <https://magzdb.org/j/298><br>
 <https://www.prlib.ru/section/1328388>
 
-Вестник знания:
+Вестник знания:<br>
 [Wikipedia](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)<br>
 <https://epizodyspace.ru/bibl/vestnik_znaniya/vestnik_znaniya.html><br>
 <https://magzdb.org/j/261>

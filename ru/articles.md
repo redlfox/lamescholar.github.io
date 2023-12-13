@@ -107,7 +107,7 @@ Proshloe - <https://proshloe.com/>
 
 Новая и Новейшая история - <https://nni.jes.su/index.php?dispatch=issues.archive>
 
-Российский Архив - <http://feb-web.ru/feb/rosarc/default.asp>
+Российский Архив - <https://feb-web.ru/feb/rosarc/default.asp>
 
 Французский ежегодник - <https://annuaire-fr.igh.ru/issues?locale=ru>
 
