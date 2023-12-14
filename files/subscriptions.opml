@@ -405,11 +405,13 @@
     <outline type="rss" text="URA.RU" xmlUrl="https://ura.news/rss" htmlUrl="https://ura.news"/>
     <outline type="rss" text="vc.ru" xmlUrl="https://news.google.com/rss/search?q=when:24h+inurl:vc.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:vc.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="XX2 век" xmlUrl="https://22century.ru/feed" htmlUrl="https://22century.ru"/>
+    <outline type="rss" text="«Агентство»" xmlUrl="https://www.agents.media/feed/" htmlUrl="https://www.proekt.media/"/>
     <outline type="rss" text="«Бумага»" xmlUrl="https://paperpaper.io/feed/" htmlUrl="https://paperpaper.io"/>
     <outline type="rss" text="«Холод»" xmlUrl="https://holod.media/feed/" htmlUrl="https://holod.media/"/>
     <outline type="rss" text="АПН" xmlUrl="https://www.apn.ru/rss.xml" htmlUrl="https://www.apn.ru/"/>
     <outline type="rss" text="Аргументы и Факты" xmlUrl="https://aif.ru/rss/googlenews" htmlUrl="https://aif.ru/rss/googlenews"/>
     <outline type="rss" text="Афиша Daily" xmlUrl="https://daily.afisha.ru/export/rss/google_newsstand/" htmlUrl="https://daily.afisha.ru/export/rss/google_newsstand/"/>
+    <outline type="rss" text="БИЗНЕС Online" xmlUrl="https://www.business-gazeta.ru/rss.xml" htmlUrl="https://www.business-gazeta.ru"/>
     <outline type="rss" text="Важные истории" xmlUrl="https://istories.media/rss/all.xml" htmlUrl="https://istories.media"/>
     <outline type="rss" text="Ведомости" xmlUrl="https://www.vedomosti.ru/rss/news.xml" htmlUrl="https://www.vedomosti.ru"/>
     <outline type="rss" text="Взгляд" xmlUrl="https://vz.ru/export/yandex.xml" htmlUrl="https://vz.ru/"/>
