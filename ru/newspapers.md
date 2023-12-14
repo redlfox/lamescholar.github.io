@@ -241,8 +241,6 @@ Süddeutsche Zeitung: Nachrichten des Tages - <https://www.sueddeutsche.de/news?
 
 Frankfurter Allgemeine Zeitung - <https://www.faz.net/faz-live>
 
-Augsburger Allgemeine - <https://www.augsburger-allgemeine.de/newsticker/>
-
 Courierre della Sera: La Lettura - <https://www.corriere.it/la-lettura/>
 
 Ahram - <https://english.ahram.org.eg/>
