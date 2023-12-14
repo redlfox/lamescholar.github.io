@@ -133,8 +133,6 @@ Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-soc
 
 Критическая масса - <https://magazines.gorky.media/km>
 
-Book History - <https://muse.jhu.edu/journal/23>
-
 Granta - <https://granta.com/issues>
 
 Harper's Magazine - <https://harpers.org/>
@@ -228,6 +226,8 @@ Internationale: Libri - <https://www.internazionale.it/tag/libri>
 
 Rīgas Laiks - <https://ru.rigaslaiks.art/>
 <br><br>
+
+Book History - <https://muse.jhu.edu/journal/23>
 
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
 
