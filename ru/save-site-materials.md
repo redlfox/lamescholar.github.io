@@ -10,4 +10,4 @@ title: Сохранить материалы сайта
 
 <https://archive.org/>
 
-<https://archive.is/>
+<https://archive.ph/>
