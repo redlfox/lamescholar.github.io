@@ -135,7 +135,7 @@ Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-soc
 
 Granta - <https://granta.com/issues>
 
-Harper's Magazine - <https://harpers.org/>
+Harper's Magazine - <https://harpers.org/issues/>
 
 London Review of Books - <https://www.lrb.co.uk/archive?sort=newest>
 
