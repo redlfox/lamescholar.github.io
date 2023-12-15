@@ -59,4 +59,4 @@ Guide on RSS in general:
 <https://lamescholar.github.io/ru/rss>
 <br><br>
 
-As a result we got free access to recent updates from 400 sources.
+As a result we got free access to recent updates from hundreds of sources.
