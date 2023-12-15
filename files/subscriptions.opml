@@ -103,11 +103,16 @@
     <outline type="rss" text="Haaretz" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" htmlUrl="https://www.haaretz.com/israel-news"/>
     <outline type="rss" text="Haaretz: Life &amp; Culture" xmlUrl="https://www.haaretz.com/srv/life-&amp;-culture-rss" htmlUrl="https://www.haaretz.com/life"/>
     <outline type="rss" text="Haaretz: Opinion" xmlUrl="https://www.haaretz.com/srv/opinion-rss" htmlUrl="https://www.haaretz.com/opinion"/>
-    <outline type="rss" text="Harper&#39;s Magazine" xmlUrl="https://harpers.org/feed/" htmlUrl="https://harpers.org/"/>
+    <outline type="rss" text="Harper&#39;s Magazine" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Aharpers.org&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:672h+inurl:harpers.org&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline type="rss" text="Harper&#39;s Magazine: Weekly Review" xmlUrl="https://harpers.org/feed/" htmlUrl="https://harpers.org/"/>
     <outline type="rss" text="HistoryExtra" xmlUrl="https://www.historyextra.com/feed/atom/" htmlUrl="https://www.historyextra.com"/>
     <outline type="rss" text="Il Fatto Quotidiano" xmlUrl="https://www.ilfattoquotidiano.it/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
+    <outline type="rss" text="Il Fatto Quotidiano: Cultura" xmlUrl="https://www.ilfattoquotidiano.it/in-edicola/categoria/cultura/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
+    <outline type="rss" text="Il Fatto Quotidiano: Rubriche" xmlUrl="https://www.ilfattoquotidiano.it/in-edicola/categoria/rubriche/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
     <outline type="rss" text="Il Giorno" xmlUrl="https://www.ilgiorno.it/rss" htmlUrl="https://www.ilgiorno.it/rss"/>
     <outline type="rss" text="il manifesto" xmlUrl="https://cms.ilmanifesto.it/feed" htmlUrl="https://cms.ilmanifesto.it"/>
+    <outline type="rss" text="il manifesto: Comment" xmlUrl="https://cms.ilmanifesto.it/sezioni/commenti/feed" htmlUrl="https://cms.ilmanifesto.it"/>
+    <outline type="rss" text="il manifesto: Cultura" xmlUrl="https://cms.ilmanifesto.it/sezioni/cultura/feed" htmlUrl="https://cms.ilmanifesto.it"/>
     <outline type="rss" text="Il Sole 24 ORE" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Ailsole24ore.com&amp;hl=it&amp;gl=IT&amp;ceid=IT%3Ait" htmlUrl="https://news.google.com/search?q=when:24h+inurl:ilsole24ore.com&amp;hl=it&amp;gl=IT&amp;ceid=IT:it"/>
     <outline type="rss" text="Il Sole 24 ORE - Commenti" xmlUrl="https://www.ilsole24ore.com/rss/commenti.xml" htmlUrl="https://www.ilsole24ore.com/rss/commenti.xml"/>
     <outline type="rss" text="Il Sole 24 ORE - Cultura" xmlUrl="https://www.ilsole24ore.com/rss/cultura--libri.xml" htmlUrl="https://www.ilsole24ore.com/rss/cultura--libri.xml"/>
@@ -168,6 +173,9 @@
     <outline type="rss" text="Los Angeles Times" xmlUrl="https://www.latimes.com/rss2.0.xml" htmlUrl="https://www.latimes.com/rss2.0.xml"/>
     <outline type="rss" text="Los Angeles TImes: Books" xmlUrl="https://www.latimes.com/entertainment-arts/books/rss2.0.xml" htmlUrl="https://www.latimes.com/entertainment-arts/books/rss2.0.xml"/>
     <outline type="rss" text="Los Angeles TImes: Opinion" xmlUrl="https://www.latimes.com/opinion/rss2.0.xml" htmlUrl="https://www.latimes.com/opinion/rss2.0.xml"/>
+    <outline type="rss" text="Marianne" xmlUrl="https://www.marianne.net/rss.xml" htmlUrl="https://www.marianne.net/rss.xml"/>
+    <outline type="rss" text="Marianne: Agora" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Amarianne.net%2Fagora%2F&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" htmlUrl="https://news.google.com/search?q=when:168h+inurl:marianne.net/agora/&amp;hl=fr&amp;gl=FR&amp;ceid=FR:fr"/>
+    <outline type="rss" text="Marianne: Litterature" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Amarianne.net%2Fculture%2Flitterature%2F&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" htmlUrl="https://news.google.com/search?q=when:672h+inurl:marianne.net/culture/litterature/&amp;hl=fr&amp;gl=FR&amp;ceid=FR:fr"/>
     <outline type="rss" text="marx21" xmlUrl="https://www.marx21.de/feed/" htmlUrl="https://www.marx21.de/"/>
     <outline type="rss" text="MintPress News" xmlUrl="https://www.mintpressnews.com/feed/" htmlUrl="https://www.mintpressnews.com"/>
     <outline type="rss" text="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com"/>
@@ -381,6 +389,7 @@
     <outline type="rss" text="Vinland Saga Chapters" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=MangaDexBridge&amp;context=Title+Chapters&amp;url=https%3A%2F%2Fmangadex.org%2Ftitle%2F5d1fc77e-706a-4fc5-bea8-486c9be0145d%2Fvinland-saga%3Forder%3Ddesc&amp;limit=10&amp;lang=&amp;images=no&amp;format=Atom" htmlUrl="https://mangadex.org/title/5d1fc77e-706a-4fc5-bea8-486c9be0145d"/>
     <outline type="rss" text="«ImWerden», электронная библиотека Андрея Никитина-Перенского" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=XPathBridge&amp;url=https%3A%2F%2Fimwerden.de%2F&amp;item=%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5Bposition%28%29%3E1+and+position%28%29%3C22%5D&amp;title=.%2F%2Fdiv%5B4%5D%2Fh3&amp;content=.%2F%2Fdiv%5B3%5D&amp;uri=.%2F%2Fdiv%5B4%5D%2Fh3%2Fa%2F%40href&amp;author=&amp;timestamp=substring-after%28string%28%2F%2Fdiv%5Bcontains%28text%28%29%2C+%22%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE%3A%22%29%5D%29%2C+%22%3A+%22%29&amp;enclosures=.%2F%2Fdiv%5B%40class%3D%22ArticleListItem-image%22%5D%2F%40style&amp;categories=.%2F%2Fdiv%5B%40class%3D%22ArticleListItem-label%22%5D&amp;format=Atom" htmlUrl="https://imwerden.de/"/>
     <outline type="rss" text="«Горький»" xmlUrl="https://gorky.media/feed/" htmlUrl="https://gorky.media"/>
+    <outline type="rss" text="Датско-Котоживописное" xmlUrl="https://kotbeber.livejournal.com/data/rss" htmlUrl="https://kotbeber.livejournal.com/"/>
     <outline type="rss" text="Дискурс" xmlUrl="https://discours.io/rss" htmlUrl="https://discours.io/rss"/>
     <outline type="rss" text="Нож: Статьи" xmlUrl="https://knife.media/category/longreads/feed/" htmlUrl="https://knife.media"/>
     <outline type="rss" text="Рабкор.ру" xmlUrl="https://rabkor.ru/feed/" htmlUrl="https://rabkor.ru"/>
