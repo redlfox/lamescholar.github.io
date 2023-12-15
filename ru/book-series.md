@@ -210,15 +210,15 @@ The New Cambridge Modern History
 
 <https://rutracker.org/forum/viewtopic.php?t=5351069>
 
-Библиотека атеистической литературы - <http://publ.lib.ru/ARCHIVES/B/''Biblioteka_ateisticheskoy_literatury''/_''BAL''.html>
+Библиотека атеистической литературы - <http://publ.lib.ru/ARCHIVES/B/''Biblioteka_ateisticheskoy_literatury''_(seriya)/_BAL.html>
 
 Библиотека отечественной общественной мысли - [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%BC%D1%8B%D1%81%D0%BB%D0%B8)
 
-Библиотечка по научному социализму - <http://publ.lib.ru/ARCHIVES/B/''Bibliotechka_po_nauchnimu_socializmu''/_''BNS''.html>
+Библиотечка по научному социализму - <http://vgershov.lib.ru/ARCHIVES/B/''Bibliotechka_po_nauchnimu_socializmu''_(seriya)/_BNS.html>
 
 Вопросы научного атеизма - <https://rutracker.org/forum/viewtopic.php?t=4609910>
 
-Критика буржуазной идеологии и ревизионизма - <http://publ.lib.ru/ARCHIVES/K/''Kritika_burjuaznoy_ideologii_i_revizionizma''/_''KBIR''.html>
+Критика буржуазной идеологии и ревизионизма - <http://publ.lib.ru/ARCHIVES/K/''Kritika_burjuaznoy_ideologii_i_revizionizma''_(seriya)/_KBIR.html>
 
 Реальная политика - <https://www.invissin.ru/books/>
 
