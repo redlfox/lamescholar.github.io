@@ -4,11 +4,11 @@ title: ChatGPT
 
 ChatGPT is a great tool for translation and research assistance.
 
-You can type:
+You can write:
 
-Translate incoming messages from German to English.
+Translate from German to English.
 
-And send pieces of text in German.
+text
 
 If ChatGPT doesn't translate the text, start New chat.
 
