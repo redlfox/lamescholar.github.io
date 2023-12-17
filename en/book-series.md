@@ -77,6 +77,8 @@ The New Cambridge Medieval History
 The New Cambridge Modern History
 
 <https://rutracker.org/forum/viewtopic.php?t=5923844>
+
+Annals of America - <https://rutracker.org/forum/viewtopic.php?t=6444536>
 <br><br>
 
 <a id="math"></a>
@@ -88,9 +90,11 @@ Graduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=600
 
 Undergraduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003927>
 
-Soviet books in mathematics for students in English - <https://archive.org/details/@mirtitles>
+Springer Undergraduate Mathematics - <https://www.springer.com/series/3423/books>
 
-Soviet books in mathematics for students in German - <https://mathematikalpha.de/schuelerbuecherei>
+Mir Publishers - <https://archive.org/details/@mirtitles>
+
+Mathematischen Schülerbücherei - <https://mathematikalpha.de/schuelerbuecherei>
 <br><br>
 
 <a id="philosophy"></a>
@@ -99,6 +103,8 @@ Soviet books in mathematics for students in German - <https://mathematikalpha.de
 Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
 
 The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.is/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
+
+Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0&res=25&view=simple&phrase=1&column=series>
 <br><br>
 
 <a id="society"></a>
@@ -110,7 +116,7 @@ The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://
 
 Marx and Engels Collected Works - <https://rutracker.org/forum/viewtopic.php?t=6244838>
 
-Marx's Capital 4 Volumes - <https://rutracker.org/forum/viewtopic.php?t=6245165>
+Marx's Capital - <https://rutracker.org/forum/viewtopic.php?t=6245165>
 
 Lenin Collected Works - <https://rutracker.org/forum/viewtopic.php?t=6244821>
 

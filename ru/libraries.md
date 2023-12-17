@@ -39,11 +39,11 @@ Wikisource - <https://wikisource.org/wiki/Main_Page>
 
 RoyalLib.com - <https://royallib.com/>
 
-Библиотека Нестор - <http://libelli.ru/library/alpha.htm>
+Библиотека "Нестор" - <http://libelli.ru/library/alpha.htm>
 
 Научная библиотека - <http://niv.ru/>
 
-Библиотека Мошкова - <http://lib.ru/>
+Lib.Ru: Библиотека Мошкова - <http://lib.ru/>
 
 Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
 
@@ -57,7 +57,7 @@ Mathesis - <https://www.mathesis.ru/books/>
 
 Горелик: Список публикаций - <https://ggorelik.narod.ru/index_all_chron.html>
 
-Gutenberg - <https://www.gutenberg.org/>
+Project Gutenberg - <https://www.gutenberg.org/>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases>
 <br><br>
@@ -116,61 +116,61 @@ Henry's Bibliothek:
 <a id="national"></a>
 # Национальные:
 
-<http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
+Україніка - <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 
-<https://chtyvo.org.ua/>
+Чтиво - <https://chtyvo.org.ua/>
 
-<https://libraria.ua/>
+LIBRARIA - <https://libraria.ua/>
 
-<https://www.deutsche-digitale-bibliothek.de/>
+Deutsche Digitale Bibliothek - <https://www.deutsche-digitale-bibliothek.de/>
 
 <https://www.reddit.com/r/AskHistorians/comments/126r0i5/historical_german_newspaper_archive/>
 
-<https://onb.digital/>
+ÖNB Digital - <https://onb.digital/>
 
-<https://anno.onb.ac.at/>
+ANNO - AustriaN Newspapers Online - <https://anno.onb.ac.at/>
 
-<https://gallica.bnf.fr/accueil/ru/content/accueil-ru?mode=desktop>
+Gallica - <https://gallica.bnf.fr/accueil/ru/content/accueil-ru?mode=desktop>
 
-<https://www.persee.fr/>
+Persée - <https://www.persee.fr/>
 
-<https://www.internetculturale.it/>
+Internet Culturale - <https://www.internetculturale.it/>
 
-<http://www.bibliotecaitaliana.it/catalogo?start=1&autori=Aesopus&undefined>
+Biblioteca Italiana - <http://www.bibliotecaitaliana.it/catalogo?start=1&autori=Aesopus&undefined>
 
-<https://digitalcollections.nlg.gr/nlg-repo/dl/en/search.html?clearSearch=true>
+National Library of Greece - <https://digitalcollections.nlg.gr/nlg-repo/dl/en/search.html?clearSearch=true>
 
-<http://bdh.bne.es/bnesearch/Inicio.do>
+Biblioteca Nacional de España - <http://bdh.bne.es/bnesearch/Inicio.do>
 
-<https://bndigital.bnportugal.gov.pt/>
+Biblioteca Nacional Digital - <https://bndigital.bnportugal.gov.pt/>
 
-<https://dl.ndl.go.jp/>
+National Diet Library - <https://dl.ndl.go.jp/>
 
-<https://www.nb.no/>
+Nasjonalbiblioteket - <https://www.nb.no/>
 
-<http://www5.kb.dk/editions/any/2009/jul/editions/en>
+Det Kgl. Bibliotek - <http://www5.kb.dk/editions/any/2009/jul/editions/en>
 
-<https://digi.kansalliskirjasto.fi/etusivu?set_language=en>
+The National Library of Finland - <https://digi.kansalliskirjasto.fi/etusivu?set_language=en>
 
-<https://bn.org.pl/en>
+The National Library of Poland - <https://bn.org.pl/en>
 
-<https://www.wbc.poznan.pl/dlibra>
+Wielkopolska Digital Library - <https://www.wbc.poznan.pl/dlibra>
 
-<https://ceskadigitalniknihovna.cz/>
+Česká Digitální knihovna - <https://ceskadigitalniknihovna.cz/>
 
-<https://en.mandadb.hu/>
+Hungarian National Digital Archive - <https://en.mandadb.hu/>
 
-<https://dlg.usg.edu/>
+Digital Library of Georgia - <https://dlg.usg.edu/>
 
-<https://lbs.leitir.is/discovery/search?vid=354ILC_LBS:07000>
+Leitir - <https://lbs.leitir.is/discovery/search?vid=354ILC_LBS:07000>
 
-<https://timarit.is/>
+Tímarit.is - <https://timarit.is/>
 
-<https://belgica.kbr.be/belgica/>
+KBR - <https://belgica.kbr.be/belgica/>
 
-<https://www.belgicaperiodicals.be/>
+KBR - Périodiques - <https://www.belgicaperiodicals.be/>
 
-<https://www.belgicapress.be/>
+KBR - Belgicapress - <https://www.belgicapress.be/>
 <br><br>
 
 <a id="textbooks"></a>
@@ -254,95 +254,101 @@ U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/
 <a id="math"></a>
 # Математика:
 
-<http://ilib.mccme.ru/>
+ИНТЕРНЕТ-БИБЛИОТЕКА Виталия Арнольда - <http://ilib.mccme.ru/>
 
-<https://www.mccme.ru/shen/>
+Александр Шень: публикации и др. - <https://www.mccme.ru/shen/>
 
-<http://alexandr4784.narod.ru/index.html>
+АСТРОНОМИЯ, АЛГЕБРА, ГЕОМЕТРИЯ, ФИЗИКА - <http://alexandr4784.narod.ru/index.html>
 
-<http://www.ega-math.narod.ru/>
+Статьи по математике - <http://www.ega-math.narod.ru/>
 
-<http://pyrkov-professor.ru/Default.aspx?tabid=86>
+Сайт Вячеслава Пыркова - <http://pyrkov-professor.ru/Default.aspx?tabid=86>
+
+Сайт Карлиса Подниекса - <http://www.podnieks.id.lv/po_russki.htm>
 <br><br>
 
 <a id="society"></a>
 # Общество:
 
-<https://gtmarket.ru/library/basis>
+ Гуманитарный портал: Гуманитарный базис - <https://gtmarket.ru/library/basis>
 
-<https://gtmarket.ru/library/articles>
+Гуманитарный портал: Гуманитарная мысль - <https://gtmarket.ru/library/articles>
 
-<https://www.atheism.ru/>
+Научный атеизм - <https://www.atheism.ru/>
 
-<https://antimilitary.ru/library.htm>
+Вне насилия - <https://antimilitary.ru/library.htm>
 
-<https://vas-s-al.livejournal.com/>
+ЖЖ Алексея Сафронова - <https://vas-s-al.livejournal.com/>
 
-<https://archive.org/details/@nicolai_woodenko>
+Nicolai Woodenko - <https://archive.org/details/@nicolai_woodenko>
 
-<https://disk.yandex.ru/d/1vb-YQUNmqI2zw>
+Библиотека по марксизму - <https://disk.yandex.ru/d/1vb-YQUNmqI2zw>
 
-<https://cloud.mail.ru/public/BtcH/42vAn5APs>
+Диалектика - <https://cloud.mail.ru/public/BtcH/42vAn5APs>
 
-<https://bibl.fra-mos.ru/>
+Библиотека ФРА - <https://bibl.fra-mos.ru/>
 
-<https://rabkrin.org/knigi/>
+Рабкрин - <https://rabkrin.org/knigi/>
 
-<https://istmat.org/node/45484>
+Истмат: Марксистское самообразование - <https://istmat.org/node/45484>
 
-<https://stalins-bukvar.ru/catalog/>
+Сталинский букварь - <https://stalins-bukvar.ru/catalog/>
 
-<https://leninism.su/>
+Ленин - <https://leninism.su/>
 
-<http://libelli.ru/>
+Сталин И.В. Сочинения: Т. 1–18 - <https://c21ch.newcastle.edu.au/stalin/>
 
-<http://www.esperanto.mv.ru/Marksismo/index.html>
+Материалистическая диалектика - <http://libelli.ru/>
 
-<http://uaio.ru/5/l1.htm>
+Моя библиотечка марксизма - <http://www.esperanto.mv.ru/Marksismo/index.html>
 
-<https://saint-juste.narod.ru/>
+Защита памяти - <http://uaio.ru/5/l1.htm>
 
-<http://sovphil.narod.ru/catalog.html>
+Сайт Александра Тарасова - <https://saint-juste.narod.ru/>
 
-<http://orthomarxism.narod.ru/>
+Советская философия - <http://sovphil.narod.ru/catalog.html>
 
-<http://www.e-enlightenment.com.i.ezproxy.nypl.org/browse/>
+Сайт Юрия Семёнова - <http://orthomarxism.narod.ru/>
 
-<https://library.memoryoftheworld.org/#/books>
+Electronic Enlightenment - <http://www.e-enlightenment.com.i.ezproxy.nypl.org/browse/>
 
-<https://archive.org/details/@ismail_badiou>
+Memory of the World Library - <https://library.memoryoftheworld.org/#/books>
 
-<https://web.archive.org/web/20180708051244/http://joseph-stalin.net/List%20of%20Books.html>
+Monoscop - <https://monoskop.org/Monoskop>
 
-<http://bannedthought.net/>
+Thomas Mrett - <https://archive.org/details/@ismail_badiou>
 
-<http://www.marx2mao.com/>
+Georgian Section of Comintern - <https://web.archive.org/web/20180708051244/http://joseph-stalin.net/List%20of%20Books.html>
 
-<https://massline.org/>
+Banned Thought - <http://bannedthought.net/>
 
-<https://www.marxists.org/ebooks/>
+From Marx to Mao - <http://www.marx2mao.com/>
 
-<https://foreignlanguages.press/foundations/>
+Massline - <https://massline.org/>
 
-<https://ladyizdihar.com/>
+Marxist Internet Archive eBook Collection - <https://www.marxists.org/ebooks/>
 
-<https://revolutionarydemocracy.org/>
+Foreign Languages Press - <https://foreignlanguages.press/foundations/>
 
-<https://marxists.architexturez.net/archive/index.htm>
+Lady Izdihar - <https://ladyizdihar.com/>
 
-<https://www.marxistphilosophy.org/>
+Revolutionary Democracy - <https://revolutionarydemocracy.org/>
 
-<https://theanarchistlibrary.org/special/index>
+Marxists Internet Archive - <https://marxists.architexturez.net/archive/index.htm>
 
-<https://www.akp.no/ml-historie/html/english.html>
+Marxist Philosophy and Dialectical Materialism - <https://www.marxistphilosophy.org/>
+
+The Anarchist Library - <https://theanarchistlibrary.org/special/index>
+
+ml-historie - <https://www.akp.no/ml-historie/html/english.html>
 <br><br>
 
 <a id="psychology"></a>
 # Психология:
 
-<https://psylib.org.ua/books/index.htm>
+Psylib - <https://psylib.org.ua/books/index.htm>
 
-<http://psychclassics.yorku.ca/index.htm>
+Classics in the History of Psychology - <http://psychclassics.yorku.ca/index.htm>
 <br><br>
 
 <a id="philosophy"></a>
@@ -374,28 +380,28 @@ Early Modern Philosophy - <https://www.earlymoderntexts.com/texts>
 <a id="fiction"></a>
 # Художественная литература:
 
-<http://feb-web.ru/>
+ФЭБ - <http://feb-web.ru/>
 
-<https://traumlibrary.ru/>
+Библиотека русской и советской классики - <https://traumlibrary.ru/>
 
-<https://rvb.ru/>
+Русская виртуальная библиотека - <https://rvb.ru/>
 
-<http://antique-lit.niv.ru/>
+Античная литература - <http://antique-lit.niv.ru/>
 
-<http://www.barius.ru/>
+БариюС - <http://www.barius.ru/>
 
-<https://www.hplovecraft.com/writings/>
+Lovecraft - <https://www.hplovecraft.com/writings/>
 
-<https://kafka.ru/>
+Франц Кафка - <https://kafka.ru/>
 
-<http://feb-web.ru/feb/lomonos/default.asp>
+Ломоносов - <http://feb-web.ru/feb/lomonos/default.asp>
 <br><br>
 
-<http://books.totalarch.com/>
+Totalarch - <http://books.totalarch.com/>
 
-<http://webchess.ru/ebook/>
+Шахматная библиотека - <http://webchess.ru/ebook/>
 
-<http://gramoty.ru/birchbark/library/book/>
+Древнерусские берестяные грамоты - <http://gramoty.ru/birchbark/library/book/>
 <br><br>
 
 Множество библиотек в Рунете базируются на хостинге narod.ru. Так что библиотеки на заданную тему можно искать следующим запросом:

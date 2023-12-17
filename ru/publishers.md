@@ -22,6 +22,8 @@ title: Издательства
 
 Academia - <http://publ.lib.ru/ARCHIVES/A/ACADEMIA/_Academia.html>
 
+Альпина - [Library Genesis](https://libgen.is/search.php?&req=%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B0&phrase=1&view=simple&column=publisher&sort=year&sortmode=DESC)
+
 Знание - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0))
 
 Издательство Ивана Лимбаха:
@@ -44,6 +46,10 @@ Academia - <http://publ.lib.ru/ARCHIVES/A/ACADEMIA/_Academia.html>
 
 РОССПЭН - [Library Genesis](https://libgen.is/search.php?req=%D0%A0%D0%9E%D0%A1%D0%A1%D0%9F%D0%AD%D0%9D&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+СЗКЭО - <https://libgen.is/search.php?&req=%D0%A1%D0%97%D0%9A%D0%AD%D0%9E&phrase=1&view=simple&column=def&sort=id&sortmode=DESC>
+
+Слово - [Library Genesis](https://libgen.is/search.php?&req=%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE&phrase=1&view=simple&column=publisher&sort=year&sortmode=DESC)
+
 Университет Дмитрия Пожарского - [Library Genesis](https://libgen.is/search.php?req=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82+%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&open=0&res=25&view=simple&phrase=1&column=def)
 
 Физкультура и спорт - [Library Genesis](https://libgen.is/search.php?req=%D0%A4%D0%B8%D0%B7%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0+%D0%B8+%D1%81%D0%BF%D0%BE%D1%80%D1%82&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=publisher)
@@ -65,6 +71,12 @@ Verso - <https://libgen.is/search.php?req=Verso&open=0&res=25&view=simple&phrase
 
 <a id="german"></a>
 # Немецкий
+
+Akademie Verlag - <https://libgen.is/search.php?req=Akademie+Verlag&open=0&res=25&view=simple&phrase=1&column=def>
+
+C.H. Beck - <https://libgen.is/search.php?req=C.H.+Beck&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+
+De Gruyter - <https://libgen.is/search.php?req=De+Gruyter&open=0&res=25&view=simple&phrase=1&column=def>
 
 Heyne - <https://libgen.is/search.php?req=Heyne&open=0&res=25&view=simple&phrase=1&column=publisher>
 

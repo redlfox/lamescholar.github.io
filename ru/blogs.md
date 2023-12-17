@@ -30,11 +30,13 @@ http://kagarlitsky.narod.ru/
 
 Реми Майснер - <https://remi-meisner.livejournal.com/>
 
-NLR blog - <https://newleftreview.org/sidecar>
-
 LRB blog - <https://www.lrb.co.uk/blog/>
 
-LARB blog - <https://blog.lareviewofbooks.org/>
+Sidecar - <https://newleftreview.org/sidecar>
+
+syg.ma - <https://syg.ma/>
+
+The Conversation: Arts & Culture - <https://theconversation.com/us/arts>
 
 Verso blog - <https://www.versobooks.com/blogs>
 

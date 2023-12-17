@@ -38,6 +38,12 @@ puf - <https://libgen.is/search.php?req=puf&open=0&res=25&view=simple&phrase=1&c
 <a id="german"></a>
 # German
 
+Akademie Verlag - <https://libgen.is/search.php?req=Akademie+Verlag&open=0&res=25&view=simple&phrase=1&column=def>
+
+C.H. Beck - <https://libgen.is/search.php?req=C.H.+Beck&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+
+De Gruyter - <https://libgen.is/search.php?req=De+Gruyter&open=0&res=25&view=simple&phrase=1&column=def>
+
 Heyne - <https://libgen.is/search.php?req=Heyne&open=0&res=25&view=simple&phrase=1&column=publisher>
 
 Volk und Wissen:

@@ -32,6 +32,10 @@ Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 You can find English scientific journals by searching:
 
 philosophy journals reddit
+
+Or you can ask [ChatGPT](/en/chatgpt):
+
+List magazines similar to Philosophy Now.
 <br><br>
 
 # Magazines by topic
@@ -62,15 +66,17 @@ American History Illustrated - <https://archive.org/search?query=%22American+His
 <a id="literary"></a>
 # Literary magazines:
 
+Publishers Weekly - <https://forum.mobilism.org/search.php?keywords=publishers+weekly&sr=topics&sf=titleonly>
+
+The American Scholar - <https://forum.mobilism.org/search.php?keywords=the+american+scholar&sr=topics&sf=titleonly>
+
+The New Yorker - <https://magzdb.org/j/1798>
+
 The New York Review of Books - <https://1337x.to/torrent/5472591/The-New-York-Review-of-Books-2022-complete-20-issues/>
 
 The New York Review of Science Fiction - <https://magzdb.org/j/6068>
 
-The New Yorker - <https://magzdb.org/j/1798>
-
 The Paris Review - <https://1337x.to/torrent/5479243/The-Paris-Review-2022-complete-4-issues/>
-
-Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
 Granta - <https://archive.org/search.php?query=granta>
 
@@ -78,7 +84,19 @@ Harper's Magazine - <https://archive.org/details/pub_harpers-magazine?sort=-date
 
 The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
 
+Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
+
 Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH>
+
+Le Canard enchaîné - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Le+Canard+encha%C3%AEn%C3%A9&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+
+Bücher - <https://de.downmagaz.net/tags/B%C3%BCcher/>
+
+Bücher am Sonntag - <https://www.nzz.ch/nzzas/nzz-am-sonntag/buecher-am-sonntag-ld.125422>
+
+Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
+
+Die Furche - <https://de.downmagaz.net/tags/Die%20Furche/>
 <br><br>
 
 {:refdef: style="text-align: center;"}
@@ -123,7 +141,11 @@ Scientific American - <https://archive.org/details/pub_scientific-american?sort=
 
 Scientific American Supplement - <https://archive.org/details/pub_scientific-american-supplement?sort=-date>
 
-Spektrum Der Wissenschaft - <https://rutracker.org/forum/viewtopic.php?t=376192>
+Popular Astronomy - <https://archive.org/details/pub_popular-astronomy?&sort=-date>
+
+Spektrum Der Wissenschaft:<br>
+<https://de.downmagaz.net/tags/Spektrum%20der%20Wissenschaft/><br>
+<https://rutracker.org/forum/viewtopic.php?t=376192>
 
 Wszechświat:<br>
 <https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive><br>
@@ -132,6 +154,8 @@ Wszechświat:<br>
 
 <a id="philosophy"></a>
 # Philosophy journals:
+
+New Philosopher - <https://forum.mobilism.org/search.php?keywords=new+philosopher&sr=topics&sf=titleonly>
 
 Philosophy Now - <https://magzdb.org/j/5590>
 
@@ -144,6 +168,8 @@ Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philoso
 The Economist - <https://forum.mobilism.org/search.php?keywords=The+Economist&sr=topics&sf=titleonly>
 
 Foreign Affairs - <https://forum.mobilism.org/search.php?keywords=Foreign+Affairs&sr=topics&sf=titleonly>
+
+New Internationalist - <https://forum.mobilism.org/search.php?keywords=new+internationalist&sr=topics&sf=titleonly>
 
 Time - <https://forum.mobilism.org/search.php?keywords=time+usa&sr=topics&sf=titleonly>
 
@@ -163,14 +189,30 @@ Newsweek - <https://archive.org/details/pub_newsweek-us?sort=-date>
 
 Vital Speeches of the Day - <https://archive.org/details/pub_vital-speeches-of-the-day?sort=-date>
 
+Courrier International - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Courrier+International&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+
+Le Journal du Dimanche - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Le+Journal+du+dimanche&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+
+pro zukunft - <https://de.downmagaz.net/tags/Pro%20Zukunft/>
+
 Der Spiegel:<br>
 <https://de.downmagaz.net/tags/Der%20Spiegel/><br>
 <https://magzdb.org/j/1948>
+
+Cicero - <https://de.downmagaz.net/tags/Cicero/>
+
+Der Stern - <https://de.downmagaz.net/tags/Der%20Stern/>
+
+Focus - <https://de.downmagaz.net/tags/Focus/>
+
+Wirtschaftswoche - <https://de.downmagaz.net/tags/Wirtschaftswoche/>
 <br><br>
 
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
 
-Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date&page=2>
+Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date>
+
+Leviathan - <https://libgen.is/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
 
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 

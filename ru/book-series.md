@@ -110,9 +110,11 @@ Graduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=600
 
 Undergraduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003927>
 
-Советские книги по математике для школьников на английском - <https://archive.org/details/@mirtitles>
+Springer Undergraduate Mathematics - <https://www.springer.com/series/3423/books>
 
-Советские книги по математике для школьников на немецком - <https://mathematikalpha.de/schuelerbuecherei>
+Mir Publishers - <https://archive.org/details/@mirtitles>
+
+Mathematischen Schülerbücherei - <https://mathematikalpha.de/schuelerbuecherei>
 <br><br>
 
 <a id="art"></a>
@@ -148,7 +150,7 @@ History of XX century in B/W photos:
 
 Библиотека всемирной истории - [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%B2%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8)
 
-Всемирная история - <https://rutracker.org/forum/viewtopic.php?t=6025409>
+Всемирная история в 13 томах - <https://rutracker.org/forum/viewtopic.php?t=6025409>
 
 Живая история: Повседневная жизнь человечества - <http://flibusta.is/sequence/4035>
 
@@ -165,6 +167,8 @@ History of XX century in B/W photos:
 По следам исчезнувших культур - [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%BF%D0%BE%20%D1%81%D0%BB%D0%B5%D0%B4%D0%B0%D0%BC%20%D0%B8%D1%81%D1%87%D0%B5%D0%B7%D0%BD%D1%83%D0%B2%D1%88%D0%B8%D1%85%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80)
 
 Россия. XX век. Документы - <https://rutracker.org/forum/viewtopic.php?t=6363369>
+
+Соловьёв С.М. История России с древнейших времён - <http://militera.lib.ru/common/solovyev1/index.html>
 
 Страницы истории нашей Родины:
 
@@ -187,6 +191,8 @@ The New Cambridge Modern History
 <https://rutracker.org/forum/viewtopic.php?t=5923844>
 
 Кембриджская история древнего мира - <https://rutracker.org/forum/viewtopic.php?t=5389328>
+
+Annals of America - <https://rutracker.org/forum/viewtopic.php?t=6444536>
 <br><br>
 
 <a id="society"></a>
@@ -247,6 +253,8 @@ pro et contra - <https://libgen.is/search.php?req=pro+et+contra&lg_topic=libgen&
 Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
 
 The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.is/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
+
+Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0&res=25&view=simple&phrase=1&column=series>
 <br><br>
 
 <a id="fiction"></a>
@@ -272,6 +280,8 @@ The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://
 
 Библиотека фантастики - <https://rutracker.org/forum/viewtopic.php?t=4756926>
 
+Большие книги - [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20fb2)
+
 В мире фантастики и приключений - <http://flibusta.is/s/8867>
 
 Жизнь замечательных людей - <https://rutracker.org/forum/viewtopic.php?t=6234901>
@@ -281,6 +291,8 @@ The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://
 История эстетики в памятниках и документах - [Library Genesis](https://libgen.is/search.php?req=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B8+%D0%B2+%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D1%85+%D0%B8+%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%85&open=0&res=25&view=simple&phrase=1&column=def)
 
 Зарубежная фантастика - <https://rutracker.org/forum/viewtopic.php?t=5326730>
+
+Зарубежная художественная публицистика и документальная проза - <https://imwerden.de/razdel-7080-str-1.html>
 
 Зарубежный роман XX века - <https://fantlab.ru/series1719>
 
@@ -313,6 +325,8 @@ The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://
 <https://rutracker.org/forum/viewtopic.php?t=5713007>
 
 Писатели о писателях - [Library Genesis](https://libgen.is/search.php?req=%22%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8+%D0%BE+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%22&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+Популярная библиотека - <https://fantlab.ru/series957>
 
 Русская литература. Большие книги - <https://rutracker.org/forum/viewtopic.php?t=5764583>
 
@@ -348,7 +362,7 @@ Viking Portable Library - <https://archive.org/search?query=title%3A%28portable%
 
 World's Classics - <https://seriesofseries.com/worlds-classics/>
 
-Bibliothèque de la Pléiade - <https://www3.yggtorrent.wtf/torrent/ebook/livres/1045545-biblioth%C3%A8que+de+la+pl%C3%A9iade+-+116+volumes+pdf+djvu+fr>
+Bibliothèque de la Pléiade - <https://www3.yggtorrent.qa/torrent/ebook/livres/1045545-biblioth%C3%A8que+de+la+pl%C3%A9iade+-+116+volumes+pdf+djvu+fr>
 <br><br>
 
 <a id="chess"></a>

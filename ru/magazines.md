@@ -46,6 +46,10 @@ Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 Научные журналы на английском можно найти запросом в гугле:
 
 philosophy journals reddit
+
+Или ты можешь спросить у [ChatGPT](/ru/chatgpt):
+
+Перечисли журналы, похожие на Philosophy Now.
 <br><br>
 
 Журналы и газеты на рутрекере:
@@ -186,7 +190,11 @@ Scientific American - <https://archive.org/details/pub_scientific-american?sort=
 
 Scientific American Supplement - <https://archive.org/details/pub_scientific-american-supplement?sort=-date>
 
-Spektrum Der Wissenschaft - <https://rutracker.org/forum/viewtopic.php?t=376192>
+Popular Astronomy - <https://archive.org/details/pub_popular-astronomy?&sort=-date>
+
+Spektrum Der Wissenschaft:<br>
+<https://de.downmagaz.net/tags/Spektrum%20der%20Wissenschaft/><br>
+<https://rutracker.org/forum/viewtopic.php?t=376192>
 
 Wszechświat:<br>
 <https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive><br>
@@ -305,6 +313,8 @@ Wszechświat:<br>
 
 Документальное прошлое: ГА РФ - <https://t.me/garf_docs>
 
+Археологические записки - <https://www.archeo.ru/izdaniya-1/archaeological-news/vypuski-sbornika>
+
 BBC History - <https://magzdb.org/j/6121>
 
 The American Historical Review - <https://archive.org/details/pub_american-historical-review?&sort=-date&page=2>
@@ -383,15 +393,17 @@ Urbi - <https://imwerden.de/publ-12829.html>
 
 Крокодил - <https://croco.uno/>
 
+Publishers Weekly - <https://forum.mobilism.org/search.php?keywords=publishers+weekly&sr=topics&sf=titleonly>
+
+The American Scholar - <https://forum.mobilism.org/search.php?keywords=the+american+scholar&sr=topics&sf=titleonly>
+
+The New Yorker - <https://magzdb.org/j/1798>
+
 The New York Review of Books - <https://1337x.to/torrent/5472591/The-New-York-Review-of-Books-2022-complete-20-issues/>
 
 The New York Review of Science Fiction - <https://magzdb.org/j/6068>
 
-The New Yorker - <https://magzdb.org/j/1798>
-
 The Paris Review - <https://1337x.to/torrent/5479243/The-Paris-Review-2022-complete-4-issues/>
-
-Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
 Granta - <https://archive.org/search.php?query=granta>
 
@@ -399,7 +411,19 @@ Harper's Magazine - <https://archive.org/details/pub_harpers-magazine?sort=-date
 
 The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
 
+Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
+
 Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH>
+
+Le Canard enchaîné - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Le+Canard+encha%C3%AEn%C3%A9&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+
+Bücher - <https://de.downmagaz.net/tags/B%C3%BCcher/>
+
+Bücher am Sonntag - <https://www.nzz.ch/nzzas/nzz-am-sonntag/buecher-am-sonntag-ld.125422>
+
+Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
+
+Die Furche - <https://de.downmagaz.net/tags/Die%20Furche/>
 <br><br>
 
 <a id="linguistics"></a>
@@ -411,13 +435,13 @@ Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByD
 <a id="society"></a>
 # Общество:
 
-Вестник АН СССР - <https://www.prlib.ru/section/684591>
-
-Вестник РАН - <https://www.ras.ru/publishing/rasherald/rasherald_pdf.aspx>
-
 Архивный поиск - <https://www.arran.ru/node/880>
 
 В защиту науки - <https://www.ras.ru/digest/fdigestlist/bulletin.aspx>
+
+Вестник АН СССР - <https://www.prlib.ru/section/684591>
+
+Вестник РАН - <https://www.ras.ru/publishing/rasherald/rasherald_pdf.aspx>
 
 Наука и религия - <http://magzdb.org/j/55>
 
@@ -448,11 +472,15 @@ Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByD
 <https://rutracker.org/forum/viewtopic.php?t=1697805>
 
 Студенческий меридиан - <http://magzdb.org/j/3489>
+
+Сноб - <https://rutracker.org/forum/viewtopic.php?t=2572960>
 <br><br>
 
 The Economist - <https://forum.mobilism.org/search.php?keywords=The+Economist&sr=topics&sf=titleonly>
 
 Foreign Affairs - <https://forum.mobilism.org/search.php?keywords=Foreign+Affairs&sr=topics&sf=titleonly>
+
+New Internationalist - <https://forum.mobilism.org/search.php?keywords=new+internationalist&sr=topics&sf=titleonly>
 
 Time - <https://forum.mobilism.org/search.php?keywords=time+usa&sr=topics&sf=titleonly>
 
@@ -472,14 +500,30 @@ Newsweek - <https://archive.org/details/pub_newsweek-us?sort=-date>
 
 Vital Speeches of the Day - <https://archive.org/details/pub_vital-speeches-of-the-day?sort=-date>
 
+Courrier International - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Courrier+International&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+
+Le Journal du Dimanche - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Le+Journal+du+dimanche&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+
+pro zukunft - <https://de.downmagaz.net/tags/Pro%20Zukunft/>
+
 Der Spiegel:<br>
 <https://de.downmagaz.net/tags/Der%20Spiegel/><br>
 <https://magzdb.org/j/1948>
+
+Cicero - <https://de.downmagaz.net/tags/Cicero/>
+
+Der Stern - <https://de.downmagaz.net/tags/Der%20Stern/>
+
+Focus - <https://de.downmagaz.net/tags/Focus/>
+
+Wirtschaftswoche - <https://de.downmagaz.net/tags/Wirtschaftswoche/>
 <br><br>
 
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
 
-Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date&page=2>
+Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date>
+
+Leviathan - <https://libgen.is/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
 
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
@@ -539,6 +583,8 @@ Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&s
 Философия науки и техники - <https://pst.iphras.ru/issue/archive>
 
 Периодические издания ИФ РАН - <https://iphras.ru/elib/period.html>
+
+New Philosopher - <https://forum.mobilism.org/search.php?keywords=new+philosopher&sr=topics&sf=titleonly>
 
 Philosophy Now - <https://magzdb.org/j/5590>
 

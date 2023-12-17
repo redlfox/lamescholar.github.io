@@ -64,61 +64,61 @@ Henry's Bibliothek:
 <a id="national"></a>
 # National:
 
-<http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
+Україніка - <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 
-<https://chtyvo.org.ua/>
+Чтиво - <https://chtyvo.org.ua/>
 
-<https://libraria.ua/>
+LIBRARIA - <https://libraria.ua/>
 
-<https://www.deutsche-digitale-bibliothek.de/>
+Deutsche Digitale Bibliothek - <https://www.deutsche-digitale-bibliothek.de/>
 
 <https://www.reddit.com/r/AskHistorians/comments/126r0i5/historical_german_newspaper_archive/>
 
-<https://onb.digital/>
+ÖNB Digital - <https://onb.digital/>
 
-<https://anno.onb.ac.at/>
+ANNO - AustriaN Newspapers Online - <https://anno.onb.ac.at/>
 
-<https://gallica.bnf.fr/accueil/ru/content/accueil-ru?mode=desktop>
+Gallica - <https://gallica.bnf.fr/accueil/ru/content/accueil-ru?mode=desktop>
 
-<https://www.persee.fr/>
+Persée - <https://www.persee.fr/>
 
-<https://www.internetculturale.it/>
+Internet Culturale - <https://www.internetculturale.it/>
 
-<http://www.bibliotecaitaliana.it/catalogo?start=1&autori=Aesopus&undefined>
+Biblioteca Italiana - <http://www.bibliotecaitaliana.it/catalogo?start=1&autori=Aesopus&undefined>
 
-<https://digitalcollections.nlg.gr/nlg-repo/dl/en/search.html?clearSearch=true>
+National Library of Greece - <https://digitalcollections.nlg.gr/nlg-repo/dl/en/search.html?clearSearch=true>
 
-<http://bdh.bne.es/bnesearch/Inicio.do>
+Biblioteca Nacional de España - <http://bdh.bne.es/bnesearch/Inicio.do>
 
-<https://bndigital.bnportugal.gov.pt/>
+Biblioteca Nacional Digital - <https://bndigital.bnportugal.gov.pt/>
 
-<https://dl.ndl.go.jp/>
+National Diet Library - <https://dl.ndl.go.jp/>
 
-<https://www.nb.no/>
+Nasjonalbiblioteket - <https://www.nb.no/>
 
-<http://www5.kb.dk/editions/any/2009/jul/editions/en>
+Det Kgl. Bibliotek - <http://www5.kb.dk/editions/any/2009/jul/editions/en>
 
-<https://digi.kansalliskirjasto.fi/etusivu?set_language=en>
+The National Library of Finland - <https://digi.kansalliskirjasto.fi/etusivu?set_language=en>
 
-<https://bn.org.pl/en>
+The National Library of Poland - <https://bn.org.pl/en>
 
-<https://www.wbc.poznan.pl/dlibra>
+Wielkopolska Digital Library - <https://www.wbc.poznan.pl/dlibra>
 
-<https://ceskadigitalniknihovna.cz/>
+Česká Digitální knihovna - <https://ceskadigitalniknihovna.cz/>
 
-<https://en.mandadb.hu/>
+Hungarian National Digital Archive - <https://en.mandadb.hu/>
 
-<https://dlg.usg.edu/>
+Digital Library of Georgia - <https://dlg.usg.edu/>
 
-<https://lbs.leitir.is/discovery/search?vid=354ILC_LBS:07000>
+Leitir - <https://lbs.leitir.is/discovery/search?vid=354ILC_LBS:07000>
 
-<https://timarit.is/>
+Tímarit.is - <https://timarit.is/>
 
-<https://belgica.kbr.be/belgica/>
+KBR - <https://belgica.kbr.be/belgica/>
 
-<https://www.belgicaperiodicals.be/>
+KBR - Périodiques - <https://www.belgicaperiodicals.be/>
 
-<https://www.belgicapress.be/>
+KBR - Belgicapress - <https://www.belgicapress.be/>
 <br><br>
 
 <a id="history"></a>
@@ -147,41 +147,43 @@ Early Modern Philosophy - <https://www.earlymoderntexts.com/texts>
 <a id="psychology"></a>
 # Psychology:
 
-<http://psychclassics.yorku.ca/index.htm>
+Classics in the History of Psychology - <http://psychclassics.yorku.ca/index.htm>
 <br><br>
 
 <a id="society"></a>
 # Society:
 
-<http://www.e-enlightenment.com.i.ezproxy.nypl.org/browse/>
+Electronic Enlightenment - <http://www.e-enlightenment.com.i.ezproxy.nypl.org/browse/>
 
-<https://library.memoryoftheworld.org/#/books>
+Memory of the World Library - <https://library.memoryoftheworld.org/#/books>
 
-<https://archive.org/details/@ismail_badiou>
+Monoscop - <https://monoskop.org/Monoskop>
 
-<https://web.archive.org/web/20180708051244/<http://joseph-stalin.net/List%20of%20Books.html>
+Thomas Mrett - <https://archive.org/details/@ismail_badiou>
 
-<http://bannedthought.net/>
+Georgian Section of Comintern - <https://web.archive.org/web/20180708051244/http://joseph-stalin.net/List%20of%20Books.html>
 
-<http://www.marx2mao.com/>
+Banned Thought - <http://bannedthought.net/>
 
-<https://massline.org/>
+From Marx to Mao - <http://www.marx2mao.com/>
 
-<https://www.marxists.org/ebooks/>
+Massline - <https://massline.org/>
 
-<https://foreignlanguages.press/foundations/>
+Marxist Internet Archive eBook Collection - <https://www.marxists.org/ebooks/>
 
-<https://ladyizdihar.com/>
+Foreign Languages Press - <https://foreignlanguages.press/foundations/>
 
-<https://revolutionarydemocracy.org/>
+Lady Izdihar - <https://ladyizdihar.com/>
 
-<https://marxists.architexturez.net/archive/index.htm>
+Revolutionary Democracy - <https://revolutionarydemocracy.org/>
 
-<https://www.marxistphilosophy.org/>
+Marxists Internet Archive - <https://marxists.architexturez.net/archive/index.htm>
 
-<https://theanarchistlibrary.org/special/index>
+Marxist Philosophy and Dialectical Materialism - <https://www.marxistphilosophy.org/>
 
-<https://www.akp.no/ml-historie/html/english.html>
+The Anarchist Library - <https://theanarchistlibrary.org/special/index>
+
+ml-historie - <https://www.akp.no/ml-historie/html/english.html>
 <br><br>
 
 IRC:

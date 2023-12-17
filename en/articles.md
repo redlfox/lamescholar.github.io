@@ -67,29 +67,41 @@ Review of Radical Political Economics - <https://journals.sagepub.com/home/rrp>
 
 BBC History Magazine - <https://www.historyextra.com/bbc-history-magazine/>
 
+Past & Present - <https://academic.oup.com/past/issue>
+
+Social History - <https://www.tandfonline.com/loi/rshi20>
+
+Speculum - <https://www.journals.uchicago.edu/loi/spc>
+
 The American Historical Review - <https://academic.oup.com/ahr/issue>
 
 The Journal of Modern History - <https://www.journals.uchicago.edu/loi/jmh>
 
-Speculum - <https://www.journals.uchicago.edu/loi/spc>
-
-Social History - <https://www.tandfonline.com/loi/rshi20>
-
-Past & Present - <https://academic.oup.com/past/issue>
-
 Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/all-issues>
+
+Revue historique - <https://gallica.bnf.fr/ark:/12148/cb34349205q/date.r=.langFR>
+
+Historische Zeitschrift - <https://www.jstor.org/journal/histzeit>
 <br><br>
 
 <a id="literary"></a>
 # Literary magazines:
 
+Asymptote - <https://www.asymptotejournal.com/archive/>
+
+Bookforum - <https://www.bookforum.com/print/archive>
+
 Granta - <https://granta.com/issues>
 
 Harper's Magazine - <https://harpers.org/issues/>
 
+Lapham's Quarterly - <https://www.laphamsquarterly.org/issues>
+
+Literary Review - <https://literaryreview.co.uk/back-issue>
+
 London Review of Books - <https://www.lrb.co.uk/archive?sort=newest>
 
-Los Angeles Review - <https://lareviewofbooks.org/articles/>
+Los Angeles Review of Books - <https://lareviewofbooks.org/archive/>
 
 Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
 
@@ -133,6 +145,8 @@ Physics Today - <https://physicstoday.scitation.org/toc/pto/current>
 
 American Journal of Physics - <https://aapt.scitation.org/toc/ajp/current>
 
+Monthly Notices of the Royal Astronomical Society - <https://academic.oup.com/mnras>
+
 Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <br><br>
 
@@ -141,9 +155,13 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 
 Philosophy Now - <https://philosophynow.org/issues>
 
+The Philosophers' Magazine - <https://www.philosophersmag.com/>
+
 Philosophie - <https://www.philomag.com/archives>
 
 Philosophie DE - <https://www.philomag.de/>
+
+Diacritics - <https://muse-jhu-edu.i.ezproxy.nypl.org/pub/1/journal/46>
 
 Russian Studies in Philosophy - <https://www.tandfonline.com/loi/mrsp19>
 
@@ -165,7 +183,7 @@ Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
 <a id="society"></a>
 # Society:
 
-Economist - <https://www.economist.com/weeklyedition/archive>
+The Economist - <https://www.economist.com/weeklyedition/archive>
 
 Foreign Affairs - <https://www.foreignaffairs.com/browse/view-all>
 
@@ -179,13 +197,15 @@ The Nation - <https://www.thenation.com/latest/>
 
 The New Republic - <https://newrepublic.com/latest>
 
+Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
+
+The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
+
 Peace Magazine - <https://peacemagazine.org/archive/?id=2103>
 
 Prospect - <https://www.prospectmagazine.co.uk/issues>
 
-The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
-
-Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
+The Spectator - <https://www.spectator.co.uk/>
 <br><br>
 
 Carto - <https://www.areion24.news/carto/>
@@ -204,6 +224,11 @@ Der Spiegel - <https://www.spiegel.de/magazine>
 Die Zeit - <https://www.zeit.de/archiv/index>
 
 Die Zeit: Alle Schlagzeilen - <https://www.zeit.de/news/index>
+<br><br>
+
+Internationale: Libri - <https://www.internazionale.it/tag/libri>
+
+Rīgas Laiks - <https://ru.rigaslaiks.art/>
 <br><br>
 
 Internationale: Libri - <https://www.internazionale.it/tag/libri>
@@ -250,8 +275,6 @@ International Socialism - <https://en.wikipedia.org/wiki/International_Socialism
 Marxism Today - <https://banmarchive.org.uk/marxism-today/>
 
 New German Critique - <https://www.jstor.org/journal/newgermcrit>
-
-syg.ma - <https://syg.ma/>
 
 The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
 

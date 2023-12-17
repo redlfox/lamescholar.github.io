@@ -51,11 +51,15 @@ Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
 <a id="natural"></a>
 # Естественно-научные журналы:
 
+Наука и жизнь - <https://www.nkj.ru/news/>
+
+Вестник Российской академии наук - <https://elibrary.ru/contents.asp?titleid=7693>
+
 Вопросы истории естествознания и техники - <https://vietmag.org/index.php?dispatch=issues.archive>
 
 Соросовский образовательный журнал - <https://web.archive.org/web/20071130004824/http://journal.issep.rssi.ru/>
 
-Math-Net.Ru - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
+Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 
 Успехи физических наук - <https://ufn.ru/ru/articles/>
 
@@ -83,6 +87,8 @@ Physics Today - <https://physicstoday.scitation.org/toc/pto/current>
 
 American Journal of Physics - <https://aapt.scitation.org/toc/ajp/current>
 
+Monthly Notices of the Royal Astronomical Society - <https://academic.oup.com/mnras>
+
 Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <br><br>
 
@@ -97,8 +103,6 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <a id="history"></a>
 # Исторические журналы:
 
-Proshloe - <https://proshloe.com/>
-
 Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
 
 Мнемон: Исследования и публикации по истории античного мира - <https://www.elibrary.ru/contents.asp?titleid=32315>
@@ -107,23 +111,27 @@ Proshloe - <https://proshloe.com/>
 
 Новая и Новейшая история - <https://nni.jes.su/index.php?dispatch=issues.archive>
 
-Российский Архив - <https://feb-web.ru/feb/rosarc/default.asp>
-
 Французский ежегодник - <https://annuaire-fr.igh.ru/issues?locale=ru>
 
+Российский Архив - <https://feb-web.ru/feb/rosarc/default.asp>
+
 BBC History Magazine - <https://www.historyextra.com/bbc-history-magazine/>
+
+Past & Present - <https://academic.oup.com/past/issue>
+
+Social History - <https://www.tandfonline.com/loi/rshi20>
+
+Speculum - <https://www.journals.uchicago.edu/loi/spc>
 
 The American Historical Review - <https://academic.oup.com/ahr/issue>
 
 The Journal of Modern History - <https://www.journals.uchicago.edu/loi/jmh>
 
-Speculum - <https://www.journals.uchicago.edu/loi/spc>
-
-Social History - <https://www.tandfonline.com/loi/rshi20>
-
-Past & Present - <https://academic.oup.com/past/issue>
-
 Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/all-issues>
+
+Revue historique - <https://gallica.bnf.fr/ark:/12148/cb34349205q/date.r=.langFR>
+
+Historische Zeitschrift - <https://www.jstor.org/journal/histzeit>
 <br><br>
 
 <a id="literary"></a>
@@ -133,13 +141,21 @@ Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-soc
 
 Критическая масса - <https://magazines.gorky.media/km>
 
+Asymptote - <https://www.asymptotejournal.com/archive/>
+
+Bookforum - <https://www.bookforum.com/print/archive>
+
 Granta - <https://granta.com/issues>
 
 Harper's Magazine - <https://harpers.org/issues/>
 
+Lapham's Quarterly - <https://www.laphamsquarterly.org/issues>
+
+Literary Review - <https://literaryreview.co.uk/back-issue>
+
 London Review of Books - <https://www.lrb.co.uk/archive?sort=newest>
 
-Los Angeles Review - <https://lareviewofbooks.org/articles/>
+Los Angeles Review of Books - <https://lareviewofbooks.org/archive/>
 
 Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
 
@@ -195,13 +211,15 @@ The Nation - <https://www.thenation.com/latest/>
 
 The New Republic - <https://newrepublic.com/latest>
 
+Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
+
+The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
+
 Peace Magazine - <https://peacemagazine.org/archive/?id=2103>
 
 Prospect - <https://www.prospectmagazine.co.uk/issues>
 
-The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
-
-Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
+The Spectator - <https://www.spectator.co.uk/>
 <br><br>
 
 Carto - <https://www.areion24.news/carto/>
@@ -267,8 +285,6 @@ Marxism Today - <https://banmarchive.org.uk/marxism-today/>
 
 New German Critique - <https://www.jstor.org/journal/newgermcrit>
 
-syg.ma - <https://syg.ma/>
-
 The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
 
 Le Monde Libertaire - <https://monde-libertaire.net/?page=papier>
@@ -285,7 +301,7 @@ Reason - <https://reason.com/archives/>
 
 <https://www.elibrary.ru/contents.asp?titleid=7714>
 
-Russian Studies in Philosophy - <https://www.tandfonline.com/loi/mrsp19>
+<https://www.tandfonline.com/loi/mrsp19>
 
 Логос - <https://web.archive.org/web/20180105202122/https://www.ruthenia.ru/logos/number/arc.htm>
 
@@ -293,9 +309,13 @@ Russian Studies in Philosophy - <https://www.tandfonline.com/loi/mrsp19>
 
 Philosophy Now - <https://philosophynow.org/issues>
 
+The Philosophers' Magazine - <https://www.philosophersmag.com/>
+
 Philosophie - <https://www.philomag.com/archives>
 
 Philosophie DE - <https://www.philomag.de/>
+
+Diacritics - <https://muse-jhu-edu.i.ezproxy.nypl.org/pub/1/journal/46>
 
 The Philosophical Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/philrevi>
 
@@ -315,7 +335,7 @@ Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
 <a id="economy"></a>
 # Экономические журналы:
 
-Вопросы экономики - <https://www.tandfonline.com/loi/mpet20>
+Problems of Economic Transition - <https://www.tandfonline.com/loi/mpet20>
 
 Journal of Political Economy - <https://www.journals.uchicago.edu/loi/jpe>
 
