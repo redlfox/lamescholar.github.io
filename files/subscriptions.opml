@@ -51,6 +51,7 @@
     <outline type="rss" text="Die Presse: Kultur" xmlUrl="https://www.diepresse.com/rss/Kultur" htmlUrl="https://www.diepresse.com"/>
     <outline type="rss" text="Die Presse: Meinung" xmlUrl="https://www.diepresse.com/rss/Meinung" htmlUrl="https://www.diepresse.com"/>
     <outline type="rss" text="Die Tageszeitung" xmlUrl="https://taz.de/!p4608;rss/" htmlUrl="https://taz.de/!p4608;rss/"/>
+    <outline type="rss" text="Die Tageszeitung: Kultur" xmlUrl="https://taz.de/Kultur/!p4639;rss/" htmlUrl="https://taz.de/Kultur/!p4639;rss/"/>
     <outline type="rss" text="Die Welt" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Awelt.de&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" htmlUrl="https://news.google.com/search?q=when:24h+inurl:welt.de&amp;hl=de&amp;gl=DE&amp;ceid=DE:de"/>
     <outline type="rss" text="Die Welt: Debatte" xmlUrl="https://www.welt.de/feeds/section/debatte.rss" htmlUrl="https://www.welt.de/feeds/section/debatte"/>
     <outline type="rss" text="Die Welt: Literarische Welt" xmlUrl="https://www.welt.de/feeds/section/kultur/literarischewelt.rss" htmlUrl="https://www.welt.de/feeds/section/kultur/literarischewelt"/>
