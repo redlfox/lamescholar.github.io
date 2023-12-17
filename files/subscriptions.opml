@@ -16,8 +16,6 @@
     <outline type="rss" text="AP News: Book Reviews" xmlUrl="https://apnews.com/hub/book-reviews.rss" htmlUrl="https://apnews.com/hub/book-reviews.rss"/>
     <outline type="rss" text="Artforum" xmlUrl="https://www.artforum.com/feed/" htmlUrl="https://www.artforum.com"/>
     <outline type="rss" text="Atlantico" xmlUrl="https://atlantico.fr/rss" htmlUrl="https://atlantico.fr/rss"/>
-    <outline type="rss" text="Augsburger Allgemeine" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aaugsburger-allgemeine.de&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" htmlUrl="https://news.google.com/search?q=when:24h+inurl:augsburger-allgemeine.de&amp;hl=de&amp;gl=DE&amp;ceid=DE:de"/>
-    <outline type="rss" text="Augsburger Allgemeine: Kultur" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aaugsburger-allgemeine.de/kultur/&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" htmlUrl="https://news.google.com/search?q=when:168h+inurl:augsburger-allgemeine.de/kultur/&amp;hl=de&amp;gl=DE&amp;ceid=DE:de"/>
     <outline type="rss" text="Axios" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aaxios.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:axios.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="Balkan Insight" xmlUrl="https://balkaninsight.com/feed/" htmlUrl="https://balkaninsight.com/"/>
     <outline type="rss" text="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
@@ -150,7 +148,8 @@
     <outline type="rss" text="La Nueva España - Cultura" xmlUrl="https://www.lne.es/rss/section/3035" htmlUrl="https://www.lne.es/rss/section/3035"/>
     <outline type="rss" text="La Presse" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Alapresse.ca&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:lapresse.ca&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="la Repubblica" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml" htmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
-    <outline type="rss" text="la Repubblica: Spettacoli &amp; Cultura" xmlUrl="https://www.repubblica.it/rss/spettacoli_e_cultura/rss2.0.xml" htmlUrl="http://www.repubblica.it/spettacoli-e-cultura"/>
+    <outline type="rss" text="la Repubblica: Commenti" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Arepubblica.it%2Fcommenti%2F&amp;hl=it&amp;gl=IT&amp;ceid=IT%3Ait" htmlUrl="https://news.google.com/search?q=when:168h+inurl:repubblica.it/commenti/&amp;hl=it&amp;gl=IT&amp;ceid=IT:it"/>
+    <outline type="rss" text="la Repubblica: Cultura" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Arepubblica.it%2Fcultura%2F&amp;hl=it&amp;gl=IT&amp;ceid=IT%3Ait" htmlUrl="https://news.google.com/search?q=when:168h+inurl:repubblica.it/cultura/&amp;hl=it&amp;gl=IT&amp;ceid=IT:it"/>
     <outline type="rss" text="La Tercera" xmlUrl="https://www.latercera.com/arcio/rss/" htmlUrl="https://www.latercera.com/arcio/rss/"/>
     <outline type="rss" text="La Tribune" xmlUrl="https://news.google.com/rss/search?hl=fr&amp;gl=FR&amp;ceid=FR%3Afr&amp;oc=11&amp;q=when%3A24h%20inurl%3Alatribune.fr" htmlUrl="https://news.google.com/search?hl=fr&amp;gl=FR&amp;ceid=FR:fr&amp;oc=11&amp;q=when:24h+inurl:latribune.fr"/>
     <outline type="rss" text="La Vanguardia" xmlUrl="https://www.lavanguardia.com/rss/home.xml" htmlUrl="https://www.lavanguardia.com/rss/home.xml"/>
@@ -244,8 +243,6 @@
     <outline type="rss" text="RFI" xmlUrl="https://www.rfi.fr/fr/rss" htmlUrl="https://www.rfi.fr/fr/rss"/>
     <outline type="rss" text="Rolling Stone" xmlUrl="https://www.rollingstone.com/feed/" htmlUrl="https://www.rollingstone.com"/>
     <outline type="rss" text="salon" xmlUrl="https://www.salon.com/feed/" htmlUrl="https://www.salon.com"/>
-    <outline type="rss" text="Salzburger Nachrichten" xmlUrl="https://www.sn.at/xml/rss" htmlUrl="https://www.sn.at/xml/rss"/>
-    <outline type="rss" text="Salzburger Nachrichten: Kultur" xmlUrl="https://www.sn.at/kultur/xml/rss" htmlUrl="https://www.sn.at/kultur/xml/rss"/>
     <outline type="rss" text="Saudi Gazette" xmlUrl="https://www.saudigazette.com.sa/rssFeed/0" htmlUrl="https://www.saudigazette.com.sa/"/>
     <outline type="rss" text="Science" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/loi/science?af=R"/>
     <outline type="rss" text="Science &amp; Vie" xmlUrl="https://www.science-et-vie.com/feed" htmlUrl="https://www.science-et-vie.com/"/>
