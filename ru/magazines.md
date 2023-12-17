@@ -317,6 +317,8 @@ Wszechświat:<br>
 
 BBC History - <https://magzdb.org/j/6121>
 
+History Today - <https://downmagaz.net/tags/History%20Today/>
+
 The American Historical Review - <https://archive.org/details/pub_american-historical-review?&sort=-date&page=2>
 
 The Journal of Modern History - <https://archive.org/details/pub_journal-of-modern-history?&sort=-date>
@@ -531,6 +533,8 @@ Le Monde diplomatique:<br>
 [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)<br>
 <http://magzdb.org/j/5941><br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
+
+Adbusters - <https://downmagaz.net/tags/Adbusters/>
 
 Socialist Worker - <https://www.socialist.ca/issues>
 

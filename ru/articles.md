@@ -115,7 +115,7 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 
 Российский Архив - <https://feb-web.ru/feb/rosarc/default.asp>
 
-BBC History Magazine - <https://www.historyextra.com/bbc-history-magazine/>
+BBC History - <https://www.historyextra.com/bbc-history-magazine/>
 
 Past & Present - <https://academic.oup.com/past/issue>
 
@@ -246,6 +246,8 @@ Rīgas Laiks - <https://ru.rigaslaiks.art/>
 <br><br>
 
 Book History - <https://muse.jhu.edu/journal/23>
+
+Neue Politische Literatur - <https://link.springer.com/journal/42520/volumes-and-issues>
 
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
 

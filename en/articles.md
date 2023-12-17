@@ -65,7 +65,7 @@ Review of Radical Political Economics - <https://journals.sagepub.com/home/rrp>
 <a id="history"></a>
 # Historical journals:
 
-BBC History Magazine - <https://www.historyextra.com/bbc-history-magazine/>
+BBC History - <https://www.historyextra.com/bbc-history-magazine/>
 
 Past & Present - <https://academic.oup.com/past/issue>
 
@@ -237,6 +237,8 @@ Rīgas Laiks - <https://ru.rigaslaiks.art/>
 <br><br>
 
 Book History - <https://muse.jhu.edu/journal/23>
+
+Neue Politische Literatur - <https://link.springer.com/journal/42520/volumes-and-issues>
 
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
 
