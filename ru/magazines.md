@@ -534,6 +534,8 @@ Le Monde diplomatique:<br>
 <http://magzdb.org/j/5941><br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
 
+Le Monde diplomatique DE - <https://de.downmagaz.net/tags/taz%20die%20tageszeitung/>
+
 Adbusters - <https://downmagaz.net/tags/Adbusters/>
 
 Socialist Worker - <https://www.socialist.ca/issues>
