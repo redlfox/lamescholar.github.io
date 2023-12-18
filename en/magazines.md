@@ -11,7 +11,9 @@ Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 
 New issues in PDF:
 
-[YggTorrent](https://www3.yggtorrent.qa/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+YggTorrent: Presse - https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search
+
+[YggTorrent: pack](https://www3.yggtorrent.qa/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 
 DownMagaz.NET - <https://downmagaz.net/>
 
@@ -224,6 +226,8 @@ Le Monde diplomatique:<br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
 
 Le Monde diplomatique DE - <https://de.downmagaz.net/tags/taz%20die%20tageszeitung/>
+
+Le Monde diplomatique IT - [MIRCrew](https://mircrew-releases.org/search.php?keywords=Il+Manifesto+Le+Monde+Diplomatique&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Cerca)
 
 Adbusters - <https://downmagaz.net/tags/Adbusters/>
 
