@@ -31,7 +31,7 @@ workerbee - <https://1337x.to/user/workerbee/>
 Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 <br><br>
 
-You can find English scientific journals by searching:
+You can find journals by searching:
 
 philosophy journals reddit
 

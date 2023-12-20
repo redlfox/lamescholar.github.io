@@ -45,11 +45,11 @@ workerbee - <https://1337x.to/user/workerbee/><br>
 Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 <br><br>
 
-Научные журналы на английском можно найти запросом в гугле:
+Журналы можно искать запросом в гугле:
 
 philosophy journals reddit
 
-Или ты можешь спросить у [ChatGPT](/ru/chatgpt):
+Или можно спросить у [ChatGPT](/ru/chatgpt):
 
 Перечисли журналы, похожие на Philosophy Now.
 <br><br>
