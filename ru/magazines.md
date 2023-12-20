@@ -426,8 +426,6 @@ Bücher - <https://de.downmagaz.net/tags/B%C3%BCcher/>
 Bücher am Sonntag - <https://www.nzz.ch/nzzas/nzz-am-sonntag/buecher-am-sonntag-ld.125422>
 
 Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
-
-Die Furche - <https://de.downmagaz.net/tags/Die%20Furche/>
 <br><br>
 
 <a id="linguistics"></a>
@@ -513,6 +511,10 @@ pro zukunft - <https://de.downmagaz.net/tags/Pro%20Zukunft/>
 Der Spiegel:<br>
 <https://de.downmagaz.net/tags/Der%20Spiegel/><br>
 <https://magzdb.org/j/1948>
+
+Die Zeit - <https://de.downmagaz.net/tags/Die%20Zeit/>
+
+Die Furche - <https://de.downmagaz.net/tags/Die%20Furche/>
 
 Cicero - <https://de.downmagaz.net/tags/Cicero/>
 
