@@ -227,8 +227,6 @@ Le Monde diplomatique:<br>
 
 Le Monde diplomatique DE - <https://de.downmagaz.net/tags/taz%20die%20tageszeitung/>
 
-Le Monde diplomatique IT - [MIRCrew](https://mircrew-releases.org/search.php?keywords=Il+Manifesto+Le+Monde+Diplomatique&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Cerca)
-
 Adbusters - <https://downmagaz.net/tags/Adbusters/>
 
 Socialist Worker - <https://www.socialist.ca/issues>
