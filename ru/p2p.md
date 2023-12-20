@@ -49,7 +49,7 @@ BTDigg - <https://btdig.com/index.htm>
 The Pirate Bay - <https://thepiratebay.org/index.html>
 <br><br>
 
-Часто раздачи содержат образы дисков(.iso, .mdf). Их монтируют, например, программой DAEMON Tools Lite.
+Часто раздачи содержат образы дисков (.iso, .mdf). Их монтируют, например, программой DAEMON Tools Lite.
 
 <https://www.daemon-tools.cc/rus/home>
 <br><br>
