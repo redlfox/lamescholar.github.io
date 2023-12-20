@@ -18,7 +18,7 @@ Explain word влиять.
 
 You can ask ChatGPT for a bibliography:
 
-Can you provide bibliography on vikings?
+Can you provide a bibliography on vikings?
 <br><br>
 
 <https://chat.openai.com/chat>
