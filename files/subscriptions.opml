@@ -23,7 +23,6 @@
     <outline type="rss" text="Bloomberg" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Abloomberg.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:bloomberg.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="Bookforum" xmlUrl="https://www.bookforum.com/rss" htmlUrl="https://www.bookforum.com/rss"/>
     <outline type="rss" text="BookReporter" xmlUrl="https://www.europeanaffairs.it/bookreporter/feed/" htmlUrl="https://www.europeanaffairs.it/bookreporter/feed/"/>
-    <outline type="rss" text="BuchMarkt" xmlUrl="https://buchmarkt.de/feed/" htmlUrl="https://buchmarkt.de"/>
     <outline type="rss" text="Canadian Dimension" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Acanadiandimension.com&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:672h+inurl:canadiandimension.com&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="CBSNews" xmlUrl="https://www.cbsnews.com/latest/rss/main" htmlUrl="https://www.cbsnews.com/"/>
     <outline type="rss" text="CGTN" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Acgtn.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:cgtn.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
