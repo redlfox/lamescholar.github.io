@@ -11,9 +11,9 @@ Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 
 New issues in PDF:
 
-Yggtorrent: Presse - https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search
+Yggtorrent: Presse - <https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search>
 
-Yggtorrent: Pack - https://www3.yggtorrent.qa/engine/search?name=Pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search
+Yggtorrent: Pack - <https://www3.yggtorrent.qa/engine/search?name=Pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search>
 
 DownMagaz.NET - <https://downmagaz.net/>
 
