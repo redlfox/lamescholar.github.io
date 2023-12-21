@@ -17,7 +17,7 @@ Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 
 YggTorrent: Presse - https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search
 
-[YggTorrent: pack](https://www3.yggtorrent.qa/engine/search?name=pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+YggTorrent: Pack - https://www3.yggtorrent.qa/engine/search?name=Pack&description=&file=&uploader=&category=2140&sub_category=2156&do=search
 
 DownMagaz.NET - <https://downmagaz.net/>
 
