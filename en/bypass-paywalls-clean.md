@@ -3,7 +3,6 @@ title: Bypass Paywalls Clean
 ---
 
 This extension removes [paywall](https://en.wikipedia.org/wiki/Paywall) from newspapers and magazines in Internet.
-<br><br>
 
 <https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean>
 
