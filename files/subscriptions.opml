@@ -238,6 +238,9 @@
     <outline type="rss" text="Revista de Libros" xmlUrl="https://www.revistadelibros.com/feed/" htmlUrl="https://www.revistadelibros.com/feed/"/>
     <outline type="rss" text="RFI" xmlUrl="https://www.rfi.fr/fr/rss" htmlUrl="https://www.rfi.fr/fr/rss"/>
     <outline type="rss" text="Rolling Stone" xmlUrl="https://www.rollingstone.com/feed/" htmlUrl="https://www.rollingstone.com"/>
+    <outline type="rss" text="Rzeczpospolita" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Arp.pl&amp;hl=pl&amp;gl=PL&amp;ceid=PL%3Apl" htmlUrl="https://news.google.com/search?q=when:24h+inurl:rp.pl&amp;hl=pl&amp;gl=PL&amp;ceid=PL:pl"/>
+    <outline type="rss" text="Rzeczpospolita: Historia" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Arp.pl/historia&amp;hl=pl&amp;gl=PL&amp;ceid=PL%3Apl" htmlUrl="https://news.google.com/search?q=when:672h+inurl:rp.pl/historia&amp;hl=pl&amp;gl=PL&amp;ceid=PL:pl"/>
+    <outline type="rss" text="Rzeczpospolita: Plus Minus" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Arp.pl/plus-minus/&amp;hl=pl&amp;gl=PL&amp;ceid=PL%3Apl" htmlUrl="https://news.google.com/search?q=when:672h+inurl:rp.pl/plus-minus/&amp;hl=pl&amp;gl=PL&amp;ceid=PL:pl"/>
     <outline type="rss" text="salon" xmlUrl="https://www.salon.com/feed/" htmlUrl="https://www.salon.com"/>
     <outline type="rss" text="Saudi Gazette" xmlUrl="https://www.saudigazette.com.sa/rssFeed/0" htmlUrl="https://www.saudigazette.com.sa/"/>
     <outline type="rss" text="Science" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=science" htmlUrl="https://www.science.org/loi/science?af=R"/>
@@ -385,6 +388,7 @@
     <outline type="rss" text="Reddit r/zizek" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=RedditBridge&amp;context=single&amp;r=zizek&amp;f=&amp;score=&amp;d=hot&amp;search=&amp;format=Atom" htmlUrl="https://www.reddit.com"/>
     <outline type="rss" text="resilience" xmlUrl="https://www.resilience.org/feed/" htmlUrl="https://www.resilience.org/"/>
     <outline type="rss" text="Revolutionary Left Radio" xmlUrl="https://feeds.libsyn.com/95194/rss" htmlUrl="http://revolutionaryleftradio.libsyn.com/website"/>
+    <outline type="rss" text="Small Press Reviews" xmlUrl="https://smallpressreviews.wordpress.com/feed/" htmlUrl="https://smallpressreviews.wordpress.com/feed/"/>
     <outline type="rss" text="Socialist Alliance - For the billions, not billionaires" xmlUrl="https://socialist-alliance.org/rss.xml" htmlUrl="https://socialist-alliance.org/rss.xml"/>
     <outline type="rss" text="Socialist Project" xmlUrl="https://socialistproject.ca/feed/" htmlUrl="https://socialistproject.ca/"/>
     <outline type="rss" text="spichka.media" xmlUrl="https://spichka.media/feed/" htmlUrl="https://spichka.media/"/>
