@@ -76,7 +76,7 @@ Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpa
 
 Done.
 
-With Bypass Paywalls Clean it's good to have adblock. uBlock Origin.
+Moreover it's good to have adblock. uBlock Origin.
 
 <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 <br><br>

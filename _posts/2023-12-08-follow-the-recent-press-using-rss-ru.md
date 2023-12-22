@@ -43,7 +43,7 @@ title: Как следить за недавней прессой с помощ�
 
 Готово.
 
-К Bypass Paywalls Clean до кучи хорошо иметь адблок. uBlock Origin.
+До кучи хорошо иметь адблок. uBlock Origin.
 
 <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 <br><br>
