@@ -2,7 +2,7 @@
 title: Журналы
 ---
 
-Новые выпуски:
+#### Новые выпуски:
 
 East View ([РГБ](/ru/librarycard)) - <https://passport.rsl.ru/netres/>
 
@@ -13,7 +13,7 @@ PressReader - <https://www-pressreader-com.i.ezproxy.nypl.org/catalog>
 Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 <br><br>
 
-Новые выпуски в PDF:
+#### Новые выпуски в PDF:
 
 Yggtorrent: Presse - <https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search>
 
