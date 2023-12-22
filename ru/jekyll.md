@@ -17,7 +17,7 @@ Git - <https://git-scm.com/download/win>
 Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 <br><br>
 
-# Создание сайта
+#### Создание сайта
 
 Создай репозиторий с названием username.github.io (вместо username использую твой username на GitHub).
 
@@ -42,22 +42,22 @@ git push -u origin main
 Источник: <https://docs.github.com/ru/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll>
 <br><br>
 
-# Информация на сайте
+#### Информация на сайте
 
 В файле _config.yml заполняешь title, author, email, url, description (его можно удалить). В файле about.markdown прописываешь описание сайта.
 <br><br>
 
-# Создание страницы
+#### Создание страницы
 
 Создай .md файл в папке сайта. Например, page.md. Тогда на твоём сайте появится страничка по адресу https://username.github.io/page. Можешь поместить файл в папку folder.  Тогда на твоём сайте появится страничка по адресу https://username.github.io/folder/page.
 <br><br>
 
-# Создание поста
+#### Создание поста
 
 <https://jekyllrb.com/docs/posts/>
 <br><br>
 
-# Форматирование
+#### Форматирование
 
 ```
 1) Жирный текст - **жирный текст**
@@ -66,22 +66,22 @@ git push -u origin main
 ---
 title: Заглавие
 ---
-4) Заголовок - # текст заголовка
-5) Подзаголовок - #### текст подзаголовка
+4) Заголовок - #### текст заголовка
+5) Подзаголовок - ################ текст подзаголовка
 6) Новый абзац - пустая строка
 7) Выделение ссылки - <ссылка>
 8) Ссылка - [текст](ссылка)
 9) Ссылка на страницу сайта: [текст](/папка/страница)
 10) Ссылка на место в тексте:
-[Place](#place)
+[Place](####place)
 
 <a id="place"></a>
 11) Содержание:
-# Содержание
-[Введение](#introduction)
+#### Содержание
+[Введение](####introduction)
 
 <a id="introduction"></a>
-# Введение
+#### Введение
 12) Разрыв строки - <br>
 13) Пустая строка (двойной разрыв строки) - <br><br>
 14) Сноска:
@@ -104,7 +104,7 @@ title: Заглавие
 <https://www.markdownguide.org/basic-syntax/>
 <br><br>
 
-# Добавление картинки
+#### Добавление картинки
 
 Допустим, ты положил картинку image.png в папку images. Чтобы отобразить её на странице, пропиши:
 
@@ -129,24 +129,24 @@ title: Заглавие
 ```
 <br>
 
-# Добавление аудио
+#### Добавление аудио
 
 <https://stackoverflow.com/questions/63701944/how-to-embed-audio-into-a-jekyll-blog>
 <br><br>
 
-# Добавление видео
+#### Добавление видео
 
 <https://github.com/nathancy/jekyll-embed-video>
 
 <https://stackoverflow.com/questions/48876911/embedded-local-mp4-not-playing-in-chrome-when-running-jekyll-serve-econnreset>
 <br><br>
 
-# Добавление иконки сайта
+#### Добавление иконки сайта
 
 <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>
 <br><br>
 
-# Обновление сайта
+#### Обновление сайта
 
 Win+R cmd
 
@@ -160,7 +160,7 @@ git push
 Можно создать .bat файл и поместить в него эти команды. Тогда коммит можно сделать двумя кликами. Чтобы командная строка не закрывалась сразу после выполнения команд, добавь команду pause.
 <br><br>
 
-# Запуск сайта локально
+#### Запуск сайта локально
 
 Во избежание ошибки, необходимо добавить webrick в Gemfile:
 
@@ -179,7 +179,7 @@ bundle exec jekyll serve
 Проходишь по выданному адресу.
 <br><br>
 
-# Фильтрация зоны навигации (правый верхний угол)
+#### Фильтрация зоны навигации (правый верхний угол)
 
 Прописываешь в _config.yml:
 
@@ -189,7 +189,7 @@ header_pages:
 ```
 <br>
 
-# Изменение размера заглавия
+#### Изменение размера заглавия
 
 Заходишь в папку minima. На Windows она находится где-то здесь:
 
