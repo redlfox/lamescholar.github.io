@@ -18,7 +18,7 @@ Letterboxd - <https://letterboxd.com/>
 
 Компьютерный форум Ru.Board - <http://forum.ru-board.com/>
 
-Лаборатория Фантастики - <http://fantlab.ru/>
+Лаборатория Фантастики - <https://fantlab.ru/>
 
 Научный форум dxdy - <https://dxdy.ru/>
 
