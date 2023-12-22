@@ -46,7 +46,7 @@ Here's the page on GitHub.
 
 <https://github.com/nkanaev/yarr>
 
-But since the last release there was a significant change. So it's better to use recently compiled exe. Here's the one compiled by me:
+Since the last release there was a significant change. So it's better to use recently compiled exe. Here's the one compiled by me:
 
 <https://lamescholar.github.io/files/yarr.exe>
 
