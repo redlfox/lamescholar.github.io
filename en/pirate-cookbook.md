@@ -83,6 +83,8 @@ Pirate Cookbook is my collection of guides on piracy and book digitization. For 
 
 [Sci-Hub](/en/sci-hub)
 
+[Search engines](/en/search-engines)
+
 [Translation](/en/translation)
 
 [VPN](/en/vpn)
