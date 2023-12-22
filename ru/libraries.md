@@ -110,7 +110,7 @@ Henry's Bibliothek:
 
 [Философия](#philosophy)
 
-[Художественная литература](####fiction)
+[Художественная литература](#fiction)
 <br><br>
 
 <a id="national"></a>
