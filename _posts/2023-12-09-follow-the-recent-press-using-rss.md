@@ -24,7 +24,7 @@ Buy a virtual server. Connect to it through MobaXterm:
 
 <https://mobaxterm.mobatek.net/download.html>
 
-Enter commands (Shift+Insert):
+Enter in MobaXterm (Shift+Insert):
 
 ```
 apt update
