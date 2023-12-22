@@ -102,4 +102,4 @@ Guide on RSS in general:
 <https://lamescholar.github.io/ru/rss>
 <br><br>
 
-As a result we got free (not counting VPN) access to recent publications from hundreds of sources.
+In the end we get free (not counting VPN) access to recent publications from hundreds of sources.
