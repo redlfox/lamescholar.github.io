@@ -5,7 +5,7 @@ title: Газеты
 [Журналы](/ru/magazines)
 <br><br>
 
-# Поиск:
+#### Поиск:
 
 Архив Прессы РФ 1995- 2008:
 
@@ -33,9 +33,9 @@ Google News - <https://news.google.com/newspapers>
 Журналы и газеты на рутрекере - <https://rutracker.org/forum/viewforum.php?f=31>
 <br><br>
 
-# Агрегаторы новостей:
+#### Агрегаторы новостей:
 
-eurotopics - <https://www.eurotopics.net/ru/#>
+eurotopics - <https://www.eurotopics.net/ru/####>
 
 True Story - <https://thetruestory.news/>
 
@@ -46,7 +46,7 @@ True Story - <https://thetruestory.news/>
 ИноСМИ: Наука - <https://inosmi.ru/science/>
 <br><br>
 
-# Информационные агентства:
+#### Информационные агентства:
 
 Интерфакс - <https://www.interfax.ru/>
 
@@ -55,7 +55,7 @@ True Story - <https://thetruestory.news/>
 ТАСС - <https://tass.ru/search>
 <br><br>
 
-# Новостные интернет-издания:
+#### Новостные интернет-издания:
 
 Lenta.ru - <https://lenta.ru/archive/>
 
@@ -66,7 +66,7 @@ Meduza - <https://meduza.io/articles>
 Свободная пресса - <https://svpressa.ru/all/news-archive/>
 <br><br>
 
-# Онлайн газеты на русском:
+#### Онлайн газеты на русском:
 
 РАН. СО РАН. Сибирь - Дайджест прессы - <http://www.prometeus.nsc.ru/science/digest/>
 
@@ -111,7 +111,7 @@ Meduza - <https://meduza.io/articles>
 Российская газета - <https://rg.ru/gazeta/rg/svezh>
 <br><br>
 
-# Газеты на русском в PDF:
+#### Газеты на русском в PDF:
 
 Троицкий вариант — Наука - <https://rutracker.org/forum/viewtopic.php?t=6408326>
 
@@ -189,7 +189,7 @@ Meduza - <https://meduza.io/articles>
 Новая жизнь - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126741>
 <br><br>
 
-# Агрегаторы новостей на других языках:
+#### Агрегаторы новостей на других языках:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
@@ -198,7 +198,7 @@ RealClearBooks - <https://www.realclearbooks.com/>
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
-# Новостные интернет-издания на других языках:
+#### Новостные интернет-издания на других языках:
 
 Pew Research Center - <https://www.pewresearch.org/publications/>
 
@@ -209,7 +209,7 @@ Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
 Bloomberg - <https://www.bloomberg.com/>
 <br><br>
 
-# Онлайн газеты на других языках:
+#### Онлайн газеты на других языках:
 
 The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 
@@ -258,7 +258,7 @@ La Voz: Numero Cero - <https://www.lavoz.com.ar/numero-cero/>
 The Asahi Shimbun - <https://www.asahi.com/ajw/>
 <br><br>
 
-# Газеты из баз [NYPL](/ru/nypl):
+#### Газеты из баз [NYPL](/ru/nypl):
 
 EBSCO - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspaper+Source&page=1>
 
@@ -279,7 +279,7 @@ Communist Historical Newspaper Collection - <https://www.nypl.org/research/colle
 The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 <br><br>
 
-# Газеты на других языках в PDF:
+#### Газеты на других языках в PDF:
 
 The New York Times - <https://forum.mobilism.org/search.php?keywords=the+new+york+times&sr=topics&sf=titleonly>
 

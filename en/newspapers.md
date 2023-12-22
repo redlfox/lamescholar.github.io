@@ -5,14 +5,14 @@ title: Newspapers
 [Magazines](/en/magazines)
 <br><br>
 
-# Search:
+#### Search:
 
 Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
 
 Google News - <https://news.google.com/newspapers>
 <br><br>
 
-# News aggregators:
+#### News aggregators:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
@@ -21,7 +21,7 @@ RealClearBooks - <https://www.realclearbooks.com/>
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
-# News sites:
+#### News sites:
 
 Pew Research Center - <https://www.pewresearch.org/publications/>
 
@@ -32,7 +32,7 @@ Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
 Bloomberg - <https://www.bloomberg.com/>
 <br><br>
 
-# Online newspaper:
+#### Online newspaper:
 
 The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 
@@ -85,7 +85,7 @@ La Voz: Numero Cero - <https://www.lavoz.com.ar/numero-cero/>
 The Asahi Shimbun - <https://www.asahi.com/ajw/>
 <br><br>
 
-# Newspapers from [NYPL](/en/nypl) databases:
+#### Newspapers from [NYPL](/en/nypl) databases:
 
 EBSCO - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspaper+Source&page=1>
 
@@ -106,7 +106,7 @@ Communist Historical Newspaper Collection - <https://www.nypl.org/research/colle
 The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 <br><br>
 
-# Newspapers in PDF:
+#### Newspapers in PDF:
 
 The New York Times - <https://forum.mobilism.org/search.php?keywords=the+new+york+times&sr=topics&sf=titleonly>
 
