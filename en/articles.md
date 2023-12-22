@@ -231,11 +231,6 @@ Internationale: Libri - <https://www.internazionale.it/tag/libri>
 Rīgas Laiks - <https://ru.rigaslaiks.art/>
 <br><br>
 
-Internationale: Libri - <https://www.internazionale.it/tag/libri>
-
-Rīgas Laiks - <https://ru.rigaslaiks.art/>
-<br><br>
-
 Book History - <https://muse.jhu.edu/journal/23>
 
 Neue Politische Literatur - <https://link.springer.com/journal/42520/volumes-and-issues>
