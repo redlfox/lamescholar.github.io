@@ -4,13 +4,13 @@ title: FB2, EPUB
 
 #### Reading:
 
-Computer:
+**Computer:**
 
 Calibre 4.23.0 - <https://download.calibre-ebook.com/4.23.0/>
 
 Alt+Left - return to the previous position in the book. Esc - menu. Suitable font size is usually 15 px. Sometimes it's 19 px. Preferences. Page Layout->Landscape: 1. Scrolling behavior->Miscellaneous->Show scrollbar. Miscellaneous->Remember last used window size and position. Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy sharing. Untick.
 
-Phone:
+**Phone:**
 
 eBoox
 
