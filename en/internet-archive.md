@@ -8,7 +8,7 @@ title: Internet Archive
 With that Python script you can download any book from Internet Archive. In case of copyrighted books, the script uses 1 hour loan to download pages of the book. To convert images to PDF, the script uses img2pdf package. But it creates big PDF file. So I recommend you to keep -j setting at the end of the command to get only the images. I list three options how you can efficiently convert them into PDF or DjVu.
 <br><br>
 
-Requirements to install:
+#### Requirements to install:
 
 Git - <https://git-scm.com/download/win>
 
@@ -17,7 +17,7 @@ Python - <https://www.python.org/downloads/>
 Tick Add python.exe to PATH while downloading Python.
 <br><br>
 
-Installation:
+#### Installation:
 
 Win+R cmd
 
@@ -34,7 +34,7 @@ To use you need to register.
 <https://archive.org/account/signup>
 <br><br>
 
-Usage:
+#### Usage:
 
 Win+R cmd
 
@@ -137,7 +137,7 @@ Look [DjVu](/en/djvu).
 Don't forget to delete folders with images.
 <br><br>
 
-Publish your book:
+#### Publish your book:
 
 Library Genesis - <https://library.bz/main/upload/>
 

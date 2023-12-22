@@ -2,7 +2,7 @@
 title: Audiobooks
 ---
 
-Sources:
+#### Sources:
 
 AudioBook Bay - <https://audiobookbay.is/member/advanced_search>
 
@@ -19,16 +19,16 @@ AppData\Roaming\mIRC\scripts
 HexChat - <https://hexchat.github.io/downloads.html>
 <br><br>
 
-Programs:
+#### Programs:
 
 Winamp - <https://www.winamp.com/downloads/>
 <br><br>
 
-Audiobook with subtitles
+#### Audiobook with subtitles
 
-Suppose you found audiobook in German. It can be translated to English.
+Suppose you found audiobook in German. It can be translated into English.
 
-You have mp3 and cover.
+You have mp3 and cover of audiobook.
 
 1. Make subtitles (1.srt) out of mp3 with [subsai](/en/whisper).
 

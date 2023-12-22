@@ -2,7 +2,7 @@
 title: Аудиокниги
 ---
 
-Источники:
+#### Источники:
 
 AudioBook Bay - <https://audiobookbay.is/member/advanced_search>
 
@@ -21,16 +21,16 @@ AppData\Roaming\mIRC\scripts
 HexChat - <https://hexchat.github.io/downloads.html>
 <br><br>
 
-Программы:
+#### Программы:
 
 Winamp - <https://www.winamp.com/downloads/>
 <br><br>
 
-Аудиокнига с субтитрами
+#### Аудиокнига с субтитрами
 
 Допустим, ты нашёл аудиокнигу на немецком. Её можно перевести на английский (на русский перевод хуже).
 
-У тебя mp3 и обложка.
+У тебя mp3 и обложка аудиокниги.
 
 1. С помощью [subsai](/ru/whisper) из mp3 делаешь субтитры (1.srt).
 
