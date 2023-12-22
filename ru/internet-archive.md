@@ -34,7 +34,7 @@ pip install -r requirements.txt
 <https://archive.org/account/signup>
 <br><br>
 
-#### Скачивание картинок
+#### Скачивание картинок:
 
 Win+R cmd
 
@@ -88,7 +88,7 @@ Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 и�
 Start Batch.
 <br><br>
 
-#### Кодирование картинок в PDF-файл
+#### Кодирование картинок в PDF-файл:
 
 **Вариант №1:**
 

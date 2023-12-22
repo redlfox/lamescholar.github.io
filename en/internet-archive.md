@@ -34,7 +34,7 @@ To use you need to register.
 <https://archive.org/account/signup>
 <br><br>
 
-#### Downloading images
+#### Downloading images:
 
 Win+R cmd
 
@@ -88,7 +88,7 @@ Choose output folder.
 Start Batch.
 <br><br>
 
-#### Encoding images into PDF file
+#### Encoding images into PDF file:
 
 **Option №1:**
 
