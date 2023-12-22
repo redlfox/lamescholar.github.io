@@ -34,7 +34,7 @@ pip install -r requirements.txt
 <https://archive.org/account/signup>
 <br><br>
 
-#### Использование:
+#### Скачивание картинок
 
 Win+R cmd
 
@@ -43,6 +43,15 @@ cd C:\Archive.org-Downloader
 python archive-org-downloader.py -e email -p пароль -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j
 ```
 <br>
+
+На данном этапе можно обработать картинки в Scan Tailor и кодировать их в DjVu-файл программой DjVu Small Mod.
+
+См. [DjVu](/ru/djvu).
+
+Или можно произвести цветокоррекцию и кодировать картинки в PDF-файл.
+<br><br>
+
+#### Цветокоррекция
 
 Если сканы тёмные, а текст блеклый, в программе IrfanView можно использовать инструменты цветокоррекции Contrast и Gamma correction. Я использую следующую сетку значений (первый столбик - Contrast, второй - Gamma correction):
 
@@ -79,7 +88,9 @@ Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 и�
 Start Batch.
 <br><br>
 
-Преобразование JPG в PDF:
+#### Кодирование картинок в PDF-файл
+
+**Вариант №1:**
 
 LuraTech PDF Compressor - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
@@ -104,12 +115,8 @@ Quality: 10
 Программа не распознаёт русский язык.
 
 ABBYY Finereader (текстовый слой) - <https://btdig.com/db98398f6d1c9bbd4c8ac905dc30abb5f9e4b704/abbyy-finereader-kpojiuk>
-<br><br>
 
-или
-<br><br>
-
-Преобразование JPG в PDF:
+**Вариант №2:**
 
 Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5480244>
 
@@ -126,16 +133,6 @@ PDF на выходе: ClearScan
 300 dpi
 
 Файл->Сохранить.
-<br><br>
-
-или
-<br><br>
-
-Преобразование JPG в DjVu:
-
-Обработка JPG-картинок в Scan Tailor.
-
-См. [DjVu](/ru/djvu).
 <br><br>
 
 Не забудь удалить папки с картинками.

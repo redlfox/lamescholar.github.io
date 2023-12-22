@@ -34,7 +34,7 @@ To use you need to register.
 <https://archive.org/account/signup>
 <br><br>
 
-#### Usage:
+#### Downloading images
 
 Win+R cmd
 
@@ -43,6 +43,15 @@ cd C:\Archive.org-Downloader
 python archive-org-downloader.py -e email -p password -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j
 ```
 <br>
+
+On this stage you can process images in Scan Tailor and encode them into DjVu file with DjVu Small Mod.
+
+Look [DjVu](/en/djvu).
+
+Or you can do a color correction and encode images into PDF.
+<br><br>
+
+#### Color correction
 
 If the scans are dark and the text is faded, you can use Contrast and Gamma correction color correction tools in the IrfanView program. I use the following grid of values (the first column is Contrast, the second is Gamma correction):
 
@@ -79,7 +88,9 @@ Choose output folder.
 Start Batch.
 <br><br>
 
-JPG to PDF:
+#### Encoding images into PDF file
+
+**Option №1:**
 
 LuraTech PDF Compressor - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
@@ -100,12 +111,8 @@ or
 Profile: B/W
 
 Quality: 10
-<br><br>
 
-or
-<br><br>
-
-JPG to PDF:
+**Option №2:**
 
 Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5480244>
 
@@ -122,16 +129,6 @@ PDF Output Style: ClearScan
 300 dpi
 
 File->Save.
-<br><br>
-
-or
-<br><br>
-
-JPG to DjVu:
-
-Image processing in Scan Tailor.
-
-Look [DjVu](/en/djvu).
 <br><br>
 
 Don't forget to delete folders with images.
