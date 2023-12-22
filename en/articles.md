@@ -2,7 +2,7 @@
 title: Articles
 ---
 
-# Full text:
+Full text:
 
 Google Schoolar - <https://scholar.google.com/>
 
