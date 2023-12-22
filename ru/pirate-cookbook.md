@@ -5,7 +5,7 @@ title: Поваренная книга пирата
 Поваренная книга пирата - моя коллекция гайдов по пиратству и оцифровке книг. Подробнее смотри [Привет](/ru/hello).
 <br><br>
 
-[Bulletin Board Systems](/en/bbs)
+[Bulletin Board Systems](/ru/bbs)
 
 [Bypass Paywalls Clean](/ru/bypass-paywalls-clean)
 
