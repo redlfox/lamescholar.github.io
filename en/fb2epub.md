@@ -2,7 +2,7 @@
 title: FB2, EPUB
 ---
 
-Reading:
+#### Reading:
 
 Computer:
 
@@ -19,12 +19,12 @@ Translation - Yandex Translator
 PDF and DjVu - Pocketbook
 <br><br>
 
-Recognition:
+#### Recognition:
 
 ABBYY Finereader PDF 15 - <https://rutracker.org/forum/viewtopic.php?t=6040898>
 <br><br>
 
-FB2 creation:
+#### FB2 creation:
 
 <https://www.youtube.com/@andreilazarov8881/videos>
 
@@ -37,7 +37,7 @@ FictionBook Editor 2.6.6:
 If text is blurry, use compatibility settings as described for WinDjView. Look [DjVu](/en/djvu).
 <br><br>
 
-Convertion:
+#### Convertion:
 
 LibreOffice - <https://www.libreoffice.org/download/download/?lang=ru>
 
@@ -56,13 +56,13 @@ HTM->DOCX
 HTM->EPUB
 <br><br>
 
-Publish your book:
+#### Publish your book:
 
 Flibusta - <http://flibusta.is/a>
 
 Library Genesis - <https://library.bz/fiction/upload/>
 <br><br>
 
-Information:
+#### Information:
 
 <https://fb2-reader.ru/>

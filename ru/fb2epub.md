@@ -2,7 +2,7 @@
 title: FB2, EPUB
 ---
 
-Чтение:
+#### Чтение:
 
 Компьютер:
 
@@ -19,12 +19,12 @@ eBoox
 PDF и DjVu - Pocketbook
 <br><br>
 
-Распознание:
+#### Распознание:
 
 ABBYY Finereader PDF 15 - <https://rutracker.org/forum/viewtopic.php?t=6040898>
 <br><br>
 
-Создание FB2:
+#### Создание FB2:
 
 <https://www.youtube.com/@andreilazarov8881/videos>
 
@@ -37,7 +37,7 @@ FictionBook Editor 2.6.6:
 При расплывчатом тексте те же настройки совместимости, что и для WinDjView. См. [DjVu](/ru/djvu).
 <br><br>
 
-Конвертация:
+#### Конвертация:
 
 LibreOffice - <https://www.libreoffice.org/download/download/?lang=ru>
 
@@ -56,13 +56,13 @@ HTM->DOCX
 HTM->EPUB
 <br><br>
 
-Где опубликовать книгу:
+#### Где опубликовать книгу:
 
 Флибуста - <http://flibusta.is/a>
 
 Library Genesis - <https://library.bz/fiction/upload/>
 <br><br>
 
-Информация:
+#### Информация:
 
 <https://fb2-reader.ru/>
