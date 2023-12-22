@@ -38,9 +38,7 @@ Fix the phone on the support. Turn on the lamp. Put the book so that one page co
 
 #### Method №2. Scanning
 
-**You need:**
-
-Scanner
+You need only a scanner.
 
 Second-hand scanners are cheap.
 
