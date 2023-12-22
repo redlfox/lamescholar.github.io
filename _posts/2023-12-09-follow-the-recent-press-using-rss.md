@@ -9,11 +9,11 @@ title: How to follow the recent press using RSS?
 Author: lamescholar - 2023-12-09
 <br><br>
 
-3 elements:
+**3 things are needed:**
 
 1) VPN in case there is a strong censorship in your country
 
-2) Bypass Paywalls Clean to bypass paywall
+2) Bypass Paywalls Clean extension to bypass paywall
 
 3) List of RSS feeds + RSS reader to collect news from news sites
 <br><br>
