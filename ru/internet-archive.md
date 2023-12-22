@@ -53,7 +53,7 @@ python archive-org-downloader.py -e email -p пароль -r 0 -u https://archiv
 
 #### Цветокоррекция
 
-Если сканы тёмные, а текст блеклый, в программе IrfanView можно использовать инструменты цветокоррекции Contrast и Gamma correction. Я использую следующую сетку значений (первый столбик - Contrast, второй - Gamma correction):
+Если сканы тёмные, а текст блеклый, можно использовать инструменты цветокоррекции Contrast и Gamma correction в программе IrfanView . Я использую следующую сетку значений (первый столбик - Contrast, второй - Gamma correction):
 
 90 4.00
 
