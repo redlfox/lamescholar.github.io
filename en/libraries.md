@@ -48,7 +48,7 @@ Henry's Bibliothek:
 <https://btdig.com/9be384b7b8b4bf4e7d1ee4f18734766847363256/henrys.bibliothek>
 <br><br>
 
-# Libraries by topic
+#### Libraries by topic
 
 [National](#national)
 
@@ -62,7 +62,7 @@ Henry's Bibliothek:
 <br><br>
 
 <a id="national"></a>
-# National:
+#### National
 
 Україніка - <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 
@@ -122,7 +122,7 @@ KBR - Belgicapress - <https://www.belgicapress.be/>
 <br><br>
 
 <a id="history"></a>
-# History:
+#### History
 
 Digital Handbook for Research on Soviet History - <https://dccollection.share.library.harvard.edu/openaccess>
 
@@ -140,22 +140,23 @@ U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/
 <br><br>
 
 <a id="philosophy"></a>
-# Philosophy
+#### Philosophy
 
 Early Modern Philosophy - <https://www.earlymoderntexts.com/texts>
+<br><br>
 
 <a id="psychology"></a>
-# Psychology:
+#### Psychology
 
 Classics in the History of Psychology - <http://psychclassics.yorku.ca/index.htm>
 <br><br>
 
 <a id="society"></a>
-# Society:
+#### Society
 
 Electronic Enlightenment - <http://www.e-enlightenment.com.i.ezproxy.nypl.org/browse/>
 
-Memory of the World Library - <https://library.memoryoftheworld.org/#/books>
+Memory of the World Library - <https://library.memoryoftheworld.org/####/books>
 
 Monoscop - <https://monoskop.org/Monoskop>
 
@@ -192,7 +193,7 @@ mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
 
 HexChat - <https://hexchat.github.io/downloads.html>
 
-Join #ebooks on IRCHighway or #bookz on Undernet.
+Join ####ebooks on IRCHighway or ####bookz on Undernet.
 
 <https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/>
 <br><br>

@@ -59,7 +59,7 @@ philosophy journals reddit
 <https://rutracker.org/forum/viewforum.php?f=31>
 <br><br>
 
-# Журналы по темам
+#### Журналы по темам
 
 [Естественно-научные журналы](#natural)
 
@@ -84,7 +84,7 @@ philosophy journals reddit
 <br>
 
 <a id="natural"></a>
-# Естественно-научные журналы:
+#### Естественно-научные журналы:
 
 Вестник Императорской Академии наук Санкт-Петербурга:<br>
 <https://www.biodiversitylibrary.org/bibliography/11493#/summary><br>
@@ -204,7 +204,7 @@ Wszechświat:<br>
 <br><br>
 
 <a id="art"></a>
-# Искусство:
+#### Искусство
 
 Искусство кино:<br>
 <https://rutracker.org/forum/viewtopic.php?t=6125405><br>
@@ -221,7 +221,7 @@ Wszechświat:<br>
 <br><br>
 
 <a id="history"></a>
-# Исторические журналы:
+#### Исторические журналы:
 
 Вестник древней истории - <https://rutracker.org/forum/viewtopic.php?t=3650861>
 
@@ -331,7 +331,7 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379>
 <br><br>
 
 <a id="literary"></a>
-# Литературные журналы:
+#### Литературные журналы:
 
 <https://rutracker.org/forum/viewforum.php?f=2193>
 
@@ -429,13 +429,13 @@ Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
 <br><br>
 
 <a id="linguistics"></a>
-# Лингвистика:
+#### Лингвистика
 
 Новое в зарубежной лингвистике - <https://rutracker.org/forum/viewtopic.php?t=2510902>
 <br><br>
 
 <a id="society"></a>
-# Общество:
+#### Общество
 
 Архивный поиск - <https://www.arran.ru/node/880>
 
@@ -572,7 +572,7 @@ Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&s
 <br><br>
 
 <a id="philosophy"></a>
-# Философские журналы:
+#### Философские журналы:
 
 Под знаменем марксизма - <https://istmat.org/node/51846>
 
@@ -602,7 +602,7 @@ Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philoso
 <br><br>
 
 <a id="economy"></a>
-# Экономические журналы:
+#### Экономические журналы:
 
 Вопросы экономики - <https://rutracker.org/forum/viewtopic.php?t=5301855>
 

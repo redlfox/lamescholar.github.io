@@ -14,7 +14,7 @@ A Series of Series - <https://seriesofseries.com/>
 {: refdef}
 <br>
 
-# Book series by topic
+#### Book series by topic
 
 [Art](#art)
 
@@ -30,7 +30,7 @@ A Series of Series - <https://seriesofseries.com/>
 <br><br>
 
 <a id="art"></a>
-# Art:
+#### Art
 
 ART-COLLECTOR.RU Pictures Archive - <https://rutracker.org/forum/viewtopic.php?t=939626>
 
@@ -42,7 +42,7 @@ History of XX century in B/W photos:
 <br><br>
 
 <a id="fiction"></a>
-# Fiction:
+#### Fiction
 
 Delphi Complete - <https://libgen.is/search.php?req=Delphi+Complete&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
@@ -68,7 +68,7 @@ Bibliothèque de la Pléiade - <https://www3.yggtorrent.wtf/torrent/ebook/livres
 <br><br>
 
 <a id="history"></a>
-# History:
+#### History
 
 The Cambridge Ancient History
 
@@ -82,7 +82,7 @@ Annals of America - <https://rutracker.org/forum/viewtopic.php?t=6444536>
 <br><br>
 
 <a id="math"></a>
-# Math:
+#### Math
 
 Graduate Studies in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6299486>
 
@@ -98,7 +98,7 @@ Mathematischen Schülerbücherei - <https://mathematikalpha.de/schuelerbuecherei
 <br><br>
 
 <a id="philosophy"></a>
-# Philosophy:
+#### Philosophy
 
 Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
 
@@ -108,7 +108,7 @@ Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0
 <br><br>
 
 <a id="society"></a>
-# Society:
+#### Society
 
 {:refdef: style="text-align: center;"}
 ![MELS](/images/mels.jpg)

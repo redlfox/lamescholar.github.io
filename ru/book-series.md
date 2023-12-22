@@ -32,7 +32,7 @@ A Series of Series - <https://seriesofseries.com/>
 Некоторые фамилии: Алексин, Бахтин, Белинский, Бёлль, Борхес, Булгаков, Верн, Вернадский, Гашек, Герцен, Гессе, Горький, Гюго, Дарвин, Диккенс, Дойль, Достоевский, Зомбарт, Зощенко, Ильенков, Ильф и Петров, Камю, Кант, Ключевский, Куприн, Лем, Ленин, Лесков, Ломоносов, Лондон, Лосев, Маркс и Энгельс, Маршак, Маяковский, Миклухо-Маклай, Некрасов, Ницше, Павлов, Плеханов, Пушкин, Радищев, Салтыков-Щедрин, Скотт, Сталин, Стендаль, Стругацкие, Твен, Толстой Л.А., Толстой Л.Н., Троцкий, Успенский, Уэллс, Форш, Чапек, Чернышевский, Чехов, Шекспир, Шопенгауэр.
 <br><br>
 
-# Книжные серии по темам
+#### Книжные серии по темам
 
 [Естественные науки](#natural)
 
@@ -50,7 +50,7 @@ A Series of Series - <https://seriesofseries.com/>
 <br><br>
 
 <a id="natural"></a>
-# Естественные науки:
+#### Естественные науки
 
 Библиотека «Математическое просвещение» - <https://www.mccme.ru/mmmf-lectures/books/>
 
@@ -118,7 +118,7 @@ Mathematischen Schülerbücherei - <https://mathematikalpha.de/schuelerbuecherei
 <br><br>
 
 <a id="art"></a>
-# Искусство:
+#### Искусство
 
 Жизнь в искусстве - <https://rutracker.org/forum/viewtopic.php?t=5563679>
 
@@ -144,7 +144,7 @@ History of XX century in B/W photos:
 <br><br>
 
 <a id="history"></a>
-# История:
+#### История
 
 Архив русской революции - <https://rutracker.org/forum/viewtopic.php?t=6375886>
 
@@ -196,7 +196,7 @@ Annals of America - <https://rutracker.org/forum/viewtopic.php?t=6444536>
 <br><br>
 
 <a id="society"></a>
-# Общество:
+#### Общество
 
 {:refdef: style="text-align: center;"}
 ![MELS](/images/mels.jpg)
@@ -236,7 +236,7 @@ Historical Materialism Briil - <https://libgen.is/search.php?&req=Historical+Mat
 <br><br>
 
 <a id="philosophy"></a>
-# Философия:
+#### Философия
 
 Мыслители прошлого - <https://rutracker.org/forum/viewtopic.php?t=3544909>
 
@@ -258,7 +258,7 @@ Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0
 <br><br>
 
 <a id="fiction"></a>
-# Художественная литература:
+#### Художественная литература
 
 Библиотека античной литературы - <https://rutracker.org/forum/viewtopic.php?t=5875194>
 
@@ -366,7 +366,7 @@ Bibliothèque de la Pléiade - <https://www3.yggtorrent.qa/torrent/ebook/livres/
 <br><br>
 
 <a id="chess"></a>
-# Шахматы:
+#### Шахматы
 
 Библиотечка шахматиста:
 

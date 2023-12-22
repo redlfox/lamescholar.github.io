@@ -31,7 +31,7 @@ Oxford Academic - <https://academic-oup-com.i.ezproxy.nypl.org/>
 Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
 <br><br>
 
-# Журналы по темам
+#### Журналы по темам
 
 [Естественно-научные журналы](#natural)
 
@@ -49,7 +49,7 @@ Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
 <br><br>
 
 <a id="natural"></a>
-# Естественно-научные журналы:
+#### Естественно-научные журналы:
 
 Наука и жизнь - <https://www.nkj.ru/news/>
 
@@ -93,7 +93,7 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <br><br>
 
 <a id="art"></a>
-# Искусство:
+#### Искусство
 
 Кругозор - <http://www.krugozor-kolobok.ru/>
 
@@ -101,7 +101,7 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <br><br>
 
 <a id="history"></a>
-# Исторические журналы:
+#### Исторические журналы:
 
 Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
 
@@ -135,7 +135,7 @@ Historische Zeitschrift - <https://www.jstor.org/journal/histzeit>
 <br><br>
 
 <a id="literary"></a>
-# Литературные журналы:
+#### Литературные журналы:
 
 «Горький»: Журналы - <https://magazines.gorky.media/>
 
@@ -175,7 +175,7 @@ Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.d
 <br><br>
 
 <a id="society"></a>
-# Общество:
+#### Общество
 
 Профиль - <https://profile.ru/news/>
 
@@ -295,7 +295,7 @@ Reason - <https://reason.com/archives/>
 <br><br>
 
 <a id="philosophy"></a>
-# Философские журналы:
+#### Философские журналы:
 
 Вопросы философии:
 
@@ -335,7 +335,7 @@ Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
 <br><br>
 
 <a id="economy"></a>
-# Экономические журналы:
+#### Экономические журналы:
 
 Problems of Economic Transition - <https://www.tandfonline.com/loi/mpet20>
 

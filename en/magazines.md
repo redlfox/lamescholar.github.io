@@ -2,14 +2,14 @@
 title: Magazines
 ---
 
-#### New issues:
+##### New issues:
 
 PressReader - <https://www-pressreader-com.i.ezproxy.nypl.org/catalog>
 
 Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 <br><br>
 
-#### New issues in PDF:
+##### New issues in PDF:
 
 Yggtorrent: Presse - <https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search>
 
@@ -40,7 +40,7 @@ Or you can ask [ChatGPT](/en/chatgpt):
 List magazines similar to Philosophy Now.
 <br><br>
 
-# Magazines by topic
+#### Magazines by topic
 
 [History journals](#history)
 
@@ -54,7 +54,7 @@ List magazines similar to Philosophy Now.
 <br><br>
 
 <a id="history"></a>
-# History journals:
+#### History journals:
 
 BBC History - <https://magzdb.org/j/6121>
 
@@ -68,7 +68,7 @@ American History Illustrated - <https://archive.org/search?query=%22American+His
 <br><br>
 
 <a id="literary"></a>
-# Literary magazines:
+#### Literary magazines:
 
 Publishers Weekly - <https://forum.mobilism.org/search.php?keywords=publishers+weekly&sr=topics&sf=titleonly>
 
@@ -107,7 +107,7 @@ Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
 <br>
 
 <a id="natural"></a>
-# Natural sciences journals:
+#### Natural sciences journals:
 
 Nature:<br>
 <https://magzdb.org/j/1826><br>
@@ -155,7 +155,7 @@ Wszechświat:<br>
 <br><br>
 
 <a id="philosophy"></a>
-# Philosophy journals:
+#### Philosophy journals:
 
 New Philosopher - <https://forum.mobilism.org/search.php?keywords=new+philosopher&sr=topics&sf=titleonly>
 
@@ -165,7 +165,7 @@ Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philoso
 <br><br>
 
 <a id="society"></a>
-# Society:
+#### Society
 
 The Economist - <https://forum.mobilism.org/search.php?keywords=The+Economist&sr=topics&sf=titleonly>
 

@@ -27,7 +27,7 @@ Oxford Academic - <https://academic-oup-com.i.ezproxy.nypl.org/>
 Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
 <br><br>
 
-# Magazines by topic
+#### Magazines by topic
 
 [Economical journals](#economy)
 
@@ -43,7 +43,7 @@ Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
 <br><br>
 
 <a id="economy"></a>
-# Economical journals:
+#### Economical journals:
 
 Problems in Economics - <https://www.tandfonline.com/loi/mpet20>
 
@@ -63,7 +63,7 @@ Review of Radical Political Economics - <https://journals.sagepub.com/home/rrp>
 <br><br>
 
 <a id="history"></a>
-# Historical journals:
+#### Historical journals:
 
 BBC History - <https://www.historyextra.com/bbc-history-magazine/>
 
@@ -85,7 +85,7 @@ Historische Zeitschrift - <https://www.jstor.org/journal/histzeit>
 <br><br>
 
 <a id="literary"></a>
-# Literary magazines:
+#### Literary magazines:
 
 Asymptote - <https://www.asymptotejournal.com/archive/>
 
@@ -121,7 +121,7 @@ Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.d
 <br><br>
 
 <a id="natural"></a>
-# Natural sciences journals:
+#### Natural sciences journals:
 
 Nature - <https://www.nature.com/nature/volumes>
 
@@ -151,7 +151,7 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <br><br>
 
 <a id="philosophy"></a>
-# Philosophical journals:
+#### Philosophical journals:
 
 Philosophy Now - <https://philosophynow.org/issues>
 
@@ -181,7 +181,7 @@ Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
 <br><br>
 
 <a id="society"></a>
-# Society:
+#### Society
 
 The Economist - <https://www.economist.com/weeklyedition/archive>
 

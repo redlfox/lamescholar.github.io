@@ -92,7 +92,7 @@ Henry's Bibliothek:
 <https://btdig.com/9be384b7b8b4bf4e7d1ee4f18734766847363256/henrys.bibliothek>
 <br><br>
 
-# Библиотеки по темам
+#### Библиотеки по темам
 
 [Национальные](#national)
 
@@ -110,11 +110,11 @@ Henry's Bibliothek:
 
 [Философия](#philosophy)
 
-[Художественная литература](#fiction)
+[Художественная литература](####fiction)
 <br><br>
 
 <a id="national"></a>
-# Национальные:
+#### Национальные
 
 Україніка - <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 
@@ -174,7 +174,7 @@ KBR - Belgicapress - <https://www.belgicapress.be/>
 <br><br>
 
 <a id="textbooks"></a>
-# Учебники:
+#### Учебники
 
 Alleng - <http://www.alleng.org/>
 
@@ -192,7 +192,7 @@ Studmed - <https://www.studmed.ru/>
 <br><br>
 
 <a id="history"></a>
-# История:
+#### История
 
 XIII век - <http://thietmar.narod.ru/>
 
@@ -242,7 +242,7 @@ U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/
 <br><br>
 
 <a id="space"></a>
-# Космос:
+#### Космос
 
 Астронет - <http://www.astronet.ru/>
 
@@ -252,7 +252,7 @@ U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/
 <br><br>
 
 <a id="math"></a>
-# Математика:
+#### Математика
 
 ИНТЕРНЕТ-БИБЛИОТЕКА Виталия Арнольда - <http://ilib.mccme.ru/>
 
@@ -268,7 +268,7 @@ U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/
 <br><br>
 
 <a id="society"></a>
-# Общество:
+#### Общество
 
  Гуманитарный портал: Гуманитарный базис - <https://gtmarket.ru/library/basis>
 
@@ -312,7 +312,7 @@ Nicolai Woodenko - <https://archive.org/details/@nicolai_woodenko>
 
 Electronic Enlightenment - <http://www.e-enlightenment.com.i.ezproxy.nypl.org/browse/>
 
-Memory of the World Library - <https://library.memoryoftheworld.org/#/books>
+Memory of the World Library - <https://library.memoryoftheworld.org/####/books>
 
 Monoscop - <https://monoskop.org/Monoskop>
 
@@ -344,7 +344,7 @@ ml-historie - <https://www.akp.no/ml-historie/html/english.html>
 <br><br>
 
 <a id="psychology"></a>
-# Психология:
+#### Психология
 
 Psylib - <https://psylib.org.ua/books/index.htm>
 
@@ -352,7 +352,7 @@ Classics in the History of Psychology - <http://psychclassics.yorku.ca/index.htm
 <br><br>
 
 <a id="philosophy"></a>
-# Философия:
+#### Философия
 
 Philosophy.ru: Библиотека - <https://www.philosophy.ru/library/>
 
@@ -378,7 +378,7 @@ Early Modern Philosophy - <https://www.earlymoderntexts.com/texts>
 <br><br>
 
 <a id="fiction"></a>
-# Художественная литература:
+#### Художественная литература
 
 ФЭБ - <http://feb-web.ru/>
 
@@ -419,7 +419,7 @@ mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
 
 HexChat - <https://hexchat.github.io/downloads.html>
 
-Заходи на #ebooks на IRCHighway или на #bookz на Undernet.
+Заходи на ####ebooks на IRCHighway или на ####bookz на Undernet.
 
 <https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/>
 <br><br>
