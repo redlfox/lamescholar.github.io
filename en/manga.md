@@ -5,6 +5,8 @@ title: Manga
 To read manga, you need to download images from the following sites. To view images, use the IrfanView program.
 <br><br>
 
+#### MangaDex
+
 <https://mangadex.org/title/5d1fc77e-706a-4fc5-bea8-486c9be0145d/vinland-saga?order=asc>
 
 <https://github.com/mansuf/mangadex-downloader>
@@ -38,7 +40,7 @@ mangadex-downloader https://mangadex.org/title/3be16cf9-fe5c-431e-b528-98551d3d3
 ```
 <br>
 
-English translations:
+#### MangaSee
 
 <https://mangasee123.com/manga/Vinland-Saga>
 
@@ -71,10 +73,12 @@ python MangaseeDL.py "Vinland Saga" 1
 ```
 <br>
 
-Torrent site with English translations - <https://nyaa.si>
+#### Nyaa
+
+<https://nyaa.si>
 <br><br>
 
-Program for viewing images:
+#### Program for viewing the images:
 
 IrfanView - <https://www.irfanview.com/>
 
