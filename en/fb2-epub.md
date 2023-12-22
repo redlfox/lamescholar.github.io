@@ -24,7 +24,7 @@ PDF and DjVu - Pocketbook
 ABBYY Finereader PDF 15 - <https://rutracker.org/forum/viewtopic.php?t=6040898>
 <br><br>
 
-#### FB2 creation and editing:
+#### Creating/editing FB2:
 
 <https://www.youtube.com/@andreilazarov8881/videos>
 
