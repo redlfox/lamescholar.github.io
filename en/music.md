@@ -4,15 +4,17 @@ title: Music
 
 Sources:
 
-- RuTracker - <https://rutracker.org/forum/index.php>
++ RuTracker - <https://rutracker.org/forum/index.php>
 
 	band name дискография/discography
 
 	Karajan complete recordings on Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
+	
+	Complete Chopin - <https://rutracker.org/forum/viewtopic.php?t=2656547>
 
 	Timings are in .cue files. They can be opened by [foobar2000](https://www.foobar2000.org/download) program.
 
-- Redacted - <https://redacted.ch/torrents.php>
++ Redacted - <https://redacted.ch/torrents.php>
 
 	Application:
 
@@ -26,7 +28,7 @@ Sources:
 
 	HexChat - <https://hexchat.github.io/downloads.html>
 
-- Soulseek - <http://www.slsknet.org/news/node/1>
++ Soulseek - <http://www.slsknet.org/news/node/1>
 
 	Nickname - legen848dary
 <br><br>

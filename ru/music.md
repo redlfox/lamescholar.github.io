@@ -4,15 +4,17 @@ title: Музыка
 
 Источники:
 
-- RuTracker - <https://rutracker.org/forum/index.php>
++ RuTracker - <https://rutracker.org/forum/index.php>
 
 	название группы дискография/discography
 
 	Полная коллекция записей Караяна на Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
 
+	Полное собрание творчества Шопена - <https://rutracker.org/forum/viewtopic.php?t=2656547>
+
 	Тайминги находятся в .cue файлах. Они могут быть открыты программой [foobar2000](https://www.foobar2000.org/download).
 
-- Redacted - <https://redacted.ch/torrents.php>
++ Redacted - <https://redacted.ch/torrents.php>
 
 	Интервью:
 
@@ -26,7 +28,7 @@ title: Музыка
 
 	HexChat - <https://hexchat.github.io/downloads.html>
 
-- Soulseek - <http://www.slsknet.org/news/node/1>
++ Soulseek - <http://www.slsknet.org/news/node/1>
 
 	Ник - legen848dary
 <br><br>
