@@ -44,7 +44,7 @@ python archive-org-downloader.py -e email -p пароль -r 0 -u https://archiv
 ```
 <br>
 
-На данном этапе можно обработать картинки в Scan Tailor и кодировать их в DjVu-файл программой DjVu Small Mod.
+На данном этапе можно обработать картинки в Scan Tailor и кодировать их в DjVu-файл с помощью DjVu Small Mod.
 
 См. [DjVu](/ru/djvu).
 
