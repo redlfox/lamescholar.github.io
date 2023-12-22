@@ -85,7 +85,7 @@ With Bypass Paywalls Clean it's good to have adblock. uBlock Origin.
 
 The best (in my opinion) RSS reader is yarr (yet another rss reader).
 
-Here's the page on GitHub.
+Here's the page on GitHub:
 
 <https://github.com/nkanaev/yarr>
 
