@@ -17,7 +17,7 @@ title: Поваренная книга пирата
 
 [Ebook Translator](/ru/ebook-translator)
 
-[FB2, EPUB](/ru/fb2epub)
+[FB2, EPUB](/ru/fb2-epub)
 
 [Forums](/ru/forums)
 

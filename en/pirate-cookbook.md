@@ -31,7 +31,7 @@ Pirate Cookbook is my collection of guides on piracy and book digitization. For 
 
 [Ebook Translator](/en/ebook-translator)
 
-[FB2, EPUB](/en/fb2epub)
+[FB2, EPUB](/en/fb2-epub)
 
 [Films](/en/films)
 
