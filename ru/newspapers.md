@@ -64,6 +64,8 @@ Meduza - <https://meduza.io/articles>
 Газета.Ru - <https://www.gazeta.ru/news/>
 
 Свободная пресса - <https://svpressa.ru/all/news-archive/>
+
+СВТВ - <https://svtv.org/>
 <br><br>
 
 #### Онлайн газеты на русском:
