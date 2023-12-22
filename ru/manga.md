@@ -5,6 +5,13 @@ title: Манга
 Для чтения манги нужно скачать картинки с нижеуказанных сайтов. Для просмотра картинок используй программу IrfanView.
 <br><br>
 
+#### manga.ovh
+
+<https://manga.ovh/manga/c123_vinland-saga>
+
+Для скачивания необходимо зарегистрироваться.
+<br><br>
+
 #### MangaDex
 
 <https://mangadex.org/title/5d1fc77e-706a-4fc5-bea8-486c9be0145d/vinland-saga?order=asc>
