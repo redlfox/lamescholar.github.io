@@ -3,6 +3,7 @@ title: ChatGPT
 ---
 
 ChatGPT is a great tool for translation and research assistance.
+<br><br>
 
 You can write to ChatGPT:
 
