@@ -16,7 +16,7 @@ Die Philosophen haben die Welt nur verschieden interpretiert, es kommt darauf an
 To not bother yourself typing "Translate from German to English." each time, write:
 
 ```
-Interpret * as phrase "Translate from German to English."
+Interpret symbol * as a phrase "Translate from German to English."
 ```
 
 And then write like this:
