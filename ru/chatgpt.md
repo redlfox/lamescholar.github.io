@@ -27,12 +27,14 @@ Die Philosophen haben die Welt nur verschieden interpretiert, es kommt darauf an
 ```
 
 Если ChatGPT не переводит текст, запусти New chat.
+<br><br>
 
 У ChatGPT можно спросить значение слова:
 
 ```
 Объясни слово inflect.
 ```
+<br>
 
 У ChatGPT можно попросить список литературы:
 

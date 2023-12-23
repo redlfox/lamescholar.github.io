@@ -27,12 +27,14 @@ Die Philosophen haben die Welt nur verschieden interpretiert, es kommt darauf an
 ```
 
 If ChatGPT doesn't translate the text, start New chat.
+<br><br>
 
 You can ask ChatGPT to explain a word:
 
 ```
 Explain word влиять.
 ```
+<br>
 
 You can ask ChatGPT for a bibliography:
 
