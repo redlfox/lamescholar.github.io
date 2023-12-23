@@ -29,7 +29,7 @@ So as not to bother yourself typing "Translate from German to English." each tim
 Interpret the symbol * as the phrase "Translate from German to English."
 ```
 
-It remembers this for a long time. Now you can ask for translation this way:
+ChatGPT remembers this substitution for a long time. Now you can ask for translation this way:
 
 ```
 *
