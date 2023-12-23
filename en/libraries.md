@@ -193,7 +193,7 @@ mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
 
 HexChat - <https://hexchat.github.io/downloads.html>
 
-Join ####ebooks on IRCHighway or ####bookz on Undernet.
+Join #ebooks on IRCHighway or #bookz on Undernet.
 
 <https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/>
 <br><br>

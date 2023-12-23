@@ -419,7 +419,7 @@ mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
 
 HexChat - <https://hexchat.github.io/downloads.html>
 
-Заходи на ####ebooks на IRCHighway или на ####bookz на Undernet.
+Заходи на #ebooks на IRCHighway или на #bookz на Undernet.
 
 <https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/>
 <br><br>
