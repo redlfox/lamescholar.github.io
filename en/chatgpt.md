@@ -9,13 +9,13 @@ On Translation.
 
 ChatGPT input limit is 2000 characters. Therefore if you're translating a long text, you need to paste it in chunks.
 
-ChatGPT forgets previous messages very fast. So if you write to ChatGPT:
+ChatGPT forgets previous messages very fast. Therefore if you write to ChatGPT:
 
 ```
 Translate incoming messages from German to English.
 ```
 
-ChatGPT will translate 3 messages. And then the setting will go off. So you need to constantly demand what you need, make requests like:
+ChatGPT will translate 3 messages. And then the setting will go off. Therefore you need to constantly demand what you need, make requests like:
 
 ```
 Translate from German to English.
