@@ -2,7 +2,7 @@
 title: ChatGPT
 ---
 
-ChatGPT is a great tool for translation and research assistance.
+ChatGPT is a great tool for translation and self-education.
 <br><br>
 
 You can write to ChatGPT:
