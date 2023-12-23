@@ -2,7 +2,7 @@
 title: Music
 ---
 
-Sources:
+#### Sources:
 
 + RuTracker - <https://rutracker.org/forum/index.php>
 
@@ -10,9 +10,13 @@ Sources:
 
 	Karajan complete recordings on Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
 	
-	Complete Chopin - <https://rutracker.org/forum/viewtopic.php?t=2656547>
-
 	Timings are in .cue files. They can be opened by [foobar2000](https://www.foobar2000.org/download) program.
+	
+	Complete Chopin:
+	
+	<https://open.spotify.com/album/1wg7IZQpeQSnl8RHmsYSrA>
+	
+	<https://rutracker.org/forum/viewtopic.php?t=2656547>
 
 + Redacted - <https://redacted.ch/torrents.php>
 
@@ -38,14 +42,14 @@ Sources:
 {: refdef}
 <br>
 
-Programs:
+#### Programs:
 
 Windows Media Player
 
 Turn off the search for additional information from the Internet in the settings. Otherwise, many songs will get incorrect metadata.
 <br><br>
 
-Encoding:
+#### Encoding:
 
 foobar2000 - <https://www.foobar2000.org/download>
 

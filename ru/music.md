@@ -10,7 +10,11 @@ title: Музыка
 
 	Полная коллекция записей Караяна на Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
 
-	Полное собрание творчества Шопена - <https://rutracker.org/forum/viewtopic.php?t=2656547>
+	Полная коллекция творчества Шопена:
+	
+	<https://open.spotify.com/album/1wg7IZQpeQSnl8RHmsYSrA>
+	
+	<https://rutracker.org/forum/viewtopic.php?t=2656547>
 
 	Тайминги находятся в .cue файлах. Они могут быть открыты программой [foobar2000](https://www.foobar2000.org/download).
 
