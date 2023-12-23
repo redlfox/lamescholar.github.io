@@ -4,22 +4,42 @@ title: ChatGPT
 
 ChatGPT - замечательный инструмент для перевода и помощи в исследовании.
 
-Ты можешь написать:
+Ты можешь написать ChatGPT:
 
+```
 Переведи с немецкого на русский.
 
-текст
+Die Philosophen haben die Welt nur verschieden interpretiert, es kommt darauf an, sie zu verändern.
+```
+
+Чтобы не утруждать себя постоянным прописыванием "Переведи с немецкого на русский.", напиши:
+
+```
+Интерпретируй * как фразу "Переведи с немецкого на русский."
+```
+
+И дальше пиши следующим образом:
+
+```
+*
+
+Die Philosophen haben die Welt nur verschieden interpretiert, es kommt darauf an, sie zu verändern.
+```
 
 Если ChatGPT не переводит текст, запусти New chat.
 
 У ChatGPT можно спросить значение слова:
 
+```
 Объясни слово inflect.
+```
 
 У ChatGPT можно попросить список литературы:
 
+```
 Can you provide a bibliography on vikings?
-<br><br>
+```
+<br>
 
 <https://chat.openai.com/chat>
 
