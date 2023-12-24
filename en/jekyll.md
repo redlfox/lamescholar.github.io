@@ -66,25 +66,29 @@ Create a .md file in the site folder. For example, page.md . Then a page will ap
 ---
 title: Title
 ---
-4) Heading - #### heading text
-5) Subheading - ################ subheading text
+4) Heading - # heading text
+5) Subheading - #### subheading text
 6) New paragraph - empty line
 7) Highlight a link - <link>
 8) Link - [text](link)
 9) Link to site page - [text](/folder/page)
-10) Link to place in text:
-[Place](####place)
+10) Link back and forth:
+text<a href="#note" id="note-back">†</a>
+
+<a href="#note-back" id="note">†</a> text of the note
+11) Link to place in text:
+[Place](#place)
 
 <a id="place"></a>
-11) Table of Contents:
+12) Table of Contents:
 #### Table of Contents
-[Introduction](####introduction)
+[Introduction](#introduction)
 
 <a id="introduction"></a>
 #### Introduction
-12) Line break - <br>
-13) Blank line (double line break) - <br><br>
-14) Footnote:
+13) Line break - <br>
+14) Blank line (double line break) - <br><br>
+15) Footnote:
 text[^1] text[^2]
 
 [^1]: footnote text
@@ -92,11 +96,11 @@ text[^1] text[^2]
 	footnote text
 
 [^2]: footnote text
-15) Quote:
+16) Quote:
 > quote
 >
 > the rest of quote
-16) Small text - <sub>text</sub>
+17) Small text - <sub>text</sub>
 ```
 
 Code block - <https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks>
