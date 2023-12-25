@@ -40,9 +40,9 @@
     <outline type="rss" text="Daily Nous" xmlUrl="https://dailynous.com/feed/" htmlUrl="https://dailynous.com"/>
     <outline type="rss" text="Democracy Now!" xmlUrl="https://www.democracynow.org/democracynow.rss" htmlUrl="https://www.democracynow.org/democracynow.rss"/>
     <outline type="rss" text="der Freitag" xmlUrl="https://www.freitag.de/@@RSS" htmlUrl="https://www.freitag.de/@@RSS"/>
-    <outline type="rss" text="DER SPIEGEL" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss" htmlUrl="https://www.spiegel.de/"/>
-    <outline type="rss" text="DER SPIEGEL: Geschichte" xmlUrl="https://www.spiegel.de/geschichte/index.rss" htmlUrl="https://www.spiegel.de/"/>
-    <outline type="rss" text="DER SPIEGEL: Literatur" xmlUrl="https://www.spiegel.de/kultur/literatur/index.rss" htmlUrl="https://www.spiegel.de/"/>
+    <outline type="rss" text="Der Spiegel" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss" htmlUrl="https://www.spiegel.de/"/>
+    <outline type="rss" text="Der Spiegel: Geschichte" xmlUrl="https://www.spiegel.de/geschichte/index.rss" htmlUrl="https://www.spiegel.de/"/>
+    <outline type="rss" text="Der Spiegel: Literatur" xmlUrl="https://www.spiegel.de/kultur/literatur/index.rss" htmlUrl="https://www.spiegel.de/"/>
     <outline type="rss" text="Der Standard" xmlUrl="https://www.derstandard.at/rss" htmlUrl="https://www.derstandard.at/"/>
     <outline type="rss" text="Die Presse" xmlUrl="https://www.diepresse.com/rss/home/" htmlUrl="https://www.diepresse.com"/>
     <outline type="rss" text="Die Presse: Kultur" xmlUrl="https://www.diepresse.com/rss/Kultur" htmlUrl="https://www.diepresse.com"/>
