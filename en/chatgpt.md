@@ -17,7 +17,7 @@ From now on translate incoming messages from German to English.
 
 And now send the chunks of the text.
 
-If ChatGPT doesn't translate the text, start New chat.
+If ChatGPT has stopped translating, start New chat.
 <br><br>
 
 You can ask ChatGPT to explain a word:
