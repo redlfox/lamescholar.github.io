@@ -12,10 +12,16 @@ ChatGPT input limit is 2000 characters. Therefore if you're translating a long t
 Write to ChatGPT:
 
 ```
-From now on translate incoming messages from German to English.
+From now on interpret the symbol * as the phrase "Translate from German to English."
 ```
 
-And now send the chunks of the text.
+And now send the chunks of the text in such a way:
+
+```
+*
+
+chunk of the text
+```
 
 If ChatGPT has stopped translating, start New chat.
 <br><br>
