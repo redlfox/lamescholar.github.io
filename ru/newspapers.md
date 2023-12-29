@@ -27,7 +27,7 @@ public.ru:
 
 Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
 
-Google News - <https://news.google.com/newspapers>
+Google News Archive - <https://news.google.com/newspapers>
 <br><br>
 
 Журналы и газеты на рутрекере - <https://rutracker.org/forum/viewforum.php?f=31>
