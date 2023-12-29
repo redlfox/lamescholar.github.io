@@ -219,6 +219,8 @@ Peace Magazine - <https://peacemagazine.org/archive/?id=2103>
 
 Prospect - <https://www.prospectmagazine.co.uk/issues>
 
+Reason - <https://reason.com/archives/>
+
 The Spectator - <https://www.spectator.co.uk/>
 <br><br>
 
@@ -247,8 +249,6 @@ Rīgas Laiks - <https://ru.rigaslaiks.art/>
 
 Book History - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/23>
 
-Journal of the History of Ideas - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/91>
-
 Publishing Research Quarterly - <https://link.springer.com/journal/12109/volumes-and-issues>
 
 Studies in Bibliography - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/298>
@@ -258,18 +258,16 @@ The Library - <https://academic-oup-com.i.ezproxy.nypl.org/library/issue>
 The Papers of the Bibliographical Society of America - <https://www.journals.uchicago.edu/loi/pbsa>
 <br><br>
 
+Intellectual History Review - <https://www.tandfonline.com/loi/rihr20>
+
 Journal of the History of Ideas - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/91>
 
-Publishing Research Quarterly - <https://link.springer.com/journal/12109/volumes-and-issues>
-
-Studies in Bibliography - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/298>
-
-The Library - <https://academic-oup-com.i.ezproxy.nypl.org/library/issue>
-
-The Papers of the Bibliographical Society of America - <https://www.journals.uchicago.edu/loi/pbsa>
-<br><br>
+Modern Intellectual History - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/modern-intellectual-history/all-issues>
 
 Neue Politische Literatur - <https://link.springer.com/journal/42520/volumes-and-issues>
+
+Renaissance Quarterly - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/renaissance-quarterly/all-issues>
+<br>
 
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
 
@@ -312,8 +310,6 @@ New German Critique - <https://www.jstor.org/journal/newgermcrit>
 The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
 
 Le Monde Libertaire - <https://monde-libertaire.net/?page=papier>
-
-Reason - <https://reason.com/archives/>
 <br><br>
 
 <a id="philosophy"></a>
