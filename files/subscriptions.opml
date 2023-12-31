@@ -128,6 +128,9 @@
     <outline type="rss" text="Irish Independent: Books" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Aindependent.ie/entertainment/books/&amp;hl=en-IE&amp;gl=IE&amp;ceid=IE%3Aen" htmlUrl="https://news.google.com/search?q=when:672h+inurl:independent.ie/entertainment/books/&amp;hl=en-IE&amp;gl=IE&amp;ceid=IE:en"/>
     <outline type="rss" text="Irish Independent: Opinion" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aindependent.ie/opinion/&amp;hl=en-IE&amp;gl=IE&amp;ceid=IE%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:independent.ie/opinion/&amp;hl=en-IE&amp;gl=IE&amp;ceid=IE:en"/>
     <outline type="rss" text="Jacobin" xmlUrl="https://jacobin.com/feed/" htmlUrl="https://jacobin.com/feed/"/>
+    <outline type="rss" text="Jacobin América Latina" xmlUrl="https://jacobinlat.com/feed/" htmlUrl="https://jacobinlat.com/"/>
+    <outline type="rss" text="Jacobin Deutschland" xmlUrl="https://jacobin.de/rss.xml" htmlUrl="https://jacobin.de"/>
+    <outline type="rss" text="Jacobin Italia" xmlUrl="https://jacobinitalia.it/feed/" htmlUrl="https://jacobinitalia.it/"/>
     <outline type="rss" text="Jerusalem Post" xmlUrl="https://rss.jpost.com/rss/rssfeedsfrontpage.aspx" htmlUrl="https://www.jpost.com"/>
     <outline type="rss" text="Junge Freiheit" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Ajungefreiheit.de&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" htmlUrl="https://news.google.com/search?q=when:24h+inurl:jungefreiheit.de&amp;hl=de&amp;gl=DE&amp;ceid=DE:de"/>
     <outline type="rss" text="Kathimerini" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Akathimerini.gr&amp;hl=el&amp;gl=GR&amp;ceid=GR%3Ael" htmlUrl="https://news.google.com/search?q=when:24h+inurl:kathimerini.gr&amp;hl=el&amp;gl=GR&amp;ceid=GR:el"/>
