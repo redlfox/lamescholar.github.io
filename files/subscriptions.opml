@@ -440,6 +440,7 @@
     <outline type="rss" text="Комментарии" xmlUrl="https://comments.ua/rss/yandex_comments_ua.xml" htmlUrl="https://comments.ua"/>
     <outline type="rss" text="Корресподент" xmlUrl="http://k.img.com.ua/rss/ru/all_news2.0.xml" htmlUrl="https://korrespondent.net/"/>
     <outline type="rss" text="ЛІГА.Новости" xmlUrl="https://www.liga.net/news/all/rss.xml" htmlUrl="https://www.liga.net"/>
+    <outline type="rss" text="Лівий берег: Культура" xmlUrl="https://lb.ua/rss/ukr/culture.xml" htmlUrl="https://lb.ua"/>
     <outline type="rss" text="НВ" xmlUrl="https://nv.ua/rss/all.xml" htmlUrl="https://nv.ua/rss/all.xml"/>
     <outline type="rss" text="Обозреватель" xmlUrl="https://www.obozrevatel.com/out/rss/lastnews.xml" htmlUrl="https://www.obozrevatel.com/out/rss/lastnews.xml"/>
     <outline type="rss" text="РБК-Украина" xmlUrl="https://www.rbc.ua/static/rss/all.rus.rss.xml" htmlUrl="https://www.rbc.ua/static/rss/all.rus.rss.xml"/>
