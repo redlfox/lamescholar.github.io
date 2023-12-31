@@ -435,7 +435,7 @@
     <outline type="rss" text="БЖ" xmlUrl="https://bzh.life/static/rss/all.rus.rss.xml" htmlUrl="https://bzh.life/static/rss/all.rus.rss.xml"/>
     <outline type="rss" text="День" xmlUrl="https://news.google.com/rss/search?hl=uk&amp;gl=UA&amp;ceid=UA%3Auk&amp;oc=11&amp;q=when%3A24h%20inurl%3Aday.kyiv.ua" htmlUrl="https://news.google.com/search?hl=uk&amp;gl=UA&amp;ceid=UA:uk&amp;oc=11&amp;q=when:24h+inurl:day.kyiv.ua"/>
     <outline type="rss" text="Европейська правда" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aeurointegration.com.ua%2Frus%2F&amp;hl=uk&amp;gl=UA&amp;ceid=UA%3Auk" htmlUrl="https://news.google.com/search?q=when:24h+inurl:eurointegration.com.ua/rus/&amp;hl=uk&amp;gl=UA&amp;ceid=UA:uk"/>
-    <outline type="rss" text="Зеркало Недели" xmlUrl="https://news.google.com/rss/search?hl=ru&amp;gl=UA&amp;ceid=UA%3Aru&amp;oc=11&amp;q=when%3A24h%20inurl%3Azn.ua" htmlUrl="https://news.google.com/search?hl=ru&amp;gl=UA&amp;ceid=UA:ru&amp;oc=11&amp;q=when:24h+inurl:zn.ua"/>
+    <outline type="rss" text="Зеркало недели" xmlUrl="https://news.google.com/rss/search?hl=ru&amp;gl=UA&amp;ceid=UA%3Aru&amp;oc=11&amp;q=when%3A24h%20inurl%3Azn.ua" htmlUrl="https://news.google.com/search?hl=ru&amp;gl=UA&amp;ceid=UA:ru&amp;oc=11&amp;q=when:24h+inurl:zn.ua"/>
     <outline type="rss" text="Интерфакс-Украина" xmlUrl="https://ru.interfax.com.ua/news/last.rss" htmlUrl="https://ru.interfax.com.ua/news/last.rss"/>
     <outline type="rss" text="Комментарии" xmlUrl="https://comments.ua/rss/yandex_comments_ua.xml" htmlUrl="https://comments.ua"/>
     <outline type="rss" text="Корресподент" xmlUrl="http://k.img.com.ua/rss/ru/all_news2.0.xml" htmlUrl="https://korrespondent.net/"/>
