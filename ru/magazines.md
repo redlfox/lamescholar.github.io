@@ -359,7 +359,11 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379>
 <https://rutracker.org/forum/viewtopic.php?t=4990250><br>
 <https://rutracker.org/forum/viewtopic.php?t=3589084>
 
-Аполон - <https://rutracker.org/forum/viewtopic.php?t=3276663>
+Пантеон - <http://ateatr.sptl.spb.ru/tp/journal-panteon/>
+
+Русская беседа - <https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%B0>
+
+Аполлон - <https://rutracker.org/forum/viewtopic.php?t=3276663>
 
 ЛЕФ - <https://rutracker.org/forum/viewtopic.php?t=5073711>
 
@@ -367,15 +371,17 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379>
 <https://rutracker.org/forum/viewtopic.php?t=5278859><br>
 <https://rutracker.org/forum/viewtopic.php?t=5875468>
 
+Иностранная литература - <https://rutracker.org/forum/viewtopic.php?t=4547639>
+
 Новый мир - <https://rutracker.org/forum/viewtopic.php?t=4938890>
 
 Наш современник:<br>
 <https://rutracker.org/forum/viewtopic.php?t=5258315><br>
 <https://rutracker.org/forum/viewtopic.php?t=4978557>
 
-Иностранная литература - <https://rutracker.org/forum/viewtopic.php?t=4547639>
-
 Роман-газета - <https://rutracker.org/forum/viewtopic.php?t=4103700>
+
+Смена - <http://magzdb.org/j/25>
 
 Даугава - <https://rutracker.org/forum/viewtopic.php?t=5259992>
 
@@ -383,9 +389,11 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379>
 
 Кубань - <https://rutracker.org/forum/viewtopic.php?t=5762180>
 
-Арион - <https://imwerden.de/razdel-2157-str-1.html>
+Арион - <https://imwerden.de/periodical-2157-page-1.html>
 
-Urbi - <https://imwerden.de/publ-12829.html>
+Urbi - <https://imwerden.de/periodical-2201-page-1>
+
+Вестник новой литературы - <https://imwerden.de/periodical-2122-page-1.html>
 
 Мир фантастики - <https://rutracker.org/forum/viewtopic.php?t=3468332>
 
@@ -401,13 +409,15 @@ Publishers Weekly - <https://forum.mobilism.org/search.php?keywords=publishers+w
 
 The American Scholar - <https://forum.mobilism.org/search.php?keywords=the+american+scholar&sr=topics&sf=titleonly>
 
-The New Yorker - <https://magzdb.org/j/1798>
-
 The New York Review of Books - <https://1337x.to/torrent/5472591/The-New-York-Review-of-Books-2022-complete-20-issues/>
 
 The New York Review of Science Fiction - <https://magzdb.org/j/6068>
 
+The New Yorker - <https://magzdb.org/j/1798>
+
 The Paris Review - <https://1337x.to/torrent/5479243/The-Paris-Review-2022-complete-4-issues/>
+
+Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH>
 
 Granta - <https://archive.org/search.php?query=granta>
 
@@ -416,8 +426,6 @@ Harper's Magazine - <https://archive.org/details/pub_harpers-magazine?sort=-date
 The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
 
 Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
-
-Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH>
 
 Le Canard enchaîné - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Le+Canard+encha%C3%AEn%C3%A9&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 
