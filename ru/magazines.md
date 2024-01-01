@@ -405,6 +405,8 @@ Urbi - <https://imwerden.de/periodical-2201-page-1>
 
 Крокодил - <https://croco.uno/>
 
+Ї - <https://uk.wikipedia.org/wiki/%D0%87_(%D1%87%D0%B0%D1%81%D0%BE%D0%BF%D0%B8%D1%81)>
+
 Publishers Weekly - <https://forum.mobilism.org/search.php?keywords=publishers+weekly&sr=topics&sf=titleonly>
 
 The American Scholar - <https://forum.mobilism.org/search.php?keywords=the+american+scholar&sr=topics&sf=titleonly>
