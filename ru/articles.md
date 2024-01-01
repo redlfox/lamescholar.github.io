@@ -141,6 +141,10 @@ Historische Zeitschrift - <https://www.jstor.org/journal/histzeit>
 
 Критическая масса - <https://magazines.gorky.media/km>
 
+Народ Книги в мире книг - <http://narodknigi.ru/>
+
+Критика - <https://krytyka.com/ua/articles>
+
 Asymptote - <https://www.asymptotejournal.com/archive/>
 
 Bookforum - <https://www.bookforum.com/print/archive>
@@ -164,6 +168,8 @@ The Atlantic - <https://www.theatlantic.com/world/>
 The New York Review of Books - <https://www.nybooks.com/issues/>
 
 The New Yorker - <https://www.newyorker.com/>
+
+The Yale Review - <https://yalereview.org/issues>
 
 New England's Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/newenglandrev>
 

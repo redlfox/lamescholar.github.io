@@ -111,6 +111,8 @@ The New York Review of Books - <https://www.nybooks.com/issues/>
 
 The New Yorker - <https://www.newyorker.com/>
 
+The Yale Review - <https://yalereview.org/issues>
+
 New England's Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/newenglandrev>
 
 Ploughshares - <https://muse.jhu.edu/journal/542>
