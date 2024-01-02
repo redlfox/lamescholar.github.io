@@ -217,11 +217,19 @@ The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complet
 
 W3Newspapers - <https://www.w3newspapers.com/>
 
-The New York Times - <https://www.nytimes.com/section/todayspaper>
+The New York Times - <https://www.nytimes.com/>
+
+The New York Times: Today's Paper - <https://www.nytimes.com/section/todayspaper>
 
 The New York Times - TimesWire - <https://www.nytimes.com/timeswire>
 
+The New York Times Book Review - <https://www.nytimes.com/section/books/review>
+
+The New York Times Magazine - <https://www.nytimes.com/international/section/magazine>
+
 The Wall Street Journal - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
+
+The Wall Street Journal: Books - <https://www.wsj.com/arts-culture/books>
 
 The Washington Post - <https://www.washingtonpost.com/todays_paper/updates/>
 
