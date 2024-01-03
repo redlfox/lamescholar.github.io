@@ -13,7 +13,7 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
 
-Library Genesis - <https://libgen.is/>
+Library Genesis - <https://libgen.st/>
 
 Z-Library - <https://singlelogin.re/>
 

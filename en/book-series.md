@@ -2,7 +2,7 @@
 title: Book series
 ---
 
-Cambridge Library Collection - <https://libgen.is/search.php?req=Cambridge+Library+Collection&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+Cambridge Library Collection - <https://libgen.st/search.php?req=Cambridge+Library+Collection&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Publishing History - <https://www.publishinghistory.com/>
 
@@ -44,7 +44,7 @@ History of XX century in B/W photos:
 <a id="fiction"></a>
 #### Fiction
 
-Delphi Complete - <https://libgen.is/search.php?req=Delphi+Complete&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+Delphi Complete - <https://libgen.st/search.php?req=Delphi+Complete&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Harvard Classics - <https://rutracker.org/forum/viewtopic.php?t=6244440>
 
@@ -54,11 +54,11 @@ Library of America:
 
 [Internet Archive](/en/internet-archive)
 
-Loeb Classical Library - <https://libgen.is/search.php?req=Loeb+Classical+Library&open=0&res=25&view=simple&phrase=1&column=def>
+Loeb Classical Library - <https://libgen.st/search.php?req=Loeb+Classical+Library&open=0&res=25&view=simple&phrase=1&column=def>
 
-Oxford World Classics - <https://libgen.is/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+Oxford World Classics - <https://libgen.st/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
 
-Penguin Classics - <https://libgen.is/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+Penguin Classics - <https://libgen.st/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
 
 Viking Portable Library - <https://archive.org/search?query=title%3A%28portable%29+AND+publisher%3A%28penguin%29>
 
@@ -102,9 +102,9 @@ Mathematischen Schülerbücherei - <https://mathematikalpha.de/schuelerbuecherei
 
 Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
 
-The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.is/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
+The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.st/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
 
-Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0&res=25&view=simple&phrase=1&column=series>
+Klassiker Auslegen - <https://libgen.st/search.php?req=Klassiker+Auslegen&open=0&res=25&view=simple&phrase=1&column=series>
 <br><br>
 
 <a id="society"></a>

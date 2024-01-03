@@ -13,7 +13,7 @@ My RuTracker account - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
 
-Library Genesis - <https://libgen.is/>
+Library Genesis - <https://libgen.st/>
 
 Z-Library - <https://singlelogin.re/>
 

@@ -15,7 +15,7 @@ ImWerden:
 
 allisa1 - <https://rutracker.org/forum/tracker.php?rid=8917891>
 
-Cambridge Library Collection - <https://libgen.is/search.php?req=Cambridge+Library+Collection&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+Cambridge Library Collection - <https://libgen.st/search.php?req=Cambridge+Library+Collection&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Букинистик - <http://bookinistic.narod.ru/index.html>
 
@@ -174,11 +174,11 @@ History of XX century in B/W photos:
 
 <http://flibusta.is/s/19000>
 
-[Library Genesis](https://libgen.is/search.php?req=%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%BD%D0%B0%D1%88%D0%B5%D0%B9+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+[Library Genesis](https://libgen.st/search.php?req=%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%BD%D0%B0%D1%88%D0%B5%D0%B9+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
 Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401>
 
-Historia Rossica - <https://libgen.is/search.php?req=Historia+Rossica&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+Historia Rossica - <https://libgen.st/search.php?req=Historia+Rossica&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Mediaevalia - <https://rutracker.org/forum/tracker.php?nm=Mediaevalia>
 
@@ -230,9 +230,9 @@ Annals of America - <https://rutracker.org/forum/viewtopic.php?t=6444536>
 
 Судьбы книг - <https://rutracker.org/forum/tracker.php?nm=%22%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%20%D0%BA%D0%BD%D0%B8%D0%B3%22>
 
-Common place - <https://libgen.is/search.php?req=Common+place&open=0&res=25&view=simple&phrase=1&column=publisher>
+Common place - <https://libgen.st/search.php?req=Common+place&open=0&res=25&view=simple&phrase=1&column=publisher>
 
-Historical Materialism Briil - <https://libgen.is/search.php?&req=Historical+Materialism+Brill&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
+Historical Materialism Briil - <https://libgen.st/search.php?&req=Historical+Materialism+Brill&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
 <br><br>
 
 <a id="philosophy"></a>
@@ -248,13 +248,13 @@ Historical Materialism Briil - <https://libgen.is/search.php?&req=Historical+Mat
 
 Философское наследие - <https://rutracker.org/forum/viewtopic.php?t=3626809>
 
-pro et contra - <https://libgen.is/search.php?req=pro+et+contra&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+pro et contra - <https://libgen.st/search.php?req=pro+et+contra&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
 
-The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.is/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
+The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.st/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
 
-Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0&res=25&view=simple&phrase=1&column=series>
+Klassiker Auslegen - <https://libgen.st/search.php?req=Klassiker+Auslegen&open=0&res=25&view=simple&phrase=1&column=series>
 <br><br>
 
 <a id="fiction"></a>
@@ -288,7 +288,7 @@ Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0
 
 История всемирной литературы - <http://feb-web.ru/feb/ivl/default.asp>
 
-История эстетики в памятниках и документах - [Library Genesis](https://libgen.is/search.php?req=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B8+%D0%B2+%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D1%85+%D0%B8+%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%85&open=0&res=25&view=simple&phrase=1&column=def)
+История эстетики в памятниках и документах - [Library Genesis](https://libgen.st/search.php?req=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B8+%D0%B2+%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D1%85+%D0%B8+%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%85&open=0&res=25&view=simple&phrase=1&column=def)
 
 Зарубежная фантастика - <https://rutracker.org/forum/viewtopic.php?t=5326730>
 
@@ -324,7 +324,7 @@ Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0
 
 <https://rutracker.org/forum/viewtopic.php?t=5713007>
 
-Писатели о писателях - [Library Genesis](https://libgen.is/search.php?req=%22%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8+%D0%BE+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%22&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+Писатели о писателях - [Library Genesis](https://libgen.st/search.php?req=%22%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8+%D0%BE+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%22&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
 Популярная библиотека - <https://fantlab.ru/series957>
 
@@ -342,7 +342,7 @@ Klassiker Auslegen - <https://libgen.is/search.php?req=Klassiker+Auslegen&open=0
 
 Corpus - <http://flibusta.is/s/22753>
 
-Delphi Complete - <https://libgen.is/search.php?req=Delphi+Complete&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+Delphi Complete - <https://libgen.st/search.php?req=Delphi+Complete&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Harvard Classics - <https://rutracker.org/forum/viewtopic.php?t=6244440>
 
@@ -352,11 +352,11 @@ Library of America:
 
 [Internet Archive](/ru/internet-archive)
 
-Loeb Classical Library - <https://libgen.is/search.php?req=Loeb+Classical+Library&open=0&res=25&view=simple&phrase=1&column=def>
+Loeb Classical Library - <https://libgen.st/search.php?req=Loeb+Classical+Library&open=0&res=25&view=simple&phrase=1&column=def>
 
-Oxford World Classics - <https://libgen.is/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+Oxford World Classics - <https://libgen.st/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
 
-Penguin Classics - <https://libgen.is/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+Penguin Classics - <https://libgen.st/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
 
 Viking Portable Library - <https://archive.org/search?query=title%3A%28portable%29+AND+publisher%3A%28penguin%29>
 

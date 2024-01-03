@@ -218,7 +218,7 @@ American Sociological Review - <https://archive.org/details/pub_american-sociolo
 
 Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date>
 
-Leviathan - <https://libgen.is/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
+Leviathan - <https://libgen.st/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
 
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
