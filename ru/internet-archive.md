@@ -29,9 +29,13 @@ pip install -r requirements.txt
 ```
 <br>
 
-Перед использованием необходимо зарегистрироваться.
+Перед использованием необходимо зарегистрироваться:
 
 <https://archive.org/account/signup>
+
+Если у тебя плохое зрение, ты можешь получить доступ ко всем книгам:
+
+<https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform>
 <br><br>
 
 #### Скачивание картинок:
