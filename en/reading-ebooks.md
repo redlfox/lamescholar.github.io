@@ -13,7 +13,7 @@ There are 4 main ebook formats:
 
 DjVu files is a scan.
 
-PDF files is a scan or layout.
+PDF files is a scan or a layout.
 
 FB2 file is XML file (text file with formating) with description and images in Base64 format.
 
