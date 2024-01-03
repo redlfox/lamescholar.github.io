@@ -114,7 +114,7 @@ Henry's Bibliothek:
 <br><br>
 
 <a id="national"></a>
-#### Национальные
+#### Национальные:
 
 Україніка - <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 
