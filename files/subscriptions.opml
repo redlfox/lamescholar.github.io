@@ -388,7 +388,6 @@
     <outline type="rss" text="Literary  Hub" xmlUrl="https://lithub.com/feed/" htmlUrl="https://lithub.com"/>
     <outline type="rss" text="literaturkritik.de" xmlUrl="https://www.literaturkritik.de/rss/index.php?aktuell=1" htmlUrl="http://www.literaturkritik.de/rss/index.php?aktuell=1"/>
     <outline type="rss" text="LitNov.ru | Литературные новости" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=XPathBridge&amp;url=http%3A%2F%2Flitnov.ru%2F&amp;item=%2Fhtml%2Fbody%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Farticle%5Bposition%28%29%3C21%5D&amp;title=.%2F%2Fdiv%2Fp%2Fa&amp;content=&amp;uri=.%2F%2Fdiv%2Fp%2Fa%2F%40href&amp;author=&amp;timestamp=substring%28string%28.%2F%2Fheader%2Fdiv%2Fspan%2Fa%2F%40href%29%2C+18%2C+10%29&amp;enclosures=.%2F%2Fdiv%5B%40class%3D%22ArticleListItem-image%22%5D%2F%40style&amp;categories=.%2F%2Fdiv%5B%40class%3D%22ArticleListItem-label%22%5D&amp;format=Atom" htmlUrl="http://litnov.ru/"/>
-    <outline type="rss" text="LRB blog" xmlUrl="https://www.lrb.co.uk/blog/feed" htmlUrl="https://www.lrb.co.uk/blog"/>
     <outline type="rss" text="LSE Review of Books" xmlUrl="https://blogs.lse.ac.uk/lsereviewofbooks/feed/" htmlUrl="https://blogs.lse.ac.uk/lsereviewofbooks"/>
     <outline type="rss" text="Marx &amp; Philosophy Society: Reviews" xmlUrl="https://marxandphilosophy.org.uk/feed/?post_type=review" htmlUrl="https://marxandphilosophy.org.uk"/>
     <outline type="rss" text="Merkur" xmlUrl="https://www.merkur-zeitschrift.de/category/blog/feed/" htmlUrl="https://www.merkur-zeitschrift.de/category/blog/"/>
@@ -459,6 +458,7 @@
     <outline type="rss" text="&#34;Элементы&#34;: новости науки" xmlUrl="https://elementy.ru/rss/news" htmlUrl="https://elementy.ru/"/>
     <outline type="rss" text="&#34;Элементы&#34;: статьи в Библиотеке" xmlUrl="https://elementy.ru/rss/pub" htmlUrl="https://elementy.ru/"/>
     <outline type="rss" text="Arzamas" xmlUrl="https://arzamas.academy/feed_v1.rss" htmlUrl="https://arzamas.academy/feed_v1.rss"/>
+    <outline type="rss" text="Aussiedlerbote" xmlUrl="https://aussiedlerbote.de/feed/" htmlUrl="https://aussiedlerbote.de/"/>
     <outline type="rss" text="BBC Russian" xmlUrl="http://feeds.bbci.co.uk/russian/rss.xml" htmlUrl="http://www.bbcrussian.com"/>
     <outline type="rss" text="Business Class" xmlUrl="https://www.business-class.su/rss" htmlUrl="https://www.business-class.su/"/>
     <outline type="rss" text="CNews.ru" xmlUrl="https://www.cnews.ru/inc/rss/news.xml" htmlUrl="https://www.cnews.ru"/>
@@ -529,6 +529,7 @@
     <outline type="rss" text="РИА Новости" xmlUrl="https://ria.ru/export/rss2/archive/index.xml" htmlUrl="https://ria.ru"/>
     <outline type="rss" text="Радио Sputnik" xmlUrl="https://radiosputnik.ru/export/rss2/archive/index.xml" htmlUrl="https://radiosputnik.ru"/>
     <outline type="rss" text="Радио Свобода" xmlUrl="https://www.svoboda.org/api/z-pqpiev-qpp" htmlUrl="https://www.svoboda.org/api/z-pqpiev-qpp"/>
+    <outline type="rss" text="Редакция Германия" xmlUrl="https://www.rg-rb.de/feed/" htmlUrl="https://www.rg-rb.de/"/>
     <outline type="rss" text="Роскомсвобода" xmlUrl="https://roskomsvoboda.org/feed/" htmlUrl="https://roskomsvoboda.org/feed/"/>
     <outline type="rss" text="Российская газета" xmlUrl="https://rssfeed.rg.ru/xml/gazeta/svezh" htmlUrl="https://rg.ru/gazeta/rg/svezh"/>
     <outline type="rss" text="Сноб" xmlUrl="https://snob.ru/rss/" htmlUrl="https://snob.ru/rss/"/>
