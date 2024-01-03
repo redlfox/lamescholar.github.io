@@ -4,11 +4,11 @@ title: Чтение электронных книг
 
 Существует 4 основных формата электронных книг:
 
-[DjVu](/en/djvu)
+[DjVu](/ru/djvu)
 
-[PDF](/en/pdf)
+[PDF](/ru/pdf)
 
-[FB2, EPUB](/en/fb2-epub)
+[FB2, EPUB](/ru/fb2-epub)
 <br><br>
 
 DjVu-файл - это скан.
