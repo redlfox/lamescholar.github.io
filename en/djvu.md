@@ -35,7 +35,13 @@ This is comprehensive collection of programs to create, edit and read DjVu. Usin
 #### Functions of programs
 <br>
 
-**WinDjView** - program for reading of .djvu files. Advice for comfortable reading. If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%, if this doesn't suit, then 162% or 187%. If you need the scale little greater than 150% - add 6%. Alt+Left - go back after clicking on the hyperlink. If you have blurry image, you need to follow Properties->Compatibility->Change high DPI settings->Change settings for all users->Override high DPI scaling behaviour. Scaling performed by:->Application.
+**WinDjView** - program for reading of .djvu files.
+
+Alt+Left - go back after clicking on the hyperlink.
+
+Ctrl+M - change the scale. If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%, if this doesn't suit, then 162% or 187%. If you need the scale little greater than 150% - add 6%.
+
+If you have blurry image, you need to follow Properties->Compatibility->Change high DPI settings->Change settings for all users->Override high DPI scaling behaviour. Scaling performed by:->Application.
 
 <https://windjview.sourceforge.io/>
 <br><br>
@@ -47,9 +53,14 @@ This is comprehensive collection of programs to create, edit and read DjVu. Usin
 
 **Scan Tailor Universal** - program for images processing.
 
-**Settings:**
-
-Tools->Settings...->General->Ask every time. Untick. General->Thumbnails panel->Scale cashed images to this size: 1000 px. General->Tiff compression->TIFF compression (b/w): CCIITTFAX4. Page layout->Margins. 10 everywhere. Page layout->ALignment->Auto-Magnet alignment. Tick. Output->Hold spacebar to display original page. Tick. Output->Mixed mode->Foregroud layer. Untick.
+Settings:<br>
+Tools->Settings...->General->Ask every time. Untick.<br>
+General->Thumbnails panel->Scale cashed images to this size: 1000 px<br>
+General->Tiff compression->TIFF compression (b/w): CCIITTFAX4<br>
+Page layout->Margins. 10 everywhere.<br>
+Page layout->Alignment->Auto-Magnet alignment. Tick.<br>
+Output->Hold spacebar to display original page. Tick.<br>
+Output->Mixed mode->Foregroud layer. Untick.
 
 New Project... Select a folder with pictures. Then you can remove some pictures from the project, for example, the cover.
 

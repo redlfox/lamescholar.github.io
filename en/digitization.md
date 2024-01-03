@@ -33,7 +33,13 @@ Availability
 
 **Description:**
 
-Fix the phone on the support. Turn on the lamp. Put the book so that one page completely falls into the frame of camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs. Look [DjVu](/en/djvu).
+Fix the phone on the support. Turn on the lamp. Put the book so that one page completely falls into the frame of camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs.
+
+To do a b/w ebook or a b/w ebook with colored illustrations (method of separated scans), look [DjVu](/en/djvu).
+
+To do a colored ebook, look [PDF](/en/pdf).
+
+To do a text ebook, look [FB2, EPUB](/en/fb2-epub).
 <br><br>
 
 #### Method №2. Scanning
@@ -42,7 +48,7 @@ You need only a scanner.
 
 Second-hand scanners are cheap.
 
-Scans are processed by special programs. Look [DjVu](/en/djvu).
+Scans are processed by special programs.
 <br><br>
 
 #### Practical recommendations on digitization

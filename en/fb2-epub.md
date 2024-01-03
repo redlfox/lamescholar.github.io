@@ -8,7 +8,15 @@ title: FB2, EPUB
 
 Calibre 4.23.0 - <https://download.calibre-ebook.com/4.23.0/>
 
-Alt+Left - return to the previous position in the book. Esc - menu. Suitable font size is usually 15 px. Sometimes it's 19 px. Preferences. Page Layout->Landscape: 1. Scrolling behavior->Miscellaneous->Show scrollbar. Miscellaneous->Remember last used window size and position. Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy sharing. Untick.
+Alt+Left - go back after clicking on the hyperlink.
+
+Esc - menu. Suitable font size is usually 15 px. Sometimes it's 19 px.
+
+Preferences:
+
+Page Layout->Landscape: 1. Scrolling behavior->Miscellaneous->Show scrollbar
+
+Miscellaneous->Remember last used window size and position. Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy sharing. Untick.
 
 **Phone:**
 
@@ -19,7 +27,7 @@ Translation - Yandex Translator
 PDF and DjVu - Pocketbook
 <br><br>
 
-#### Recognition:
+#### Text recognition:
 
 ABBYY Finereader PDF 15 - <https://rutracker.org/forum/viewtopic.php?t=6040898>
 <br><br>
