@@ -1,5 +1,5 @@
 ---
-title: ebook name
+title: Naming ebooks
 ---
 
 On the Internet, ebooks can often be found with a random title, which is inconvenient to store. Therefore, such books should be renamed. You can use RuTracker standard:

@@ -27,8 +27,6 @@ Pirate Cookbook is my collection of guides on piracy and book digitization. For 
 
 [Digitization](/en/digitization)
 
-[ebook name](/en/ebook-name)
-
 [Ebook Translator](/en/ebook-translator)
 
 [FB2, EPUB](/en/fb2-epub)
@@ -56,6 +54,8 @@ Pirate Cookbook is my collection of guides on piracy and book digitization. For 
 [Magazines](/en/magazines)
 
 [Manga](/en/manga)
+
+[Naming ebooks](/en/naming-ebooks)
 
 [Newspapers](/en/newspapers)
 
