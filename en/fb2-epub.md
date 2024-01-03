@@ -24,7 +24,7 @@ eBoox
 
 Translation - Yandex Translator
 
-PDF and DjVu - Pocketbook
+DjVu and PDF - Pocketbook
 <br><br>
 
 #### Text recognition:

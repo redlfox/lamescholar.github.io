@@ -24,7 +24,7 @@ eBoox
 
 Перевод - Yandex Translator
 
-PDF и DjVu - Pocketbook
+DjVu и PDF - Pocketbook
 <br><br>
 
 #### Распознание текста:
