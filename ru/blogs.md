@@ -30,8 +30,6 @@ http://kagarlitsky.narod.ru/
 
 Реми Майснер - <https://remi-meisner.livejournal.com/>
 
-LRB blog - <https://www.lrb.co.uk/blog/>
-
 Sidecar - <https://newleftreview.org/sidecar>
 
 syg.ma - <https://syg.ma/>

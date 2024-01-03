@@ -2,11 +2,11 @@
 title: Blogs
 ---
 
-NLR blog - <https://newleftreview.org/sidecar>
+Sidecar - <https://newleftreview.org/sidecar>
 
-LRB blog - <https://www.lrb.co.uk/blog/>
+syg.ma - <https://syg.ma/>
 
-LARB blog - <https://blog.lareviewofbooks.org/>
+The Conversation: Arts & Culture - <https://theconversation.com/us/arts>
 
 Verso blog - <https://www.versobooks.com/blogs>
 
