@@ -432,6 +432,7 @@
     <outline type="rss" text="Kyiv Post" xmlUrl="https://www.kyivpost.com/feed" htmlUrl="https://www.kyivpost.com/feed"/>
     <outline type="rss" text="Today.ua" xmlUrl="https://today.ua/ru/feed/" htmlUrl="https://today.ua"/>
     <outline type="rss" text="БЖ" xmlUrl="https://bzh.life/static/rss/all.rus.rss.xml" htmlUrl="https://bzh.life/static/rss/all.rus.rss.xml"/>
+    <outline type="rss" text="Главное в Украине" xmlUrl="https://glavnoe.in.ua/ru/feed" htmlUrl="https://glavnoe.in.ua"/>
     <outline type="rss" text="День" xmlUrl="https://news.google.com/rss/search?hl=uk&amp;gl=UA&amp;ceid=UA%3Auk&amp;oc=11&amp;q=when%3A24h%20inurl%3Aday.kyiv.ua" htmlUrl="https://news.google.com/search?hl=uk&amp;gl=UA&amp;ceid=UA:uk&amp;oc=11&amp;q=when:24h+inurl:day.kyiv.ua"/>
     <outline type="rss" text="Европейська правда" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aeurointegration.com.ua%2Frus%2F&amp;hl=uk&amp;gl=UA&amp;ceid=UA%3Auk" htmlUrl="https://news.google.com/search?q=when:24h+inurl:eurointegration.com.ua/rus/&amp;hl=uk&amp;gl=UA&amp;ceid=UA:uk"/>
     <outline type="rss" text="Зеркало недели" xmlUrl="https://news.google.com/rss/search?hl=ru&amp;gl=UA&amp;ceid=UA%3Aru&amp;oc=11&amp;q=when%3A24h%20inurl%3Azn.ua" htmlUrl="https://news.google.com/search?hl=ru&amp;gl=UA&amp;ceid=UA:ru&amp;oc=11&amp;q=when:24h+inurl:zn.ua"/>
@@ -460,6 +461,7 @@
     <outline type="rss" text="Arzamas" xmlUrl="https://arzamas.academy/feed_v1.rss" htmlUrl="https://arzamas.academy/feed_v1.rss"/>
     <outline type="rss" text="Aussiedlerbote" xmlUrl="https://aussiedlerbote.de/feed/" htmlUrl="https://aussiedlerbote.de/"/>
     <outline type="rss" text="BBC Russian" xmlUrl="http://feeds.bbci.co.uk/russian/rss.xml" htmlUrl="http://www.bbcrussian.com"/>
+    <outline type="rss" text="BFM.ru" xmlUrl="https://www.bfm.ru/news.rss" htmlUrl="https://www.bfm.ru"/>
     <outline type="rss" text="Business Class" xmlUrl="https://www.business-class.su/rss" htmlUrl="https://www.business-class.su/"/>
     <outline type="rss" text="CNews.ru" xmlUrl="https://www.cnews.ru/inc/rss/news.xml" htmlUrl="https://www.cnews.ru"/>
     <outline type="rss" text="DOXA" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Adoxa.team&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:doxa.team&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
@@ -489,6 +491,7 @@
     <outline type="rss" text="«Холод»" xmlUrl="https://holod.media/feed/" htmlUrl="https://holod.media/"/>
     <outline type="rss" text="АПН" xmlUrl="https://www.apn.ru/rss.xml" htmlUrl="https://www.apn.ru/"/>
     <outline type="rss" text="Аргументы и Факты" xmlUrl="https://aif.ru/rss/googlenews" htmlUrl="https://aif.ru/rss/googlenews"/>
+    <outline type="rss" text="Аргументы недели" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aargumenti.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:argumenti.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Афиша Daily" xmlUrl="https://daily.afisha.ru/export/rss/google_newsstand/" htmlUrl="https://daily.afisha.ru/export/rss/google_newsstand/"/>
     <outline type="rss" text="БИЗНЕС Online" xmlUrl="https://www.business-gazeta.ru/rss.xml" htmlUrl="https://www.business-gazeta.ru"/>
     <outline type="rss" text="Важные истории" xmlUrl="https://istories.media/rss/all.xml" htmlUrl="https://istories.media"/>
@@ -499,7 +502,9 @@
     <outline type="rss" text="Газета.Ru" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Agazeta.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:gazeta.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Голос Америки" xmlUrl="https://www.golosameriki.com/api/zkivremjvq" htmlUrl="https://www.golosameriki.com/api/zkivremjvq"/>
     <outline type="rss" text="Деловой Петербург" xmlUrl="https://www.dp.ru/news.rss" htmlUrl="https://www.dp.ru/news.rss"/>
+    <outline type="rss" text="Детали" xmlUrl="https://detaly.co.il/feed/" htmlUrl="https://detaly.co.il"/>
     <outline type="rss" text="Дилетант: Статьи" xmlUrl="https://diletant.media/rss/articles/" htmlUrl="http://diletant.media"/>
+    <outline type="rss" text="Завтра" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Azavtra.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:zavtra.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Звезда" xmlUrl="https://tvzvezda.ru/export/rss.xml" htmlUrl="https://www.tvzvezda.ru/"/>
     <outline type="rss" text="ИА REGNUM" xmlUrl="https://regnum.ru/rss" htmlUrl="https://regnum.ru"/>
     <outline type="rss" text="Известия" xmlUrl="https://iz.ru/xml/rss/all.xml" htmlUrl="https://iz.ru/xml/rss/all.xml"/>
@@ -553,6 +558,7 @@
     <outline type="rss" text="REFORM.by" xmlUrl="https://reform.by/feed" htmlUrl="https://reform.by"/>
     <outline type="rss" text="Sputnik Беларусь" xmlUrl="https://sputnik.by/export/rss2/archive/index.xml" htmlUrl="https://sputnik.by"/>
     <outline type="rss" text="Telegraf.news" xmlUrl="https://telegraf.news/feed/" htmlUrl="https://telegraf.news/feed/"/>
+    <outline type="rss" text="UDF" xmlUrl="https://udf.name/rss.xml" htmlUrl="https://udf.name/"/>
     <outline type="rss" text="«Новы Час»" xmlUrl="https://novychas.online/rss" htmlUrl="https://novychas.online/"/>
     <outline type="rss" text="БДГ Деловая газета" xmlUrl="https://bdg.by/rss" htmlUrl="https://bdg.by/rss"/>
     <outline type="rss" text="БелТА" xmlUrl="https://www.belta.by/rss" htmlUrl="https://www.belta.by/"/>
@@ -562,6 +568,7 @@
     <outline type="rss" text="Медиазона Беларусь" xmlUrl="https://mediazona.by/rss" htmlUrl="https://mediazona.by"/>
     <outline type="rss" text="Наша Ніва" xmlUrl="https://nashaniva.com/?c=rss-all&amp;lang=ru" htmlUrl="https://nashaniva.com/ru"/>
     <outline type="rss" text="Солидарность" xmlUrl="https://gazetaby.com/rss/" htmlUrl="https://gazetaby.com/"/>
+    <outline type="rss" text="Точка" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Atochka.by/&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:tochka.by/&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Хартия&#39;97" xmlUrl="https://charter97.org/ru/rss/all/" htmlUrl="https://charter97.org/"/>
   </outline>
 </body>
