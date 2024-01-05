@@ -79,8 +79,8 @@
     <outline type="rss" text="Financial TImes: Books" xmlUrl="https://www.ft.com/books?format=rss" htmlUrl="https://www.ft.com/books?format=rss"/>
     <outline type="rss" text="Financial Times: Opinion" xmlUrl="https://www.ft.com/opinion?format=rss" htmlUrl="https://www.ft.com/opinion?format=rss"/>
     <outline type="rss" text="First Things" xmlUrl="https://www.firstthings.com/rss/web-exclusives" htmlUrl="https://www.firstthings.com/rss/web-exclusives"/>
+    <outline type="rss" text="Focus" xmlUrl="http://rss.focus.de/fol/XML/rss_folnews.xml" htmlUrl="http://rss.focus.de/fol/XML/rss_folnews.xml"/>
     <outline type="rss" text="Focus (Italia)" xmlUrl="https://www.focus.it/rss" htmlUrl="https://www.focus.it/rss"/>
-    <outline type="rss" text="FOCUS online" xmlUrl="http://rss.focus.de/fol/XML/rss_folnews.xml" htmlUrl="http://rss.focus.de/fol/XML/rss_folnews.xml"/>
     <outline type="rss" text="Folha de S.Paulo" xmlUrl="https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" htmlUrl="https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/"/>
     <outline type="rss" text="Follow the Money" xmlUrl="https://www.ftm.nl/feed/" htmlUrl="https://www.ftm.nl"/>
     <outline type="rss" text="Forbes" xmlUrl="https://www.forbes.com/real-time/feed2/" htmlUrl="https://www.forbes.com/real-time/feed2/"/>
@@ -252,14 +252,16 @@
     <outline type="rss" text="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/rss/all.xml"/>
     <outline type="rss" text="Sciences et Avenir" xmlUrl="https://www.sciencesetavenir.fr/rss.xml" htmlUrl="https://www.sciencesetavenir.fr"/>
     <outline type="rss" text="Scientific American" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl="http://www.scientificamerican.com"/>
+    <outline type="rss" text="SCMP" xmlUrl="https://www.scmp.com/rss/91/feed" htmlUrl="https://www.scmp.com/rss/91/feed"/>
+    <outline type="rss" text="SCMP: Books" xmlUrl="https://www.scmp.com/rss/25/feed" htmlUrl="https://www.scmp.com/rss/25/feed"/>
+    <outline type="rss" text="SCMP: Opinion" xmlUrl="https://www.scmp.com/rss/17/feed" htmlUrl="https://www.scmp.com/rss/17/feed"/>
+    <outline type="rss" text="Semana: Arcadia" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Asemana.com%2Fcultura%2F&amp;hl=es-419&amp;gl=CO&amp;ceid=CO%3Aes-419" htmlUrl="https://news.google.com/search?q=when:672h+inurl:semana.com/cultura/&amp;hl=es-419&amp;gl=CO&amp;ceid=CO:es-419"/>
+    <outline type="rss" text="Semana: Opinión" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Asemana.com/opinion/&amp;hl=es-419&amp;gl=CO&amp;ceid=CO%3Aes-419" htmlUrl="https://news.google.com/search?q=when:168h+inurl:semana.com/opinion/&amp;hl=es-419&amp;gl=CO&amp;ceid=CO:es-419"/>
     <outline type="rss" text="Slate Magazine" xmlUrl="https://slate.com/feeds/all.rss" htmlUrl="https://slate.com/"/>
     <outline type="rss" text="Smithsonian" xmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" htmlUrl="https://www.smithsonianmag.com/rss/latest_articles/"/>
     <outline type="rss" text="Social Text" xmlUrl="https://socialtextjournal.org/feed/" htmlUrl="https://socialtextjournal.org"/>
     <outline type="rss" text="Socialist Alternative" xmlUrl="https://www.socialistalternative.org/feed/" htmlUrl="https://www.socialistalternative.org"/>
     <outline type="rss" text="Socialist Worker" xmlUrl="https://socialistworker.co.uk/feed/" htmlUrl="https://socialistworker.co.uk/"/>
-    <outline type="rss" text="South China Morning Post" xmlUrl="https://www.scmp.com/rss/91/feed" htmlUrl="https://www.scmp.com/rss/91/feed"/>
-    <outline type="rss" text="South China Morning Post: Books" xmlUrl="https://www.scmp.com/rss/25/feed" htmlUrl="https://www.scmp.com/rss/25/feed"/>
-    <outline type="rss" text="South China Morning Post: Opinion" xmlUrl="https://www.scmp.com/rss/17/feed" htmlUrl="https://www.scmp.com/rss/17/feed"/>
     <outline type="rss" text="stern" xmlUrl="https://www.stern.de/feed/standard/alle-nachrichten/" htmlUrl="https://www.stern.de/feed/standard/alle-nachrichten/"/>
     <outline type="rss" text="Sublation Magazine" xmlUrl="https://www.sublationmag.com/blog-feed.xml" htmlUrl="https://www.sublationmag.com/blog-feed.xml"/>
     <outline type="rss" text="Süddeutsche Zeitung" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Asueddeutsche.de&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" htmlUrl="https://news.google.com/search?q=when:24h+inurl:sueddeutsche.de&amp;hl=de&amp;gl=DE&amp;ceid=DE:de"/>
