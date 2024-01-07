@@ -82,7 +82,11 @@ Meduza - <https://meduza.io/articles>
 
 Известия: Лента - <https://iz.ru/feed>
 
-Коммерсантъ - <https://www.kommersant.ru/publishing/86>
+Коммерсантъ - <https://www.kommersant.ru/daily>
+
+Коммерсантъ Деньги - <https://www.kommersant.ru/money>
+
+Коммерсантъ Наука - <https://www.kommersant.ru/nauka>
 
 Коммерсантъ Weekend - <https://www.kommersant.ru/weekend>
 
