@@ -3,10 +3,10 @@
 <head><title>subscriptions</title></head>
 <body>
   <outline text="Newspapers and magazines">
-    <outline type="rss" text="ABC" xmlUrl="https://www.abc.es/rss/atom/ultima-hora/" htmlUrl="https://www.abc.es/rss/atom/ultima-hora/"/>
+    <outline type="rss" text="ABC (Spain)" xmlUrl="https://www.abc.es/rss/atom/ultima-hora/" htmlUrl="https://www.abc.es/rss/atom/ultima-hora/"/>
+    <outline type="rss" text="ABC (Spain): Cultura" xmlUrl="https://www.abc.es/rss/atom/cultura/" htmlUrl="https://www.abc.es/rss/atom/cultura/"/>
+    <outline type="rss" text="ABC (Spain): Opinion" xmlUrl="https://www.abc.es/rss/atom/opinion/" htmlUrl="https://www.abc.es/rss/atom/opinion/"/>
     <outline type="rss" text="ABC News" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aabcnews.go.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:abcnews.go.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
-    <outline type="rss" text="ABC: Cultura" xmlUrl="https://www.abc.es/rss/atom/cultura/" htmlUrl="https://www.abc.es/rss/atom/cultura/"/>
-    <outline type="rss" text="ABC: Opinion" xmlUrl="https://www.abc.es/rss/atom/opinion/" htmlUrl="https://www.abc.es/rss/atom/opinion/"/>
     <outline type="rss" text="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com"/>
     <outline type="rss" text="Al-Ahram" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aenglish.ahram.org.eg&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:english.ahram.org.eg&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="AllSides - Headline Roundups" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=AllSidesBridge&amp;context=Headline+Roundups&amp;limit=20&amp;fetch=on&amp;format=Atom" htmlUrl="https://www.allsides.com/headline-roundups"/>
