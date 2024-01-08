@@ -175,6 +175,8 @@ Philosophie DE - <https://www.philomag.de/>
 
 Diacritics - <https://muse-jhu-edu.i.ezproxy.nypl.org/pub/1/journal/46>
 
+Journal of the History of Philosophy - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/76>
+
 Russian Studies in Philosophy - <https://www.tandfonline.com/loi/mrsp19>
 
 The Philosophical Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/philrevi>

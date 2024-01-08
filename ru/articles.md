@@ -353,6 +353,8 @@ Philosophie DE - <https://www.philomag.de/>
 
 Diacritics - <https://muse-jhu-edu.i.ezproxy.nypl.org/pub/1/journal/46>
 
+Journal of the History of Philosophy - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/76>
+
 The Philosophical Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/philrevi>
 
 Noûs - <https://onlinelibrary.wiley.com/loi/14680068>
