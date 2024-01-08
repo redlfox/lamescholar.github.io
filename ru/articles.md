@@ -171,9 +171,19 @@ The New Yorker - <https://www.newyorker.com/>
 
 The Yale Review - <https://yalereview.org/issues>
 
-New England's Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/newenglandrev>
+American Book Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/467>
+
+French Studies: A Quarterly Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/346>
+
+German Studies Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/552>
+
+New England Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/541>
 
 Ploughshares - <https://muse.jhu.edu/journal/542>
+
+Southern Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/611>
+
+Virginia Quarterly Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/647>
 
 Top 100 - <https://thejohnfox.com/2021/08/ranking-of-the-100-best-literary-magazines/>
 
