@@ -60,9 +60,17 @@ make build_windows  # -> _output/windows/yarr.exe
 
 Если нет результата, используй [Google Новости](https://news.google.com/home?hl=ru&gl=RU&ceid=RU:ru). Сделай такого рода запрос:
 
+```
 when:24h inurl:profile.ru
+```
 
-И добавь к URL rss:
+или
+
+```
+when:24h site:profile.ru
+```
+
+И добавь к URL "rss":
 
 <https://news.google.com/search?q=when%3A24h%20inurl%3Aprofile.ru&hl=ru&gl=RU&ceid=RU%3Aru>
 
@@ -70,7 +78,9 @@ when:24h inurl:profile.ru
 
 В случае журнала с редкой публикацией можно расширить временной отрезок с 24h до 168h (1 неделя):
 
+```
 when:168h inurl:forbes.ru
+```
 
 <https://news.google.com/search?q=when%3A168h%20inurl%3Aforbes.ru&hl=ru&gl=RU&ceid=RU%3Aru>
 
