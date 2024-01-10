@@ -61,30 +61,24 @@ Try to google ""URL rss".
 If no result, use [Google News](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en). Make this kind of search:
 
 ```
-when:24h inurl:washingtonpost.com
-```
-
-or
-
-```
 when:24h site:washingtonpost.com
 ```
 
 And add "rss" to URL:
 
-<https://news.google.com/search?q=when%3A24h%20inurl%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen>
+<https://news.google.com/search?q=when%3A24h%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen>
 
-<https://news.google.com/rss/search?q=when%3A24h%20inurl%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen>
+<https://news.google.com/rss/search?q=when%3A24h%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen>
 
 In case of magazine with rare publication you can extend period of time from 24h to 168h (1 week):
 
 ```
-when:168h inurl:spectator.co.uk
+when:168h site:spectator.co.uk
 ```
 
-<https://news.google.com/search?q=when%3A168h%20inurl%3Aspectator.co.uk&hl=en-GB&gl=GB&ceid=GB%3Aen>
+<https://news.google.com/search?q=when%3A168h%20site%3Aspectator.co.uk&hl=en-GB&gl=GB&ceid=GB%3Aen>
 
-<https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aspectator.co.uk&hl=en-GB&gl=GB&ceid=GB%3Aen>
+<https://news.google.com/rss/search?q=when%3A168h%20site%3Aspectator.co.uk&hl=en-GB&gl=GB&ceid=GB%3Aen>
 
 Also you can generate RSS feed using rss-bridge:
 
