@@ -21,7 +21,7 @@ Lamp
 
 Weight (for example, a puck) for pressing pages
 
-External battery
+Power bank
 
 **Disadvantages of photographing:**
 
