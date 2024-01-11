@@ -13,7 +13,9 @@ title: Оцифровка
 
 Штатив
 
-<https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944>
+![Штатив](/images/stand.jpg)
+
+<sub>Сохрани картинку и найди похожие штативы в продаже с помощью [Google Images](https://www.google.com/imghp?hl=ru&tab=ri&ogbl)</sub>
 
 Лампа
 

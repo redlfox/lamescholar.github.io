@@ -110,13 +110,15 @@ Code block - <https://docs.github.com/ru/get-started/writing-on-github/working-w
 
 #### Adding picture
 
-Let's say you put an image.png picture in the folder named images. To display it on the page, write:
+Let's say you put an image.png picture in the folder named images.
+
+Place an image on the page:
 
 ```
 ![Picture description](/images/image.png)
 ```
 
-To put it in the center, write:
+In the center:
 
 ```
 {:refdef: style="text-align: center;"}
@@ -124,7 +126,7 @@ To put it in the center, write:
 {: refdef}
 ```
 
-To add a link to the picture, write:
+With a link:
 
 ```
 {:refdef: style="text-align: center;"}

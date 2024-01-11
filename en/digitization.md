@@ -11,9 +11,11 @@ There are two methods to digitize a book.
 
 Phone
 
-Support
+Stand
 
-<https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944>
+![Stand](/images/stand.jpg)
+
+<sub>Save the picture and find similar stands on sale using [Google Images](https://www.google.com/imghp?hl=en)</sub>
 
 Lamp
 
@@ -33,7 +35,7 @@ Availability
 
 **Description:**
 
-Fix the phone on the support. Turn on the lamp. Put the book so that one page completely falls into the frame of camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs.
+Fix the phone on the stand. Turn on the lamp. Put the book so that one page completely falls into the frame of camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs.
 
 To do a b/w ebook or a b/w ebook with colored illustrations (method of separated scans), look [DjVu](/en/djvu).
 
