@@ -532,6 +532,8 @@ Der Stern - <https://de.downmagaz.net/tags/Der%20Stern/>
 
 Focus - <https://de.downmagaz.net/tags/Focus/>
 
+Junge Freiheit - <https://de.downmagaz.net/tags/Junge%20Freiheit/>
+
 Wirtschaftswoche - <https://de.downmagaz.net/tags/Wirtschaftswoche/>
 <br><br>
 

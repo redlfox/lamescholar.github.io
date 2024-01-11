@@ -76,6 +76,8 @@ Frankfurter Allgemeine Zeitung - <https://www.faz.net/aktuell/>
 
 Frankfurter Allgemeine Zeitung: Nachrichten-Ticker - <https://www.faz.net/faz-live>
 
+nd.DieWoche - <https://www.nd-aktuell.de/die-woche/>
+
 Courierre della Sera: La Lettura - <https://www.corriere.it/la-lettura/>
 
 Ahram - <https://english.ahram.org.eg/>
