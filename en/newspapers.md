@@ -2,7 +2,7 @@
 title: Newspapers
 ---
 
-[Magazines](/en/magazines)
+All weeklies are in the [Magazines](/en/magazines) section. As well as websites where you can find both magazines and newspapers.
 <br><br>
 
 #### Search:
