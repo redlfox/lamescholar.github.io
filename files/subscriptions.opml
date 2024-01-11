@@ -528,7 +528,7 @@
     <outline type="rss" text="The Moscow Times" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=The+Moscow+Times&amp;feed_1=https%3A%2F%2Fwww.moscowtimes.ru%2Frss%2Fnews&amp;feed_2=https%3A%2F%2Fwww.moscowtimes.ru%2Frss%2Fopinion&amp;feed_3=https%3A%2F%2Fwww.moscowtimes.ru%2Frss%2Fft&amp;feed_4=&amp;feed_5=&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" htmlUrl="https://www.moscowtimes.ru/ft"/>
     <outline type="rss" text="The New Times" xmlUrl="https://newtimes.ru/rss/" htmlUrl="https://newtimes.ru"/>
     <outline type="rss" text="URA.RU" xmlUrl="https://ura.news/rss" htmlUrl="https://ura.news"/>
-    <outline type="rss" text="vc.ru" xmlUrl="https://news.google.com/rss/search?q=when:24h+site:vc.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru" htmlUrl="https://news.google.com/search?q=when:24h+site:vc.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
+    <outline type="rss" text="vc.ru" xmlUrl="https://vc.ru/rss" htmlUrl="https://vc.ru/rss"/>
     <outline type="rss" text="XX2 век" xmlUrl="https://22century.ru/feed" htmlUrl="https://22century.ru"/>
     <outline type="rss" text="«Агентство»" xmlUrl="https://www.agents.media/feed/" htmlUrl="https://www.proekt.media/"/>
     <outline type="rss" text="«Бумага»" xmlUrl="https://paperpaper.io/feed/" htmlUrl="https://paperpaper.io"/>
