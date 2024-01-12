@@ -6,7 +6,7 @@ title: Интернет-издания
 
 Proshloe - <https://proshloe.com/>
 
-LitNov.ru | Литературные новости - <http://litnov.ru/>
+LitNov.ru - <http://litnov.ru/>
 
 «Горький» - <https://gorky.media/>
 
