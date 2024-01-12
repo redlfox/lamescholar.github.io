@@ -26,6 +26,9 @@ cd C:\google-podcast-downloader
 python google-podcast-downloader.py --url "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yb29zZXZlbHRpbnN0aXR1dGUub3JnLw" --out-dir "C:\google-podcast-downloader"
 ```
 
+To download single episode, press Ctrl+Shift+I (DevTools will open). Refresh the page. Go back to DevTools. Open Network section. Find mp3 file.
+<br><br>
+
 #### Radio
 
 NPR - <https://www.npr.org/>

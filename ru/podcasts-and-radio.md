@@ -26,6 +26,9 @@ cd C:\google-podcast-downloader
 python google-podcast-downloader.py --url "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yb29zZXZlbHRpbnN0aXR1dGUub3JnLw" --out-dir "C:\google-podcast-downloader"
 ```
 
+Чтобы загрузить отдельный эпизод, нажми Ctrl+Shift+I (откроется DevTools). Обнови страницу. Вернись в DevTools. Открой раздел Network. Найди mp3-файл.
+<br><br>
+
 #### Радио
 
 Радио Звезда - <https://smotrim.ru/radio>
