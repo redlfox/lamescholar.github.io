@@ -20,9 +20,9 @@ spichka.media - <https://spichka.media/>
 
 Рабкор - <https://rabkor.ru/>
 
-https://rabkor.ru/author/boris_kagarlitsky/
+<https://rabkor.ru/author/boris_kagarlitsky/>
 
-http://kagarlitsky.narod.ru/
+<http://kagarlitsky.narod.ru/>
 
 Скепсис - <https://scepsis.net/>
 
