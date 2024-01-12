@@ -35,9 +35,9 @@ title: Поваренная книга пирата
 
 [Open access](/ru/open-access)
 
-[pandoc](/ru/pandoc)
-
 [P2P](/ru/p2p)
+
+[pandoc](/ru/pandoc)
 
 [PDF](/ru/pdf)
 
@@ -84,6 +84,8 @@ title: Поваренная книга пирата
 [Оцифровка](/ru/digitization)
 
 [Перевод](/ru/translation)
+
+[Подкасты и радио](/ru/podcasts-and-radio)
 
 [Поиск книг](/ru/book-searching)
 

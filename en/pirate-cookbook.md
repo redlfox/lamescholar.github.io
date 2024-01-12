@@ -67,11 +67,13 @@ Pirate Cookbook is my collection of guides on piracy and book digitization. For 
 
 [Open access](/en/open-access)
 
-[pandoc](/en/pandoc)
-
 [P2P](/en/p2p)
 
+[pandoc](/en/pandoc)
+
 [PDF](/en/pdf)
+
+[Podcasts and radio](/en/podcasts-and-radio)
 
 [Publishers](/en/publishers)
 
