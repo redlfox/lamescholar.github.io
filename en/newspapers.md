@@ -48,8 +48,6 @@ The New York Times Magazine - <https://www.nytimes.com/international/section/mag
 
 The Wall Street Journal - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
 
-The Wall Street Journal: Books - <https://www.wsj.com/arts-culture/books>
-
 The Washington Post - <https://www.washingtonpost.com/todays_paper/updates/>
 
 The Washington Post: Latest From The Post - <https://www.washingtonpost.com/latest-headlines/>
