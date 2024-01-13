@@ -21,6 +21,8 @@ MVgroup - <https://forums.mvgroup.org/index.php?showtopic=2827>
 #### Programs:
 
 K-Lite Codec Pack Standart - <https://codecguide.com/download_kl.htm>
+
+D - find subtitles. Ctrl+L - load subtitles. W - turn off subtitles. Cltr+O - load audio.
 <br><br>
 
 #### Subtitles:
