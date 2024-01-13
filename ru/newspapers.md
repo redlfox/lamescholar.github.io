@@ -205,8 +205,6 @@ Pew Research Center - <https://www.pewresearch.org/publications/>
 
 Statista: Daily Data - <https://www.statista.com/chartoftheday/>
 
-Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
-
 Bloomberg - <https://www.bloomberg.com/>
 <br><br>
 
