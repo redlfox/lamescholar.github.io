@@ -41,9 +41,13 @@ True Story - <https://thetruestory.news/>
 
 Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
 
-Дзен: книга - <https://dzen.ru/news/search?issue_tld=ru&text=%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0>
-
 ИноСМИ: Наука - <https://inosmi.ru/science/>
+
+Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
+
+RealClearBooks - <https://www.realclearbooks.com/>
+
+EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
 #### Информационные агентства:
@@ -195,16 +199,7 @@ Meduza - <https://meduza.io/articles>
 Новая жизнь - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126741>
 <br><br>
 
-#### Агрегаторы новостей на других языках:
-
-Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
-
-RealClearBooks - <https://www.realclearbooks.com/>
-
-EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
-<br><br>
-
-#### Новостные интернет-издания на других языках:
+#### Новостные интернет-издания на иностранных языках:
 
 Pew Research Center - <https://www.pewresearch.org/publications/>
 
@@ -215,7 +210,7 @@ Statista: Recent Statistics: <https://www.statista.com/statistics/recent/>
 Bloomberg - <https://www.bloomberg.com/>
 <br><br>
 
-#### Онлайн газеты на других языках:
+#### Онлайн газеты на иностранных языках:
 
 The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 
@@ -299,7 +294,7 @@ Communist Historical Newspaper Collection - <https://www.nypl.org/research/colle
 The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 <br><br>
 
-#### Газеты на других языках в PDF:
+#### Газеты на иностранных языках в PDF:
 
 The New York Times - <https://forum.mobilism.org/search.php?keywords=the+new+york+times&sr=topics&sf=titleonly>
 
