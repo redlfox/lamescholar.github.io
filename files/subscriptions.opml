@@ -149,6 +149,7 @@
     <outline type="rss" text="Jacobin América Latina" xmlUrl="https://jacobinlat.com/feed/" htmlUrl="https://jacobinlat.com/"/>
     <outline type="rss" text="Jacobin Deutschland" xmlUrl="https://jacobin.de/rss.xml" htmlUrl="https://jacobin.de"/>
     <outline type="rss" text="Jacobin Italia" xmlUrl="https://jacobinitalia.it/feed/" htmlUrl="https://jacobinitalia.it/"/>
+    <outline type="rss" text="Jewish Currents" xmlUrl="https://jewishcurrents.org/feed" htmlUrl="https://jewishcurrents.org/feed"/>
     <outline type="rss" text="Jewish Review of Books" xmlUrl="https://jewishreviewofbooks.com/feed/" htmlUrl="https://jewishreviewofbooks.com"/>
     <outline type="rss" text="Kathimerini" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Akathimerini.gr&amp;hl=el&amp;gl=GR&amp;ceid=GR%3Ael" htmlUrl="https://news.google.com/search?q=when:24h+inurl:kathimerini.gr&amp;hl=el&amp;gl=GR&amp;ceid=GR:el"/>
     <outline type="rss" text="Kathimerini EN" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aekathimerini.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:ekathimerini.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
@@ -310,6 +311,7 @@
     <outline type="rss" text="The Diplomat" xmlUrl="https://thediplomat.com/feed/" htmlUrl="https://thediplomat.com/feed/"/>
     <outline type="rss" text="The Economist: Culture" xmlUrl="https://www.economist.com/culture/rss.xml" htmlUrl="https://www.economist.com/culture/"/>
     <outline type="rss" text="The Economist: The world this week" xmlUrl="https://www.economist.com/the-world-this-week/rss.xml" htmlUrl="https://www.economist.com/the-world-this-week/"/>
+    <outline type="rss" text="The Forward" xmlUrl="https://forward.com/feed/" htmlUrl="https://forward.com/"/>
     <outline type="rss" text="The Globe and Mail" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Atheglobeandmail.com&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:theglobeandmail.com&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="The Globe and Mail: Arts" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Atheglobeandmail.com%2Farts%2F&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:theglobeandmail.com/arts/&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="The Globe and Mail: Opinion" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Atheglobeandmail.com%2Fopinion%2F&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:theglobeandmail.com/opinion/&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
