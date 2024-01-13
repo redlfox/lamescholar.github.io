@@ -283,6 +283,7 @@
     <outline type="rss" text="SCMP: Opinion" xmlUrl="https://www.scmp.com/rss/17/feed" htmlUrl="https://www.scmp.com/rss/17/feed"/>
     <outline type="rss" text="Semana: Arcadia" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Asemana.com%2Fcultura%2F&amp;hl=es-419&amp;gl=CO&amp;ceid=CO%3Aes-419" htmlUrl="https://news.google.com/search?q=when:672h+inurl:semana.com/cultura/&amp;hl=es-419&amp;gl=CO&amp;ceid=CO:es-419"/>
     <outline type="rss" text="Semana: Opinión" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Asemana.com/opinion/&amp;hl=es-419&amp;gl=CO&amp;ceid=CO%3Aes-419" htmlUrl="https://news.google.com/search?q=when:168h+inurl:semana.com/opinion/&amp;hl=es-419&amp;gl=CO&amp;ceid=CO:es-419"/>
+    <outline type="rss" text="Sight and Sound" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Abfi.org.uk/sight-and-sound/&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:bfi.org.uk/sight-and-sound/&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
     <outline type="rss" text="Sixth Tone" xmlUrl="https://api.sixthtone.com/cont/output/rssApi" htmlUrl="https://www.sixthtone.com"/>
     <outline type="rss" text="Slate Magazine" xmlUrl="https://slate.com/feeds/all.rss" htmlUrl="https://slate.com/"/>
     <outline type="rss" text="Smithsonian" xmlUrl="https://www.smithsonianmag.com/rss/latest_articles/" htmlUrl="https://www.smithsonianmag.com/rss/latest_articles/"/>
@@ -407,10 +408,6 @@
     <outline type="rss" text="Scaramucciа" xmlUrl="https://feed.rutracker.cc/atom/u/4/49/43156949.atom" htmlUrl="https://rutracker.org/forum/profile.php?mode=viewprofile&amp;u=43156949"/>
     <outline type="rss" text="Skaramusch" xmlUrl="https://feed.rutracker.cc/atom/u/0/47/2906647.atom" htmlUrl="https://rutracker.org/forum/profile.php?mode=viewprofile&amp;u=2906647"/>
     <outline type="rss" text="Общая по всем разделам" xmlUrl="https://feed.rutracker.cc/atom/f/0.atom" htmlUrl="http://rutracker.org/forum/"/>
-  </outline>
-  <outline text="YouTube">
-    <outline type="rss" text="Букинист Орск - YouTube" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=YoutubeBridge&amp;context=By+custom+name&amp;custom=%40bookinist_orsk&amp;duration_min=&amp;duration_max=&amp;format=Atom" htmlUrl="https://www.youtube.com/%40bookinist_orsk/videos"/>
-    <outline type="rss" text="Книжные Новости - YouTube" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=YoutubeBridge&amp;context=By+custom+name&amp;custom=AndrewKrivolapov&amp;duration_min=&amp;duration_max=&amp;format=Atom" htmlUrl="https://www.youtube.com/AndrewKrivolapov/videos"/>
   </outline>
   <outline text="Блоги">
     <outline type="rss" text="///" xmlUrl="https://s357a.blogspot.com/feeds/posts/default" htmlUrl="https://s357a.blogspot.com/"/>
