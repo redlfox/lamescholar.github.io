@@ -2,14 +2,192 @@
 title: Magazines
 ---
 
-##### New issues:
+#### New issues:
 
 PressReader - <https://www-pressreader-com.i.ezproxy.nypl.org/catalog>
+
+<details>
+<summary>Press you can find on PressReader</summary>
+<pre>
+ABC
+ABC - Cultural
+Adbusters
+Aftenposten
+Alternatives Economiques
+Alternatives Economiques - Hors-Serie
+American Fine Art Magazine
+American Art Collector
+Angora
+Apollo Magazine
+Arab News
+Aravot
+Arcadia
+Atlas Tarih
+Avgi
+Azer News
+BBC History Magazine
+BBC Music Magazine
+Biancoscuro Rivista d'Arte
+BiblioAsia
+BookReporter
+Bucher Magazin
+CAPTION Magazine
+Carto
+Challenges
+China Daily
+China Daily Weekly
+Chinese Social Sciences Today
+Clarin
+Clarin - Economico
+Corriere della Serra
+Corriere della Serra - Sette
+Daily Sabah
+De Standaard
+Delo (Slovenia)
+Denik N
+Dennik N
+Der Standard
+Der Tagesspiegel
+Deutsche Welle Russian Edition
+Diario de Noticias
+Diario Informacion - Arte y Letras
+Die Presse
+Die Presse am Sonntag
+Die Welt
+Documento
+El Comercio
+El Mundo
+El Mundo - Weekend
+El Mundo - La Lectura
+El Pais
+EuroNews (English)
+Faith Today
+Faro de Vigo - Faro de Cultura
+Filosofie Magazine
+Focus (Italia)
+Focus Storia
+FOCUS Magazin
+Folha de S.Paulo
+Forbes
+Foreign Affairs
+Frascati Poesia
+Gazeta Wyborcza
+Gazeta Wyborcza - Ale Historia
+Goteborgs-Posten
+Gulf Today
+Haaretz - English Edition
+Haaretz - English Edition (Friday)
+Hurriyet Daily News
+Il Fatto Quotidiano
+Il Sole 24 Ore
+Il Sole 24 Ore - Domenica
+iNews
+Inuit Art Querterly
+Kathimrini
+Kleine Zeitung
+Kurier
+Kurier (Samstag)
+L'actualite
+L'Express
+L'Histoire
+L'Humanite
+L'Humanite magazine	
+L'Obs
+L'Opinion
+L'Osservatore
+L'Unita
+La Jornada
+La Lettura
+La Nacion
+La Nuevo Espana - Cultura
+La Razon
+La Tercera
+La Vanguardia
+La Vanguardia - Culturas
+La Voz
+La Voz - Numero Cero
+Le Devoir
+Le Figaro
+Le nouvel Economiste
+Le Point
+Le Temps
+Liberation
+Libero
+Lire
+Luxemburger Wort
+Milenio
+nd.DerTag
+nd.DieWoche
+Lidove Noviny
+Lietuvos Rytas
+Moment Magazine
+National Post
+Ne Delo
+Nedeljski Dnevnik
+Neue Zurcher Zeitung
+New York Magazine
+Newsweek International
+NRC
+NZZ am Sonntag
+O Estado de S. Paulo
+Pagina12
+Panorama
+Paraskhnio
+Peace Magazine
+Perfil (Domingo)
+Polityka
+Politiken
+Popular Mechanics
+Pravda
+pro zukunft
+Przekroj
+Publishers Weekly
+Revista N
+Sciences et Avenir
+South China Morning Post
+Smithsonian
+Suddeutsche Zeitung Deutschland-Ausgabe
+Svenska Dagbladet
+Trabajadores
+The Critic
+The Daily Telegraph
+The Economist
+The Globe and Mail
+The Guardian (USA)
+The Guardian - Journal
+The Guardian Weekly
+The Hindu
+The Independent
+The Iowa Review
+The Jerasulem Post
+The Jerasulem Post Magazine
+The Korea Times
+The London Magazine
+The New Review
+The New York Review of Books
+The New York Times
+The New Zealand Herald
+The Observer
+The Straits Times
+The Wall Street Journal
+The Washington Post
+The Washington Post Sunday
+The Week
+Toronto Star
+Question de Philo
+Variety
+Vecernji list - Hrvatska
+Washington Examiner
+Welt am Sonntag
+Worldcrunch Magazine
+Беларуская думка
+</pre>
+</details>
 
 Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
 <br><br>
 
-##### New issues in PDF:
+#### New issues in PDF:
 
 Yggtorrent: Presse - <https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search>
 
