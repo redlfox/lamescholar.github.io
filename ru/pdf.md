@@ -25,6 +25,8 @@ IrfanView (цветокоррекция) - см. [Internet Archive](/ru/internet
 
 Book Restorer (распрямление искривлённых изображений) - <http://djvu-converter.narod.ru/>
 
+IrfanView (резкость)
+
 LuraTech PDF Compressor (кодирование изображений в PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
 ABBYY Finereader (текстовый слой) - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>

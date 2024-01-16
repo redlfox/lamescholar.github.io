@@ -25,6 +25,8 @@ IrfanView (color correction) - look [Internet Archive](/en/internet-archive)
 
 Book Restorer (straightening of crooked images) - <http://djvu-converter.narod.ru/>
 
+IrfanView (sharpen)
+
 LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
 ABBYY Finereader (text layer) - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>
