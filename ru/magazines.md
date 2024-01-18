@@ -81,7 +81,6 @@ Goteborgs-Posten
 Gulf Today
 Haaretz - English Edition
 Haaretz - English Edition (Friday)
-Hurriyet Daily News
 Il Fatto Quotidiano
 Il Sole 24 Ore
 Il Sole 24 Ore - Domenica
