@@ -42,12 +42,6 @@ True Story - <https://thetruestory.news/>
 Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
 
 ИноСМИ: Наука - <https://inosmi.ru/science/>
-
-Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
-
-RealClearBooks - <https://www.realclearbooks.com/>
-
-EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
 #### Информационные агентства:
@@ -197,6 +191,15 @@ Meduza - <https://meduza.io/articles>
 Ученые известия - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=158357>
 
 Новая жизнь - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126741>
+<br><br>
+
+#### Агрегаторы новостей на иностранных языках:
+
+Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
+
+RealClearBooks - <https://www.realclearbooks.com/>
+
+EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
 #### Новостные интернет-издания на иностранных языках:
