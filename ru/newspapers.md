@@ -90,8 +90,6 @@ Meduza - <https://meduza.io/articles>
 
 Коммерсантъ: Культура - <https://www.kommersant.ru/rubric/8>
 
-Коммерсантъ: Материалы сайта - <https://www.kommersant.ru/publishing/57>
-
 Литературная газета - <https://lgz.ru/>
 
 Литературная Россия - <https://litrossia.ru/numbers/>
