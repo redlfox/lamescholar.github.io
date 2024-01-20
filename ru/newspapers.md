@@ -84,6 +84,8 @@ Meduza - <https://meduza.io/articles>
 
 Коммерсантъ Деньги - <https://www.kommersant.ru/money>
 
+Коммерсантъ История - <https://www.kommersant.ru/theme/1215>
+
 Коммерсантъ Наука - <https://www.kommersant.ru/nauka>
 
 Коммерсантъ Weekend - <https://www.kommersant.ru/weekend>
