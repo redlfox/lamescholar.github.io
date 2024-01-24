@@ -28,7 +28,6 @@ Azer News
 BBC History Magazine
 BBC Music Magazine
 Biancoscuro Rivista d'Arte
-BiblioAsia
 BookReporter
 Bucher Magazin
 CAPTION Magazine
