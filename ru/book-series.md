@@ -9,9 +9,9 @@ title: Книжные серии
 
 ImWerden:
 
-Многотомники - <https://imwerden.de/multi-volume_sets>
-
 Книжные серии - <https://imwerden.de/series>
+
+Многотомники - <https://imwerden.de/multi-volume-sets>
 
 allisa1 - <https://rutracker.org/forum/tracker.php?rid=8917891>
 
