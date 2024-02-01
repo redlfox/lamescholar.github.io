@@ -8,7 +8,7 @@ SumatraPDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer>
 
 Alt+Left - go back after clicking on the hyperlink.
 
-Ctrl+Y - change the scale. If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%, if this doesn't suit, then 162% or 187%. If you need ф scale slightly larger than 150% - add 6%.
+Ctrl+Y - change the scale. If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%, if this doesn't suit, then 162% or 187%. If you need the scale slightly larger than 150% - add 6%.
 <br><br>
 
 #### Creating PDF:
