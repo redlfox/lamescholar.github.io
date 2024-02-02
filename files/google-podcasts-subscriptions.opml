@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="1.0">
+   <head>
+     <title>Google Podcasts Feeds</title>
+   </head>
+   <body>
+     <outline text="feeds">
+<outline type="rss" text="Citations Needed" xmlUrl="https://citationsneeded.libsyn.com/rss"/>
+<outline type="rss" text="The Nation Podcasts" xmlUrl="https://feeds.redcircle.com/de5dbe33-63b3-4d3e-a545-07791baa168c"/>
+<outline type="rss" text="The Important Cinema Club" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:188656528/sounds.rss"/>
+<outline type="rss" text="On the Nose" xmlUrl="https://feeds.captivate.fm/on-the-nose/"/>
+<outline type="rss" text="The Verso Podcast" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:20887877/sounds.rss"/>
+<outline type="rss" text="Within Reason" xmlUrl="https://cosmicskeptic.libsyn.com/rss"/>
+<outline type="rss" text="Backlisted" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:13730980/sounds.rss"/>
+<outline type="rss" text="Theory & Philosophy" xmlUrl="https://feed.podbean.com/theoretician/feed.xml"/>
+<outline type="rss" text="The Jordan B. Peterson Podcast" xmlUrl="https://feeds.simplecast.com/vsy1m5LV"/>
+<outline type="rss" text="Intercepted" xmlUrl="https://feeds.acast.com/public/shows/f5b64019-68c3-57d4-b70b-043e63e5cbf6"/>
+<outline type="rss" text="The Rest Is History" xmlUrl="https://rss.acast.com/the-rest-is-history-podcast"/>
+<outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl"/>
+<outline type="rss" text="History Extra podcast" xmlUrl="https://rss.acast.com/historyextra"/>
+<outline type="rss" text="Сигнал" xmlUrl="https://meduza.io/rss/podcasts/signal"/>
+<outline type="rss" text="The Book Club" xmlUrl="https://audioboom.com/channels/4905582.rss"/>
+<outline type="rss" text="Michael and Us" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:231413133/sounds.rss"/>
+<outline type="rss" text="theAnalysis.news" xmlUrl="https://theanalysis.news/feed/podcast/"/>
+<outline type="rss" text="What's Left of Philosophy" xmlUrl="https://feeds.buzzsprout.com/1413505.rss"/>
+<outline type="rss" text="In Our Time With Melvyn Bragg" xmlUrl="https://iono.fm/rss/chan/2298"/>
+<outline type="rss" text="Pitchfork Economics with Nick Hanauer" xmlUrl="https://feeds.megaphone.fm/PPY5667678674"/>
+<outline type="rss" text="Philosophize This!" xmlUrl="https://philosophizethis.libsyn.com/rss"/>
+<outline type="rss" text="The LRB Podcast" xmlUrl="https://feeds.acast.com/public/shows/f8abe2f0-7415-4247-bc89-e5f3f6eff6b1"/>
+<outline type="rss" text="The Ex-Worker" xmlUrl="https://crimethinc.com/podcast/feed"/>
+<outline type="rss" text="New Books in Critical Theory" xmlUrl="https://feeds.megaphone.fm/LIT8251633117"/>
+<outline type="rss" text="The Deprogram" xmlUrl="https://feeds.buzzsprout.com/1890340.rss"/>
+<outline type="rss" text="History of Philosophy Without Any Gaps" xmlUrl="https://feed.podbean.com/hopwag/feed.xml"/>
+<outline type="rss" text="Jacobin Radio" xmlUrl="https://feeds.acast.com/public/shows/619be5c0705138001b9c8479"/>
+<outline type="rss" text="Know Your Enemy" xmlUrl="https://feeds.simplecast.com/MQHnVVgK"/>
+<outline type="rss" text="The Politics of Everything" xmlUrl="https://feed.podbean.com/newrepublic/feed.xml"/>
+<outline type="rss" text="Gone Medieval" xmlUrl="https://rss.acast.com/gone-medieval"/>
+<outline type="rss" text="Что случилось" xmlUrl="https://meduza.io/rss/podcasts/meduza-v-kurse"/>
+<outline type="rss" text="The Partially Examined Life Philosophy Podcast" xmlUrl="https://partiallyexaminedlife.libsyn.com/rss"/>
+<outline type="rss" text="The Ancients" xmlUrl="https://rss.acast.com/the-ancients"/>
+<outline type="rss" text="Лекции Arzamas" xmlUrl="https://arzamas.academy/feed_v1/podcast.rss"/>
+<outline type="rss" text="Между строк" xmlUrl="https://feeds.simplecast.com/Rs9zGK43"/>
+<outline type="rss" text="The Ezra Klein Show" xmlUrl="https://feeds.simplecast.com/82FI35Px"/>
+<outline type="rss" text="Past Present Future" xmlUrl="https://feeds.acast.com/public/shows/pastpresentfuture"/>
+<outline type="rss" text="PBS NewsHour - Full Show" xmlUrl="https://www.pbs.org/newshour/feeds/rss/podcasts/show"/>
+<outline type="rss" text="Inside the Hive by Vanity Fair" xmlUrl="https://publicfeeds.net/f/5571/inside-the-hive"/>
+<outline type="rss" text="The Penguin Podcast" xmlUrl="https://rss.acast.com/thepenguinpodcast"/>
+<outline type="rss" text="The Dig" xmlUrl="https://www.blubrry.com/feeds/thedig.xml"/>
+<outline type="rss" text="Critics at Large | The New Yorker" xmlUrl="https://publicfeeds.net/f/5868/critics-at-large"/>
+<outline type="rss" text="Ralph Nader Radio Hour" xmlUrl="https://api.substack.com/feed/podcast/1047405.rss"/>
+<outline type="rss" text="Крупным планом" xmlUrl="https://feeds.simplecast.com/9U49ooRr"/>
+<outline type="rss" text="The TLS Podcast" xmlUrl="https://feeds.acast.com/public/shows/af0e16de-9e4b-419b-b090-e1fe8c56f241"/>
+<outline type="rss" text="Current Affairs" xmlUrl="https://feeds.simplecast.com/6HSzsHPR"/>
+<outline type="rss" text="Philosophy For Our Times" xmlUrl="https://rss.art19.com/philosophy-for-our-times"/>
+<outline type="rss" text="Today, Explained" xmlUrl="https://rss.art19.com/today-explained"/>
+<outline type="rss" text="Democracy Now! Audio" xmlUrl="https://www.democracynow.org/podcast.xml"/>
+<outline type="rss" text="Deconstructed" xmlUrl="https://feeds.acast.com/public/shows/1d1223a2-9d05-473b-9e79-c2b65b71d676"/>
+<outline type="rss" text="Страдающее Средневековье" xmlUrl="https://anchor.fm/s/450a6618/podcast/rss"/>
+<outline type="rss" text="Revolutionary Left Radio" xmlUrl="https://feeds.libsyn.com/95194/rss"/>
+<outline type="rss" text="Закат империи" xmlUrl="https://feeds.transistor.fm/37107aa2-7710-4afa-a427-77bec3de7594"/>
+<outline type="rss" text="Close Readings" xmlUrl="https://feeds.acast.com/public/shows/63d803d89b3279001143cdae"/>
+<outline type="rss" text="1 big thing" xmlUrl="https://feeds.megaphone.fm/axiostoday"/>
+     </outline>
+   </body>
+</opml>
