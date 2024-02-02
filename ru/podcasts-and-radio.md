@@ -4,29 +4,7 @@ title: Подкасты и радио
 
 #### Подкасты
 
-<https://github.com/VaasuDevanS/google-podcast-downloader>
-
-С этим скриптом на [Python](https://www.python.org/downloads/) ты можешь скачать все эпизоды любого подкаста на [Google Подкасты](https://podcasts.google.com/).
-
-Скачиваем скрипт:
-
-Win+R cmd
-
-```
-cd C:\
-git clone https://github.com/VaasuDevanS/google-podcast-downloader
-```
-
-Используем скрипт:
-
-Win+R cmd
-
-```
-cd C:\google-podcast-downloader
-python google-podcast-downloader.py --url "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yb29zZXZlbHRpbnN0aXR1dGUub3JnLw" --out-dir "C:\google-podcast-downloader"
-```
-
-Чтобы загрузить отдельный эпизод, нажми Ctrl+Shift+I (откроется DevTools). Обнови страницу. Вернись в DevTools. Открой раздел Network. Найди mp3-файл.
+Pocket Casts
 <br><br>
 
 #### Радио

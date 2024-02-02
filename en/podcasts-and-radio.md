@@ -4,29 +4,7 @@ title: Podcasts and radio
 
 #### Podcasts
 
-<https://github.com/VaasuDevanS/google-podcast-downloader>
-
-With this [Python](https://www.python.org/downloads/) script you can download all episodes of any podcast on [Google Podcasts](https://podcasts.google.com/).
-
-Downloading the script:
-
-Win+R cmd
-
-```
-cd C:\
-git clone https://github.com/VaasuDevanS/google-podcast-downloader
-```
-
-Using the script:
-
-Win+R cmd
-
-```
-cd C:\google-podcast-downloader
-python google-podcast-downloader.py --url "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yb29zZXZlbHRpbnN0aXR1dGUub3JnLw" --out-dir "C:\google-podcast-downloader"
-```
-
-To download single episode, press Ctrl+Shift+I (DevTools will open). Refresh the page. Go back to DevTools. Open Network section. Find mp3 file.
+Pocket Casts
 <br><br>
 
 #### Radio
