@@ -5,6 +5,10 @@ title: Podcasts and radio
 #### Podcasts
 
 Pocket Casts
+
+OPML file with my subsciptions:
+
+[podcasts.opml](/files/podcasts.opml)
 <br><br>
 
 #### Radio

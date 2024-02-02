@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline xmlUrl="https://feeds.acast.com/public/shows/643567dadf57c70011780840" type="rss" text="Past Present Future" />
+			<outline xmlUrl="https://feeds.simplecast.com/6HSzsHPR" type="rss" text="Current Affairs" />
+			<outline text="Что случилось" xmlUrl="https://meduza.io/rss2/podcasts/meduza-v-kurse" type="rss" />
+			<outline text="The Nation Podcasts" type="rss" xmlUrl="https://feeds.redcircle.com/de5dbe33-63b3-4d3e-a545-07791baa168c" />
+			<outline text="Democracy Now! Audio" type="rss" xmlUrl="https://www.democracynow.org/podcast.xml" />
+			<outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" />
+			<outline text="Deconstructed" xmlUrl="https://feeds.acast.com/public/shows/1d1223a2-9d05-473b-9e79-c2b65b71d676" type="rss" />
+			<outline xmlUrl="https://feeds.buzzsprout.com/1890340.rss" text="The Deprogram" type="rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/11c1773b-6d50-4dbb-b543-483046bdc241" text="Gone Medieval" type="rss" />
+			<outline text="PBS NewsHour - Full Show" xmlUrl="https://www.pbs.org/newshour/feeds/rss/podcasts/show" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/GLT5697813216" text="History Extra podcast" />
+			<outline xmlUrl="https://feeds.simplecast.com/vsy1m5LV" type="rss" text="The Jordan B. Peterson Podcast" />
+			<outline text="Today, Explained" type="rss" xmlUrl="https://feeds.megaphone.fm/VMP5705694065" />
+			<outline type="rss" xmlUrl="https://meduza.io/rss/podcasts/signal" text="Сигнал" />
+			<outline xmlUrl="https://feeds.captivate.fm/on-the-nose/" type="rss" text="On the Nose" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/af0e16de-9e4b-419b-b090-e1fe8c56f241" type="rss" text="The TLS Podcast" />
+			<outline xmlUrl="https://feeds.megaphone.fm/axiostoday" type="rss" text="1 big thing" />
+			<outline xmlUrl="https://publicfeeds.net/f/5571/inside-the-hive" text="Inside the Hive by Vanity Fair" type="rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/82FI35Px" text="The Ezra Klein Show" type="rss" />
+			<outline type="rss" xmlUrl="https://publicfeeds.net/f/5868/critics-at-large" text="Critics at Large | The New Yorker" />
+			<outline xmlUrl="https://feeds.megaphone.fm/LIT8251633117" text="New Books in Critical Theory" type="rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/f2925f7a-eb08-471a-9958-387cb5ee6353" type="rss" text="The Ancients" />
+			<outline text="The Dig" type="rss" xmlUrl="https://thedig.blubrry.net/feed/podcast/" />
+			<outline text="Jacobin Radio" type="rss" xmlUrl="https://feeds.acast.com/public/shows/619be5c0705138001b9c8479" />
+			<outline type="rss" text="The Rest Is History" xmlUrl="https://feeds.megaphone.fm/GLT4787413333" />
+			<outline xmlUrl="https://theanalysis.news/feed/podcast/" type="rss" text="theAnalysis.news" />
+			<outline type="rss" text="The Book Club" xmlUrl="https://audioboom.com/channels/4905582.rss" />
+			<outline type="rss" xmlUrl="https://citationsneeded.libsyn.com/rss" text="Citations Needed" />
+			<outline text="The LRB Podcast" xmlUrl="https://feeds.acast.com/public/shows/f8abe2f0-7415-4247-bc89-e5f3f6eff6b1" type="rss" />
+			<outline text="Close Readings" xmlUrl="https://feeds.acast.com/public/shows/63d803d89b3279001143cdae" type="rss" />
+			<outline text="Revolutionary Left Radio" type="rss" xmlUrl="https://revolutionaryleftradio.libsyn.com/rss" />
+			<outline xmlUrl="https://feed.podbean.com/theoretician/feed.xml" type="rss" text="Theory &amp; Philosophy" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/f5b64019-68c3-57d4-b70b-043e63e5cbf6" type="rss" text="Intercepted" />
+			<outline xmlUrl="https://feeds.simplecast.com/MQHnVVgK" type="rss" text="Know Your Enemy" />
+			<outline text="Между строк" type="rss" xmlUrl="https://feeds.simplecast.com/Rs9zGK43" />
+			<outline text="History of Philosophy Without Any Gaps" xmlUrl="https://feed.podbean.com/hopwag/feed.xml" type="rss" />
+			<outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:231413133/sounds.rss" text="Michael and Us" type="rss" />
+			<outline text="The Important Cinema Club" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:188656528/sounds.rss" />
+			<outline xmlUrl="https://api.substack.com/feed/podcast/1047405.rss" text="Ralph Nader Radio Hour" type="rss" />
+			<outline text="Within Reason" type="rss" xmlUrl="https://cosmicskeptic.libsyn.com/rss" />
+			<outline type="rss" xmlUrl="http://partiallyexaminedlife.libsyn.com/rss" text="The Partially Examined Life Philosophy Podcast" />
+			<outline type="rss" text="The Verso Podcast" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:20887877/sounds.rss" />
+			<outline text="The Ex-Worker" type="rss" xmlUrl="https://exworker.libsyn.com/rss" />
+			<outline xmlUrl="https://feeds.buzzsprout.com/1413505.rss" type="rss" text="What&apos;s Left of Philosophy" />
+			<outline type="rss" text="The Politics of Everything" xmlUrl="https://feeds.megaphone.fm/THI6493199893" />
+			<outline type="rss" xmlUrl="https://feeds.acast.com/public/shows/d2a69c65-3300-4484-abcb-ea3e7d712478" text="The Penguin Podcast" />
+			<outline xmlUrl="https://feeds.simplecast.com/9U49ooRr" type="rss" text="Крупным планом" />
+			<outline text="In Our Time" xmlUrl="https://podcasts.files.bbci.co.uk/b006qykl.rss" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/GLT2438307082" text="Backlisted" />
+			<outline xmlUrl="https://feeds.megaphone.fm/pitchforkeconomics" text="Pitchfork Economics with Nick Hanauer" type="rss" />
+			<outline text="Закат империи" xmlUrl="https://feeds.transistor.fm/37107aa2-7710-4afa-a427-77bec3de7594" type="rss" />
+			<outline xmlUrl="https://arzamas.academy/feed_v1/podcast.rss" text="Лекции Arzamas" type="rss" />
+			<outline xmlUrl="https://mavecloud.s3mts.ru/storage/feeds/45373.xml" type="rss" text="Страдающее Средневековье" />
+			<outline text="Philosophy For Our Times" xmlUrl="https://rss.art19.com/philosophy-for-our-times" type="rss" />
+			<outline text="Philosophize This!" xmlUrl="https://feeds.megaphone.fm/QCD6036500916" type="rss" />
+		</outline>
+	</body>
+</opml>

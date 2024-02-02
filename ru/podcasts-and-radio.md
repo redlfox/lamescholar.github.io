@@ -5,6 +5,10 @@ title: Подкасты и радио
 #### Подкасты
 
 Pocket Casts
+
+OPML-файл с моими подписками:
+
+[podcasts.opml](/files/podcasts.opml)
 <br><br>
 
 #### Радио
