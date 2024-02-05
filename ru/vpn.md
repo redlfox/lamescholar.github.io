@@ -2,7 +2,7 @@
 title: VPN
 ---
 
-VPS+WireGuard:
+Собственный VPN: Виртуальный сервер + WireGuard
 
 <https://www.youtube.com/watch?v=2AYuijbofiM>
 

@@ -2,7 +2,7 @@
 title: VPN
 ---
 
-VPS+WireGuard
+Your own VPN: Virtual server + WireGuard
 
 Buy a virtual server. Connect to it through MobaXterm:
 
