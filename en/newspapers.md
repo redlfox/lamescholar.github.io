@@ -38,9 +38,7 @@ The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complet
 
 W3Newspapers - <https://www.w3newspapers.com/>
 
-The New York Times - <https://www.nytimes.com/>
-
-The New York Times: Today's Paper - <https://www.nytimes.com/section/todayspaper>
+The New York Times - <https://www.nytimes.com/section/todayspaper>
 
 The New York Times - TimesWire - <https://www.nytimes.com/timeswire>
 
