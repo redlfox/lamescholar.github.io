@@ -18,7 +18,7 @@ Author: lamescholar - 2023-12-09
 3) List of RSS feeds + RSS reader to collect news from news sites
 <br><br>
 
-**1) VPN. Virtual server + WireGuard.**
+**1) Your own VPN: Virtual server + WireGuard**
 
 Buy a virtual server. Connect to it through MobaXterm:
 
