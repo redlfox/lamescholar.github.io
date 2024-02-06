@@ -85,8 +85,6 @@ title: Поваренная книга пирата
 
 [Перевод](/ru/translation)
 
-[Подкасты и радио](/ru/podcasts-and-radio)
-
 [Поиск книг](/ru/book-searching)
 
 [Поисковые системы](/ru/search-engines)
@@ -94,6 +92,8 @@ title: Поваренная книга пирата
 [Полнотекстовый поиск](/ru/full-text-search)
 
 [Привет](/ru/hello)
+
+[Радио](/ru/radio)
 
 [Сохранить материалы сайта](/ru/save-site-materials)
 

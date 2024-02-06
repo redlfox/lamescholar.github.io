@@ -1,17 +1,6 @@
 ---
-title: Podcasts and radio
+title: Radio
 ---
-
-#### Podcasts
-
-Pocket Casts
-
-OPML file with my subsciptions:
-
-[podcasts.opml](/files/podcasts.opml)
-<br><br>
-
-#### Radio
 
 NPR - <https://www.npr.org/>
 

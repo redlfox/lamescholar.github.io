@@ -1,17 +1,6 @@
 ---
-title: Подкасты и радио
+title: Радио
 ---
-
-#### Подкасты
-
-Pocket Casts
-
-OPML-файл с моими подписками:
-
-[podcasts.opml](/files/podcasts.opml)
-<br><br>
-
-#### Радио
 
 Радио Звезда - <https://smotrim.ru/radio>
 

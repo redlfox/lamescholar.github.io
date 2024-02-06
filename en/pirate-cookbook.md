@@ -73,9 +73,9 @@ Pirate Cookbook is my collection of guides on piracy and book digitization. For 
 
 [PDF](/en/pdf)
 
-[Podcasts and radio](/en/podcasts-and-radio)
-
 [Publishers](/en/publishers)
+
+[Radio](/en/radio)
 
 [Reading ebooks](/en/reading-ebooks)
 
