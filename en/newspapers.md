@@ -87,8 +87,6 @@ Estadão - <https://www.estadao.com.br/ultimas/>
 Καθημερινή - <https://www.kathimerini.gr/epikairothta/>
 
 La Voz: Numero Cero - <https://www.lavoz.com.ar/numero-cero/>
-
-The Asahi Shimbun - <https://www.asahi.com/ajw/>
 <br><br>
 
 #### Newspapers from [NYPL](/en/nypl) databases:
