@@ -5,6 +5,17 @@ title: Газеты
 Все еженедельники лежат в разделе [Журналы](/ru/magazines). А также сайты, где можно найти и журналы, и газеты.
 <br><br>
 
+# Газеты по языкам:
+
+[Газеты на русском языке](#russian)
+
+[Газеты на иностранных языках](#foreign)
+<br><br>
+
+<a id="russian"></a>
+# Газеты на русском языке
+<br>
+
 #### Поиск:
 
 Архив Прессы РФ 1995- 2008:
@@ -24,10 +35,6 @@ public.ru:
 <https://public.ru/>
 
 <http://www.library.fa.ru/resource.asp?id=484>
-
-Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
-
-Google News Archive - <https://news.google.com/newspapers>
 <br><br>
 
 Журналы и газеты на рутрекере - <https://rutracker.org/forum/viewforum.php?f=31>
@@ -66,7 +73,7 @@ Meduza - <https://meduza.io/articles>
 СВТВ - <https://svtv.org/>
 <br><br>
 
-#### Онлайн газеты на русском:
+#### Онлайн газеты:
 
 РАН. СО РАН. Сибирь - Дайджест прессы - <http://www.prometeus.nsc.ru/science/digest/>
 
@@ -115,7 +122,7 @@ Meduza - <https://meduza.io/articles>
 Российская газета - <https://rg.ru/gazeta/rg/svezh>
 <br><br>
 
-#### Газеты на русском в PDF:
+#### Газеты в PDF:
 
 Троицкий вариант — Наука - <https://rutracker.org/forum/viewtopic.php?t=6408326>
 
@@ -193,7 +200,18 @@ Meduza - <https://meduza.io/articles>
 Новая жизнь - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126741>
 <br><br>
 
-#### Агрегаторы новостей на иностранных языках:
+<a id="foreign"></a>
+# Газеты на иностранных языках
+<br>
+
+#### Поиск:
+
+Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
+
+Google News Archive - <https://news.google.com/newspapers>
+<br><br>
+
+#### Агрегаторы новостей:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
@@ -204,7 +222,7 @@ RealClearPolitics - <https://www.realclearpolitics.com/>
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 <br><br>
 
-#### Новостные интернет-издания на иностранных языках:
+#### Новостные интернет-издания:
 
 Pew Research Center - <https://www.pewresearch.org/publications/>
 
@@ -213,7 +231,7 @@ Statista: Daily Data - <https://www.statista.com/chartoftheday/>
 Bloomberg - <https://www.bloomberg.com/>
 <br><br>
 
-#### Онлайн газеты на иностранных языках:
+#### Онлайн газеты:
 
 The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 
@@ -293,7 +311,7 @@ Communist Historical Newspaper Collection - <https://www.nypl.org/research/colle
 The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 <br><br>
 
-#### Газеты на иностранных языках в PDF:
+#### Газеты в PDF:
 
 The New York Times - <https://forum.mobilism.org/search.php?keywords=the+new+york+times&sr=topics&sf=titleonly>
 
