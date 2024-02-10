@@ -32,8 +32,6 @@ LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/detail
 ABBYY Finereader (text layer) - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>
 
 Pdf & Djvu Bookmarker (outline) - <https://sourceforge.net/projects/djvubookmarker/>
-
-Position:->Move position to left top corner of the page. Apply position->... to all items.
 <br><br>
 
 #### Editing:

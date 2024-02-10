@@ -32,8 +32,6 @@ LuraTech PDF Compressor (кодирование изображений в PDF) -
 ABBYY Finereader (текстовый слой) - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>
 
 Pdf & Djvu Bookmarker (оглавление) - <https://sourceforge.net/projects/djvubookmarker/>
-
-Положение:->Переместить позицию в левый верхний угол страницы. Применить положение->... ко всем пунктам оглавления.
 <br><br>
 
 #### Редактирование:

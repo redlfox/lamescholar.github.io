@@ -292,7 +292,7 @@ Nicolai Woodenko - <https://archive.org/details/@nicolai_woodenko>
 
 Истмат: Марксистское самообразование - <https://istmat.org/node/45484>
 
-Сталинский букварь - <https://stalins-bukvar.ru/catalog/>
+Сталинский букварь - <https://web.archive.org/web/20211130151123/https://stalins-bukvar.ru/catalog/>
 
 Ленин - <https://leninism.su/>
 
