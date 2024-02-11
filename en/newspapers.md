@@ -7,9 +7,9 @@ All weeklies are in the [Magazines](/en/magazines) section. As well as websites 
 
 #### Search:
 
-Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
-
 Google News Archive - <https://news.google.com/newspapers>
+
+Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
 <br><br>
 
 #### News aggregators:

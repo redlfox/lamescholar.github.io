@@ -206,9 +206,9 @@ Meduza - <https://meduza.io/articles>
 
 #### Поиск:
 
-Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
-
 Google News Archive - <https://news.google.com/newspapers>
+
+Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
 <br><br>
 
 #### Агрегаторы новостей:
