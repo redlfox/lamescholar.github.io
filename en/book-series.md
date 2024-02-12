@@ -2,6 +2,9 @@
 title: Book series
 ---
 
+This section contains book series, multi-volumes and collected works.
+<br><br>
+
 Cambridge Library Collection - <https://libgen.st/search.php?req=Cambridge+Library+Collection&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Publishing History - <https://www.publishinghistory.com/>

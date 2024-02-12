@@ -2,6 +2,9 @@
 title: Книжные серии
 ---
 
+В данном разделе размещены книжные серии, многотомники и собрания сочинения.
+<br><br>
+
 {:refdef: style="text-align: center;"}
 ![Books](/images/books.jpg)
 {: refdef}

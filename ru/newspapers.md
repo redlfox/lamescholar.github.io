@@ -47,8 +47,6 @@ eurotopics - <https://www.eurotopics.net/ru/####>
 True Story - <https://thetruestory.news/>
 
 Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
-
-ИноСМИ: Наука - <https://inosmi.ru/science/>
 <br><br>
 
 #### Информационные агентства:
