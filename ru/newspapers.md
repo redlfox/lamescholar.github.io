@@ -58,7 +58,7 @@ True Story - <https://thetruestory.news/>
 ТАСС - <https://tass.ru/search>
 <br><br>
 
-#### Новостные интернет-издания:
+#### Новостные сайты:
 
 Lenta.ru - <https://lenta.ru/archive/>
 
