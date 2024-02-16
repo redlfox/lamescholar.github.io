@@ -9,11 +9,11 @@ layout: home
 [![Man at the Crossroads](/images/crossroads.jpg)](/images/crossroads.jpg)
 {: refdef}
 
-## Pirate Cookbook / Поваренная книга пирата:
+## Electronic Enlightenment / Электронное Просвещение:
 
-[In English](/en/pirate-cookbook)
+[In English](/en/electronic-enlightenment)
 
-[На русском](/ru/pirate-cookbook)
+[На русском](/ru/electronic-enlightenment)
 <br><br>
 
 ## [Library / Библиотека](library)

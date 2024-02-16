@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This site is made to propagate piracy and access to sources. Made with [Jekyll](/en/jekyll).
+This site is made to propagate access to sources. Made with [Jekyll](/en/jekyll).
 
-Этот сайт создан для распространения пиратства и доступа к источникам. Cделан с помощью [Jekyll](/ru/jekyll).
+Этот сайт создан для распространения доступа к источникам. Cделан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 "Доступ к новым знаниям надо расширять, а не городить на этом пути новые заборы"

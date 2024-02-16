@@ -1,8 +1,8 @@
 ---
-title: Pirate Cookbook
+title: Electronic Enlightenment
 ---
 
-Pirate Cookbook is my collection of guides on piracy and book digitization. For details look [Hello](/en/hello).
+Electronic Enlightenment is my collection of guides on access to sources and book digitization. For details look [Hello](/en/hello).
 <br><br>
 
 [Articles](/en/articles)
