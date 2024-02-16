@@ -2,7 +2,7 @@
 title: Hello
 ---
 
-Hello. Encyclopedia of Electronic Enlightenment will help you find everything you can get in Internet for free.
+Hello. Encyclopedia of the Internet will help you find everything you can get in Internet for free.
 
 The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Encyclopedia.
 
