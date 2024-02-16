@@ -185,9 +185,7 @@ Worldcrunch Magazine
 Беларуская думка
 </pre>
 </details>
-
-Flipster - <https://flipster-ebsco-com.i.ezproxy.nypl.org/>
-<br><br>
+<br>
 
 #### Новые выпуски в PDF:
 
