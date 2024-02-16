@@ -1,8 +1,8 @@
 ---
-title: Electronic Enlightenment
+title: Encyclopedia of Electronic Enlightenment
 ---
 
-Electronic Enlightenment is my collection of guides on access to sources and book digitization. For details look [Hello](/en/hello).
+Encyclopedia of Electronic Enlightenment is my collection of guides on access to sources and book digitization. For details look [Hello](/en/hello).
 <br><br>
 
 [Articles](/en/articles)

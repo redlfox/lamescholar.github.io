@@ -9,11 +9,11 @@ layout: home
 [![Man at the Crossroads](/images/crossroads.jpg)](/images/crossroads.jpg)
 {: refdef}
 
-## Electronic Enlightenment / Электронное Просвещение:
+## Encyclopedia of Electronic Enlightenment / Энциклопедия электронного Просвещения:
 
-[In English](/en/electronic-enlightenment)
+[In English](/en/encyclopedia-of-electronic-enlightenment)
 
-[На русском](/ru/electronic-enlightenment)
+[На русском](/ru/encyclopedia-of-electronic-enlightenment)
 <br><br>
 
 ## [Library / Библиотека](library)
