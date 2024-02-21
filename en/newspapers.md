@@ -5,6 +5,13 @@ title: Newspapers
 All weeklies are in the [Magazines](/en/magazines) section. As well as all websites where you can find both magazines and newspapers.
 <br><br>
 
+#### Search:
+
+Google News Archive - <https://news.google.com/newspapers>
+
+Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
+<br><br>
+
 #### News aggregators:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
@@ -14,13 +21,6 @@ RealClearBooks - <https://www.realclearbooks.com/>
 RealClearPolitics - <https://www.realclearpolitics.com/>
 
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
-<br><br>
-
-#### Search:
-
-Google News Archive - <https://news.google.com/newspapers>
-
-Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
 <br><br>
 
 #### News sites:
@@ -46,7 +46,7 @@ The New York Times - TimesWire - <https://www.nytimes.com/timeswire>
 
 The New York Times Book Review - <https://www.nytimes.com/section/books/review>
 
-The New York Times Magazine - <https://www.nytimes.com/international/section/magazine>
+The New York Times Magazine - <https://www.nytimes.com/section/magazine>
 
 The Wall Street Journal - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
 
