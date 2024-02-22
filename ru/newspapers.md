@@ -16,6 +16,15 @@ title: Газеты
 # Газеты на русском языке
 <br>
 
+#### Агрегаторы новостей:
+
+eurotopics - <https://www.eurotopics.net/ru/####>
+
+True Story - <https://thetruestory.news/>
+
+Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
+<br><br>
+
 #### Поиск:
 
 Архив Прессы РФ 1995- 2008:
@@ -38,15 +47,6 @@ public.ru:
 <br><br>
 
 Журналы и газеты на рутрекере - <https://rutracker.org/forum/viewforum.php?f=31>
-<br><br>
-
-#### Агрегаторы новостей:
-
-eurotopics - <https://www.eurotopics.net/ru/####>
-
-True Story - <https://thetruestory.news/>
-
-Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
 <br><br>
 
 #### Информационные агентства:
@@ -202,13 +202,6 @@ Meduza - <https://meduza.io/articles>
 # Газеты на иностранных языках
 <br>
 
-#### Поиск:
-
-Google News Archive - <https://news.google.com/newspapers>
-
-Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
-<br><br>
-
 #### Агрегаторы новостей:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
@@ -218,6 +211,13 @@ RealClearBooks - <https://www.realclearbooks.com/>
 RealClearPolitics - <https://www.realclearpolitics.com/>
 
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
+<br><br>
+
+#### Поиск:
+
+Google News Archive - <https://news.google.com/newspapers>
+
+Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
 <br><br>
 
 #### Новостные интернет-издания:
