@@ -4,7 +4,7 @@ title: Журналы
 
 #### Новые выпуски:
 
-East View ([РГБ](/ru/librarycard)) - <https://passport.rsl.ru/netres/>
+East View ([РГБ](/ru/librarycard)) - <https://search.rsl.ru/ru/networkresources/index>
 
 East View ([NYPL](/ru/nypl)) - <https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details>
 

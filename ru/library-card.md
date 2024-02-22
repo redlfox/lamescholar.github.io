@@ -6,9 +6,9 @@ title: Читательский билет РГБ
 
 <https://passport.rsl.ru/ru/register/reg_online>
 
-Как оформили, заходите на этот сайт и кликаете на иконку базы East View.
+Как оформили, заходите на этот сайт и выбираете любой ресурс с издателем ИВИС (EastView).
 
-<https://passport.rsl.ru/netres/>
+<https://search.rsl.ru/ru/networkresources/index>
 
 Далее, например, выбираете Издания по общественным и гуманитарным наукам.
 
