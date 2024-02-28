@@ -15,7 +15,10 @@ Paste shortcut of .exe file. Now yarr will start at system startup.
 
 You can make a bookmark in browser for address <http://127.0.0.1:7070/>
 
-To compile actual version install:
+Database of the program is located in AppData\Roaming\yarr folder.
+<br><br>
+
+To compile last version, install:
 
 Go - <https://go.dev/dl/>
 
@@ -38,6 +41,7 @@ make build_windows  # -> _output/windows/yarr.exe
 You'll get yarr.exe in C:\cygwin64\home\your username\yarr\_output\windows
 
 [yarr.exe compiled by me](/files/yarr.exe)
+<br><br>
 
 You can import my subscriptions:
 
