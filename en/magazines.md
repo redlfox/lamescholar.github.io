@@ -164,8 +164,8 @@ The London Magazine
 The New Review
 The New York Review of Books
 The New York Times
-The New Zealand Herald
 The Observer
+The Observer - The New Review
 The Straits Times
 The Wall Street Journal
 The Washington Post
@@ -173,6 +173,7 @@ The Washington Post Sunday
 The Week
 Toronto Star
 Question de Philo
+USA Today
 Variety
 Vecernji list - Hrvatska
 Washington Examiner
