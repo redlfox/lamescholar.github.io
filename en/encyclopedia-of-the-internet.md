@@ -29,6 +29,8 @@ Encyclopedia of the Internet is my collection of guides on access to sources and
 
 [Ebook Translator](/en/ebook-translator)
 
+[ebooks on Mac](/en/ebooksonmac)
+
 [FB2, EPUB](/en/fb2-epub)
 
 [Films](/en/films)
