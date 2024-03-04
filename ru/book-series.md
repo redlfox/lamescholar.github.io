@@ -279,7 +279,12 @@ Klassiker Auslegen - <https://libgen.st/search.php?req=Klassiker+Auslegen&open=0
 
 Библиотека фантастики - <https://rutracker.org/forum/viewtopic.php?t=4756926>
 
-Большие книги - [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20fb2)
+Большие книги:<br>
+[RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20fb2)<br>
+Иностранная литература. Большие книги - <https://flibusta.is/s/34054?order=t&sa1=1><br>
+Русская литература. Большие книги - <https://flibusta.is/s/45148?order=t&sa1=1><br>
+Non-Fiction. Большие книги - <https://flibusta.is/s/78452?order=t&sa1=1><br>
+Фантастика и фэнтези. Большие книги - <https://flibusta.is/s/79287?order=t&sa1=1><br>
 
 В мире фантастики и приключений - <http://flibusta.is/s/8867>
 
