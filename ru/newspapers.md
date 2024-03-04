@@ -18,7 +18,7 @@ title: Газеты
 
 #### Агрегаторы новостей:
 
-eurotopics - <https://www.eurotopics.net/ru/####>
+eurotopics - <https://www.eurotopics.net/ru/>
 
 True Story - <https://thetruestory.news/>
 

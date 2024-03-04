@@ -124,7 +124,7 @@ Ne Delo
 Nedeljski Dnevnik
 Neue Zurcher Zeitung
 New York Magazine
-Newsweek International
+Newsweek
 NRC
 NZZ am Sonntag
 O Estado de S. Paulo
