@@ -93,7 +93,7 @@ Meduza - <https://meduza.io/articles>
 
 Коммерсантъ Наука - <https://www.kommersant.ru/nauka>
 
-Коммерсантъ Weekend - <https://www.kommersant.ru/weekend>
+Коммерсантъ Weekend - <https://www.kommersant.ru/archive/online/261>
 
 Коммерсантъ: Культура - <https://www.kommersant.ru/rubric/8>
 
