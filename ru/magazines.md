@@ -116,7 +116,6 @@ Le Temps
 Liberation
 Libero
 Lire
-Luxemburger Wort
 Milenio
 nd.DerTag
 nd.DieWoche
