@@ -47,7 +47,7 @@ make build_windows  # -> _output/windows/yarr.exe
 
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
 
-Чтобы читать иностранные языки используй Google Translate, встроенный в Google Chrome, для перевода на английский (Google Translate сносно переводит только на английский). Кликни правой кнопкой мыши по пустому месту, выбери Перевести на English.
+Чтобы читать иностранные языки, используй Google Translate, встроенный в Google Chrome, для перевода на английский (Google Translate сносно переводит только на английский). Кликни правой кнопкой мыши по пустому месту, выбери Перевести на English.
 <br><br>
 
 Как найти RSS-ленту? Добавь к URL:

@@ -5,8 +5,6 @@ title: ChatGPT
 ChatGPT is a great tool for translation and self-education.
 <br><br>
 
-On Translation.
-
 ChatGPT input limit is 2000 characters. Therefore if you're translating a long text, you need to send it in chunks:
 
 ```
