@@ -64,7 +64,7 @@ C последнего релиза было значительное измен
 
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
 
-В целом гайд по RSS:
+Подробнее о RSS:
 
 <https://lamescholar.github.io/ru/rss>
 <br><br>

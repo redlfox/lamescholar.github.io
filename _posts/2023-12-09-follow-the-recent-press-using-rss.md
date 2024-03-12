@@ -97,7 +97,7 @@ My collection of RSS feeds:
 
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
 
-Guide on RSS in general:
+More about RSS:
 
 <https://lamescholar.github.io/ru/rss>
 <br><br>
