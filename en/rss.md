@@ -2,7 +2,7 @@
 title: RSS
 ---
 
-RSS is XML file that collects updates on some site, so with RSS reader you get a feed of recent updates. Usually [blogs](/en/blogs), [newspapers](/en/newspapers), and [magazines](/en/articles) generate RSS feed.
+RSS is XML file that keep track of publications on the website. When you open it using RSS reader, you get a feed of recent publications. Usually [blogs](/en/blogs), [newspapers](/en/newspapers), and [magazines](/en/articles) generate RSS feed.
 <br><br>
 
 yet another rss reader - <https://github.com/nkanaev/yarr>
