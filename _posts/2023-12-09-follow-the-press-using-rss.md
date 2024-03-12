@@ -1,10 +1,10 @@
 ---
 layout: post
 tag: Posts
-title: How to follow the recent press using RSS?
+title: How to follow the press using RSS?
 ---
 
-# How to follow the recent press using RSS?
+# How to follow the press using RSS?
 
 Author: lamescholar - 2023-12-09
 <br><br>
