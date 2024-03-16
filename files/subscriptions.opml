@@ -133,7 +133,6 @@
     <outline type="rss" text="Il Foglio" xmlUrl="https://www.ilfoglio.it/rss.xml" htmlUrl="https://www.ilfoglio.it"/>
     <outline type="rss" text="Il Foglio: Cultura" xmlUrl="https://www.ilfoglio.it/cultura/rss.xml" htmlUrl="https://www.ilfoglio.it"/>
     <outline type="rss" text="Il Foglio: Editoriali" xmlUrl="https://www.ilfoglio.it/editoriali/rss.xml" htmlUrl="https://www.ilfoglio.it"/>
-    <outline type="rss" text="Il Foglio: Una fogliata di libri" xmlUrl="https://www.ilfoglio.it/una-fogliata-di-libri/rss.xml" htmlUrl="https://www.ilfoglio.it"/>
     <outline type="rss" text="il manifesto" xmlUrl="https://cms.ilmanifesto.it/feed" htmlUrl="https://cms.ilmanifesto.it"/>
     <outline type="rss" text="il manifesto: Commenti" xmlUrl="https://cms.ilmanifesto.it/sezioni/commenti/feed" htmlUrl="https://cms.ilmanifesto.it"/>
     <outline type="rss" text="il manifesto: Cultura" xmlUrl="https://cms.ilmanifesto.it/sezioni/cultura/feed" htmlUrl="https://cms.ilmanifesto.it"/>
