@@ -2,7 +2,7 @@
 title: RSS
 ---
 
-RSS - это XML-файл, который фиксирует публикации на сайте. Открыв его RSS reader'ом, ты получаешь ленту последних публикаций. Обычно [блоги](/ru/blogs), [газеты](/ru/newspapers) и [журналы](/ru/articles) генерируют RSS-ленту.
+RSS - это XML-файл, который фиксирует публикации на сайте. Открыв его RSS reader'ом, ты получаешь ленту последних публикаций. RSS-ленты обычно генерируют [блоги](/ru/blogs), [газеты](/ru/newspapers) и [журналы](/ru/articles).
 <br><br>
 
 yet another rss reader - <https://github.com/nkanaev/yarr>
