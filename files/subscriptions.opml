@@ -130,9 +130,6 @@
     <outline type="rss" text="Il Fatto Quotidiano" xmlUrl="https://www.ilfattoquotidiano.it/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
     <outline type="rss" text="Il Fatto Quotidiano: Commenti" xmlUrl="https://www.ilfattoquotidiano.it/in-edicola/categoria/commenti/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
     <outline type="rss" text="Il Fatto Quotidiano: Cultura" xmlUrl="https://www.ilfattoquotidiano.it/in-edicola/categoria/cultura/feed/" htmlUrl="https://www.ilfattoquotidiano.it"/>
-    <outline type="rss" text="Il Foglio" xmlUrl="https://www.ilfoglio.it/rss.xml" htmlUrl="https://www.ilfoglio.it"/>
-    <outline type="rss" text="Il Foglio: Cultura" xmlUrl="https://www.ilfoglio.it/cultura/rss.xml" htmlUrl="https://www.ilfoglio.it"/>
-    <outline type="rss" text="Il Foglio: Editoriali" xmlUrl="https://www.ilfoglio.it/editoriali/rss.xml" htmlUrl="https://www.ilfoglio.it"/>
     <outline type="rss" text="il manifesto" xmlUrl="https://cms.ilmanifesto.it/feed" htmlUrl="https://cms.ilmanifesto.it"/>
     <outline type="rss" text="il manifesto: Commenti" xmlUrl="https://cms.ilmanifesto.it/sezioni/commenti/feed" htmlUrl="https://cms.ilmanifesto.it"/>
     <outline type="rss" text="il manifesto: Cultura" xmlUrl="https://cms.ilmanifesto.it/sezioni/cultura/feed" htmlUrl="https://cms.ilmanifesto.it"/>
@@ -190,6 +187,7 @@
     <outline type="rss" text="Le Figaro: Vox" xmlUrl="https://www.lefigaro.fr/rss/figaro_vox.xml" htmlUrl="http://www.lefigaro.fr"/>
     <outline type="rss" text="Le Monde" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="https://www.lemonde.fr/rss/une.xml"/>
     <outline type="rss" text="Le Monde des Livres" xmlUrl="https://www.lemonde.fr/livres/rss_full.xml" htmlUrl="https://www.lemonde.fr/livres/rss_full.xml"/>
+    <outline type="rss" text="Le Monde diplomatique EN" xmlUrl="https://mondediplo.com/backend" htmlUrl="https://mondediplo.com/"/>
     <outline type="rss" text="Le Monde diplomatique EO" xmlUrl="https://eo.mondediplo.com/rss" htmlUrl="https://eo.mondediplo.com/rss"/>
     <outline type="rss" text="Le Monde EN" xmlUrl="https://www.lemonde.fr/en/rss/une.xml" htmlUrl="https://www.lemonde.fr/en/rss/une.xml"/>
     <outline type="rss" text="Le Monde: Débats" xmlUrl="https://www.lemonde.fr/idees/rss_full.xml" htmlUrl="https://www.lemonde.fr/idees/rss_full.xml"/>
