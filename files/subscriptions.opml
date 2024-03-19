@@ -346,10 +346,11 @@
     <outline type="rss" text="The Globe and Mail: Arts" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Atheglobeandmail.com%2Farts%2F&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:theglobeandmail.com/arts/&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="The Globe and Mail: Opinion" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Atheglobeandmail.com%2Fopinion%2F&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:theglobeandmail.com/opinion/&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="The Grayzone" xmlUrl="https://thegrayzone.com/feed/" htmlUrl="https://thegrayzone.com/"/>
-    <outline type="rss" text="The Guardian" xmlUrl="https://www.theguardian.com/uk/rss" htmlUrl="https://www.theguardian.com/uk"/>
     <outline type="rss" text="The Guardian US" xmlUrl="https://www.theguardian.com/us/rss" htmlUrl="https://www.theguardian.com/us"/>
     <outline type="rss" text="The Guardian US: Opinion" xmlUrl="https://www.theguardian.com/us/commentisfree/rss" htmlUrl="https://www.theguardian.com/us/commentisfree"/>
+    <outline type="rss" text="The Guardian: Australia news" xmlUrl="https://www.theguardian.com/australia-news/rss" htmlUrl="https://www.theguardian.com/australia-news"/>
     <outline type="rss" text="The Guardian: Books" xmlUrl="https://www.theguardian.com/books/rss" htmlUrl="https://www.theguardian.com/books"/>
+    <outline type="rss" text="The Guardian: UK news" xmlUrl="https://www.theguardian.com/uk-news/rss" htmlUrl="https://www.theguardian.com/uk-news"/>
     <outline type="rss" text="The Hill" xmlUrl="https://thehill.com/homenews/feed/" htmlUrl="https://thehill.com"/>
     <outline type="rss" text="The Hindu: Opinion" xmlUrl="https://www.thehindu.com/opinion/feeder/default.rss" htmlUrl="https://www.thehindu.com/opinion/"/>
     <outline type="rss" text="The Hollywood Reporter" xmlUrl="https://www.hollywoodreporter.com/feed/" htmlUrl="https://www.hollywoodreporter.com"/>
