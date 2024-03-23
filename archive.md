@@ -1,5 +1,5 @@
 ---
-title: Library / Библиотека
+title: Archive / Архив
 ---
 
 {% for tag in site.tags %}

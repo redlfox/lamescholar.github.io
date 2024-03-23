@@ -16,5 +16,5 @@ layout: home
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
-## [Library / Библиотека](library)
+## [Archive / Архив](archive)
 <br>
