@@ -1,8 +1,8 @@
 ---
-title: Encyclopedia of the Internet
+title: Pirate Cookbook
 ---
 
-Encyclopedia of the Internet is my collection of guides on access to sources and book digitization. For details look [Hello](/en/hello).
+Pirate Cookbook is my collection of guides on finding sources and digitizing books and CDs. For details look [Hello](/en/hello).
 <br><br>
 
 [Articles](/en/articles)

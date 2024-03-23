@@ -2,9 +2,9 @@
 title: Hello
 ---
 
-Hello. Encyclopedia of the Internet will help you find everything you can get in Internet for free.
+Hello. Pirate Cookbook will help you find everything you can get in Internet for free.
 
-The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Encyclopedia.
+The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Cookbook.
 
 With this collection of guides you will be able to [create](/en/digitization), share, [find](/en/book-searching) and [read](/en/reading-ebooks) ebooks, to find [newspapers](/en/newspapers), [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films), series, and play them on your computer.
 <br><br>

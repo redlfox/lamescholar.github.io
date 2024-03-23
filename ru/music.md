@@ -58,6 +58,15 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 Кодируйте MP3 320 или MP3 V0 с помощью LAME.
 <br><br>
 
+#### Оцифровка CD:
+
+Если у тебя есть CD, которого нет на Redacted или RuTracker, и у тебя есть внешний DVD-привод, ты можешь оцифровать его с помощью программы [Exact Audio Copy](https://www.exactaudiocopy.de/en/index.php/resources/download/). Вот гайды, как это сделать:
+
+<https://redacted.ch/wiki.php#_3407389890>
+
+<https://wiki.hydrogenaud.io/index.php?title=EAC_Compression_Options>
+<br><br>
+
 {:refdef: style="text-align: center;"}
 ![Capitalism](/images/capitalism.jpg)
 {: refdef}
