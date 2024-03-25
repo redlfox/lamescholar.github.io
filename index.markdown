@@ -16,5 +16,8 @@ layout: home
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
+## [My RuTracker releases / Мои раздачи на Рутрекере](https://rutracker.org/forum/tracker.php?rid=45195282)
+<br>
+
 ## [Archive / Архив](archive)
 <br>

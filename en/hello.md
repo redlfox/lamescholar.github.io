@@ -2,7 +2,7 @@
 title: Hello
 ---
 
-Hello. Pirate Cookbook will help you find everything you can get online for free.
+Hello. Pirate Cookbook will help you find and share files online.
 
 The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Cookbook.
 
