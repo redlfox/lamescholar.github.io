@@ -68,7 +68,7 @@ If you possess a CD that is not uploaded on Redacted or RuTracker, and you have 
 
 [FLAC.cfg](/files/FLAC.cfg)
 
-[V0](/files/V0.cfg)
+[V0.cfg](/files/V0.cfg)
 <br><br>
 
 {:refdef: style="text-align: center;"}

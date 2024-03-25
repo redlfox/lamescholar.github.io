@@ -68,7 +68,7 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 
 [FLAC.cfg](/files/FLAC.cfg)
 
-[V0](/files/V0.cfg)
+[V0.cfg](/files/V0.cfg)
 <br><br>
 
 {:refdef: style="text-align: center;"}
