@@ -65,6 +65,10 @@ If you possess a CD that is not uploaded on Redacted or RuTracker, and you have 
 <https://redacted.ch/wiki.php#_3407389890>
 
 <https://wiki.hydrogenaud.io/index.php?title=EAC_Compression_Options>
+
+[FLAC.cfg](/files/FLAC.cfg)
+
+[V0](/files/V0.cfg)
 <br><br>
 
 {:refdef: style="text-align: center;"}
