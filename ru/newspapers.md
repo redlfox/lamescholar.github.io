@@ -23,6 +23,8 @@ eurotopics - <https://www.eurotopics.net/ru/>
 True Story - <https://thetruestory.news/>
 
 Дзен: Новости - <https://dzen.ru/news?issue_tld=ru>
+
+РАН. СО РАН. Сибирь - Дайджест прессы - <http://www.prometeus.nsc.ru/science/digest/>
 <br><br>
 
 #### Поиск:
@@ -72,8 +74,6 @@ Meduza - <https://meduza.io/articles>
 <br><br>
 
 #### Онлайн газеты:
-
-РАН. СО РАН. Сибирь - Дайджест прессы - <http://www.prometeus.nsc.ru/science/digest/>
 
 Троицкий вариант — Наука - <https://www.trv-science.ru/category/pdf/>
 
