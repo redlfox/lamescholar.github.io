@@ -9,12 +9,14 @@ layout: home
 [![Man at the Crossroads](/images/crossroads.jpg)](/images/crossroads.jpg)
 {: refdef}
 
-## Pirate Cookbook / Поваренная книга пирата:
+# Pirate Cookbook / Поваренная книга пирата:
 
 [In English](/en/pirate-cookbook)
 
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
-## [Archive / Архив](archive)
+# [My RuTracker releases / Мои раздачи на Рутрекере](rutracker)
+
+# [Archive / Архив](archive)
 <br>

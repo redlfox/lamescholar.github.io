@@ -29,7 +29,11 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+plugins_dir: ./_plugins
+jekyll_xml:
+  - data: rutracker
+    source: https://feed.rutracker.cc/atom/u/4/82/45195282.atom
+    cache: true
 header_pages:
   - about.markdown
 
