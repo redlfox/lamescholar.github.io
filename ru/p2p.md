@@ -5,21 +5,21 @@ title: P2P
 Ниже я перечисляю программы, которые позволят тебе пользоваться P2P-сетями.
 <br><br>
 
-#### Soulseek:
+#### Soulseek
 
 Soulseek - <http://www.slsknet.org/news/node/1>
 
 Ник - legen848dary
 <br><br>
 
-#### Direct Connect:
+#### Direct Connect
 
 ApexDC++ - <https://www.apexdc.net/download/>
 
 Ник - legen848dary
 <br><br>
 
-#### BitTorrent:
+#### BitTorrent
 
 qBittorent - <https://www.qbittorrent.org/download.php>
 

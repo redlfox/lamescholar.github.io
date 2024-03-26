@@ -5,21 +5,21 @@ title: P2P
 Below I list programs that will allow you to use P2P networks.
 <br><br>
 
-#### Soulseek:
+#### Soulseek
 
 Soulseek - <http://www.slsknet.org/news/node/1>
 
 Nickname - legen848dary
 <br><br>
 
-#### Direct Connect:
+#### Direct Connect
 
 ApexDC++ - <https://www.apexdc.net/download/>
 
 Nickname - legen848dary
 <br><br>
 
-#### BitTorrent:
+#### BitTorrent
 
 qBittorent - <https://www.qbittorrent.org/download.php>
 
