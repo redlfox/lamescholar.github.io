@@ -5,7 +5,21 @@ title: P2P
 Below I list programs that will allow you to use P2P networks.
 <br><br>
 
-BitTorrent:
+#### Soulseek:
+
+Soulseek - <http://www.slsknet.org/news/node/1>
+
+Nickname - legen848dary
+<br><br>
+
+#### Direct Connect:
+
+ApexDC++ - <https://www.apexdc.net/download/>
+
+Nickname - legen848dary
+<br><br>
+
+#### BitTorrent:
 
 qBittorent - <https://www.qbittorrent.org/download.php>
 
@@ -16,19 +30,7 @@ Torrent File Editor - program for creating a torrent file.
 <https://torrent-file-editor.github.io/>
 <br><br>
 
-Soulseek - <http://www.slsknet.org/news/node/1>
-
-Nickname - legen848dary
-<br><br>
-
-Direct Connect:
-
-ApexDC++ - <https://www.apexdc.net/download/>
-
-Nickname - legen848dary
-<br><br>
-
-General use torrent sites:
+#### General use torrent sites:
 
 RuTracker - <http://rutracker.org/forum/index.php>
 

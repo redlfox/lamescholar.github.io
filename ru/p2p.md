@@ -5,7 +5,21 @@ title: P2P
 Ниже я перечисляю программы, которые позволят тебе пользоваться P2P-сетями.
 <br><br>
 
-BitTorrent:
+#### Soulseek:
+
+Soulseek - <http://www.slsknet.org/news/node/1>
+
+Ник - legen848dary
+<br><br>
+
+#### Direct Connect:
+
+ApexDC++ - <https://www.apexdc.net/download/>
+
+Ник - legen848dary
+<br><br>
+
+#### BitTorrent:
 
 qBittorent - <https://www.qbittorrent.org/download.php>
 
@@ -16,19 +30,7 @@ Torrent File Editor - программа для создания торрент�
 <https://torrent-file-editor.github.io/>
 <br><br>
 
-Soulseek - <http://www.slsknet.org/news/node/1>
-
-Ник - legen848dary
-<br><br>
-
-Direct Connect:
-
-ApexDC++ - <https://www.apexdc.net/download/>
-
-Ник - legen848dary
-<br><br>
-
-Общенаправленные торрент-сайты:
+#### Общенаправленные торрент-сайты:
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
