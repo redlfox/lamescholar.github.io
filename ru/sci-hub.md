@@ -7,7 +7,7 @@ title: Sci-Hub
 
 Для работы скрипта необходим Python.
 
-https://www.python.org/downloads/
+<https://www.python.org/downloads/>
 
 При установке Python нужно поставить галочку Add python.exe to PATH.
 <br><br>
