@@ -2,7 +2,7 @@
 title: Хостинги
 ---
 
-Статический сайт - [Github Pages](/ru/jekyll)
+Статический сайт - [GitHub Pages](/ru/jekyll)
 
 Файлы:
 
