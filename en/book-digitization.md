@@ -1,5 +1,5 @@
 ---
-title: Digitization
+title: Book digitization
 ---
 
 There are two methods to digitize a book.

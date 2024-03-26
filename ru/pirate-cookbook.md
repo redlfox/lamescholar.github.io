@@ -81,7 +81,7 @@ title: Поваренная книга пирата
 
 [Олимпиады](/ru/olympiads)
 
-[Оцифровка](/ru/digitization)
+[Оцифровка книг](/ru/book-digitization)
 
 [Перевод](/ru/translation)
 
