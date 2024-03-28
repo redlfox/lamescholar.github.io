@@ -2,6 +2,10 @@
 title: Blogs
 ---
 
+Aeon - <https://aeon.co/>
+
+Psyche - <https://psyche.co/>
+
 Sidecar - <https://newleftreview.org/sidecar>
 
 syg.ma - <https://syg.ma/>

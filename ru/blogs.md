@@ -30,6 +30,10 @@ spichka.media - <https://spichka.media/>
 
 Реми Майснер - <https://remi-meisner.livejournal.com/>
 
+Aeon - <https://aeon.co/>
+
+Psyche - <https://psyche.co/>
+
 Sidecar - <https://newleftreview.org/sidecar>
 
 syg.ma - <https://syg.ma/>
