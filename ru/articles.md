@@ -137,7 +137,7 @@ Historische Zeitschrift - <https://www.jstor.org/journal/histzeit>
 <a id="literary"></a>
 #### Литературные журналы:
 
-«Горький»: Журналы - <https://magazines.gorky.media/>
+Журнальный зал - <https://magazines.gorky.media/>
 
 Критическая масса - <https://magazines.gorky.media/km>
 
