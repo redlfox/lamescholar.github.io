@@ -57,7 +57,7 @@ Library of America:
 
 [Internet Archive](/en/internet-archive)
 
-Loeb Classical Library - <https://libgen.st/search.php?req=Loeb+Classical+Library&open=0&res=25&view=simple&phrase=1&column=def>
+Loeb Classical Library - <https://libgen.st/search.php?&req=Loeb+Classical+Library&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
 
 Oxford World Classics - <https://libgen.st/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
 
