@@ -9,8 +9,6 @@ All weeklies are in the [Magazines](/en/magazines) section. As well as all websi
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
-RealClearBooks - <https://www.realclearbooks.com/>
-
 RealClearPolitics - <https://www.realclearpolitics.com/>
 
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>

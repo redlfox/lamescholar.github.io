@@ -28,6 +28,12 @@ spichka.media - <https://spichka.media/>
 
 Социальный компас - <http://www.socialcompas.com/>
 
+RealClearBooks - <https://www.realclearbooks.com/>
+
+Book Marks - <https://bookmarks.reviews/category/features/>
+
+Perlentaucher: Bücherschau des Tages - <https://www.perlentaucher.de/buecherschau/>
+
 Aeon - <https://aeon.co/>
 
 Psyche - <https://psyche.co/>

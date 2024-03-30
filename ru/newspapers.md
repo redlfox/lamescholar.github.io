@@ -206,8 +206,6 @@ Meduza - <https://meduza.io/articles>
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
-RealClearBooks - <https://www.realclearbooks.com/>
-
 RealClearPolitics - <https://www.realclearpolitics.com/>
 
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
