@@ -29,7 +29,7 @@ True Story - <https://thetruestory.news/>
 
 #### Поиск:
 
-Архив Прессы РФ 1995- 2008:
+Архив Прессы РФ 1995-2008:
 
 <https://rutracker.org/forum/viewtopic.php?t=1805170>
 
