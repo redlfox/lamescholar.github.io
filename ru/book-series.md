@@ -2,6 +2,9 @@
 title: Книжные серии
 ---
 
+[Книжные серии на иностранных языках](/en/book-series)
+<br><br>
+
 В данном разделе размещены книжные серии, многотомники и собрания сочинения.
 <br><br>
 
@@ -18,15 +21,10 @@ ImWerden:
 
 allisa1 - <https://rutracker.org/forum/tracker.php?rid=8917891>
 
-Cambridge Library Collection - <https://libgen.st/search.php?req=Cambridge+Library+Collection&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
-
 Букинистик - <http://bookinistic.narod.ru/index.html>
 
 Библиотека "Огонёк" - <https://fantlab.ru/series736>
-
-Publishing History - <https://www.publishinghistory.com/>
-
-A Series of Series - <https://seriesofseries.com/>
+<br><br>
 
 На [рутрекере](https://rutracker.org/forum/index.php) можно найти множество собраний сочинений. Запрос:
 
@@ -106,18 +104,6 @@ A Series of Series - <https://seriesofseries.com/>
 Ученые - школьнику - <http://publ.lib.ru/ARCHIVES/B/''Bibliotechka_Detskoy_enciklopedii_''Uchenye_-_shkol'niku''_(ser.)/_BDEUSH.html>
 
 Эврика - <https://rutracker.org/forum/viewtopic.php?t=4508487>
-
-Graduate Studies in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6299486>
-
-Graduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003453>
-
-Undergraduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003927>
-
-Springer Undergraduate Mathematics - <https://www.springer.com/series/3423/books>
-
-Mir Publishers - <https://archive.org/details/@mirtitles>
-
-Mathematischen Schülerbücherei - <https://mathematikalpha.de/schuelerbuecherei>
 <br><br>
 
 <a id="art"></a>
@@ -161,6 +147,8 @@ History of XX century in B/W photos:
 
 История дореволюционной России в дневниках и воспоминаниях - <https://rutracker.org/forum/viewtopic.php?t=4059886>
 
+Кембриджская история древнего мира - <https://rutracker.org/forum/viewtopic.php?t=5389328>
+
 Памятники исторической мысли - <https://rutracker.org/forum/viewtopic.php?t=4767957>
 
 По следам исчезнувших культур - [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%BF%D0%BE%20%D1%81%D0%BB%D0%B5%D0%B4%D0%B0%D0%BC%20%D0%B8%D1%81%D1%87%D0%B5%D0%B7%D0%BD%D1%83%D0%B2%D1%88%D0%B8%D1%85%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80)
@@ -180,18 +168,6 @@ Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401>
 Historia Rossica - <https://libgen.st/search.php?req=Historia+Rossica&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
 Mediaevalia - <https://rutracker.org/forum/tracker.php?nm=Mediaevalia>
-
-The Cambridge Ancient History
-
-The New Cambridge Medieval History
-
-The New Cambridge Modern History
-
-<https://rutracker.org/forum/viewtopic.php?t=5923844>
-
-Кембриджская история древнего мира - <https://rutracker.org/forum/viewtopic.php?t=5389328>
-
-Annals of America - <https://rutracker.org/forum/viewtopic.php?t=6444536>
 <br><br>
 
 <a id="society"></a>
@@ -230,8 +206,6 @@ Annals of America - <https://rutracker.org/forum/viewtopic.php?t=6444536>
 Судьбы книг - <https://rutracker.org/forum/tracker.php?nm=%22%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%20%D0%BA%D0%BD%D0%B8%D0%B3%22>
 
 Common place - <https://libgen.st/search.php?req=Common+place&open=0&res=25&view=simple&phrase=1&column=publisher>
-
-Historical Materialism Briil - <https://libgen.st/search.php?&req=Historical+Materialism+Brill&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
 <br><br>
 
 <a id="philosophy"></a>
@@ -248,12 +222,6 @@ Historical Materialism Briil - <https://libgen.st/search.php?&req=Historical+Mat
 Философское наследие - <https://rutracker.org/forum/viewtopic.php?t=3626809>
 
 pro et contra - <https://libgen.st/search.php?req=pro+et+contra&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
-
-Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
-
-The Cambridge Edition of the Works of Immanuel Kant - [Library Genesis](https://libgen.st/search.php?&req=The+Cambridge+Edition+of+the+Works+of+Immanuel+Kant&phrase=1&view=simple&column=series&sort=def&sortmode=ASC&page=1)
-
-Klassiker Auslegen - <https://libgen.st/search.php?req=Klassiker+Auslegen&open=0&res=25&view=simple&phrase=1&column=series>
 <br><br>
 
 <a id="fiction"></a>
@@ -345,28 +313,6 @@ Non-Fiction. Большие книги - <https://flibusta.is/s/78452?order=t&sa
 Эксклюзивная классика - <https://rutracker.org/forum/viewtopic.php?t=5902821>
 
 Corpus - <http://flibusta.is/s/22753>
-
-Delphi Complete - <https://libgen.st/search.php?req=Delphi+Complete&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
-
-Harvard Classics - <https://rutracker.org/forum/viewtopic.php?t=6244440>
-
-Library of America:
-
-<https://en.wikipedia.org/wiki/Library_of_America>
-
-[Internet Archive](/ru/internet-archive)
-
-Loeb Classical Library - <https://libgen.st/search.php?&req=Loeb+Classical+Library&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
-
-Oxford World Classics - <https://libgen.st/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
-
-Penguin Classics - <https://libgen.st/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
-
-Viking Portable Library - <https://archive.org/search?query=title%3A%28portable%29+AND+publisher%3A%28penguin%29>
-
-World's Classics - <https://seriesofseries.com/worlds-classics/>
-
-Bibliothèque de la Pléiade - <https://www3.yggtorrent.qa/torrent/ebook/livres/1045545-biblioth%C3%A8que+de+la+pl%C3%A9iade+-+116+volumes+pdf+djvu+fr>
 <br><br>
 
 <a id="chess"></a>

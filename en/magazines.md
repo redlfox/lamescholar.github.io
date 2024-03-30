@@ -220,9 +220,9 @@ List magazines similar to Philosophy Now.
 
 [Literary magazines](#literary)
 
-[Natural sciences journals](#natural)
+[Natural-science journals](#natural)
 
-[Philosophical journals](#philosophy)
+[Philosophy journals](#philosophy)
 
 [Society](#society)
 <br><br>
