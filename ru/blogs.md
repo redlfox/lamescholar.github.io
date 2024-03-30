@@ -4,13 +4,13 @@ title: Интернет-издания
 
 [Твой блог](/ru/jekyll)
 
-Proshloe - <https://proshloe.com/>
-
 LitNov.ru - <http://litnov.ru/>
 
 «Горький» - <https://gorky.media/>
 
 Нож - <https://knife.media/>
+
+Proshloe - <https://proshloe.com/>
 
 Lenin Crew - <https://lenincrew.com/>
 
@@ -27,8 +27,6 @@ spichka.media - <https://spichka.media/>
 Скепсис - <https://scepsis.net/>
 
 Социальный компас - <http://www.socialcompas.com/>
-
-Реми Майснер - <https://remi-meisner.livejournal.com/>
 
 Aeon - <https://aeon.co/>
 
