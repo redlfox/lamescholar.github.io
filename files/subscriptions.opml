@@ -583,7 +583,6 @@
     <outline type="rss" text="Интерфакс" xmlUrl="https://www.interfax.ru/rss.asp" htmlUrl="https://www.interfax.ru/rss.asp"/>
     <outline type="rss" text="Коммерсантъ" xmlUrl="https://www.kommersant.ru/RSS/news.xml" htmlUrl="https://www.kommersant.ru/publishing/86"/>
     <outline type="rss" text="Коммерсантъ Weekend" xmlUrl="https://www.kommersant.ru/rss/weekend.xml" htmlUrl="https://www.kommersant.ru/weekend?IssueId=147297"/>
-    <outline type="rss" text="Коммерсантъ Деньги" xmlUrl="https://www.kommersant.ru/rss/money.xml" htmlUrl="https://www.kommersant.ru/money/"/>
     <outline type="rss" text="Коммерсантъ Наука" xmlUrl="https://www.kommersant.ru/rss/nauka.xml" htmlUrl="https://www.kommersant.ru/nauka/"/>
     <outline type="rss" text="Коммерсантъ: Культура" xmlUrl="https://www.kommersant.ru/rss/section-culture.xml" htmlUrl="https://www.kommersant.ru/rubric/8"/>
     <outline type="rss" text="Коммерсантъ: Пермь" xmlUrl="https://www.kommersant.ru/rss/regions/perm_all.xml" htmlUrl="https://kommersant.ru/regions/59/"/>
