@@ -628,28 +628,7 @@
     <outline type="rss" text="Элементы: новости науки" xmlUrl="https://elementy.ru/rss/news" htmlUrl="https://elementy.ru/"/>
     <outline type="rss" text="Элементы: статьи в Библиотеке" xmlUrl="https://elementy.ru/rss/pub" htmlUrl="https://elementy.ru/"/>
   </outline>
-  <outline text="6 - Газеты і часопісы">
-    <outline type="rss" text="devby.io" xmlUrl="https://devby.io/rss" htmlUrl="https://devby.io/rss"/>
-    <outline type="rss" text="Euroradio.fm" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aeuroradio.fm&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:euroradio.fm&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
-    <outline type="rss" text="Hrodna.life" xmlUrl="https://ru.hrodna.life/feed/" htmlUrl="https://ru.hrodna.life/feed/"/>
-    <outline type="rss" text="Office Life" xmlUrl="https://officelife.media/feed/" htmlUrl="https://officelife.media"/>
-    <outline type="rss" text="REFORM.by" xmlUrl="https://reform.by/feed" htmlUrl="https://reform.by"/>
-    <outline type="rss" text="Sputnik Беларусь" xmlUrl="https://sputnik.by/export/rss2/archive/index.xml" htmlUrl="https://sputnik.by"/>
-    <outline type="rss" text="Telegraf.news" xmlUrl="https://telegraf.news/feed/" htmlUrl="https://telegraf.news/feed/"/>
-    <outline type="rss" text="UDF" xmlUrl="https://udf.name/rss.xml" htmlUrl="https://udf.name/"/>
-    <outline type="rss" text="БДГ Деловая газета" xmlUrl="https://bdg.by/rss" htmlUrl="https://bdg.by/rss"/>
-    <outline type="rss" text="БелТА" xmlUrl="https://www.belta.by/rss" htmlUrl="https://www.belta.by/"/>
-    <outline type="rss" text="Белсат" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Abelsat.eu%2Fru%2F&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:belsat.eu/ru/&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
-    <outline type="rss" text="Зеркало" xmlUrl="https://news.zerkalo.io/rss/a~1.rss" htmlUrl="https://news.zerkalo.io/rss/a~1.rss"/>
-    <outline type="rss" text="Маланка Медиа" xmlUrl="https://malanka.media/feed" htmlUrl="https://malanka.media"/>
-    <outline type="rss" text="Медиазона Беларусь" xmlUrl="https://mediazona.by/rss" htmlUrl="https://mediazona.by"/>
-    <outline type="rss" text="Наша Ніва" xmlUrl="https://nashaniva.com/?c=rss-all&amp;lang=ru" htmlUrl="https://nashaniva.com/ru"/>
-    <outline type="rss" text="Новы Час" xmlUrl="https://novychas.online/rss" htmlUrl="https://novychas.online/"/>
-    <outline type="rss" text="Солидарность" xmlUrl="https://gazetaby.com/rss/" htmlUrl="https://gazetaby.com/"/>
-    <outline type="rss" text="Точка" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Atochka.by/&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:tochka.by/&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
-    <outline type="rss" text="Хартия&#39;97" xmlUrl="https://charter97.org/ru/rss/all/" htmlUrl="https://charter97.org/"/>
-  </outline>
-  <outline text="7 - Газети та журнали">
+  <outline text="6 - Газети та журнали">
     <outline type="rss" text="Chytomo" xmlUrl="https://chytomo.com/en/feed/" htmlUrl="https://chytomo.com/en/"/>
     <outline type="rss" text="Gazeta.ua" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Agazeta.ua/ru/&amp;hl=ru&amp;gl=UA&amp;ceid=UA%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:gazeta.ua/ru/&amp;hl=ru&amp;gl=UA&amp;ceid=UA:ru"/>
     <outline type="rss" text="Google Новости UA" xmlUrl="https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FuSjFHZ0pWUVNnQVAB?hl=ru&amp;gl=UA&amp;ceid=UA%3Aru" htmlUrl="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FuSjFHZ0pWUVNnQVAB?hl=ru&amp;gl=UA&amp;ceid=UA:ru"/>
@@ -679,6 +658,27 @@
     <outline type="rss" text="Укринформ" xmlUrl="https://www.ukrinform.net/rss/block-lastnews" htmlUrl="https://www.ukrinform.net/block-lastnews"/>
     <outline type="rss" text="Факты и комментарии" xmlUrl="https://fakty.ua/ru/rss_feed/all" htmlUrl="https://fakty.ua/ru/rss_feed/all"/>
     <outline type="rss" text="Фокус" xmlUrl="https://focus.ua/modules/rss.php" htmlUrl="https://focus.ua"/>
+  </outline>
+  <outline text="7 - Газеты і часопісы">
+    <outline type="rss" text="devby.io" xmlUrl="https://devby.io/rss" htmlUrl="https://devby.io/rss"/>
+    <outline type="rss" text="Euroradio.fm" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aeuroradio.fm&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:euroradio.fm&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
+    <outline type="rss" text="Hrodna.life" xmlUrl="https://ru.hrodna.life/feed/" htmlUrl="https://ru.hrodna.life/feed/"/>
+    <outline type="rss" text="Office Life" xmlUrl="https://officelife.media/feed/" htmlUrl="https://officelife.media"/>
+    <outline type="rss" text="REFORM.by" xmlUrl="https://reform.by/feed" htmlUrl="https://reform.by"/>
+    <outline type="rss" text="Sputnik Беларусь" xmlUrl="https://sputnik.by/export/rss2/archive/index.xml" htmlUrl="https://sputnik.by"/>
+    <outline type="rss" text="Telegraf.news" xmlUrl="https://telegraf.news/feed/" htmlUrl="https://telegraf.news/feed/"/>
+    <outline type="rss" text="UDF" xmlUrl="https://udf.name/rss.xml" htmlUrl="https://udf.name/"/>
+    <outline type="rss" text="БДГ Деловая газета" xmlUrl="https://bdg.by/rss" htmlUrl="https://bdg.by/rss"/>
+    <outline type="rss" text="БелТА" xmlUrl="https://www.belta.by/rss" htmlUrl="https://www.belta.by/"/>
+    <outline type="rss" text="Белсат" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Abelsat.eu%2Fru%2F&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:belsat.eu/ru/&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
+    <outline type="rss" text="Зеркало" xmlUrl="https://news.zerkalo.io/rss/a~1.rss" htmlUrl="https://news.zerkalo.io/rss/a~1.rss"/>
+    <outline type="rss" text="Маланка Медиа" xmlUrl="https://malanka.media/feed" htmlUrl="https://malanka.media"/>
+    <outline type="rss" text="Медиазона Беларусь" xmlUrl="https://mediazona.by/rss" htmlUrl="https://mediazona.by"/>
+    <outline type="rss" text="Наша Ніва" xmlUrl="https://nashaniva.com/?c=rss-all&amp;lang=ru" htmlUrl="https://nashaniva.com/ru"/>
+    <outline type="rss" text="Новы Час" xmlUrl="https://novychas.online/rss" htmlUrl="https://novychas.online/"/>
+    <outline type="rss" text="Солидарность" xmlUrl="https://gazetaby.com/rss/" htmlUrl="https://gazetaby.com/"/>
+    <outline type="rss" text="Точка" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Atochka.by/&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:tochka.by/&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
+    <outline type="rss" text="Хартия&#39;97" xmlUrl="https://charter97.org/ru/rss/all/" htmlUrl="https://charter97.org/"/>
   </outline>
 </body>
 </opml>
