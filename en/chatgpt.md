@@ -31,9 +31,11 @@ Can you provide a bibliography on vikings?
 <br>
 
 <https://chat.openai.com/chat>
-<br><br>
-
-Bing Chat - <https://www.bing.com/new>
-<br><br>
 
 <https://t.me/GPT4Telegrambot>
+
+Claude - <https://claude.ai/chats>
+
+Copilot - <https://copilot.microsoft.com/>
+
+Gemini - <https://gemini.google.com/app>

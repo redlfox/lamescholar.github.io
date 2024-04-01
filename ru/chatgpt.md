@@ -33,13 +33,12 @@ Can you provide a bibliography on vikings?
 <https://chat.openai.com/chat>
 
 [VPN](/ru/vpn)
-
-<https://habr.com/ru/post/704600/>
-<br><br>
-
-Bing Chat - <https://www.bing.com/new>
-
-[VPN](/ru/vpn)
 <br><br>
 
 <https://t.me/GPT4Telegrambot>
+
+Claude - <https://claude.ai/chats>
+
+Copilot - <https://copilot.microsoft.com/>
+
+Gemini - <https://gemini.google.com/app>

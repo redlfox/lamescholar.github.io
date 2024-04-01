@@ -63,7 +63,7 @@ Oxford World Classics - <https://libgen.st/search.php?&req=Oxford+World%27s+Clas
 
 Penguin Classics - <https://libgen.st/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
 
-Viking Portable Library - <https://archive.org/search?query=title%3A%28portable%29+AND+publisher%3A%28penguin%29>
+Viking Portable Library - <https://archive.org/search?query=title%3Aportable+AND+%28publisher%3Apenguin+OR+publisher%3Aviking%29>
 
 World's Classics - <https://seriesofseries.com/worlds-classics/>
 

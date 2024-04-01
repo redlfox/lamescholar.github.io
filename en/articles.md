@@ -242,9 +242,9 @@ Die Zeit - <https://www.zeit.de/archiv/index>
 Die Zeit: Alle Schlagzeilen - <https://www.zeit.de/news/index>
 <br><br>
 
-Internationale: Libri - <https://www.internazionale.it/tag/libri>
+Internationale - <https://www.internazionale.it/ultimi-articoli>
 
-Rīgas Laiks - <https://ru.rigaslaiks.art/>
+Internationale: Libri - <https://www.internazionale.it/tag/libri>
 <br><br>
 
 Book History - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/23>
@@ -270,6 +270,8 @@ Renaissance Quarterly - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journ
 <br>
 
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
+
+Le Monde diplomatique EN - <https://mondediplo.com/>
 
 Le Monde diplomatique EO - <https://eo.mondediplo.com/arkivoj>
 
