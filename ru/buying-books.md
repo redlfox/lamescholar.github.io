@@ -2,6 +2,13 @@
 title: Покупка книг
 ---
 
+За входом новых книг можно следить по рецензиям на «Горьком»:
+
+<https://gorky.media/>
+
+<https://t.me/gorky_media>
+<br><br>
+
 # В России
 
 #### 0. Поисковые системы
@@ -34,6 +41,19 @@ Alib.ru - <https://www.alib.ru/>
 В независимых книжных можно найти малотиражные издания, которые не найти в других книжных магазинах. В больших городах есть хотя бы один.
 
 <https://blog.mann-ivanov-ferber.ru/2023/06/15/podborka-nezavisimyx-knizhnyx-magazinov-rossii/>
+<br><br>
+
+За входом новых книг на английском можно следить по рецензиям в газетах и литературных журналах.
+
+The Guardian:
+
+<https://www.theguardian.com/books>
+
+<https://twitter.com/GuardianBooks>
+
+[Литературные журналы](/en/articles#literary)
+
+[Моя коллекция RSS-лент газет и литературных журналов](https://lamescholar.github.io/2023/12/08/follow-the-press-using-rss-ru.html)
 <br><br>
 
 # В США

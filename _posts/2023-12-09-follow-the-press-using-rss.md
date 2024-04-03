@@ -15,7 +15,7 @@ Author: lamescholar - 2023-12-09
 
 2) Bypass Paywalls Clean extension to bypass paywall
 
-3) List of RSS feeds + RSS reader to collect news from news sites
+3) Collection of RSS feeds + RSS reader to collect news from news sites
 <br><br>
 
 **1) Build our own VPN: Virtual server + WireGuard.**
