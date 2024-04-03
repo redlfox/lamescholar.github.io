@@ -42,6 +42,8 @@ MIRCrew - <https://mircrew-releases.org/index.php>
 
 The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
 
+Кинозал - <https://kinozal.tv/>
+
 1337x - <https://1337x.to/>
 
 BT4G - <https://bt4gprx.com/>
