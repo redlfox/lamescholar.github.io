@@ -89,6 +89,8 @@ title: Поваренная книга пирата
 
 [Поисковые системы](/ru/search-engines)
 
+[Покупка книг](/ru/buying-books)
+
 [Полнотекстовый поиск](/ru/full-text-search)
 
 [Привет](/ru/hello)
