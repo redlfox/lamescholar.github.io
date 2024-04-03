@@ -2,10 +2,8 @@
 title: Покупка книг
 ---
 
-За входом новых книг можно следить по рецензиям на «Горьком»:
-
-<https://gorky.media/>
-
+За входом новых книг можно следить по рецензиям на «Горьком»:<br>
+<https://gorky.media/><br>
 <https://t.me/gorky_media>
 <br><br>
 
@@ -45,10 +43,8 @@ Alib.ru - <https://www.alib.ru/>
 
 За входом новых книг на английском можно следить по рецензиям в газетах и литературных журналах.
 
-The Guardian:
-
-<https://www.theguardian.com/books>
-
+The Guardian:<br>
+<https://www.theguardian.com/books><br>
 <https://twitter.com/GuardianBooks>
 
 [Литературные журналы](/en/articles#literary)
