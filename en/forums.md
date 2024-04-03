@@ -4,6 +4,8 @@ title: Forums
 
 Reddit - <https://www.reddit.com/>
 
+Goodreads - <https://www.goodreads.com/>
+
 Letterboxd - <https://letterboxd.com/>
 
 Library Genesis: Miner's Hut - <https://forum.mhut.org/>
