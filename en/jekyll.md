@@ -19,7 +19,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 #### Creating a site
 
-Create repository with the name username.github.io (instead of username use your GitHub username).
+Instead of username use your GitHub username.
 
 Now go to the command line:
 

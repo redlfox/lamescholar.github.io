@@ -19,7 +19,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 #### Создание сайта
 
-Создай репозиторий с названием username.github.io (вместо username использую твой username на GitHub).
+Вместо username использую твой username на GitHub.
 
 Теперь отправляйся в командную строку:
 
