@@ -53,6 +53,8 @@ title: Поваренная книга пирата
 
 [yt-dlp](/ru/yt-dlp)
 
+[Архивирование веб-сайтов](/ru/web-archiving)
+
 [Аудиокниги](/ru/audiobooks)
 
 [Библиотеки](/ru/libraries)
@@ -96,8 +98,6 @@ title: Поваренная книга пирата
 [Привет](/ru/hello)
 
 [Радио](/ru/radio)
-
-[Сохранить материалы сайта](/ru/save-site-materials)
 
 [Справочники](/ru/reference-books)
 
