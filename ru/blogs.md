@@ -32,6 +32,8 @@ RealClearBooks - <https://www.realclearbooks.com/>
 
 Perlentaucher: Bücherschau des Tages - <https://www.perlentaucher.de/buecherschau/>
 
+Perlentaucher: Magazinrundschau - <https://www.perlentaucher.de/archive/fl/2.html>
+
 Aeon - <https://aeon.co/>
 
 Psyche - <https://psyche.co/>
