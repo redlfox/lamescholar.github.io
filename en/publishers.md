@@ -2,7 +2,7 @@
 title: Publishers
 ---
 
-# Publishers by languages:
+#### Publishers by languages:
 
 [English](#english)
 
@@ -14,7 +14,7 @@ title: Publishers
 <br><br>
 
 <a id="english"></a>
-# English
+#### English
 
 Dover - <https://libgen.st/search.php?req=Dover&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=publisher>
 
@@ -24,7 +24,7 @@ Verso - <https://libgen.st/search.php?req=Verso&open=0&res=25&view=simple&phrase
 <br><br>
 
 <a id="french"></a>
-# French
+#### French
 
 Éditions sociales - <https://libgen.st/search.php?req=%C3%89ditions+sociales&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
@@ -36,7 +36,7 @@ puf - <https://libgen.st/search.php?req=puf&open=0&res=25&view=simple&phrase=1&c
 <br><br>
 
 <a id="german"></a>
-# German
+#### German
 
 Akademie Verlag - <https://libgen.st/search.php?req=Akademie+Verlag&open=0&res=25&view=simple&phrase=1&column=def>
 
@@ -56,7 +56,7 @@ Volk und Wissen:
 <br><br>
 
 <a id="turkish"></a>
-# Turkish
+#### Turkish
 
 Ayrıntı - <https://libgen.st/search.php?req=Ayrinti&open=0&res=25&view=simple&phrase=1&column=publisher>
 

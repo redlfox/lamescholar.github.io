@@ -2,7 +2,7 @@
 title: Издательства
 ---
 
-# Издательства по языкам:
+#### Издательства по языкам:
 
 [Русский](#russian)
 
@@ -16,7 +16,7 @@ title: Издательства
 <br><br>
 
 <a id="russian"></a>
-# Русский
+#### Русский
 
 Каталог издательств - <https://imwerden.de/publishers>
 
@@ -60,7 +60,7 @@ Academia - <http://publ.lib.ru/ARCHIVES/A/ACADEMIA/_Academia.html>
 <br><br>
 
 <a id="english"></a>
-# Английский
+#### Английский
 
 Dover - <https://libgen.st/search.php?req=Dover&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=publisher>
 
@@ -70,7 +70,7 @@ Verso - <https://libgen.st/search.php?req=Verso&open=0&res=25&view=simple&phrase
 <br><br>
 
 <a id="german"></a>
-# Немецкий
+#### Немецкий
 
 Akademie Verlag - <https://libgen.st/search.php?req=Akademie+Verlag&open=0&res=25&view=simple&phrase=1&column=def>
 
@@ -90,7 +90,7 @@ Volk und Wissen:
 <br><br>
 
 <a id="turkish"></a>
-# Турецкий
+#### Турецкий
 
 Ayrıntı - <https://libgen.st/search.php?req=Ayrinti&open=0&res=25&view=simple&phrase=1&column=publisher>
 
@@ -110,7 +110,7 @@ Yapı Kredi Yayınları - <https://libgen.st/search.php?req=Yapi&open=0&res=25&v
 <br><br>
 
 <a id="french"></a>
-# Французский
+#### Французский
 
 Éditions sociales - <https://libgen.st/search.php?req=%C3%89ditions+sociales&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
 
