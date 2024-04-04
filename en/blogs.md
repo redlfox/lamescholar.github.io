@@ -3,8 +3,8 @@ title: Blogs
 ---
 
 Arts & Letters Daily:<br>
-https://www.aldaily.com/archives/<br>
-https://twitter.com/aldaily
+<https://www.aldaily.com/archives/><br>
+<https://twitter.com/aldaily>
 
 RealClearBooks - <https://www.realclearbooks.com/>
 
