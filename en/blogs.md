@@ -2,9 +2,7 @@
 title: Blogs
 ---
 
-Arts & Letters Daily:<br>
-<https://www.aldaily.com/archives/><br>
-<https://twitter.com/aldaily>
+Arts & Letters Daily - <https://www.aldaily.com/archives/>
 
 RealClearBooks - <https://www.realclearbooks.com/>
 
