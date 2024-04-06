@@ -64,9 +64,7 @@ Financial Times - <https://www.ft.com/news-feed>
 
 Süddeutsche Zeitung - <https://www.sueddeutsche.de/>
 
-Süddeutsche Zeitung: Schlagzeilen - <https://www.sueddeutsche.de/news?search=&sort=date&all%5B%5D=dep&all%5B%5D=time&typ%5B%5D=article&sys%5B%5D=sz&sys%5B%5D=dpa>
-
-Süddeutsche Zeitung: Nachrichten des Tages - <https://www.sueddeutsche.de/news?search=%22SZ+am+Morgen%22+OR+%22SZ+am+Abend%22>
+Süddeutsche Zeitung: Newsticker - <https://www.sueddeutsche.de/news>
 
 Frankfurter Allgemeine Zeitung - <https://www.faz.net/aktuell/>
 
