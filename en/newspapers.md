@@ -60,7 +60,7 @@ The Telegraph - <https://www.telegraph.co.uk/>
 
 The Times - <https://www.thetimes.co.uk/>
 
-Financial TImes - <https://www.ft.com/news-feed>
+Financial Times - <https://www.ft.com/news-feed>
 
 Süddeutsche Zeitung - <https://www.sueddeutsche.de/>
 

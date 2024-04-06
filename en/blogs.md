@@ -8,7 +8,7 @@ RealClearBooks - <https://www.realclearbooks.com/>
 
 Perlentaucher: Bücherschau des Tages - <https://www.perlentaucher.de/buecherschau/>
 
-Perlentaucher: Magazinrundschau - <https://www.perlentaucher.de/archive/fl/2.html>
+Perlentaucher: Presseschauen - <https://www.perlentaucher.de/teaserliste/1_Presseschauen.html>
 
 Aeon - <https://aeon.co/>
 
