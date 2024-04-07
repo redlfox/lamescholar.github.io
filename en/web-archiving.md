@@ -2,12 +2,12 @@
 title: Save site materials
 ---
 
-To save the site materials, there is the following program:
+SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
 
-<https://rutracker.org/forum/viewtopic.php?t=6018509>
+Webrecorder Archiveweb.page - <https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd>
 
-If the materials weigh a lot, but you still want to save them, the site materials can be saved using the Wayback Machine or archive.today:
+Offline Explorer Enterprise - <https://rutracker.org/forum/viewtopic.php?t=6018509>
 
-<https://archive.org/>
+Wayback Machine - <https://archive.org/>
 
-<https://archive.ph/>
+archive.today - <https://archive.ph/>

@@ -2,12 +2,12 @@
 title: Архивирование веб-сайтов
 ---
 
-Для архивирования сайта есть следующая программа:
+SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
 
-<https://rutracker.org/forum/viewtopic.php?t=6018509>
+Webrecorder Archiveweb.page - <https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd>
 
-Если же материалы сайта весят много, а их всё-таки хочется сохранить, материалы сайта можно сохранить с помощью Wayback Machine или archive.today:
+Offline Explorer Enterprise - <https://rutracker.org/forum/viewtopic.php?t=6018509>
 
-<https://archive.org/>
+Wayback Machine - <https://archive.org/>
 
-<https://archive.ph/>
+archive.today - <https://archive.ph/>
