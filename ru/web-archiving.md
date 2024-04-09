@@ -4,7 +4,11 @@ title: Архивирование веб-сайтов
 
 SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
 
-Webrecorder Archiveweb.page - <https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd>
+Webrecorder Archiveweb.page:
+
+<https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd>
+
+<https://github.com/ikreymer/webarchiveplayer>
 
 Offline Explorer Enterprise - <https://rutracker.org/forum/viewtopic.php?t=6018509>
 
