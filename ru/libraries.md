@@ -116,13 +116,13 @@ Henry's Bibliothek:
 <a id="national"></a>
 #### Национальные:
 
-Ізборник - <http://litopys.org.ua/mainf.htm>
-
 Чтиво - <https://chtyvo.org.ua/>
 
 Україніка - <http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
 
 Інститут історії України - <http://history.org.ua/uk>
+
+Ізборник - <http://litopys.org.ua/mainf.htm>
 
 Deutsche Digitale Bibliothek - <https://www.deutsche-digitale-bibliothek.de/>
 
