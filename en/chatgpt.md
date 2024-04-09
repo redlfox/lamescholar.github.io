@@ -33,3 +33,12 @@ Can you provide a bibliography on vikings?
 <https://chat.openai.com/chat>
 
 <https://t.me/GPT4Telegrambot>
+<br><br>
+
+Alternatives:
+
+Claude - <https://claude.ai/chats>
+
+Copilot - <https://copilot.microsoft.com/>
+
+Gemini - <https://gemini.google.com/app>
