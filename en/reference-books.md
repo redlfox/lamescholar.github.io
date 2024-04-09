@@ -25,11 +25,11 @@ Creating dictionaries for GoldenDict:
 
 Translators:
 
-[ChatGPT](/en/chatgpt)
-
 Yandex Translate - <https://translate.yandex.ru/>
 
 Google Translate - <https://translate.google.com/>
+
+[ChatGPT](/en/chatgpt)
 <br><br>
 
 Dictionaries:

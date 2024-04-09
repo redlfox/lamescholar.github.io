@@ -27,11 +27,11 @@ ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475>
 
 Переводчики:
 
-[ChatGPT](/ru/chatgpt)
-
 Yandex Translate - <https://translate.yandex.ru/>
 
 Google Translate - <https://translate.google.com/>
+
+[ChatGPT](/ru/chatgpt)
 
 Славеница - <http://slavenica.com/>
 <br><br>
