@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 <https://archive.org/account/signup>
 
-Если у тебя плохое зрение, ты можешь получить доступ ко всем книгам и микрофильмам:
+Если у тебя плохое зрение, ты можешь получить доступ ко всем книгам и [микрофильмам](https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22):
 
 <https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform>
 <br><br>

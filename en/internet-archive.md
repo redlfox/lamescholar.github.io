@@ -33,7 +33,7 @@ To use you need to register:
 
 <https://archive.org/account/signup>
 
-If you have bad eyesight, you can get access to all books and microfilms:
+If you have bad eyesight, you can get access to all books and [microfilms](https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22):
 
 <https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform>
 <br><br>
