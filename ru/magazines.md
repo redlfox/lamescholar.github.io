@@ -210,6 +210,7 @@ ImWerden:<br>
 
 Родина:<br>
 <https://oldjornal.ucoz.net/index/zhurnal_quot_rodina_quot/0-27><br>
+<http://magzdb.org/j/129><br>
 <https://rutracker.org/forum/viewtopic.php?t=5883982>
 
 Журнал российских и восточноевропейских исторических исследований - <https://rutracker.org/forum/viewtopic.php?t=5052726>
