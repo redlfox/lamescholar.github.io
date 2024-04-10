@@ -202,7 +202,7 @@ workerbee - <https://1337x.to/user/workerbee/>
 
 magzDB - <http://magzdb.org/>
 
-Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
+Internet Archive microfilms - <https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22>
 <br><br>
 
 You can find journals by searching:
