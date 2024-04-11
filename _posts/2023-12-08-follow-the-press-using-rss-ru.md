@@ -27,7 +27,7 @@ title: Как следить за прессой с помощью RSS?
 
 Для хрома нужно скачать архив.
 
-<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip>
+<https://lamescholar.github.io/files/bypass-paywalls-chrome-clean-master.zip>
 
 Распаковать. В хроме зайти в настройки расширений. Включить режим разработчика. Загрузить распакованное расширение - папку.
 
