@@ -80,9 +80,9 @@ Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpa
 
 Done.
 
-In addition it's good to have an adblock. uBlock Origin.
+In addition it's good to have an adblock.
 
-<https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
+uBlock Origin - <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 <br><br>
 
 **3) You need to have a collection of RSS feeds themselves and RSS reader.**

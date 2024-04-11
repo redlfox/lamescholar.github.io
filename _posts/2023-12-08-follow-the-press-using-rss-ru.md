@@ -47,9 +47,9 @@ Browsec - <https://chromewebstore.google.com/detail/browsec-vpn-free-vpn-for/omg
 
 Готово.
 
-Дополнительно хорошо иметь адблок. uBlock Origin.
+Дополнительно хорошо иметь адблок.
 
-<https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
+uBlock Origin - <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 <br><br>
 
 **3) Нужна коллекция самих RSS-лент и RSS-ридер.**
