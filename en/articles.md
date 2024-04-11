@@ -201,8 +201,6 @@ The Economist - <https://www.economist.com/weeklyedition/archive>
 
 Foreign Affairs - <https://www.foreignaffairs.com/browse/view-all>
 
-Bloomberg Businessweek - <https://www.bloomberg.com/businessweek>
-
 First Things - <https://www.firstthings.com/issue>
 
 National Review - <https://www.firstthings.com/issue>
