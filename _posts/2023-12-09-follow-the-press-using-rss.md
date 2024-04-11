@@ -62,6 +62,10 @@ Import config file. Get it from this address:
 <http://5.104.75.85:51821/>
 
 To login use password you came up with installing WireGuard on your server.
+
+Free alternative:
+
+Browsec - <https://chromewebstore.google.com/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh>
 <br><br>
 
 **2) Bypass Paywalls Clean is an extension that opens articles accessible only to subscribers of newspapers and magazines.**

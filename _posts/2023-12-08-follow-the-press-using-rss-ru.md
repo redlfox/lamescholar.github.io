@@ -29,6 +29,10 @@ title: Как следить за прессой с помощью RSS?
 <https://vps.today/>
 
 В итоге личный VPN за 200 рублей в месяц.
+
+Бесплатная альтернатива:
+
+Browsec - <https://chromewebstore.google.com/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh>
 <br><br>
 
 **2) Bypass Paywalls Clean - расширение, которое открывает статьи, доступные лишь для подписчиков газет и журналов.**
