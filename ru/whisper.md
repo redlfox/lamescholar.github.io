@@ -35,7 +35,7 @@ Cкрипт для расшифровки:
 ```
 import whisper
 
-model = whisper.load_model("base")
+model = whisper.load_model("medium")
 options = whisper.DecodingOptions(language="ru")
 result = model.transcribe(r"путь к медиафайлу")
 
@@ -86,7 +86,7 @@ from subsai import SubsAI
 
 file = r"путь к медиафайлу"
 subs_ai = SubsAI()
-model = subs_ai.create_model('openai/whisper', {'model_type': 'base'})
+model = subs_ai.create_model('openai/whisper', {'model_type': 'medium'})
 subs = subs_ai.transcribe(file, model)
 subs.save('название субтитров c .srt расширением')
 ```

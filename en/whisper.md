@@ -35,7 +35,7 @@ Script for transript:
 ```
 import whisper
 
-model = whisper.load_model("base")
+model = whisper.load_model("medium")
 options = whisper.DecodingOptions(language="ru")
 result = model.transcribe(r"path to the media file")
 
@@ -86,7 +86,7 @@ from subsai import SubsAI
 
 file = r"path to the media file"
 subs_ai = SubsAI()
-model = subs_ai.create_model('openai/whisper', {'model_type': 'base'})
+model = subs_ai.create_model('openai/whisper', {'model_type': 'medium'})
 subs = subs_ai.transcribe(file, model)
 subs.save('name of the subtitles with .srt extension')
 ```
