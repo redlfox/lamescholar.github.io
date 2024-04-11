@@ -18,21 +18,7 @@ title: Как следить за прессой с помощью RSS?
 3) Коллекция RSS-лент + RSS-ридер, чтобы собирать новости с новостных сайтов
 <br><br>
 
-**1) Создай собственный VPN: виртуальный сервер + WireGuard.**
-
-Подробно продемонстрировано тут:
-
-<https://www.youtube.com/watch?v=2AYuijbofiM>
-
-Список VPS-сервисов, доступных в России:
-
-<https://vps.today/>
-
-В итоге личный VPN за 200 рублей в месяц.
-
-Бесплатная альтернатива:
-
-Browsec - <https://chromewebstore.google.com/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh>
+**1) [VPN](/ru/vpn)**
 <br><br>
 
 **2) Bypass Paywalls Clean - расширение, которое открывает статьи, доступные лишь для подписчиков газет и журналов.**
