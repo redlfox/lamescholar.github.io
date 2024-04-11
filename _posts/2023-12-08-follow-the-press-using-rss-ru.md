@@ -48,7 +48,7 @@ title: Как следить за прессой с помощью RSS?
 <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 <br><br>
 
-**3) Для пользования RSS нужна коллекция самих RSS-лент и RSS-ридер.**
+**3) Нужна коллекция самих RSS-лент и RSS-ридер.**
 
 Лучший (по моему мнению) RSS-ридер - yarr (yet another rss reader).
 
