@@ -21,7 +21,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 Вместо username использую твой username на GitHub.
 
-Теперь отправляйся в командную строку:
+Отправляйся в командную строку:
 
 Win+R cmd
 

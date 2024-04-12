@@ -21,7 +21,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 Instead of username use your GitHub username.
 
-Now go to the command line:
+Go to the command line:
 
 Win+R cmd
 
