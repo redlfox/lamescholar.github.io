@@ -27,7 +27,7 @@ Author: lamescholar - 2023-12-09
 
 For Chrome you need to download an archive.
 
-<https://lamescholar.github.io/files/bypass-paywalls-chrome-clean-master.zip>
+<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip>
 
 Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpacked extension - folder.
 
