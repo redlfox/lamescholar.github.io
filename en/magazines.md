@@ -127,7 +127,6 @@ NZZ am Sonntag
 O Estado de S. Paulo
 Pagina12
 Panorama
-Paraskhnio
 Peace Magazine
 Perfil (Domingo)
 Polityka
