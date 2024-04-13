@@ -53,14 +53,12 @@ Diario Informacion - Arte y Letras
 Die Presse
 Die Presse am Sonntag
 Die Welt
-Documento
 El Comercio
 El Mundo
 El Mundo - Weekend
 El Mundo - La Lectura
 El Pais
 EuroNews (English)
-Faith Today
 Faro de Vigo - Faro de Cultura
 Filosofie Magazine
 Focus (Italia)
@@ -138,12 +136,11 @@ Popular Mechanics
 Pravda
 pro zukunft
 Przekroj
-Publishers Weekly
 Revista N
 Sciences et Avenir
 South China Morning Post
 Smithsonian
-Suddeutsche Zeitung Deutschland-Ausgabe
+Suddeutsche Zeitung
 Svenska Dagbladet
 Trabajadores
 The Critic
@@ -166,9 +163,6 @@ The New York Times
 The Observer
 The Observer - The New Review
 The Straits Times
-The Wall Street Journal
-The Washington Post
-The Washington Post Sunday
 The Week
 Toronto Star
 Question de Philo
