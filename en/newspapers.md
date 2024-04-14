@@ -28,6 +28,8 @@ Pew Research Center - <https://www.pewresearch.org/publications/>
 Statista: Daily Data - <https://www.statista.com/chartoftheday/>
 
 Bloomberg - <https://www.bloomberg.com/>
+
+Project Syndicate - <https://www.project-syndicate.org/archive>
 <br><br>
 
 #### Online newspaper:
