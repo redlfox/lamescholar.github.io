@@ -23,13 +23,9 @@ title: Как следить за прессой с помощью RSS?
 
 **2) Bypass Paywalls Clean - расширение, которое открывает статьи, доступные лишь для подписчиков газет и журналов.**
 
-<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean>
+<https://twitter.com/Magnolia1234B>
 
-Для хрома нужно скачать архив.
-
-<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip>
-
-Распаковать. В хроме зайти в настройки расширений. Включить режим разработчика. Загрузить распакованное расширение - папку.
+Скачай архив. Распакуй. В хроме зайди в настройки расширений. Включи режим разработчика. Загрузи распакованное расширение - папку.
 
 Готово.
 

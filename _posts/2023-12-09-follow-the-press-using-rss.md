@@ -23,13 +23,9 @@ Author: lamescholar - 2023-12-09
 
 **2) Bypass Paywalls Clean is an extension that opens articles accessible only to subscribers of newspapers and magazines.**
 
-<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean>
+<https://twitter.com/Magnolia1234B>
 
-For Chrome you need to download an archive.
-
-<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip>
-
-Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpacked extension - folder.
+Download the archive. Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpacked extension - folder.
 
 Done.
 

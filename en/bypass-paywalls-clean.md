@@ -2,19 +2,15 @@
 title: Bypass Paywalls Clean
 ---
 
-<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean>
+<https://twitter.com/Magnolia1234B>
 
 Bypass Paywalls Clean is an extension that removes [paywall](https://en.wikipedia.org/wiki/Paywall) from online newspapers and magazines.
 <br><br>
 
-For Chrome you need to download an archive.
-
-<https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip>
-
-Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpacked extension - folder.
+Download the archive. Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpacked extension - folder.
 
 Done.
 
-In addition it's good to have an adblock. uBlock Origin.
+In addition it's good to have an adblock.
 
-<https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
+uBlock Origin - <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
