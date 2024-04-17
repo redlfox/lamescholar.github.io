@@ -4,6 +4,8 @@ title: Save site materials
 
 SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
 
+Ctrl+P
+
 Webrecorder Archiveweb.page:
 
 <https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd>
