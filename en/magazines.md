@@ -15,10 +15,7 @@ Adbusters
 Aftenposten
 Alternatives Economiques
 Alternatives Economiques - Hors-Serie
-American Fine Art Magazine
-American Art Collector
 Angora
-Apollo Magazine
 Arab News
 Aravot
 Arcadia
@@ -27,10 +24,8 @@ Avgi
 Azer News
 BBC History Magazine
 BBC Music Magazine
-Biancoscuro Rivista d'Arte
 BookReporter
 Bucher Magazin
-CAPTION Magazine
 Carto
 Challenges
 China Daily
@@ -78,7 +73,6 @@ Il Fatto Quotidiano
 Il Sole 24 Ore
 Il Sole 24 Ore - Domenica
 iNews
-Inuit Art Querterly
 Kathimrini
 Kleine Zeitung
 Kurier
@@ -132,7 +126,6 @@ Perfil (Domingo)
 Polityka
 Politiken
 Popular Mechanics
-Pravda
 pro zukunft
 Przekroj
 Revista N
