@@ -35,8 +35,6 @@ Author: lamescholar - 2023-10-19
 
 [Rogan E. - The Arabs_ A History - 2017](http://library.lol/main/6B45A4F39C9AAF811185FE859C8BD127)
 
-[Rubaiyat of Omar Khayyam - 2009](http://library.lol/main/5CF09D0BD7CA12221FE2837E9D8DD2B9)
-
 Runciman S. - A History of Crusades:
 
 [Volume 1, The First Crusade and the Foundation of the Kingdom of Jerusalem - 1951](http://library.lol/main/38DD2F974F47373D35F5E3CB66483D23)
@@ -48,3 +46,5 @@ Runciman S. - A History of Crusades:
 [Said E.W. - Culture and Imperialism - 2012](http://library.lol/main/9BBF404EB6F2B24BECE7307E8AC374CB)
 
 [Said E.W. - Orientalism - 2003](http://library.lol/main/4E595170B4A8C233496D24C1154ECCB3)
+
+[The Ruba'iyat of Omar Khayyam - 1981](http://library.lol/fiction/85D66BF3954FFEC44C9C0D8703A0A748)

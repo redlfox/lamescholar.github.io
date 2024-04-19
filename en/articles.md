@@ -247,7 +247,7 @@ The Nation - <https://www.thenation.com/latest/>
 
 The New Republic - <https://newrepublic.com/latest>
 
-The New Statesman - <https://www.newstatesman.com/>
+New Statesman - <https://www.newstatesman.com/>
 
 Le Monde diplomatique EN - <https://mondediplo.com/>
 
