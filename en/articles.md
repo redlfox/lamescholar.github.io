@@ -205,10 +205,6 @@ First Things - <https://www.firstthings.com/issue>
 
 National Review - <https://www.firstthings.com/issue>
 
-The Nation - <https://www.thenation.com/latest/>
-
-The New Republic - <https://newrepublic.com/latest>
-
 Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
 
 The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
@@ -245,29 +241,13 @@ Internationale - <https://www.internazionale.it/ultimi-articoli>
 Internationale: Libri - <https://www.internazionale.it/tag/libri>
 <br><br>
 
-Book History - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/23>
+Jacobin - <https://jacobin.com/blog>
 
-Publishing Research Quarterly - <https://link.springer.com/journal/12109/volumes-and-issues>
+The Nation - <https://www.thenation.com/latest/>
 
-Studies in Bibliography - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/298>
+The New Republic - <https://newrepublic.com/latest>
 
-The Library - <https://academic-oup-com.i.ezproxy.nypl.org/library/issue>
-
-The Papers of the Bibliographical Society of America - <https://www.journals.uchicago.edu/loi/pbsa>
-<br><br>
-
-Intellectual History Review - <https://www.tandfonline.com/loi/rihr20>
-
-Journal of the History of Ideas - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/91>
-
-Modern Intellectual History - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/modern-intellectual-history/all-issues>
-
-Neue Politische Literatur - <https://link.springer.com/journal/42520/volumes-and-issues>
-
-Renaissance Quarterly - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/renaissance-quarterly/all-issues>
-<br>
-
-Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
+The New Statesman - <https://www.newstatesman.com/>
 
 Le Monde diplomatique EN - <https://mondediplo.com/>
 
@@ -295,7 +275,9 @@ Antipode - <https://onlinelibrary.wiley.com/loi/14678330>
 
 Capital & Class - <https://journals.sagepub.com/loi/CNC>
 
-Critique - <https://www.tandfonline.com/toc/rcso20/current>
+Critique - <https://www.tandfonline.com/loi/rcso20>
+
+The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
 
 Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
 
@@ -305,8 +287,28 @@ International Socialism - <https://en.wikipedia.org/wiki/International_Socialism
 
 Marxism Today - <https://banmarchive.org.uk/marxism-today/>
 
-New German Critique - <https://www.jstor.org/journal/newgermcrit>
-
-The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
-
 Le Monde Libertaire - <https://monde-libertaire.net/?page=papier>
+
+Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
+<br><br>
+
+Book History - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/23>
+
+Publishing Research Quarterly - <https://link.springer.com/journal/12109/volumes-and-issues>
+
+Studies in Bibliography - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/298>
+
+The Library - <https://academic-oup-com.i.ezproxy.nypl.org/library/issue>
+
+The Papers of the Bibliographical Society of America - <https://www.journals.uchicago.edu/loi/pbsa>
+<br><br>
+
+Intellectual History Review - <https://www.tandfonline.com/loi/rihr20>
+
+Journal of the History of Ideas - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/91>
+
+Modern Intellectual History - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/modern-intellectual-history/all-issues>
+
+Neue Politische Literatur - <https://link.springer.com/journal/42520/volumes-and-issues>
+
+Renaissance Quarterly - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/renaissance-quarterly/all-issues>
