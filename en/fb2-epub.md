@@ -25,8 +25,6 @@ Miscellaneous->Remember last used window size and position. Miscellaneous->Keep 
 eBoox
 
 Translation - Yandex Translator
-
-DjVu and PDF - Pocketbook
 <br><br>
 
 #### Text recognition:
