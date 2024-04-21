@@ -12,6 +12,8 @@ Application:
 
 <https://www.myanonamouse.net/inviteapp.php>
 
+IRC client:
+
 mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
 
 AppData\Roaming\mIRC\scripts

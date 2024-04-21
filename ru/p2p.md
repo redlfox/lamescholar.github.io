@@ -36,6 +36,22 @@ RuTracker - <http://rutracker.org/forum/index.php>
 
 My Anonamouse - <https://www.myanonamouse.net/index.php>
 
+***
+
+Интервью:
+
+<https://www.myanonamouse.net/inviteapp.php>
+
+IRC клиент:
+
+mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
+
+AppData\Roaming\mIRC\scripts
+
+HexChat - <https://hexchat.github.io/downloads.html>
+
+***
+
 YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search>
 
 Boerse - <https://boerse.am/>
