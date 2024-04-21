@@ -197,17 +197,13 @@ Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
 <a id="society"></a>
 #### Society
 
-The Economist - <https://www.economist.com/weeklyedition/archive>
+First Things - <https://www.firstthings.com/issue>
 
 Foreign Affairs - <https://www.foreignaffairs.com/browse/view-all>
 
-First Things - <https://www.firstthings.com/issue>
-
 National Review - <https://www.firstthings.com/issue>
 
-Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
-
-The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
+New Statesman - <https://www.newstatesman.com/>
 
 Peace Magazine - <https://peacemagazine.org/archive/?id=2103>
 
@@ -215,7 +211,17 @@ Prospect - <https://www.prospectmagazine.co.uk/issues>
 
 Reason - <https://reason.com/archives/>
 
+The Economist - <https://www.economist.com/weeklyedition/archive>
+
+The Nation - <https://www.thenation.com/latest/>
+
+The New Republic - <https://newrepublic.com/latest>
+
+The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
+
 The Spectator - <https://www.spectator.co.uk/>
+
+Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
 <br><br>
 
 Carto - <https://www.areion24.news/carto/>
@@ -242,12 +248,6 @@ Internationale: Libri - <https://www.internazionale.it/tag/libri>
 <br><br>
 
 Jacobin - <https://jacobin.com/blog>
-
-The Nation - <https://www.thenation.com/latest/>
-
-The New Republic - <https://newrepublic.com/latest>
-
-New Statesman - <https://www.newstatesman.com/>
 
 Le Monde diplomatique EN - <https://mondediplo.com/>
 

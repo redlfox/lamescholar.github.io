@@ -34,6 +34,8 @@ Torrent File Editor - программа для создания торрент�
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
+My Anonamouse - <https://www.myanonamouse.net/index.php>
+
 YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search>
 
 Boerse - <https://boerse.am/>
