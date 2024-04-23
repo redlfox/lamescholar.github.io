@@ -29,11 +29,11 @@ ImWerden:<br>
 
 #### Журналы по темам
 
-[Естественно-научные журналы](#natural)
+[Естественные науки](#natural)
 
 [Искусство](#art)
 
-[Исторические журналы](#history)
+[История](#history)
 
 [Литературные журналы](#literary)
 
@@ -41,9 +41,9 @@ ImWerden:<br>
 
 [Общество](#society)
 
-[Философские журналы](#philosophy)
+[Философия](#philosophy)
 
-[Экономические журналы](#economy)
+[Экономика](#economy)
 <br><br>
 
 {:refdef: style="text-align: center;"}
@@ -52,7 +52,7 @@ ImWerden:<br>
 <br>
 
 <a id="natural"></a>
-#### Естественно-научные журналы:
+#### Естественные науки:
 
 Вестник Императорской Академии наук Санкт-Петербурга:<br>
 <https://www.biodiversitylibrary.org/bibliography/11493#/summary><br>
@@ -145,7 +145,7 @@ ImWerden:<br>
 <br><br>
 
 <a id="history"></a>
-#### Исторические журналы:
+#### История:
 
 Вестник древней истории - <https://rutracker.org/forum/viewtopic.php?t=3650861>
 
@@ -372,7 +372,7 @@ Urbi - <https://imwerden.de/periodical-2201-page-1>
 <br><br>
 
 <a id="philosophy"></a>
-#### Философские журналы:
+#### Философия:
 
 Под знаменем марксизма - <https://istmat.org/node/51846>
 
@@ -396,7 +396,7 @@ Urbi - <https://imwerden.de/periodical-2201-page-1>
 <br><br>
 
 <a id="economy"></a>
-#### Экономические журналы:
+#### Экономика:
 
 Вопросы экономики - <https://rutracker.org/forum/viewtopic.php?t=5301855>
 

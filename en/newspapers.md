@@ -44,7 +44,7 @@ The New York Times - TimesWire - <https://www.nytimes.com/timeswire>
 
 The New York Times Book Review - <https://www.nytimes.com/section/books/review>
 
-The New York Times Magazine - <https://www.nytimes.com/section/magazine>
+The New York Times Magazine - <https://www.nytimes.com/interactive/2020/07/02/magazine/past-issues-sunday-magazine.html>
 
 The Wall Street Journal - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
 

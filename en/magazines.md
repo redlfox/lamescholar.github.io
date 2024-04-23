@@ -202,19 +202,19 @@ List magazines similar to Philosophy Now.
 
 #### Magazines by topic
 
-[History journals](#history)
+[History](#history)
 
 [Literary magazines](#literary)
 
-[Natural-science journals](#natural)
+[Natural sciences](#natural)
 
-[Philosophy journals](#philosophy)
+[Philosophy](#philosophy)
 
 [Society](#society)
 <br><br>
 
 <a id="history"></a>
-#### History journals:
+#### History:
 
 BBC History - <https://magzdb.org/j/6121>
 
@@ -267,7 +267,7 @@ Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
 <br>
 
 <a id="natural"></a>
-#### Natural sciences journals:
+#### Natural sciences:
 
 Nature:<br>
 <https://magzdb.org/j/1826><br>
@@ -315,7 +315,7 @@ Wszechświat:<br>
 <br><br>
 
 <a id="philosophy"></a>
-#### Philosophy journals:
+#### Philosophy:
 
 New Philosopher - <https://forum.mobilism.org/search.php?keywords=new+philosopher&sr=topics&sf=titleonly>
 
@@ -325,7 +325,7 @@ Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philoso
 <br><br>
 
 <a id="society"></a>
-#### Society
+#### Society:
 
 The Economist - <https://forum.mobilism.org/search.php?keywords=The+Economist&sr=topics&sf=titleonly>
 

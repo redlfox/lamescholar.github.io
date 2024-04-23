@@ -29,21 +29,21 @@ Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
 
 #### Magazines by topic
 
-[Economical journals](#economy)
+[Economy](#economy)
 
-[Historical journals](#history)
+[History](#history)
 
 [Literary magazines](#literary)
 
-[Natural sciences journals](#natural)
+[Natural sciences](#natural)
 
-[Philosophical journals](#philosophy)
+[Philosophy](#philosophy)
 
 [Society](#society)
 <br><br>
 
 <a id="economy"></a>
-#### Economical journals:
+#### Economy:
 
 Problems in Economics - <https://www.tandfonline.com/loi/mpet20>
 
@@ -63,7 +63,7 @@ Review of Radical Political Economics - <https://journals.sagepub.com/home/rrp>
 <br><br>
 
 <a id="history"></a>
-#### Historical journals:
+#### History:
 
 BBC History - <https://www.historyextra.com/bbc-history-magazine/>
 
@@ -133,7 +133,7 @@ Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.d
 <br><br>
 
 <a id="natural"></a>
-#### Natural sciences journals:
+#### Natural sciences:
 
 Nature - <https://www.nature.com/nature/volumes>
 
@@ -163,7 +163,7 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <br><br>
 
 <a id="philosophy"></a>
-#### Philosophical journals:
+#### Philosophy:
 
 Philosophy Now - <https://philosophynow.org/issues>
 

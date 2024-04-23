@@ -14,21 +14,21 @@ eLibrary - <https://elibrary.ru/defaultx.asp?>
 
 #### Журналы по темам
 
-[Естественно-научные журналы](#natural)
+[Естественные науки](#natural)
 
 [Искусство](#art)
 
-[Исторические журналы](#history)
+[История](#history)
 
 [Литературные журналы](#literary)
 
 [Общество](#society)
 
-[Философские журналы](#philosophy)
+[Философия](#philosophy)
 <br><br>
 
 <a id="natural"></a>
-#### Естественно-научные журналы:
+#### Естественные науки:
 
 Наука и жизнь - <https://www.nkj.ru/news/>
 
@@ -54,7 +54,7 @@ Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 <br><br>
 
 <a id="history"></a>
-#### Исторические журналы:
+#### История:
 
 Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
 
@@ -105,7 +105,7 @@ Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 <br><br>
 
 <a id="philosophy"></a>
-#### Философские журналы:
+#### Философия:
 
 Вопросы философии:
 
