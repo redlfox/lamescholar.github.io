@@ -61,6 +61,8 @@ Encyclopedia Americana - <https://rutracker.org/forum/viewtopic.php?t=6311493>
 
 Columbia Encyclopedia - <https://www.infoplease.com/encyclopedia>
 
+Stanford Encyclopedia of Philosophy - <https://plato.stanford.edu/index.html>
+
 Larousse - <https://www.larousse.fr/encyclopedie>
 
 Treccani - <https://www.treccani.it/>
@@ -68,9 +70,6 @@ Treccani - <https://www.treccani.it/>
 Encyclopedia of Diderot and D'Alambert - <https://quod.lib.umich.edu/d/did/title/A.html>
 
 Encyclopedia.com - <https://www.encyclopedia.com/>
-<br><br>
-
-Stanford Encyclopedia of Philosophy - <https://plato.stanford.edu/index.html>
 
 World History - <https://www.worldhistory.org/>
 

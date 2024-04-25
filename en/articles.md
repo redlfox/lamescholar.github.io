@@ -224,8 +224,6 @@ The Spectator - <https://www.spectator.co.uk/>
 Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
 <br><br>
 
-Carto - <https://www.areion24.news/carto/>
-
 L'Obs - <https://www.nouvelobs.com/depeche/>
 
 L'Expresso - <https://lespresso.it/>

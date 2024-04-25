@@ -26,7 +26,6 @@ BBC History Magazine
 BBC Music Magazine
 BookReporter
 Bucher Magazin
-Carto
 Challenges
 China Daily
 China Daily Weekly
