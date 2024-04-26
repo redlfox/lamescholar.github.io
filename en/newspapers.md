@@ -38,21 +38,29 @@ W3Newspapers - <https://www.w3newspapers.com/>
 
 The Guardian US - <https://www.theguardian.com/us>
 
-The New York Times - <https://www.nytimes.com/section/todayspaper>
+The New York Times - <https://www.nytimes.com/>
 
-The New York Times - TimesWire - <https://www.nytimes.com/timeswire>
+The New York Times: Today's Paper - <https://www.nytimes.com/section/todayspaper>
 
-The New York Times Book Review - <https://www.nytimes.com/section/books/review>
+The New York Times: TimesWire - <https://www.nytimes.com/timeswire>
+
+The New York Times: Books - <https://www.nytimes.com/section/books/review>
 
 The New York Times Magazine - <https://www.nytimes.com/interactive/2020/07/02/magazine/past-issues-sunday-magazine.html>
 
-The Wall Street Journal - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
+The Wall Street Journal - <https://www.wsj.com/>
 
-The Washington Post - <https://www.washingtonpost.com/todays_paper/updates/>
+The Wall Street Journal: Latest - <https://www.wsj.com/news/latest-headlines?mod=wsjheader>
+
+The Washington Post - <https://www.washingtonpost.com/>
+
+The Washington Post: Today's Paper - <https://www.washingtonpost.com/todays_paper/updates/>
 
 The Washington Post: Latest From The Post - <https://www.washingtonpost.com/latest-headlines/>
 
-Los Angeles Times - <https://www.latimes.com/latest>
+Los Angeles Times - <https://www.latimes.com/>
+
+Los Angeles Times: Latest - <https://www.latimes.com/latest>
 
 The Independent - <https://www.independent.co.uk/>
 
