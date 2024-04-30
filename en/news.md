@@ -12,6 +12,10 @@ Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 RealClearPolitics - <https://www.realclearpolitics.com/>
 
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
+
+Internationale - <https://www.internazionale.it/ultimi-articoli>
+
+Internationale: Libri - <https://www.internazionale.it/tag/libri>
 <br><br>
 
 #### Search:

@@ -240,11 +240,6 @@ Die Zeit - <https://www.zeit.de/archiv/index>
 Die Zeit: Alle Schlagzeilen - <https://www.zeit.de/news/index>
 <br><br>
 
-Internationale - <https://www.internazionale.it/ultimi-articoli>
-
-Internationale: Libri - <https://www.internazionale.it/tag/libri>
-<br><br>
-
 Jacobin - <https://jacobin.com/blog>
 
 Le Monde diplomatique EN - <https://mondediplo.com/>
