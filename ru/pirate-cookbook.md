@@ -61,8 +61,6 @@ title: Поваренная книга пирата
 
 [Блоги](/ru/blogs)
 
-[Газеты](/ru/newspapers)
-
 [Журналы](/ru/magazines)
 
 [Игры](/ru/games)
@@ -80,6 +78,8 @@ title: Поваренная книга пирата
 [Музыка](/ru/music)
 
 [Название электронной книги](/ru/naming-ebooks)
+
+[Новости](/ru/news)
 
 [Олимпиады](/ru/olympiads)
 

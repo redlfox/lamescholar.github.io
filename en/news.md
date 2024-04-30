@@ -1,5 +1,5 @@
 ---
-title: Newspapers
+title: News
 ---
 
 All weeklies are in the [Magazines](/en/magazines) section. As well as all websites where you can find both magazines and newspapers.
@@ -30,7 +30,7 @@ Statista: Daily Data - <https://www.statista.com/chartoftheday/>
 Project Syndicate - <https://www.project-syndicate.org/archive>
 <br><br>
 
-#### Online newspaper:
+#### Online newspapers:
 
 The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 

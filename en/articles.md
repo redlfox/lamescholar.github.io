@@ -253,6 +253,8 @@ Le Monde diplomatique EO - <https://eo.mondediplo.com/arkivoj>
 
 Мир дипломатии - <https://ru.mondediplo.com/>
 
+Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
+
 New Left Review:
 
 <https://newleftreview.org/issues>
@@ -276,8 +278,6 @@ Capital & Class - <https://journals.sagepub.com/loi/CNC>
 Critique - <https://www.tandfonline.com/loi/rcso20>
 
 The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
-
-Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
 
 e-flux: Journal - <https://www.e-flux.com/journal/>
 
