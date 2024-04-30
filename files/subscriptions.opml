@@ -525,7 +525,7 @@
     <outline type="rss" text="Спільне: Статьи" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=XPathBridge&amp;url=https%3A%2F%2Fcommons.com.ua%2Fru%2Fstatti%2F&amp;item=%2Fhtml%2Fbody%2Fdiv%5B3%5D%2Fdiv%2Fdiv%2Fdiv%5B1%5D%2Fdiv&amp;title=.%2F%2Fa%2Fdiv%5B2%5D%2Fdiv%5B2%5D%2Fh2%2Ftext%28%29&amp;content=.%2F%2Fa%2Fdiv%5B1%5D%2Fimg&amp;uri=.%2F%2Fa%2F%40href&amp;author=&amp;timestamp=.%2F%2Fa%2Fdiv%5B2%5D%2Fdiv%5B3%5D%2Fdiv&amp;enclosures=.%2F%2Fdiv%5B%40class%3D%22ArticleListItem-image%22%5D%2F%40style&amp;categories=.%2F%2Fdiv%5B%40class%3D%22ArticleListItem-label%22%5D&amp;format=Atom" htmlUrl="https://commons.com.ua/ru/statti/"/>
     <outline type="rss" text="Центр политического анализа" xmlUrl="https://centerforpoliticsanalysis.ru/rss" htmlUrl="http://centerforpoliticsanalysis.ru"/>
   </outline>
-  <outline text="Газети та журнали">
+  <outline text="Преса">
     <outline type="rss" text="Gazeta.ua" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Agazeta.ua/ru/&amp;hl=ru&amp;gl=UA&amp;ceid=UA%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:gazeta.ua/ru/&amp;hl=ru&amp;gl=UA&amp;ceid=UA:ru"/>
     <outline type="rss" text="Google Новости UA" xmlUrl="https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FuSjFHZ0pWUVNnQVAB?hl=ru&amp;gl=UA&amp;ceid=UA%3Aru" htmlUrl="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FuSjFHZ0pWUVNnQVAB?hl=ru&amp;gl=UA&amp;ceid=UA:ru"/>
     <outline type="rss" text="KP.UA" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Akp.ua&amp;hl=uk&amp;gl=UA&amp;ceid=UA%3Auk" htmlUrl="https://news.google.com/search?q=when:24h+inurl:kp.ua&amp;hl=uk&amp;gl=UA&amp;ceid=UA:uk"/>
@@ -556,7 +556,7 @@
     <outline type="rss" text="Фокус" xmlUrl="https://focus.ua/modules/rss.php" htmlUrl="https://focus.ua"/>
     <outline type="rss" text="Читомо" xmlUrl="https://chytomo.com/feed/" htmlUrl="https://chytomo.com/"/>
   </outline>
-  <outline text="Газеты и журналы">
+  <outline text="Пресса">
     <outline type="rss" text="7x7" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Asemnasem.org&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:semnasem.org&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Arzamas" xmlUrl="https://arzamas.academy/feed_v1.rss" htmlUrl="https://arzamas.academy/feed_v1.rss"/>
     <outline type="rss" text="Aussiedlerbote" xmlUrl="https://aussiedlerbote.de/feed/" htmlUrl="https://aussiedlerbote.de/"/>
@@ -656,7 +656,7 @@
     <outline type="rss" text="Эксперт" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aexpert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:expert.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Элементы: статьи в Библиотеке" xmlUrl="https://elementy.ru/rss/pub" htmlUrl="https://elementy.ru/"/>
   </outline>
-  <outline text="Газеты і часопісы">
+  <outline text="Прэса">
     <outline type="rss" text="devby.io" xmlUrl="https://devby.io/rss" htmlUrl="https://devby.io/rss"/>
     <outline type="rss" text="Euroradio.fm" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Aeuroradio.fm&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:euroradio.fm&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Hrodna.life" xmlUrl="https://ru.hrodna.life/feed/" htmlUrl="https://ru.hrodna.life/feed/"/>
