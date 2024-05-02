@@ -13,6 +13,8 @@ RealClearPolitics - <https://www.realclearpolitics.com/>
 
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 
+Courrier international - <https://www.courrierinternational.com/article>
+
 Internationale - <https://www.internazionale.it/ultimi-articoli>
 
 Internationale: Libri - <https://www.internazionale.it/tag/libri>
