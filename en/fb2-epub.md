@@ -16,7 +16,7 @@ Esc - menu. Suitable font size is usually 15 px. Sometimes it's 19 px.
 
 Preferences:
 
-Page Layout->Landscape: 1. Scrolling behavior->Miscellaneous->Show scrollbar
+Page Layout->Landscape: 2. Scrolling behavior->Miscellaneous->Show scrollbar
 
 Miscellaneous->Remember last used window size and position. Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy sharing. Untick.
 
@@ -25,6 +25,8 @@ Miscellaneous->Remember last used window size and position. Miscellaneous->Keep 
 eBoox
 
 Translation - Yandex Translator
+
+PDF, DjVu - PocketBook Reader
 <br><br>
 
 #### Text recognition:
