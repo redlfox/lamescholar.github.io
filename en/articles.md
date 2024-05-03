@@ -258,13 +258,7 @@ New Left Review:
 
 <https://rutracker.org/forum/viewtopic.php?t=6280256>
 
-Monthly Review:
-
-<https://monthlyreview.org/browse-the-archives/>
-
-```
-https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=AONE&u=nypl&id=GALE|1132&v=2.1&it=aboutJournal&sid=bookmark-AONE
-```
+Monthly Review - <https://monthlyreview.org/browse-the-archives/>
 
 Antipode - <https://onlinelibrary.wiley.com/loi/14678330>
 
