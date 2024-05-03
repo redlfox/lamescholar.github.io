@@ -113,4 +113,4 @@ title: Поваренная книга пирата
 
 [Чтение электронных книг](/ru/reading-ebooks)
 
-[Электронные книги на Mac](/ru/ebooksonmac)
+[Электронные книги на Mac](/ru/ebooks-on-mac)
