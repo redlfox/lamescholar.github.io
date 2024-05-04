@@ -10,7 +10,7 @@ Webrecorder Archiveweb.page:
 
 <https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd>
 
-<https://github.com/ikreymer/webarchiveplayer>
+<https://github.com/webrecorder/pywb>
 
 Offline Explorer Enterprise - <https://rutracker.org/forum/viewtopic.php?t=6018509>
 
