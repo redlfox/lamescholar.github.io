@@ -2,7 +2,7 @@
 title: News
 ---
 
-All weeklies are in the [Magazines](/en/magazines) section. As well as all websites where you can find both magazines and newspapers.
+All websites where you can find both magazines and newspapers are located in the [Magazines](/en/magazines) section.
 <br><br>
 
 #### News aggregators:
