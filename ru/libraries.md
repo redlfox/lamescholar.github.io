@@ -88,9 +88,7 @@ Henry's Bibliothek:
 
 [История](#history)
 
-[Космос](#space)
-
-[Естественные науки](#natural)
+[Научная популяризация](#science)
 
 [Общество](#society)
 
@@ -231,18 +229,8 @@ U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/
 Велики рат - <https://velikirat.nb.rs/>
 <br><br>
 
-<a id="space"></a>
-#### Космос
-
-Астронет - <http://www.astronet.ru/>
-
-Буран.ру - <http://www.buran.ru/htm/homepage.htm>
-
-Эпизоды космонавтики - <https://epizodyspace.ru/bibl/biblioteka.html>
-<br><br>
-
-<a id="natural"></a>
-#### Естественные науки
+<a id="science"></a>
+#### Научная популяризация
 
 Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
 
@@ -267,6 +255,12 @@ Mathesis - <https://www.mathesis.ru/books/>
 Сайт Вячеслава Пыркова - <http://pyrkov-professor.ru/Default.aspx?tabid=86>
 
 Сайт Карлиса Подниекса - <http://www.podnieks.id.lv/po_russki.htm>
+
+Астронет - <http://www.astronet.ru/>
+
+Буран.ру - <http://www.buran.ru/htm/homepage.htm>
+
+Эпизоды космонавтики - <https://epizodyspace.ru/bibl/biblioteka.html>
 <br><br>
 
 <a id="society"></a>
