@@ -248,7 +248,11 @@ Le Monde diplomatique EO - <https://eo.mondediplo.com/arkivoj>
 
 Мир дипломатии - <https://ru.mondediplo.com/>
 
+Catalyst - <https://catalyst-journal.com/issues>
+
 Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
+
+Monthly Review - <https://monthlyreview.org/browse-the-archives/>
 
 New Left Review:
 
@@ -257,8 +261,6 @@ New Left Review:
 <https://rutracker.org/forum/viewtopic.php?t=6280251>
 
 <https://rutracker.org/forum/viewtopic.php?t=6280256>
-
-Monthly Review - <https://monthlyreview.org/browse-the-archives/>
 
 Antipode - <https://onlinelibrary.wiley.com/loi/14678330>
 
