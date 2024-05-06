@@ -244,10 +244,6 @@ Jacobin - <https://jacobin.com/blog>
 
 Le Monde diplomatique EN - <https://mondediplo.com/>
 
-Le Monde diplomatique EO - <https://eo.mondediplo.com/arkivoj>
-
-Мир дипломатии - <https://ru.mondediplo.com/>
-
 Catalyst - <https://catalyst-journal.com/issues>
 
 Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
