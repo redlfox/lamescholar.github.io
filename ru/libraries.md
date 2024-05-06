@@ -45,18 +45,6 @@ RoyalLib.com - <https://royallib.com/>
 
 Lib.Ru: Библиотека Мошкова - <http://lib.ru/>
 
-Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
-
-Элементы - <https://elementy.ru/nauchno-populyarnaya_biblioteka>
-
-VIVOS VOCO! - <http://vivovoco.astronet.ru/>
-
-Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
-
-Mathesis - <https://www.mathesis.ru/books/>
-
-Горелик: Список публикаций - <https://ggorelik.narod.ru/index_all_chron.html>
-
 Project Gutenberg - <https://www.gutenberg.org/>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases>
@@ -102,7 +90,7 @@ Henry's Bibliothek:
 
 [Космос](#space)
 
-[Математика](#math)
+[Естественные науки](#natural)
 
 [Общество](#society)
 
@@ -253,8 +241,20 @@ U.S. Declassified Documents Online - <https://go-gale-com.i.ezproxy.nypl.org/ps/
 Эпизоды космонавтики - <https://epizodyspace.ru/bibl/biblioteka.html>
 <br><br>
 
-<a id="math"></a>
-#### Математика
+<a id="natural"></a>
+#### Естественные науки
+
+Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
+
+Элементы - <https://elementy.ru/nauchno-populyarnaya_biblioteka>
+
+VIVOS VOCO! - <http://vivovoco.astronet.ru/>
+
+Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
+
+Mathesis - <https://www.mathesis.ru/books/>
+
+Горелик: Список публикаций - <https://ggorelik.narod.ru/index_all_chron.html>
 
 ИНТЕРНЕТ-БИБЛИОТЕКА Виталия Арнольда - <http://ilib.mccme.ru/>
 
