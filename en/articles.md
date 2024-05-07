@@ -250,13 +250,7 @@ Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
 
 Monthly Review - <https://monthlyreview.org/browse-the-archives/>
 
-New Left Review:
-
-<https://newleftreview.org/issues>
-
-<https://rutracker.org/forum/viewtopic.php?t=6280251>
-
-<https://rutracker.org/forum/viewtopic.php?t=6280256>
+New Left Review - <https://newleftreview.org/issues>
 
 Antipode - <https://onlinelibrary.wiley.com/loi/14678330>
 

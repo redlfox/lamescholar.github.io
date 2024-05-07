@@ -383,12 +383,30 @@ Leviathan - <https://libgen.st/search.php?&req=leviathan+nomos&phrase=1&view=sim
 
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
+Jacobin:<br>
+[My Anonamouse](https://www.myanonamouse.net/tor/browse.php?tor%5Btext%5D=jacobin&tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&&&tor%5BminSize%5D=0&tor%5BmaxSize%5D=0&tor%5Bunit%5D=1&tor%5BminSeeders%5D=0&tor%5BmaxSeeders%5D=0&tor%5BminLeechers%5D=0&tor%5BmaxLeechers%5D=0&tor%5BminSnatched%5D=0&tor%5BmaxSnatched%5D=0&&tor%5BsortType%5D=dateDesc&tor%5BstartNumber%5D=0&thumbnail=true)<br>
+How to get on My Anonymouse look [P2P](/en/p2p).<br>
+<https://1337x.to/torrent/6000892/Jacobin-magazine-socialist-quarterly-2021-2023-complete-12-issues/><br>
+<https://1337x.to/torrent/4793383/Jacobin-Magazine-2011-2020-complete-socialist-quarterly/>
+
 Le Monde diplomatique:<br>
 [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)<br>
 <http://magzdb.org/j/5941><br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
 
 Le Monde diplomatique DE - <https://de.downmagaz.net/tags/taz%20die%20tageszeitung/>
+
+Le Monde diplomatique EN - https://rutracker.org/forum/viewtopic.php?t=6497262
+
+Catalyst:<br>
+[My Anonamouse](https://www.myanonamouse.net/tor/browse.php?tor%5Btext%5D=catalyst&tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=79&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&&&tor%5BminSize%5D=0&tor%5BmaxSize%5D=0&tor%5Bunit%5D=1&tor%5BminSeeders%5D=0&tor%5BmaxSeeders%5D=0&tor%5BminLeechers%5D=0&tor%5BmaxLeechers%5D=0&tor%5BminSnatched%5D=0&tor%5BmaxSnatched%5D=0&&tor%5BsortType%5D=dateDesc&tor%5BstartNumber%5D=0&thumbnail=true)<br>
+<https://rutracker.org/forum/viewtopic.php?t=6521022>
+
+New Left Review:<br>
+<https://rutracker.org/forum/viewtopic.php?t=6280251><br>
+<https://rutracker.org/forum/viewtopic.php?t=6280256><br>
+<https://rutracker.org/forum/viewtopic.php?t=6300485><br>
+<https://rutracker.org/forum/viewtopic.php?t=6440237><br>
 
 Adbusters - <https://downmagaz.net/tags/Adbusters/>
 
