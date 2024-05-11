@@ -66,13 +66,13 @@ Los Angeles Times - <https://www.latimes.com/>
 
 Los Angeles Times: Latest - <https://www.latimes.com/latest>
 
+Financial Times - <https://www.ft.com/news-feed>
+
 The Independent - <https://www.independent.co.uk/>
 
 The Telegraph - <https://www.telegraph.co.uk/>
 
 The Times - <https://www.thetimes.co.uk/>
-
-Financial Times - <https://www.ft.com/news-feed>
 
 Süddeutsche Zeitung - <https://www.sueddeutsche.de/>
 
