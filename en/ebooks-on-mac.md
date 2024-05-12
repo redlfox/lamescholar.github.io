@@ -24,15 +24,7 @@ Esc - menu. Suitable font size is usually 22 px.
 
 Preferences:
 
-Page Layout->Landscape: 2
-
-Scrolling behavior->Mouse wheel scrolls by screen fulls instead of pages
-
 Scrolling behavior->Show scrollbar
-
-Keyboard shortcuts:<br>
-Scroll backwards by screen-fulls: left arrow<br>
-Scroll forwards by screen-fulls: right arrow
 
 Miscellaneous->Remember last used window size and position
 
