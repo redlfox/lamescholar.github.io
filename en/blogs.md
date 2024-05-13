@@ -12,8 +12,6 @@ Perlentaucher: Presseschauen - <https://www.perlentaucher.de/teaserliste/1_Press
 
 Aeon - <https://aeon.co/>
 
-Psyche - <https://psyche.co/>
-
 Sidecar - <https://newleftreview.org/sidecar>
 
 syg.ma - <https://syg.ma/>
