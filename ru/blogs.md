@@ -11,7 +11,7 @@ LitNov.ru - <http://litnov.ru/>
 
 «Горький» - <https://gorky.media/>
 
-Нож - <https://knife.media/>
+Нож: Статьи - <https://knife.media/category/longreads/>
 
 Proshloe - <https://proshloe.com/>
 
