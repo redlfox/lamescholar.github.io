@@ -4,7 +4,7 @@ title: PDF
 
 #### Чтение:
 
-SumatraPDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer>
+SumatraPDF - <https://www.sumatrapdfreader.org/free-pdf-reader>
 
 Alt+Left - вернуться обратно после перехода по гиперссылке.
 

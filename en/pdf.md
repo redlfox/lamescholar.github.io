@@ -4,7 +4,7 @@ title: PDF
 
 #### Reading:
 
-SumatraPDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer>
+SumatraPDF - <https://www.sumatrapdfreader.org/free-pdf-reader>
 
 Alt+Left - go back after clicking on the hyperlink.
 
