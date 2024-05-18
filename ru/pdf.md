@@ -4,7 +4,7 @@ title: PDF
 
 #### Чтение:
 
-PDF-XChange Editor - <https://rutracker.org/forum/viewtopic.php?t=5998062>
+Sumatra PDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer>
 
 Alt+Left - вернуться обратно после перехода по гиперссылке.
 
