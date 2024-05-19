@@ -16,7 +16,7 @@ Sidecar - <https://newleftreview.org/sidecar>
 
 syg.ma - <https://syg.ma/>
 
-The Conversation: Arts & Culture - <https://theconversation.com/us/arts>
+The Conversation US - <https://theconversation.com/us>
 
 Verso blog - <https://www.versobooks.com/blogs>
 
