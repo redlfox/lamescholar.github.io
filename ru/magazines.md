@@ -139,7 +139,7 @@ ImWerden:<br>
 <https://rutracker.org/forum/viewtopic.php?t=3607530><br>
 <https://rutracker.org/forum/viewtopic.php?t=4207119>
 
-Наше Наследие - <https://rutracker.org/forum/viewtopic.php?t=3202031>
+Наше наследие - <https://rutracker.org/forum/viewtopic.php?t=3202031>
 
 Советское фото - <https://rutracker.org/forum/viewtopic.php?t=5721701>
 <br><br>

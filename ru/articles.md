@@ -50,7 +50,7 @@ Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 
 Кругозор - <http://www.krugozor-kolobok.ru/>
 
-Наше Наследие - <http://nasledie-rus.ru/>
+Наше наследие - <http://nasledie-rus.ru/>
 <br><br>
 
 <a id="history"></a>
