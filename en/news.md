@@ -122,13 +122,11 @@ The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 
 #### Newspapers in PDF:
 
-The New York Times - <https://forum.mobilism.org/search.php?keywords=the+new+york+times&sr=topics&sf=titleonly>
+Financial Times - <https://forum.mobilism.org/search.php?keywords=Financial+Times&sr=topics&sf=titleonly>
 
-The New York Times Book Review - <https://forum.mobilism.org/search.php?keywords=the+new+york+times+book+review&sr=topics&sf=titleonly>
+The Wall Street Journal - <https://forum.mobilism.org/search.php?keywords=the+wall+street+journal&sr=topics&sf=titleonly>
 
 The Washington Post - <https://forum.mobilism.org/search.php?keywords=The+Washington+Post&sr=topics&sf=titleonly>
-
-Financial Times USA - <https://forum.mobilism.org/search.php?keywords=Financial+Times+USA&sr=topics&sf=titleonly>
 
 The Times - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TTDA>
 
