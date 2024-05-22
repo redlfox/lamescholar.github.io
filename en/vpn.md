@@ -43,7 +43,7 @@ Install WireGuard client on your computer:
 
 Import config file. Get it from this address:
 
-<http://5.104.75.85:51821/>
+<http://ip:51821/>
 
 To login use password you came up with installing WireGuard on your server.
 <br><br>
