@@ -19,7 +19,7 @@ To install WireGuard on your server, install this container:
 
 <https://hub.docker.com/r/weejewel/wg-easy>
 
-Enter in MobaXterm (write in your server ip and some password):
+To install, enter in MobaXterm (write in your server ip and some password):
 
 ```
 docker run -d \
