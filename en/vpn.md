@@ -45,7 +45,7 @@ Import config file. Get it from this address:
 
 <http://ip:51821/>
 
-To login use password you came up with installing WireGuard on your server.
+To login use password you chose installing WireGuard on your server.
 <br><br>
 
 2) Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=en>
