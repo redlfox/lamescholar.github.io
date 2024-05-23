@@ -30,3 +30,7 @@ spichka.media - <https://spichka.media/>
 Скепсис - <https://scepsis.net/>
 
 Социальный компас - <http://www.socialcompas.com/>
+
+Журнал историка-германиста - <https://navlasov.livejournal.com/>
+
+Датско-Котоживописное - <https://kotbeber.livejournal.com/>
