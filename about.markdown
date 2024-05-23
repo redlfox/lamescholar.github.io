@@ -13,7 +13,7 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 
 [Сергей Капица](/2023/09/22/kapitsa-intellectual-property.html)
 
-"Access to new knowledge should be expanded, not new fences erected on this path"
+"We need to expand access to new knowledge, not erect new fences on this path"
 
 Sergey Kapitsa
 <br><br>
