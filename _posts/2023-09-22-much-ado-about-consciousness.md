@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Reposts
+comments: true
 title: Much Ado About Consciousness
 ---
 

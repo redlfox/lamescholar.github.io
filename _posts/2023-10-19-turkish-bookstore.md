@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Posts
+comments: true
 title: Books from Turkish bookstore
 ---
 

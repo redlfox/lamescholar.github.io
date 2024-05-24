@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Посты
+comments: true
 title: Эжен Потье
 ---
 

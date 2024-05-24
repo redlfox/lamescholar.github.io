@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: Репосты Капица
+comments: true
 title: Да здравствует «Горбушка»!
 ---
 

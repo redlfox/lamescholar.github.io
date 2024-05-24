@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Reposts
+comments: true
 title: Elogio della lettura (e del nuovo umanesimo)
 ---
 

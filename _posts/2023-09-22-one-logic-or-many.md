@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Reposts
+comments: true
 title: One Logic, Or Many?
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Reposts
+comments: true
 title: People of Iraq on the Eve of Invasion
 ---
 

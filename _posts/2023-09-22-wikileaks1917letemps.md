@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Переводы
+comments: true
 title: WikiLeaks по-большевистски, в 1917 году (статья в Le Temps)
 ---
 

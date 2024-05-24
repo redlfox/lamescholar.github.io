@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: Репосты Капица
+comments: true
 title: Наш храм науки почти сгорел
 ---
 

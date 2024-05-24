@@ -1,6 +1,7 @@
 ---
 layout: post
 tag: Переводы
+comments: true
 title: Объяснение эпифеноменализма
 ---
 
