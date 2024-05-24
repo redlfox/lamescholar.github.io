@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Pirate Cookbook
 ---
 
@@ -59,7 +60,7 @@ Pirate Cookbook is my collection of guides on finding sources and digitizing boo
 
 [Naming ebooks](/en/naming-ebooks)
 
-[News](/en/news)
+[Newspapers](/en/newspapers)
 
 [Music](/en/music)
 

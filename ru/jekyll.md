@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Jekyll
 ---
 
@@ -64,6 +65,7 @@ git push -u origin main
 2) Курсив - *курсив*
 3) Заглавие (в начале текста):
 ---
+comments: true
 title: Заглавие
 ---
 4) Заголовок - # текст заголовка

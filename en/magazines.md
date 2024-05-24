@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Magazines
 ---
 
@@ -310,7 +311,8 @@ Spektrum Der Wissenschaft:<br>
 
 Wszechświat:<br>
 <https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive><br>
-[The Digital Library of the Warsaw University of Technology](https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-)
+[The Digital Library of the Warsaw University of Technology](https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=comments: true
+title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-)
 <br><br>
 
 <a id="philosophy"></a>

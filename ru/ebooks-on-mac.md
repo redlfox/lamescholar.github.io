@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Электронные книги на Mac
 ---
 

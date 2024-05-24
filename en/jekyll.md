@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Jekyll
 ---
 
@@ -64,6 +65,7 @@ Create a .md file in the site folder. For example, page.md . Then a page will ap
 2) Italics - *italics*
 3) Title (in the beginning of the text):
 ---
+comments: true
 title: Title
 ---
 4) Heading - # heading text

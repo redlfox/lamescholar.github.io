@@ -1,4 +1,5 @@
 ---
+comments: true
 title: Full-text search
 ---
 
