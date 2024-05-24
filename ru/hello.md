@@ -32,6 +32,6 @@ git clone https://github.com/lamescholar/lamescholar.github.io
 ```
 <br>
 
-Создать свой сайт:
+Как создать свой сайт:
 
 [Jekyll](/ru/jekyll)

@@ -32,6 +32,6 @@ git clone https://github.com/lamescholar/lamescholar.github.io
 ```
 <br>
 
-Create your own site:
+How to create your own site:
 
 [Jekyll](/en/jekyll)
