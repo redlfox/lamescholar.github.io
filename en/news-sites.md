@@ -1,6 +1,6 @@
 ---
 comments: true
-title: News
+title: News sites
 ---
 
 All websites where you can find both magazines and newspapers are located in the [Magazines](/en/magazines) section.
@@ -33,8 +33,6 @@ Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/s
 Pew Research Center - <https://www.pewresearch.org/publications/>
 
 Statista: Daily Data - <https://www.statista.com/chartoftheday/>
-
-Project Syndicate - <https://www.project-syndicate.org/archive>
 <br><br>
 
 #### Online newspapers:

@@ -13,6 +13,8 @@ Perlentaucher: Presseschauen - <https://www.perlentaucher.de/teaserliste/1_Press
 
 Aeon - <https://aeon.co/>
 
+Project Syndicate - <https://www.project-syndicate.org/archive>
+
 Sidecar - <https://newleftreview.org/sidecar>
 
 syg.ma - <https://syg.ma/>
