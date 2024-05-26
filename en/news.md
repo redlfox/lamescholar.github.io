@@ -1,6 +1,6 @@
 ---
 comments: true
-title: News sites
+title: News
 ---
 
 All sites where you can find both magazines and newspapers are located in the [Magazines](/en/magazines) section.
