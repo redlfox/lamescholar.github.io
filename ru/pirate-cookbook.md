@@ -19,8 +19,6 @@ title: Поваренная книга пирата
 
 [FB2, EPUB](/ru/fb2-epub)
 
-[Forums](/ru/forums)
-
 [Internet Archive](/ru/internet-archive)
 
 [Jekyll](/ru/jekyll)
@@ -79,7 +77,7 @@ title: Поваренная книга пирата
 
 [Название электронной книги](/ru/naming-ebooks)
 
-[Новостные сайты](/ru/news-sites)
+[Новости](/ru/news)
 
 [Олимпиады](/ru/olympiads)
 
@@ -106,6 +104,8 @@ title: Поваренная книга пирата
 [Установка Windows](/ru/windows)
 
 [Фильмы](/ru/films)
+
+[Форумы](/ru/forums)
 
 [Хостинги](/ru/hostings)
 
