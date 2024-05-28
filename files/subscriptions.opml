@@ -26,7 +26,6 @@
     <outline type="rss" text="Open Culture" xmlUrl="https://www.openculture.com/feed/rss2" htmlUrl="https://www.openculture.com/"/>
     <outline type="rss" text="openDemocracy" xmlUrl="https://www.opendemocracy.net/en/feed/" htmlUrl="https://www.opendemocracy.net/en/feed/"/>
     <outline type="rss" text="Perlentaucher" xmlUrl="https://www.perlentaucher.de/index.rss" htmlUrl="https://www.perlentaucher.de"/>
-    <outline type="rss" text="Philosophy for the People w/Ben Burgis" xmlUrl="https://benburgis.substack.com/feed" htmlUrl="https://benburgis.substack.com/feed"/>
     <outline type="rss" text="Pirate Wires" xmlUrl="https://www.piratewires.com/rss.xml" htmlUrl="https://www.piratewires.com"/>
     <outline type="rss" text="Project Syndicate" xmlUrl="https://www.project-syndicate.org/rss" htmlUrl="https://www.project-syndicate.org/rss"/>
     <outline type="rss" text="Public Books" xmlUrl="https://www.publicbooks.org/feed/" htmlUrl="https://www.publicbooks.org/"/>
@@ -149,13 +148,15 @@
     <outline type="rss" text="The Atlantic" xmlUrl="https://www.theatlantic.com/feed/all/" htmlUrl="https://www.theatlantic.com/"/>
     <outline type="rss" text="The Baffler" xmlUrl="https://thebaffler.com/feed" htmlUrl="https://thebaffler.com"/>
     <outline type="rss" text="The Christian Science Monitor" xmlUrl="https://rss.csmonitor.com/feeds/all" htmlUrl="https://rss.csmonitor.com/feeds/all"/>
+    <outline type="rss" text="The Chronicle of Higher Education" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awww.chronicle.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:www.chronicle.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Critic Magazine" xmlUrl="https://thecritic.co.uk/feed/" htmlUrl="https://thecritic.co.uk"/>
     <outline type="rss" text="The Diplomat" xmlUrl="https://thediplomat.com/feed/" htmlUrl="https://thediplomat.com/feed/"/>
+    <outline type="rss" text="The Economist" xmlUrl="https://www.economist.com/the-world-this-week/rss.xml" htmlUrl="https://www.economist.com/the-world-this-week/"/>
     <outline type="rss" text="The Economist: Culture" xmlUrl="https://www.economist.com/culture/rss.xml" htmlUrl="https://www.economist.com/culture/"/>
-    <outline type="rss" text="The Economist: The world this week" xmlUrl="https://www.economist.com/the-world-this-week/rss.xml" htmlUrl="https://www.economist.com/the-world-this-week/"/>
     <outline type="rss" text="The Hollywood Reporter" xmlUrl="https://www.hollywoodreporter.com/feed/" htmlUrl="https://www.hollywoodreporter.com"/>
     <outline type="rss" text="The Nation" xmlUrl="https://www.thenation.com/feed/?post_type=article" htmlUrl="https://www.thenation.com"/>
     <outline type="rss" text="The New Atlantis" xmlUrl="https://www.thenewatlantis.com/feed" htmlUrl="https://www.thenewatlantis.com/"/>
+    <outline type="rss" text="The New Criterion" xmlUrl="https://newcriterion.com/feed/" htmlUrl="https://newcriterion.com"/>
     <outline type="rss" text="The New Republic" xmlUrl="https://newrepublic.com/rss.xml" htmlUrl="https://newrepublic.com/rss.xml"/>
     <outline type="rss" text="The New York Review of Books" xmlUrl="https://feeds.feedburner.com/nybooks" htmlUrl="https://feeds.feedburner.com/nybooks"/>
     <outline type="rss" text="The New Yorker" xmlUrl="https://www.newyorker.com/feed/everything" htmlUrl="https://www.newyorker.com/feed/everything"/>
@@ -403,7 +404,6 @@
     <outline type="rss" text="Telesur" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Atelesurtv.net&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:telesurtv.net&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Baltic Times" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Abaltictimes&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:baltictimes&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Boston Globe: Sports" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Abostonglobe.com%20inurl%3Asports&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:bostonglobe.com+inurl:sports&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
-    <outline type="rss" text="The Chronicle of Higher Education" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awww.chronicle.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:www.chronicle.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Daily Beast" xmlUrl="https://feeds.thedailybeast.com/rss/articles" htmlUrl="https://feeds.thedailybeast.com/rss/articles"/>
     <outline type="rss" text="The Daily Wire" xmlUrl="https://www.dailywire.com/feeds/rss.xml" htmlUrl="https://www.dailywire.com"/>
     <outline type="rss" text="The Forward" xmlUrl="https://forward.com/feed/" htmlUrl="https://forward.com/"/>
@@ -441,7 +441,7 @@
     <outline type="rss" text="The Telegraph: Books" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awww.telegraph.co.uk%2Fbooks%2F&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:www.telegraph.co.uk/books/&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
     <outline type="rss" text="The Telegraph: Columnists" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awww.telegraph.co.uk/columnists/&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:www.telegraph.co.uk/columnists/&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
     <outline type="rss" text="The Times" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Athetimes.co.uk&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:thetimes.co.uk&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
-    <outline type="rss" text="The Times of Israel" xmlUrl="https://www.timesofisrael.com/feed/" htmlUrl="https://www.timesofisrael.com/"/>
+    <outline type="rss" text="The Times of Israel" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20https%3A%2F%2Fwww.timesofisrael.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+https://www.timesofisrael.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Tyee" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Athetyee.ca&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:thetyee.ca&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
     <outline type="rss" text="The Verge" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=The+Verge&amp;feed_1=https%3A%2F%2Fwww.theverge.com%2Frss%2Findex.xml&amp;feed_2=&amp;feed_3=&amp;feed_4=&amp;feed_5=&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" htmlUrl="https://www.theverge.com/"/>
     <outline type="rss" text="The Virginian-Pilot" xmlUrl="https://www.pilotonline.com/feed/" htmlUrl="https://www.pilotonline.com"/>
@@ -505,6 +505,7 @@
     <outline type="rss" text="spichka.media" xmlUrl="https://spichka.media/feed/" htmlUrl="https://spichka.media/"/>
     <outline type="rss" text="VATNIKSTAN" xmlUrl="https://vatnikstan.ru/feed/" htmlUrl="https://vatnikstan.ru/"/>
     <outline type="rss" text="Афиша Daily" xmlUrl="https://daily.afisha.ru/export/rss/google_newsstand/" htmlUrl="https://daily.afisha.ru/export/rss/google_newsstand/"/>
+    <outline type="rss" text="Горький" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Agorky.media&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:gorky.media&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Дискурс" xmlUrl="https://rss.discours.io/" htmlUrl="https://rss.discours.io/"/>
     <outline type="rss" text="Нож: Статьи" xmlUrl="https://knife.media/category/longreads/feed/" htmlUrl="https://knife.media"/>
     <outline type="rss" text="После" xmlUrl="https://posle.media/feed/" htmlUrl="https://posle.media/"/>
@@ -565,6 +566,7 @@
     <outline type="rss" text="Life.ru" xmlUrl="https://life.ru/rss" htmlUrl="https://life.ru"/>
     <outline type="rss" text="Meduza" xmlUrl="https://meduza.io/rss2/all" htmlUrl="https://meduza.io/rss2/all"/>
     <outline type="rss" text="N + 1" xmlUrl="https://nplus1.ru/rss" htmlUrl="https://nplus1.ru/rss"/>
+    <outline type="rss" text="Regnum" xmlUrl="https://regnum.ru/rss" htmlUrl="https://regnum.ru"/>
     <outline type="rss" text="RT на русском" xmlUrl="https://russian.rt.com/rss" htmlUrl="https://russian.rt.com/rss"/>
     <outline type="rss" text="RTVI" xmlUrl="https://rtvi.com/rss" htmlUrl="https://rtvi.com/"/>
     <outline type="rss" text="TAdviser" xmlUrl="https://www.tadviser.ru/xml/tadviser.xml" htmlUrl="https://www.tadviser.ru/"/>
@@ -589,10 +591,12 @@
     <outline type="rss" text="Вокруг света" xmlUrl="https://www.vokrugsveta.ru/rss-feeds/rss.xml" htmlUrl="https://www.vokrugsveta.ru/rss-feeds/rss.xml"/>
     <outline type="rss" text="Газета.Ru" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Agazeta.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:gazeta.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Голос Америки" xmlUrl="https://www.golosameriki.com/api/zkivremjvq" htmlUrl="https://www.golosameriki.com/api/zkivremjvq"/>
+    <outline type="rss" text="Датско-Котоживописное" xmlUrl="https://kotbeber.livejournal.com/data/rss" htmlUrl="https://kotbeber.livejournal.com/"/>
     <outline type="rss" text="Деловой Петербург" xmlUrl="https://www.dp.ru/news.rss" htmlUrl="https://www.dp.ru/news.rss"/>
     <outline type="rss" text="Детали" xmlUrl="https://detaly.co.il/feed/" htmlUrl="https://detaly.co.il"/>
     <outline type="rss" text="Дилетант: Статьи" xmlUrl="https://diletant.media/rss/articles/" htmlUrl="http://diletant.media"/>
     <outline type="rss" text="Дождь" xmlUrl="https://tvrain.ru/export/rss/all.xml" htmlUrl="https://tvrain.tv/"/>
+    <outline type="rss" text="Журнал историка-германиста" xmlUrl="https://navlasov.livejournal.com/data/rss" htmlUrl="https://navlasov.livejournal.com/"/>
     <outline type="rss" text="Завтра" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Azavtra.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:168h+inurl:zavtra.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
     <outline type="rss" text="Звезда" xmlUrl="https://tvzvezda.ru/export/rss.xml" htmlUrl="https://www.tvzvezda.ru/"/>
     <outline type="rss" text="Известия" xmlUrl="https://iz.ru/xml/rss/all.xml" htmlUrl="https://iz.ru/xml/rss/all.xml"/>
