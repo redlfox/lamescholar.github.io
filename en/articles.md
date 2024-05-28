@@ -108,6 +108,12 @@ Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
 
 The Atlantic - <https://www.theatlantic.com/world/>
 
+The Baffler - <https://thebaffler.com/issues>
+
+The Chronicle of Higher Education - <https://www.chronicle.com/issue/current>
+
+The New Criterion - <https://newcriterion.com/>
+
 The New York Review of Books - <https://www.nybooks.com/issues/>
 
 The New Yorker - <https://www.newyorker.com/>
