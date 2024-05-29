@@ -46,6 +46,8 @@ public.ru:
 
 #### Информационные агентства:
 
+Regnum: Статьи - <https://regnum.ru/article>
+
 Интерфакс - <https://www.interfax.ru/>
 
 РИА Новости - <https://ria.ru/archive/>
