@@ -60,9 +60,7 @@ Focus (Italia)
 Focus Storia
 FOCUS Magazin
 Folha de S.Paulo
-Forbes
 Foreign Affairs
-Frascati Poesia
 Gazeta Wyborcza
 Gazeta Wyborcza - Ale Historia
 Goteborgs-Posten
@@ -137,7 +135,6 @@ Svenska Dagbladet
 Trabajadores
 The Critic
 The Daily Telegraph
-The Economist
 The Globe and Mail
 The Guardian (USA)
 The Guardian - Journal
@@ -151,13 +148,11 @@ The Korea Times
 The London Magazine
 The New Review
 The New York Review of Books
-The New York Times
 The Observer
 The Observer - The New Review
 The Straits Times
 The Week
 Toronto Star
-Question de Philo
 USA Today
 Variety
 Vecernji list - Hrvatska
