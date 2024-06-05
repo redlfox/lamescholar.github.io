@@ -59,7 +59,7 @@ Pirate Cookbook is my collection of guides on finding sources and digitizing boo
 
 [Naming ebooks](/en/naming-ebooks)
 
-[News sites](/en/news-sites)
+[News](/en/news)
 
 [Music](/en/music)
 
