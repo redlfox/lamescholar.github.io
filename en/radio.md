@@ -5,8 +5,6 @@ title: Radio
 
 NPR - <https://www.npr.org/>
 
-Fresh Air - <https://www.npr.org/programs/fresh-air>
-
 BBC World Service - <https://www.bbc.co.uk/sounds/play/live:bbc_world_service>
 
 Radio 4 - <https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm>
