@@ -19,14 +19,12 @@ Alternatives Economiques - Hors-Serie
 Angora
 Arab News
 Aravot
-Arcadia
 Atlas Tarih
 Avgi
 Azer News
 BBC History Magazine
 BBC Music Magazine
 BookReporter
-Bucher Magazin
 Challenges
 China Daily
 China Daily Weekly
@@ -93,7 +91,6 @@ La Tercera
 La Vanguardia
 La Vanguardia - Culturas
 La Voz
-La Voz - Numero Cero
 Le Devoir
 Le Figaro
 Le nouvel Economiste
@@ -140,7 +137,6 @@ The Guardian (USA)
 The Guardian - Journal
 The Guardian Weekly
 The Hindu
-The Independent
 The Iowa Review
 The Jerasulem Post
 The Jerasulem Post Magazine
