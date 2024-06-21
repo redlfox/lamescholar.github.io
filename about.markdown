@@ -18,6 +18,11 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 Sergey Kapitsa
 <br><br>
 
+[Graeber, David - 	Pirate Enlightenment, or the Real Libertalia - 2023](https://libgen.st/book/index.php?md5=2D9B649EC34630AD2CEAB3A731F7D344)
+
+[Гребер Д. - Пиратское Просвещение, или Настоящая Либерталия - 2024](https://flibusta.is/b/789718)
+<br><br>
+
 {:refdef: style="text-align: center;"}
 ![Ex Libris](/images/ex-libris.jpg)
 {: refdef}
