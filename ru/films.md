@@ -11,7 +11,7 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 Релиз-группы: QxR, UTR.
 
-MVgroup - <https://forums.mvgroup.org/index.php?showtopic=2827>
+MVGroup - <https://forums.mvgroup.org/>
 <br><br>
 
 #### Программы:
