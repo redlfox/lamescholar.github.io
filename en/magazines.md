@@ -368,12 +368,6 @@ Junge Freiheit - <https://de.downmagaz.net/tags/Junge%20Freiheit/>
 Wirtschaftswoche - <https://de.downmagaz.net/tags/Wirtschaftswoche/>
 <br><br>
 
-American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
-
-Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date>
-
-Leviathan - <https://libgen.st/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
-
 Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
 
 Jacobin:<br>
@@ -430,3 +424,10 @@ Le Mouvement social - <https://gallica.bnf.fr/ark:/12148/cb34348914c/date>
 La Pensée - <https://gallica.bnf.fr/ark:/12148/cb34348981h/date>
 
 Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&sort=dateasc&seriestitle=materialisten>
+<br><br>
+
+American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
+
+Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date>
+
+Leviathan - <https://libgen.st/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
