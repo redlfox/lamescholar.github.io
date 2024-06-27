@@ -19,8 +19,5 @@ MVGroup - <https://forums.mvgroup.org/>
 K-Lite Codec Pack Standart - <https://codecguide.com/download_kl.htm>
 
 D - to find subtitles. Ctrl+S - to save subtitles. Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
-<br><br>
 
-#### Subtitles:
-
-Subscene - <https://subscene.com/>
+MakeMKV - <https://rutracker.org/forum/viewtopic.php?t=6237783>

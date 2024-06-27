@@ -19,8 +19,5 @@ MVGroup - <https://forums.mvgroup.org/>
 K-Lite Codec Pack Standart - <https://codecguide.com/download_kl.htm>
 
 D - найти субтитры. Ctrl+S - сохранить субтитры. Ctrl+L - подгрузить субтитры. W - выключить субтитры. F1, F2 - двигать субтитры. Cltr+O - подгрузить озвучку.
-<br><br>
 
-#### Субтитры:
-
-Subscene - <https://subscene.com/>
+MakeMKV - <https://rutracker.org/forum/viewtopic.php?t=6237783>
