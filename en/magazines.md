@@ -426,8 +426,8 @@ La Pensée - <https://gallica.bnf.fr/ark:/12148/cb34348981h/date>
 Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&sort=dateasc&seriestitle=materialisten>
 <br><br>
 
+Leviathan - <https://libgen.st/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
+
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
 
 Commonweal - <https://archive.org/details/pub_commonweal?&sort=-date>
-
-Leviathan - <https://libgen.st/search.php?&req=leviathan+nomos&phrase=1&view=simple&column=def&sort=year&sortmode=DESC>
