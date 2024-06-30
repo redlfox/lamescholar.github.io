@@ -21,3 +21,5 @@ K-Lite Codec Pack Standart - <https://codecguide.com/download_kl.htm>
 D - to find subtitles. Ctrl+S - to save subtitles. Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
 
 MakeMKV - <https://rutracker.org/forum/viewtopic.php?t=6237783>
+
+HandBrake - <https://handbrake.fr/downloads.php>
