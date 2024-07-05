@@ -5,7 +5,7 @@ title: Naming ebooks
 
 On the Internet, ebooks can often be found with a random title, which is inconvenient to store. Therefore, such books should be renamed. You can use RuTracker standard:
 
-Nagel T. - What Does It All Mean_ A Very Short Introduction to Philosophy - 1987
+Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987
 
 You can not use a question mark, quotation marks, or a colon in the file name. Underscores are used instead.
 
