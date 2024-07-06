@@ -11,7 +11,7 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 
 We need to take information, wherever it is stored, make our copies and share them with the world.
 
-[Aaron Swartz - Guerilla Open Access Manifesto - 2008](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
+[Aaron Swartz - Guerilla Open Access Manifesto (2008)](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
 <br><br>
 
 "Доступ к новым знаниям надо расширять, а не городить на этом пути новые заборы"
