@@ -59,7 +59,7 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 Encode MP3 320 or MP3 V0 with LAME.
 <br><br>
 
-#### Digitizing CDs:
+#### Ripping CDs:
 
 If you possess a CD that is not uploaded on Redacted or RuTracker, and you have external DVD drive, you can digitize it using software called [Exact Audio Copy](https://www.exactaudiocopy.de/en/index.php/resources/download/). Here are the guides on how to do it:
 
