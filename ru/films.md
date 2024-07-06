@@ -9,13 +9,13 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 Кинозал - <https://kinozal.tv/>
 
-1337x - <https://1337x.to/>
-
+1337x - <https://1337x.to/><br>
 Релиз-группы: QxR, UTR.
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
-MVGroup - <https://forums.mvgroup.org/>
+MVGroup - <https://forums.mvgroup.org/><br>
+Много документалок. Нужно зарегистрироваться.
 
 LimeTorrents - <https://www.limetorrents.lol/>
 

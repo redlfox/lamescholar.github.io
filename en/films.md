@@ -7,13 +7,13 @@ title: Films
 
 RuTracker - <https://rutracker.org/forum/index.php>
 
-1337x - <https://1337x.to/>
-
+1337x - <https://1337x.to/><br>
 Release groups: QxR, UTR.
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
-MVGroup - <https://forums.mvgroup.org/>
+MVGroup - <https://forums.mvgroup.org/><br>
+Lots of documentaries. You need to register.
 
 LimeTorrents - <https://www.limetorrents.lol/>
 
