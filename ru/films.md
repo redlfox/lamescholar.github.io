@@ -7,11 +7,21 @@ title: Фильмы
 
 RuTracker - <https://rutracker.org/forum/index.php>
 
+Кинозал - <https://kinozal.tv/>
+
 1337x - <https://1337x.to/>
 
 Релиз-группы: QxR, UTR.
 
+RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
+
 MVGroup - <https://forums.mvgroup.org/>
+
+LimeTorrents - <https://www.limetorrents.lol/>
+
+TorrentDownload - <https://www.torrentdownload.info/>
+
+TorrentGalaxy - <https://torrentgalaxy.mx/>
 <br><br>
 
 Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой файл программой Media Player Classic.

@@ -11,7 +11,15 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 Release groups: QxR, UTR.
 
+RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
+
 MVGroup - <https://forums.mvgroup.org/>
+
+LimeTorrents - <https://www.limetorrents.lol/>
+
+TorrentDownload - <https://www.torrentdownload.info/>
+
+TorrentGalaxy - <https://torrentgalaxy.mx/>
 <br><br>
 
 To play MKV, MP4 or AVI file install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) and open file with Media Player Classic.
