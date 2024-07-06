@@ -14,7 +14,7 @@ RuTracker - <https://rutracker.org/forum/index.php>
 MVGroup - <https://forums.mvgroup.org/>
 <br><br>
 
-Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой его программой Media Player Classic.
+Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой файл программой Media Player Classic.
 
 Горячие клавиши для Media Player Classic:
 
