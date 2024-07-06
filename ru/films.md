@@ -14,12 +14,15 @@ RuTracker - <https://rutracker.org/forum/index.php>
 MVGroup - <https://forums.mvgroup.org/>
 <br><br>
 
-#### Программы:
+Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой его программой Media Player Classic.
 
-K-Lite Codec Pack Standart - <https://codecguide.com/download_kl.htm>
+Горячие клавиши для Media Player Classic:
 
 D - найти субтитры. Ctrl+S - сохранить субтитры. Ctrl+L - подгрузить субтитры. W - выключить субтитры. F1, F2 - двигать субтитры. Cltr+O - подгрузить озвучку.
+<br><br>
 
-MakeMKV - <https://rutracker.org/forum/viewtopic.php?t=6237783>
+Чтобы рипнуть DVD или Blu-Ray:
 
-HandBrake - <https://handbrake.fr/downloads.php>
+1) Извлеки содержимое диска в контейнер MKV с помощью программы [MakeMKV](https://rutracker.org/forum/viewtopic.php?t=6237783)
+
+2) Сожми MKV-файл с помощью программы [HandBrake](https://handbrake.fr/downloads.php)

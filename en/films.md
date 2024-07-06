@@ -14,12 +14,15 @@ Release groups: QxR, UTR.
 MVGroup - <https://forums.mvgroup.org/>
 <br><br>
 
-#### Programs:
+To play MKV, MP4 or AVI file install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) and open it with Media Player Classic.
 
-K-Lite Codec Pack Standart - <https://codecguide.com/download_kl.htm>
+Hotkeys for Media Player Classic:
 
 D - to find subtitles. Ctrl+S - to save subtitles. Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
+<br><br>
 
-MakeMKV - <https://rutracker.org/forum/viewtopic.php?t=6237783>
+To rip DVD or Blu-Ray:
 
-HandBrake - <https://handbrake.fr/downloads.php>
+1) Extract contents of the disk into MKV container with [MakeMKV](https://rutracker.org/forum/viewtopic.php?t=6237783)
+
+2) Compress MKV with HandBrake - <https://handbrake.fr/downloads.php>
