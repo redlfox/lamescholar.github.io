@@ -66,8 +66,6 @@ The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
 BT4G - <https://bt4gprx.com/>
 
 BTDigg - <https://btdig.com/index.htm>
-
-The Pirate Bay - <https://thepiratebay.org/index.html>
 <br><br>
 
 Often releases contain disk images (.iso, .mdf). They are mounted, for example, by the DAEMON Tools Lite program.

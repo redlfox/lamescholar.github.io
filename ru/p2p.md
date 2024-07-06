@@ -68,8 +68,6 @@ The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
 BT4G - <https://bt4gprx.com/>
 
 BTDigg - <https://btdig.com/index.htm>
-
-The Pirate Bay - <https://thepiratebay.org/index.html>
 <br><br>
 
 Часто раздачи содержат образы дисков (.iso, .mdf). Их монтируют, например, программой DAEMON Tools Lite.
