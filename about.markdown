@@ -37,6 +37,6 @@ Sergey Kapitsa
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-Hail the book, powerful weapon<br>
+Long live the book, powerful weapon<br>
 of struggle for truth and justice
 {: refdef}
