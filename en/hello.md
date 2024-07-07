@@ -7,7 +7,7 @@ Pirate Cookbook will help you find and share files online.
 
 The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Cookbook.
 
-With this collection of guides you will be able to [create](/en/digitization), share, [find](/en/book-searching) and [read](/en/reading-ebooks) ebooks, to rip [DVDs](/en/films) and [CDs](/en/music), to find [newspapers](/en/news), [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films), series, and play them on your computer.
+With this collection of guides you will be able to [create](/en/digitization), share, [find](/en/book-searching) and [read](/en/reading-ebooks) ebooks, to rip [DVDs](/en/films) and [CDs](/en/music), to find [newspapers](/en/news), [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films), series and play them on your computer.
 <br><br>
 
 Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet this free flow of information remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Modern Internet artificially stricts distribution of cultural heritage of humanity for sake of outdated system of commodity production.
