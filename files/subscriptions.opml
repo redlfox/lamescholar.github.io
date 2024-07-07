@@ -176,7 +176,6 @@
     <outline type="rss" text="Vanity Fair" xmlUrl="https://www.vanityfair.com/feed/rss" htmlUrl="https://www.vanityfair.com/feed/rss"/>
     <outline type="rss" text="Variety" xmlUrl="http://variety.com/feed/" htmlUrl="https://variety.com"/>
     <outline type="rss" text="Weltkunst" xmlUrl="https://www.weltkunst.de/feed" htmlUrl="https://www.weltkunst.de/"/>
-    <outline type="rss" text="Wired" xmlUrl="https://www.wired.com/feed/" htmlUrl="https://www.wired.com/feed"/>
     <outline type="rss" text="Wirtschaftswoche" xmlUrl="https://www.wiwo.de/contentexport/feed/rss/schlagzeilen" htmlUrl="https://www.wiwo.de/contentexport/feed/rss/schlagzeilen"/>
     <outline type="rss" text="World Literature Today" xmlUrl="https://www.worldliteraturetoday.org/rss.xml" htmlUrl="https://www.worldliteraturetoday.org/"/>
     <outline type="rss" text="Политика" xmlUrl="https://www.politika.rs/rss" htmlUrl="https://www.politika.rs/rss"/>
@@ -262,7 +261,7 @@
     <outline type="rss" text="Fox News" xmlUrl="https://moxie.foxnews.com/google-publisher/latest.xml" htmlUrl="https://moxie.foxnews.com/google-publisher/latest.xml"/>
     <outline type="rss" text="France 24" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
     <outline type="rss" text="franceinfo" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.francetvinfo.fr/titres.rss"/>
-    <outline type="rss" text="Frankfurter Rundschau - Literatur" xmlUrl="https://www.fr.de/kultur/literatur/rssfeed.rdf" htmlUrl="https://www.fr.de/kultur/literatur/rssfeed.rdf"/>
+    <outline type="rss" text="Frankfurter Rundschau: Literatur" xmlUrl="https://www.fr.de/kultur/literatur/rssfeed.rdf" htmlUrl="https://www.fr.de/kultur/literatur/rssfeed.rdf"/>
     <outline type="rss" text="Gallup" xmlUrl="https://news.google.com/rss/search?q=when%3A672h%20inurl%3Anews.gallup.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:672h+inurl:news.gallup.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="Granma" xmlUrl="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=FeedMergeBridge&amp;feed_name=Granma&amp;feed_1=https%3A%2F%2Fwww.granma.cu%2Ffeed%2F&amp;feed_2=&amp;feed_3=&amp;feed_4=&amp;feed_5=&amp;feed_6=&amp;feed_7=&amp;feed_8=&amp;feed_9=&amp;feed_10=&amp;limit=&amp;format=Atom" htmlUrl="https://www.granma.cu"/>
     <outline type="rss" text="Green Left" xmlUrl="https://www.greenleft.org.au/rss.xml" htmlUrl="https://www.greenleft.org.au/rss.xml"/>
