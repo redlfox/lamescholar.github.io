@@ -33,4 +33,4 @@ To rip DVD or Blu-Ray:
 
 1) Extract contents of the disk into MKV container with [MakeMKV](https://rutracker.org/forum/viewtopic.php?t=6237783)
 
-2) Compress MKV with HandBrake - <https://handbrake.fr/downloads.php>
+2) Compress MKV with [HandBrake](https://handbrake.fr/downloads.php)
