@@ -5,9 +5,7 @@ title: Radio
 
 NPR - <https://www.npr.org/>
 
-BBC World Service - <https://www.bbc.co.uk/sounds/play/live:bbc_world_service>
-
-Radio 4 - <https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm>
+BBC Sounds - <https://www.bbc.co.uk/sounds>
 
 Deutschlandfunk Kultur - <https://www.deutschlandfunkkultur.de/>
 
