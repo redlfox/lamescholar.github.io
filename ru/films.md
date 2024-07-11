@@ -12,16 +12,12 @@ RuTracker - <https://rutracker.org/forum/index.php>
 1337x - <https://1337x.to/><br>
 Релиз-группы: QxR, UTR.
 
+TorrentGalaxy - <https://torrentgalaxy.mx/>
+
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
 MVGroup - <https://forums.mvgroup.org/><br>
 Много документалок. Нужно зарегистрироваться.
-
-LimeTorrents - <https://www.limetorrents.lol/>
-
-TorrentDownload - <https://www.torrentdownload.info/>
-
-TorrentGalaxy - <https://torrentgalaxy.mx/>
 <br><br>
 
 Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой файл программой Media Player Classic.
