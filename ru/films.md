@@ -9,10 +9,12 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 Кинозал - <https://kinozal.tv/>
 
-1337x - <https://1337x.to/><br>
+1337x - <https://1337x.to/home/><br>
 Релиз-группы: QxR, UTR.
 
 TorrentGalaxy - <https://torrentgalaxy.mx/>
+
+EZTV - <https://eztvx.to/home>
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
