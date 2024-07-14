@@ -10,4 +10,4 @@ title: Open access
 
 In solidarity with Library Genesis and Sci-Hub - <https://custodians.online>
 
-Guerilla Open Access Manifesto - <https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt>
+Guerilla Open Access Manifesto - </2024-07-14-guerilla-open-access-manifesto.html>
