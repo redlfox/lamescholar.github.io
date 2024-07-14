@@ -9,18 +9,22 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 Этот сайт создан для распространения доступа к источникам. Cделан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
-We need to take information, wherever it is stored, make our copies and share them with the world.
+<div style="border: 1px solid black; padding: 10px; text-align: center;">
+<p>We need to take information, wherever it is stored, make our copies and share them with the world.</p>
 
-[Aaron Swartz - Guerilla Open Access Manifesto (2008)](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
+<p><a href="https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt">Aaron Swartz - Guerilla Open Access Manifesto (2008)</a></p>
+</div>
 <br><br>
 
-"Доступ к новым знаниям надо расширять, а не городить на этом пути новые заборы"
+<div style="border: 1px solid black; padding: 10px; text-align: center;">
+<p>"Доступ к новым знаниям надо расширять, а не городить на этом пути новые заборы"</p>
 
-[Сергей Капица](/2023/09/22/kapitsa-intellectual-property.html)
+<p><a href="/2023/09/22/kapitsa-intellectual-property.html">Сергей Капица</a></p>
 
-"We need to expand access to new knowledge, not erect new fences on this path"
+<p>"We need to expand access to new knowledge, not erect new fences on this path"</p>
 
-Sergey Kapitsa
+<p>Sergey Kapitsa</p>
+</div>
 <br><br>
 
 "In the first decade of the eighteenth century ... many in Europe believed that a great kingdom had been created in Madagascar by a certain Captain Henry Avery and ten thousand pirate henchmen, a kingdom that was on the verge of establishing itself as one of the world’s preeminent naval powers. In fact, this kingdom did not exist. It was a hoax. Most historians are now convinced the same could be said of the story of the great utopian experiment of Libertalia, a story also set in Madagascar, which appears in a chapter of a certain Captain Johnson’s A General History of the Pyrates in 1724. Johnson describes Libertalia as an egalitarian republic, in which slavery had been abolished and all things were shared in common and administered democratically, created by a retired French pirate captain named Misson under the philosophical influence of a defrocked Italian priest."
