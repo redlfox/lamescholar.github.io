@@ -14,10 +14,10 @@ TorrentGalaxy - <https://torrentgalaxy.mx/>
 
 EZTV - <https://eztvx.to/home>
 
-RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
-
 MVGroup - <https://forums.mvgroup.org/><br>
 Lots of documentaries. You need to register.
+
+RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 <br><br>
 
 To play MKV, MP4 or AVI file install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) and open file with Media Player Classic.
