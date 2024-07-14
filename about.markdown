@@ -12,7 +12,7 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 <div style="border: 1px solid black; padding: 10px; text-align: center;">
 <p>We need to take information, wherever it is stored, make our copies and share them with the world.</p>
 
-<p><a href="https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt">Aaron Swartz - Guerilla Open Access Manifesto (2008)</a></p>
+<p><a href="/2024/07/14/guerilla-open-access-manifesto.html">Aaron Swartz - Guerilla Open Access Manifesto (2008)</a></p>
 </div>
 <br><br>
 
