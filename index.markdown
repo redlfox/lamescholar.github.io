@@ -16,12 +16,12 @@ layout: home
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
-## [My releases / Мои раздачи]:
+## My releases / Мои раздачи:
 
 [RuTracker](https://rutracker.org/forum/tracker.php?rid=45195282)
 
 [1337x](https://1337x.to/user/legen848dary/)
-<br>
+<br><br>
 
 ## [Archive / Архив](archive)
 <br>
