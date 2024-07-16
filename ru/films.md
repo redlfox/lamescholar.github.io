@@ -10,16 +10,17 @@ RuTracker - <https://rutracker.org/forum/index.php>
 Кинозал - <https://kinozal.tv/>
 
 1337x - <https://1337x.to/home/><br>
-Релиз-группы: QxR, UTR.
+Релиз-группы: QxR, UTR.<br>
+Запрос: название QxR
 
 TorrentGalaxy - <https://torrentgalaxy.mx/>
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
-YTS - <https://yts.mx/>
+YTS - <https://yts.mx/><br>
 Последнее прибежище.
 
-EZTV - <https://eztvx.to/home>
+EZTV - <https://eztvx.to/home><br>
 Сериалы.
 
 MVGroup - <https://forums.mvgroup.org/><br>

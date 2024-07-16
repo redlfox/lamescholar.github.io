@@ -8,16 +8,17 @@ title: Films
 RuTracker - <https://rutracker.org/forum/index.php>
 
 1337x - <https://1337x.to/home/><br>
-Release groups: QxR, UTR.
+Release groups: QxR, UTR.<br>
+Quiry: title QxR
 
 TorrentGalaxy - <https://torrentgalaxy.mx/>
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
-YTS - <https://yts.mx/>
+YTS - <https://yts.mx/><br>
 Last resort.
 
-EZTV - <https://eztvx.to/home>
+EZTV - <https://eztvx.to/home><br>
 Series.
 
 MVGroup - <https://forums.mvgroup.org/><br>
