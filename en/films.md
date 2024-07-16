@@ -12,12 +12,16 @@ Release groups: QxR, UTR.
 
 TorrentGalaxy - <https://torrentgalaxy.mx/>
 
+RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
+
+YTS - <https://yts.mx/>
+Last resort.
+
 EZTV - <https://eztvx.to/home>
+Series.
 
 MVGroup - <https://forums.mvgroup.org/><br>
-Lots of documentaries. You need to register.
-
-RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
+Documentaries. You need to register.
 <br><br>
 
 To play MKV, MP4 or AVI file install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) and open file with Media Player Classic.

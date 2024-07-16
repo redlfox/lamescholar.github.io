@@ -14,12 +14,16 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 TorrentGalaxy - <https://torrentgalaxy.mx/>
 
+RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
+
+YTS - <https://yts.mx/>
+Последнее прибежище.
+
 EZTV - <https://eztvx.to/home>
+Сериалы.
 
 MVGroup - <https://forums.mvgroup.org/><br>
-Много документалок. Нужно зарегистрироваться.
-
-RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
+Документалки. Нужно зарегистрироваться.
 <br><br>
 
 Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой файл программой Media Player Classic.
