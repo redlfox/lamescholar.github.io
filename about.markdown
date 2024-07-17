@@ -13,6 +13,10 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 <p>We need to take information, wherever it is stored, make our copies and share them with the world.</p>
 
 <p><a href="/2024/07/14/guerilla-open-access-manifesto.html">Aaron Swartz - Guerilla Open Access Manifesto (2008)</a></p>
+
+<p>Нам нужно доставать информацию, где бы она ни хранилась, делать свои копии и делиться ими с миром.</p>
+
+<p><a href="/2024/07/17/guerilla-open-access-manifesto-ru.html">Аарон Шварц - Манифест партизанского открытого доступа (2008)</a></p>
 </div>
 <br><br>
 
