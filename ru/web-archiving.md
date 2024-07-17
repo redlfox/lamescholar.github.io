@@ -3,9 +3,9 @@ comments: true
 title: Архивирование веб-сайтов
 ---
 
-SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
-
 Ctrl+P
+
+SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
 
 Webrecorder Archiveweb.page:
 

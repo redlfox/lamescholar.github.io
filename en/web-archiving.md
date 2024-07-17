@@ -1,11 +1,11 @@
 ---
 comments: true
-title: Save site materials
+title: Web archiving
 ---
 
-SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
-
 Ctrl+P
+
+SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
 
 Webrecorder Archiveweb.page:
 
