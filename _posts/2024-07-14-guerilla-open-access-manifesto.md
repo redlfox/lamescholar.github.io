@@ -5,7 +5,7 @@ comments: true
 title: Guerilla Open Access Manifesto
 ---
 
-Source: <https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt>
+Source: <https://archive.org/details/GuerillaOpenAccessManifesto>
 <br><br>
 
 # Guerilla Open Access Manifesto
@@ -32,6 +32,5 @@ We need to take information, wherever it is stored, make our copies and share th
 
 With enough of us, around the world, we'll not just send a strong message opposing the privatization of knowledge — we'll make it a thing of the past. Will you join us?
 
-Aaron Swartz
-
+Aaron Swartz<br>
 July 2008, Eremo, Italy 
