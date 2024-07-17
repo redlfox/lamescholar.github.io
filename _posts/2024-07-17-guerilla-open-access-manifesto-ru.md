@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Переводы
 comments: true
 title: Манифест партизанского открытого доступа
 ---
