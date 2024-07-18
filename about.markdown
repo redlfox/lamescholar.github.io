@@ -9,7 +9,7 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 Этот сайт создан для распространения доступа к источникам. Cделан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
-<div style="border: 1px solid black; padding: 10px; text-align: center;">
+<div style="border: 1px solid black; padding: 10px;">
 <p>We need to take information, wherever it is stored, make our copies and share them with the world.</p>
 
 <p><a href="/2024/07/14/guerilla-open-access-manifesto.html">Aaron Swartz - Guerilla Open Access Manifesto (2008)</a></p>
@@ -20,7 +20,7 @@ This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
 </div>
 <br><br>
 
-<div style="border: 1px solid black; padding: 10px; text-align: center;">
+<div style="border: 1px solid black; padding: 10px;">
 <p>"Доступ к новым знаниям надо расширять, а не городить на этом пути новые заборы"</p>
 
 <p><a href="/2023/09/22/kapitsa-intellectual-property.html">Сергей Капица</a></p>
