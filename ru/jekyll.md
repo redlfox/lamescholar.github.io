@@ -210,3 +210,7 @@ C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems\minima-2.5.1
 ```
  class="post-title"
 ```
+
+#### Комментарии
+
+<https://help.disqus.com/en/articles/1935528-jekyll-installation-instructions>
