@@ -3,8 +3,6 @@ comments: true
 title: Форумы
 ---
 
-Reddit - <https://www.reddit.com/>
-
 Goodreads - <https://www.goodreads.com/>
 
 Letterboxd - <https://letterboxd.com/>
