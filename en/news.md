@@ -149,15 +149,17 @@ Chicago Daily Tribune - <https://archive.org/details/pub_chicago-daily-tribune?s
 
 Illustrated London News - <https://archive.org/details/pub_illustrated-london-news?sort=-date>
 
-Süddeutsche Zeitung - <https://de.downmagaz.net/tags/S%C3%BCddeutsche%20Zeitung/>
+Les Echos - <https://fr.downmagaz.net/tags/Les%20Echos/>
 
-Frankfurter Allgemeine Zeitung - <https://boerse.kz/showthread.php?t=1695868>
+Mediapart - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=mediapart&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
 
 Die Welt - <https://boerse.kz/showthread.php?t=1700453>
+
+Frankfurter Allgemeine Zeitung - <https://boerse.kz/showthread.php?t=1695868>
  
 Handelsblat - <https://boerse.kz/showthread.php?t=2625218&highlight=Handelsblatt>
- 
-Les Echos - <https://fr.downmagaz.net/tags/Les%20Echos/>
+
+Süddeutsche Zeitung - <https://de.downmagaz.net/tags/S%C3%BCddeutsche%20Zeitung/>
 
 Corriere della Sera - <https://it.downmagaz.net/tags/Corriere%20della%20Sera%20La%20Lettura/>
 <br><br>
