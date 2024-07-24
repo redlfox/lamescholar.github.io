@@ -53,6 +53,8 @@ HexChat - <https://hexchat.github.io/downloads.html>
 
 ***
 
+Nyaa - <https://nyaa.si/>
+
 YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search>
 
 Boerse - <https://boerse.am/>
