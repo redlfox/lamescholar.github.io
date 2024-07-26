@@ -88,7 +88,7 @@ foobar2000 - <https://www.foobar2000.org/download>
 
 Кодируй из WAV в MP3. Открой MP3. Правая кнопка мыши:
 
-ReplayGain->Apply gain to file content...->92 dB
+ReplayGain->Apply gain to file content...->95 dB
 
 Properties
 

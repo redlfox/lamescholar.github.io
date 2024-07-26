@@ -88,7 +88,7 @@ foobar2000 - <https://www.foobar2000.org/download>
 
 Encode from WAV to MP3. Open MP3. Right click:
 
-ReplayGain->Apply gain to file content...->92 dB
+ReplayGain->Apply gain to file content...->95 dB
 
 Properties
 
