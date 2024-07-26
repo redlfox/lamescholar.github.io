@@ -72,6 +72,12 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 [V0.cfg](/files/V0.cfg)
 <br><br>
 
+#### Оцифровка виниловых пластинок:
+
+Adobe Audition - [RuTracker](https://rutracker.org/forum/tracker.php?nm=adobe%20audition)
+
+foobar2000 - <https://www.foobar2000.org/download>
+
 {:refdef: style="text-align: center;"}
 ![Capitalism](/images/capitalism.jpg)
 {: refdef}

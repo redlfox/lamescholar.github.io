@@ -179,11 +179,11 @@ Archive with programs in case the links break - <https://disk.yandex.ru/d/odtW8T
 
 #### Publish your book:
 
-Library Genesis - <https://library.bz/main/upload/>
-
-genesis
-
+Library Genesis - <https://library.bz/main/upload/><br>
+genesis<br>
 upload
+
+Z-Library - <https://singlelogin.re/book-add>
 
 RuTracker - <https://rutracker.org/forum/index.php>
 

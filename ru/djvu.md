@@ -179,11 +179,11 @@ DjVu Small Mod + DjVu Imager и FSD реализуют метод разделё
 
 #### Где опубликовать книгу:
 
-Library Genesis - <https://library.bz/main/upload/>
-
-genesis
-
+Library Genesis - <https://library.bz/main/upload/><br>
+genesis<br>
 upload
+
+Z-Library - <https://singlelogin.re/book-add>
 
 RuTracker - <https://rutracker.org/forum/index.php>
 

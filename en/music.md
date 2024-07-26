@@ -72,6 +72,13 @@ If you possess a CD that is not uploaded on Redacted or RuTracker, and you have 
 [V0.cfg](/files/V0.cfg)
 <br><br>
 
+#### Digitizing vinyl records:
+
+Adobe Audition - [RuTracker](https://rutracker.org/forum/tracker.php?nm=adobe%20audition)
+
+foobar2000 - <https://www.foobar2000.org/download>
+<br><br>
+
 {:refdef: style="text-align: center;"}
 ![Capitalism](/images/capitalism.jpg)
 {: refdef}

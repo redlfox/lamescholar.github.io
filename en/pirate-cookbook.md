@@ -2,7 +2,7 @@
 title: Pirate Cookbook
 ---
 
-Pirate Cookbook is my collection of guides on finding sources, digitizing books, ripping disks and recording vinyl records. For details look [Hello](/en/hello).
+Pirate Cookbook is my collection of guides on finding sources, digitizing books, ripping disks and digitizing vinyl records. For details look [Hello](/en/hello).
 <br><br>
 
 [Articles](/en/articles)
@@ -42,6 +42,8 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 [Hello](/en/hello)
 
 [Hostings](/en/hostings)
+
+[How to share your stuff](/en/how-to-share-your-stuff)
 
 [Internet Archive](/en/internet-archive)
 

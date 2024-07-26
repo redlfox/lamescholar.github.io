@@ -69,6 +69,8 @@ title: Поваренная книга пирата
 
 [Исследование](/ru/research)
 
+[Как поделиться своим добром](/ru/how-to-share-your-stuff)
+
 [Книжные серии](/ru/book-series)
 
 [Манга](/ru/manga)

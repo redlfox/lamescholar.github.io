@@ -73,7 +73,9 @@ HTM->EPUB
 
 Флибуста - <http://flibusta.is/a>
 
-Library Genesis - <https://library.bz/fiction/upload/>
+Library Genesis - <https://library.bz/main/upload/><br>
+genesis<br>
+upload
 <br><br>
 
 #### Информация:
