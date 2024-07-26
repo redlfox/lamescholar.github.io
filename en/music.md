@@ -76,7 +76,23 @@ If you possess a CD that is not uploaded on Redacted or RuTracker, and you have 
 
 Adobe Audition - [RuTracker](https://rutracker.org/forum/tracker.php?nm=adobe%20audition)
 
+File->New->Audio File...
+
+After recording:
+
+Effects->Noise Reduction / Restoration->Automatic Click Remover...
+
+Effects->Noise Reduction / Restoration->DeNoise...
+
 foobar2000 - <https://www.foobar2000.org/download>
+
+Encode from WAV to MP3. Open MP3. Right click:
+
+ReplayGain->Apply gain to file content...->92 dB
+
+Properties
+
+Fill metadata. Add cover.
 <br><br>
 
 {:refdef: style="text-align: center;"}

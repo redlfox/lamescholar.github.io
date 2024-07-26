@@ -76,7 +76,23 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 
 Adobe Audition - [RuTracker](https://rutracker.org/forum/tracker.php?nm=adobe%20audition)
 
+File->New->Audio File...
+
+После записи:
+
+Effects->Noise Reduction / Restoration->Automatic Click Remover...
+
+Effects->Noise Reduction / Restoration->DeNoise...
+
 foobar2000 - <https://www.foobar2000.org/download>
+
+Кодируй из WAV в MP3. Открой MP3. Правая кнопка мыши:
+
+ReplayGain->Apply gain to file content...->92 dB
+
+Properties
+
+Заполни метаданные. Добавь обложку.
 
 {:refdef: style="text-align: center;"}
 ![Capitalism](/images/capitalism.jpg)
