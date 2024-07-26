@@ -3,9 +3,11 @@ comments: true
 title: Поиск книг
 ---
 
-Всегда, когда я ищу книгу, я проверяю 5 источников:
+Всегда, когда я ищу книгу, я проверяю 6 источников:
 
 Library Genesis - <https://libgen.is/>
+
+Z-Library - <https://singlelogin.re/>
 
 VK - <https://vk.com/docs>
 

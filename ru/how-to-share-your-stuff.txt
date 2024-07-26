@@ -20,7 +20,7 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 VK - <https://vk.com/docs>
 
-Flibusta - <http://flibusta.is/a>
+Флибуста - <http://flibusta.is/a>
 <br><br>
 
 Чтобы поделиться всей своей библиотекой, используй P2P-сети:

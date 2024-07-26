@@ -3,9 +3,11 @@ comments: true
 title: Book searching
 ---
 
-Whenever I'm looking for an ebook, I check 5 sources:
+Whenever I'm looking for an ebook, I check 6 sources:
 
 Library Genesis - <https://libgen.is/>
+
+Z-Library - <https://singlelogin.re/>
 
 VK - <https://vk.com/docs>
 
