@@ -111,11 +111,15 @@ Profile: Photo
 
 Quality: 7
 
+<sup>If you want to preserve the quality of pictures.</sup>
+
 or
 
 Profile: B/W
 
 Quality: 10
+
+<sup>If the book got no pictures. In this scenario there's no need in color correction.</sup>
 
 **Option №2:**
 
@@ -136,7 +140,7 @@ PDF Output Style: ClearScan
 File->Save.
 <br><br>
 
-There is an alternative to PDF, if the quality loss is too severe. You can zip the folder with images and change the file extention to .cbz. You can open CBZ file with [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer). The obvious downside - no compression. Another one - no OCR.
+There is an alternative to PDF, if the quality loss is unavoidable. You can zip the folder with images and change the file extention to .cbz. You can open CBZ file with [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer). The obvious downside - no compression. Another one - no OCR.
 <br><br>
 
 Don't forget to delete folders with images.
