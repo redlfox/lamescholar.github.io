@@ -66,7 +66,14 @@ If the scans are dark and the text is faded, you can use Contrast and Gamma corr
 
 50 2.00
 
-These are the values for the case when the scan is dark and it needs to be brightened. If the standard options are not suitable, you need to experiment with different combinations - Shift+G. Visually Contrast makes the text bold and brightens the background. Gamma correction lightens of the scan, but bleach the text. Useful combinations: 70 2.00 (the scan is not very dark, there is greenish or orange tint), only Contrast - 50/70 (the scan is not very dark, the text is faded), 50 0.75 (the scan is quite light, the text is faded), only Gamma correction - 0.62 (the scan is very light).
+These are the values for the case when the scan is dark and it needs to be brightened. If the standard options are not suitable, you need to experiment with different combinations - Shift+G. Visually Contrast makes the text bold and brightens the background. Gamma correction lightens of the scan, but bleach the text.
+
+Useful combinations:<br>
+70 2.00 (the scan is not very dark, there is greenish or orange tint),<br>
+50/70 (the scan is not very dark, the text is faded),<br>
+50 0.75 (the scan is quite light, the text is faded),<br>
+0.62 (the scan is very light),<br>
+90 6.99 (the scan is very dark).
 
 If there is greenish or orange tint remaining, you can lower the color saturation of the scan. Saturation tool is used for this. The value is -100/-150.
 
