@@ -22,7 +22,7 @@ IrfanView (croping images):
 
 <https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images>
 
-IrfanView (color correction) - look [Internet Archive](/en/internet-archive)
+IrfanView (color correction) - look [Internet Archive](/en/internet-archive#color-correction)
 
 Book Restorer (straightening of crooked images) - <http://djvu-converter.narod.ru/>
 

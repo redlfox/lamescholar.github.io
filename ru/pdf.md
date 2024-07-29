@@ -22,7 +22,7 @@ IrfanView (обрезание изображений):
 
 <https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images>
 
-IrfanView (цветокоррекция) - см. [Internet Archive](/ru/internet-archive)
+IrfanView (цветокоррекция) - см. [Internet Archive](/ru/internet-archive#цветокоррекция)
 
 Book Restorer (распрямление искривлённых изображений) - <http://djvu-converter.narod.ru/>
 
