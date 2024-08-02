@@ -5,37 +5,37 @@ title: Music
 
 #### Sources:
 
-+ RuTracker - <https://rutracker.org/forum/index.php>
+**RuTracker** - <https://rutracker.org/forum/index.php>
 
-	band name дискография/discography
+band name дискография/discography
 
-	Karajan complete recordings on Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
+Karajan complete recordings on Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
 	
-	Timings are in .cue files. They can be opened by [foobar2000](https://www.foobar2000.org/download) program.
+Timings are in .cue files. They can be opened by [foobar2000](https://www.foobar2000.org/download) program.
 	
-	Complete Chopin:
+Complete Chopin:
 	
-	<https://open.spotify.com/album/1wg7IZQpeQSnl8RHmsYSrA>
+<https://open.spotify.com/album/1wg7IZQpeQSnl8RHmsYSrA>
 	
-	<https://rutracker.org/forum/viewtopic.php?t=2656547>
+<https://rutracker.org/forum/viewtopic.php?t=2656547>
 
-+ Redacted - <https://redacted.ch/torrents.php>
+**Redacted** - <https://redacted.ch/torrents.php>
 
-	Application:
+Application:
 
-	<https://interviewfor.red/en/starting.html>
+<https://interviewfor.red/en/starting.html>
 
-	IRC client:
+IRC client:
 
-	mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
+mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
 
-	AppData\Roaming\mIRC\scripts
+AppData\Roaming\mIRC\scripts
 
-	HexChat - <https://hexchat.github.io/downloads.html>
+HexChat - <https://hexchat.github.io/downloads.html>
 
-+ Soulseek - <http://www.slsknet.org/news/node/1>
+**Soulseek** - <http://www.slsknet.org/news/node/1>
 
-	Nickname - legen848dary
+Nickname - legen848dary
 <br><br>
 
 {:refdef: style="text-align: center;"}

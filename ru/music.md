@@ -5,37 +5,37 @@ title: Музыка
 
 #### Источники:
 
-+ RuTracker - <https://rutracker.org/forum/index.php>
+**RuTracker** - <https://rutracker.org/forum/index.php>
 
-	название группы дискография/discography
+название группы дискография/discography
 
-	Полная коллекция записей Караяна на Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
+Полная коллекция записей Караяна на Deutsche Grammophon - <https://rutracker.org/forum/viewtopic.php?t=4207372>
 
-	Полная коллекция творчества Шопена:
+Полная коллекция творчества Шопена:
 	
-	<https://open.spotify.com/album/1wg7IZQpeQSnl8RHmsYSrA>
+<https://open.spotify.com/album/1wg7IZQpeQSnl8RHmsYSrA>
 	
-	<https://rutracker.org/forum/viewtopic.php?t=2656547>
+<https://rutracker.org/forum/viewtopic.php?t=2656547>
 
-	Тайминги находятся в .cue файлах. Они могут быть открыты программой [foobar2000](https://www.foobar2000.org/download).
+Тайминги находятся в .cue файлах. Они могут быть открыты программой [foobar2000](https://www.foobar2000.org/download).
 
-+ Redacted - <https://redacted.ch/torrents.php>
+**Redacted** - <https://redacted.ch/torrents.php>
 
-	Интервью:
+Интервью:
 
-	<https://interviewfor.red/en/starting.html>
+<https://interviewfor.red/en/starting.html>
 
-	IRC клиент:
+IRC клиент:
 
-	mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
+mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
 
-	AppData\Roaming\mIRC\scripts
+AppData\Roaming\mIRC\scripts
 
-	HexChat - <https://hexchat.github.io/downloads.html>
+HexChat - <https://hexchat.github.io/downloads.html>
 
-+ Soulseek - <http://www.slsknet.org/news/node/1>
+**Soulseek** - <http://www.slsknet.org/news/node/1>
 
-	Ник - legen848dary
+Ник - legen848dary
 <br><br>
 
 {:refdef: style="text-align: center;"}
