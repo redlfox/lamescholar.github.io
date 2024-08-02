@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Репост
+tag: Репосты
 comments: true
 title: "Против Amazon.com, Inc: Семь аргументов / один манифест"
 ---
