@@ -93,6 +93,7 @@ ReplayGain->Apply gain to file content...->92/95 dB.
 Properties
 
 Заполни метаданные. Добавь обложку.
+<br><br>
 
 {:refdef: style="text-align: center;"}
 ![Capitalism](/images/capitalism.jpg)
