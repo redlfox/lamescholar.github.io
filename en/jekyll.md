@@ -210,6 +210,7 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 ```
  class="post-title"
 ```
+<br>
 
 #### Comments
 

@@ -210,6 +210,7 @@ C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems\minima-2.5.1
 ```
  class="post-title"
 ```
+<br>
 
 #### Комментарии
 
