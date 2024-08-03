@@ -10,11 +10,9 @@ title: VPN
 <https://vps.today/>
 <br><br>
 
-2) Mullvad
-
-3) Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=ru>
+2) Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=ru>
 <br><br>
 
-4) Tor Browser - <https://www.torproject.org/ru/download/>
+3) Tor Browser - <https://www.torproject.org/ru/download/>
 
 Из-за блокировки в России необходимо использовать мост. Settings->Tor->Bridges->Use a bridge->Request a bridge from torproject.org->Request a New Bridge.
