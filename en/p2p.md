@@ -63,7 +63,9 @@ MIRCrew - <https://mircrew-releases.org/index.php>
 
 The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
 
-1137x - <https://1337x.to/>
+1137x:<br>
+<https://1337x.to/><br>
+<https://1337x.to/user/workerbee/>
 
 BT4G - <https://bt4gprx.com/>
 
