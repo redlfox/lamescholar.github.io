@@ -269,7 +269,7 @@ ImWerden:<br>
 <https://rutracker.org/forum/viewtopic.php?t=4489965>
 
 Современник:<br>
-[НЭБ](https://rusneb.ru/search/?q=%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17&c%5B%5D=18)<br>
+<https://rusneb.ru/catalog/000199_000009_007828983/><br>
 <https://rutracker.org/forum/viewtopic.php?t=4990250><br>
 <https://rutracker.org/forum/viewtopic.php?t=3589084>
 
