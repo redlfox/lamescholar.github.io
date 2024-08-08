@@ -271,7 +271,7 @@ ImWerden:<br>
 <https://rutracker.org/forum/viewtopic.php?t=4489965>
 
 Современник:<br>
-[НЭБ](https://rusneb.ru/search/?q=%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA+%D1%82.&c%5B%5D=3&c%5B%5D=5&c%5B%5D=13&c%5B%5D=7&c%5B%5D=15&c%5B%5D=23&c%5B%5D=20&c%5B%5D=6&c%5B%5D=2&c%5B%5D=4&c%5B%5D=22&c%5B%5D=25&c%5B%5D=28)<br>
+[НЭБ](https://rusneb.ru/search/?q=%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+1818&c%5B%5D=3&c%5B%5D=1&c%5B%5D=5&c%5B%5D=13&c%5B%5D=7&c%5B%5D=15&c%5B%5D=23&c%5B%5D=20&c%5B%5D=6&c%5B%5D=2&c%5B%5D=4&c%5B%5D=22&c%5B%5D=25&c%5B%5D=28)<br>
 Журнал «Современник». 1847-1866. Указатель содержания - <https://rutracker.org/forum/viewtopic.php?t=3589084>
 
 Пантеон - <http://ateatr.sptl.spb.ru/tp/journal-panteon/>
