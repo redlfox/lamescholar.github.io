@@ -261,6 +261,8 @@ ImWerden:<br>
 
 Новое слово - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(1893%E2%80%941897))
 
+Наблюдатель - <https://rusneb.ru/catalog/000199_000009_008482060/>
+
 Отечественные записки:<br>
 [НЭБ](https://rusneb.ru/search/?q=%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%D1%87.&c%5B%5D=3&c%5B%5D=1&c%5B%5D=5&c%5B%5D=13&c%5B%5D=7&c%5B%5D=15&c%5B%5D=23&c%5B%5D=20&c%5B%5D=6&c%5B%5D=2&c%5B%5D=4&c%5B%5D=22&c%5B%5D=25&c%5B%5D=28)<br>
 Систематический указатель статей - <https://rusneb.ru/catalog/000199_000009_003649104/>
@@ -270,9 +272,13 @@ ImWerden:<br>
 <https://rutracker.org/forum/viewtopic.php?t=1888319><br>
 <https://rutracker.org/forum/viewtopic.php?t=4489965>
 
+Русский вестник - [НЭБ](https://rusneb.ru/search/?q=%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+1856&c%5B%5D=3&c%5B%5D=1&c%5B%5D=5&c%5B%5D=13&c%5B%5D=7&c%5B%5D=15&c%5B%5D=23&c%5B%5D=20&c%5B%5D=6&c%5B%5D=2&c%5B%5D=4&c%5B%5D=22&c%5B%5D=25&c%5B%5D=28)
+
 Современник:<br>
 [НЭБ](https://rusneb.ru/search/?q=%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+1818&c%5B%5D=3&c%5B%5D=1&c%5B%5D=5&c%5B%5D=13&c%5B%5D=7&c%5B%5D=15&c%5B%5D=23&c%5B%5D=20&c%5B%5D=6&c%5B%5D=2&c%5B%5D=4&c%5B%5D=22&c%5B%5D=25&c%5B%5D=28)<br>
 Журнал «Современник». 1847-1866. Указатель содержания - <https://rutracker.org/forum/viewtopic.php?t=3589084>
+
+Revue des deux Mondes - <https://gallica.bnf.fr/ark:/12148/cb32858360p/date>
 
 Пантеон - <http://ateatr.sptl.spb.ru/tp/journal-panteon/>
 
@@ -350,10 +356,7 @@ Urbi - <https://imwerden.de/periodical-2201-page-1>
 
 Про книги - <https://nsb-bibliophile.ru/arkhiv-nomerov-zhurnala-pro-knigi>
 
-Вестник Европы:<br>
-<https://rutracker.org/forum/viewtopic.php?t=5130322><br>
-<https://rutracker.org/forum/viewtopic.php?t=2606955><br>
-<https://rutracker.org/forum/viewtopic.php?t=2578193>
+Вестник Европы - <https://rutracker.org/forum/viewtopic.php?t=5130322>
 
 Русское богатство - <https://rutracker.org/forum/viewtopic.php?t=5465802>
 
