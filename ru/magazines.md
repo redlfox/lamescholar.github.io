@@ -261,12 +261,15 @@ ImWerden:<br>
 
 Новое слово - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(1893%E2%80%941897))
 
+Указатели:<br>
+Систематический указатель статей, 1830-1884 - <https://rusneb.ru/catalog/000199_000009_003649104/><br>
+Указатель исторических статей, 1885-1903 - <https://rusneb.ru/catalog/000199_000009_003774163/>
+
 Вестник Европы:<br>
 <https://rutracker.org/forum/viewtopic.php?t=5130322><br>
 [Викитека](https://ru.wikisource.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B#%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_(1866%E2%80%941918))<br>
 <https://rusneb.ru/catalog/000199_000009_002715350/><br>
-<https://rusneb.ru/catalog/000199_000009_008525455/><br>
-<https://rusneb.ru/catalog/000199_000009_003774163/>
+<https://rusneb.ru/catalog/000199_000009_008525455/>
 
 Наблюдатель - <https://rusneb.ru/catalog/000199_000009_008482060/>
 
@@ -274,8 +277,7 @@ ImWerden:<br>
 [НЭБ](https://rusneb.ru/search/?q=%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%D1%87.&c%5B%5D=3&c%5B%5D=1&c%5B%5D=5&c%5B%5D=13&c%5B%5D=7&c%5B%5D=15&c%5B%5D=23&c%5B%5D=20&c%5B%5D=6&c%5B%5D=2&c%5B%5D=4&c%5B%5D=22&c%5B%5D=25&c%5B%5D=28)<br>
 <https://primo.nlr.ru/primo-explore/jsearch?vid=07NLR_VU1><br>
 <https://rusneb.ru/catalog/000200_000018_rc_706543/><br>
-<https://rusneb.ru/catalog/000200_000018_rc_3508216/><br>
-Систематический указатель статей - <https://rusneb.ru/catalog/000199_000009_003649104/>
+<https://rusneb.ru/catalog/000200_000018_rc_3508216/>
 
 Родина:<br>
 <https://rutracker.org/forum/viewtopic.php?t=1908009><br>
