@@ -267,7 +267,7 @@ ImWerden:<br>
 
 Вестник Европы:<br>
 <https://rutracker.org/forum/viewtopic.php?t=5130322><br>
-<https://rutracker.org/forum/viewtopic.php?t=2606955><br>
+[Викитека](https://ru.wikisource.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B#%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_(1866%E2%80%941918))<br>
 <https://rutracker.org/forum/viewtopic.php?t=2578193><br>
 <https://rusneb.ru/catalog/000199_000009_002715350/><br>
 <https://rusneb.ru/catalog/000199_000009_008525455/>
