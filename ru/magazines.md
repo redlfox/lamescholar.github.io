@@ -265,6 +265,8 @@ ImWerden:<br>
 
 Отечественные записки:<br>
 [НЭБ](https://rusneb.ru/search/?q=%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%D1%87.&c%5B%5D=3&c%5B%5D=1&c%5B%5D=5&c%5B%5D=13&c%5B%5D=7&c%5B%5D=15&c%5B%5D=23&c%5B%5D=20&c%5B%5D=6&c%5B%5D=2&c%5B%5D=4&c%5B%5D=22&c%5B%5D=25&c%5B%5D=28)<br>
+<https://rusneb.ru/catalog/000200_000018_rc_706543/><br>
+<https://rusneb.ru/catalog/000200_000018_rc_3508216/><br>
 Систематический указатель статей - <https://rusneb.ru/catalog/000199_000009_003649104/>
 
 Родина:<br>
