@@ -305,8 +305,6 @@ Nicolai Woodenko - <https://archive.org/details/@nicolai_woodenko>
 
 Защита памяти - <http://uaio.ru/5/l1.htm>
 
-Сайт Александра Тарасова - <https://saint-juste.narod.ru/>
-
 Советская философия - <http://sovphil.narod.ru/catalog.html>
 
 Сайт Юрия Семёнова - <http://orthomarxism.narod.ru/>

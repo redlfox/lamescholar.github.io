@@ -28,6 +28,8 @@ spichka.media - <https://spichka.media/>
 
 <http://kagarlitsky.narod.ru/>
 
+Сайт Александра Тарасова - <https://saint-juste.narod.ru/index1.htm>
+
 Скепсис - <https://scepsis.net/>
 
 Социальный компас - <http://www.socialcompas.com/>
