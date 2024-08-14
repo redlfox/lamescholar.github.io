@@ -61,7 +61,7 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [Naming ebooks](/en/naming-ebooks)
 
-[News](/en/news)
+[Newspapers](/en/newspapers)
 
 [Music](/en/music)
 

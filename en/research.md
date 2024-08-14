@@ -25,7 +25,7 @@ And then go to look for:
 
 [Books](/en/libraries)
 
-[Newspaper articles](/en/news)
+[Newspaper articles](/en/newspapers)
 
 [Journal articles](/en/articles)
 
