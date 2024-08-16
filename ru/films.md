@@ -25,6 +25,9 @@ EZTV - <https://eztvx.to/home><br>
 
 MVGroup - <https://forums.mvgroup.org/><br>
 Документалки. Нужно зарегистрироваться.
+
+Легенда<br>
+FanSerials - <https://vk.com/myserianet>
 <br><br>
 
 Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой файл программой Media Player Classic.
