@@ -366,7 +366,7 @@
     <outline type="rss" text="Postimees" xmlUrl="https://rus.postimees.ee/rss" htmlUrl="https://rus.postimees.ee"/>
     <outline type="rss" text="Press TV" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Apresstv.ir&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:presstv.ir&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="Proletären" xmlUrl="https://proletaren.se/rss.xml" htmlUrl="https://proletaren.se"/>
-    <outline type="rss" text="ProPublica" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Apropublica.org&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:propublica.org&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline type="rss" text="ProPublica" xmlUrl="https://www.propublica.org/feeds/propublica/main" htmlUrl="https://www.propublica.org/feeds/propublica/main"/>
     <outline type="rss" text="Página/12" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Apagina12.com.ar&amp;hl=es-419&amp;gl=AR&amp;ceid=AR%3Aes-419" htmlUrl="https://news.google.com/search?q=when:24h+inurl:pagina12.com.ar&amp;hl=es-419&amp;gl=AR&amp;ceid=AR:es-419"/>
     <outline type="rss" text="rabble.ca" xmlUrl="https://rabble.ca/feed/" htmlUrl="https://rabble.ca/"/>
     <outline type="rss" text="Radio Free Europe/Radio Liberty" xmlUrl="https://www.rferl.org/api/zbqimetkiy" htmlUrl="https://www.rferl.org/api/zbqimetkiy"/>
