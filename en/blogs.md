@@ -3,6 +3,8 @@ comments: true
 title: Blogs
 ---
 
+#### Book blogs
+
 Arts & Letters Daily - <https://www.aldaily.com/archives/>
 
 RealClearBooks - <https://www.realclearbooks.com/>
@@ -12,6 +14,7 @@ Perlentaucher: Bücherschau des Tages - <https://www.perlentaucher.de/buechersch
 Perlentaucher: Presseschauen - <https://www.perlentaucher.de/teaserliste/1_Presseschauen.html>
 
 The Neglected Books Page - <https://neglectedbooks.com/>
+<br><br>
 
 Aeon - <https://aeon.co/>
 

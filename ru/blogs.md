@@ -7,12 +7,16 @@ title: Блоги
 <br><br>
 
 [Твой блог](/ru/jekyll)
+<br><br>
+
+#### Книжные блоги
 
 LitNov.ru - <http://litnov.ru/>
 
 «Горький» - <https://gorky.media/>
 
 Нож: Статьи - <https://knife.media/category/longreads/>
+<br><br>
 
 Proshloe - <https://proshloe.com/>
 
