@@ -306,7 +306,9 @@ Revue des deux Mondes - <https://gallica.bnf.fr/ark:/12148/cb32858360p/date>
 <https://rutracker.org/forum/viewtopic.php?t=5278859><br>
 <https://rutracker.org/forum/viewtopic.php?t=5875468>
 
-Иностранная литература - <https://rutracker.org/forum/viewtopic.php?t=4547639>
+Иностранная литература:<br>
+<https://rutracker.org/forum/viewtopic.php?t=4547639><br>
+<https://rutracker.org/forum/viewtopic.php?t=6197533>
 
 Новый мир - <https://rutracker.org/forum/viewtopic.php?t=4938890>
 
