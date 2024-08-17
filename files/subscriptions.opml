@@ -7,6 +7,7 @@
     <outline type="rss" text="3 Quarks Daily" xmlUrl="https://3quarksdaily.com/feed" htmlUrl="https://3quarksdaily.com"/>
     <outline type="rss" text="Aeon" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co"/>
     <outline type="rss" text="Asian Review of Books" xmlUrl="https://asianreviewofbooks.com/content/feed/" htmlUrl="https://asianreviewofbooks.com/content"/>
+    <outline type="rss" text="Big Think" xmlUrl="https://bigthink.com/feed/" htmlUrl="https://bigthink.com/feed/"/>
     <outline type="rss" text="Books &amp; ideas" xmlUrl="https://booksandideas.net/spip.php?page=backend" htmlUrl="https://booksandideas.net/spip.php?page=backend"/>
     <outline type="rss" text="China Books Review" xmlUrl="https://chinabooksreview.com/feed/" htmlUrl="https://chinabooksreview.com/"/>
     <outline type="rss" text="Compact" xmlUrl="https://www.compactmag.com/rss/" htmlUrl="https://www.compactmag.com/rss/"/>
@@ -449,7 +450,7 @@
     <outline type="rss" text="The Virginian-Pilot: Opinion" xmlUrl="https://www.pilotonline.com/opinion/feed/" htmlUrl="https://www.pilotonline.com"/>
     <outline type="rss" text="The Washington Post" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Awashingtonpost.com&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:washingtonpost.com&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Washington Post: Books" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awashingtonpost.com/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:washingtonpost.com/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
-    <outline type="rss" text="The Washington Post: Opinion" xmlUrl="https://www.washingtonpost.com/arcio/rss/category/opinions/" htmlUrl="https://www.washingtonpost.com/arcio/rss/category/opinions/"/>
+    <outline type="rss" text="The Washington Post: Opinion" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awashingtonpost.com/opinions/&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:washingtonpost.com/opinions/&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="The Wire" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Athewire.in&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:24h+inurl:thewire.in&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline type="rss" text="theAnalysis.news" xmlUrl="https://theanalysis.news/feed/" htmlUrl="https://theanalysis.news/feed/"/>
     <outline type="rss" text="TheWrap" xmlUrl="https://www.thewrap.com/feed/" htmlUrl="https://www.thewrap.com/"/>
