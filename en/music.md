@@ -21,7 +21,7 @@ Complete Chopin:
 
 **Redacted** - <https://redacted.ch/torrents.php>
 
-Application:
+Interview:
 
 <https://interviewfor.red/en/starting.html>
 
