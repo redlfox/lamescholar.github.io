@@ -35,9 +35,11 @@ Torrent File Editor - program for creating a torrent file.
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
-My Anonamouse - <https://www.myanonamouse.net/index.php>
+My Anonamouse - <https://www.myanonamouse.net/index.php><br>
+Ebooks and audiobooks.
 
 ***
+<br>
 
 Application:
 
@@ -52,6 +54,7 @@ AppData\Roaming\mIRC\scripts
 HexChat - <https://hexchat.github.io/downloads.html>
 
 ***
+<br>
 
 Nyaa - <https://nyaa.si/>
 
