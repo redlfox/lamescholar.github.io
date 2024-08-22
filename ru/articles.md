@@ -33,8 +33,6 @@ eLibrary - <https://elibrary.ru/defaultx.asp?>
 
 Наука и жизнь - <https://www.nkj.ru/news/>
 
-Вестник Российской академии наук - <https://elibrary.ru/contents.asp?titleid=7693>
-
 Вопросы истории естествознания и техники - <https://vietmag.org/index.php?dispatch=issues.archive>
 
 Соросовский образовательный журнал - <https://web.archive.org/web/20071130004824/http://journal.issep.rssi.ru/>
@@ -97,6 +95,10 @@ Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 Русская жизнь - <http://rulife.ru/old/index.php?mode=arhiv>
 
 Альтернативы - <https://elibrary.ru/contents.asp?titleid=26309>
+
+Вестник РАН:<br>
+<https://www.ras.ru/publishing/rasherald/rasherald_archive.aspx><br>
+<https://elibrary.ru/contents.asp?titleid=7693>
 
 Свободная мысль - <https://www.elibrary.ru/contents.asp?titleid=9086>
 
