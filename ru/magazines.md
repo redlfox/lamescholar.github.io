@@ -111,7 +111,9 @@ ImWerden:<br>
 
 Наука и жизнь - <https://rutracker.org/forum/viewtopic.php?t=5276847>
 
-Знание - сила - <https://rutracker.org/forum/viewtopic.php?t=5370631>
+Знание - сила:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5370631><br>
+<https://rutracker.org/forum/viewtopic.php?t=3189850>
 
 Земля и Вселенная - <https://rutracker.org/forum/viewtopic.php?t=5899037>
 
