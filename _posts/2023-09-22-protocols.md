@@ -1,7 +1,7 @@
 ---
+comments: true
 layout: post
 tag: Репосты
-comments: true
 title: Найден автор «Протоколов сионских мудрецов»
 ---
 

@@ -1,7 +1,7 @@
 ---
+comments: true
 layout: post
 tag: Посты
-comments: true
 title: От редколлегии // Встречи с прошлым. Выпуск 8 - 1996
 ---
 

@@ -1,7 +1,7 @@
 ---
+comments: true
 layout: post
 tags: Репосты Капица
-comments: true
 title: "Сергей КАПИЦА: Наука в России — удел стариков"
 ---
 

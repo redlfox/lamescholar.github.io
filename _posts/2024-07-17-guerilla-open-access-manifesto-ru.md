@@ -1,7 +1,7 @@
 ---
+comments: true
 layout: post
 tag: Переводы
-comments: true
 title: Манифест партизанского открытого доступа
 ---
 

@@ -1,7 +1,7 @@
 ---
+comments: true
 layout: post
 tags: Репосты Капица
-comments: true
 title: Интернет изменит контуры права на интеллектуальную собственность
 ---
 
