@@ -1,0 +1,73 @@
+---
+comments: true
+layout: post
+tag: Translation
+title: Mikhail Lifshitz - What Not to Be Afraid of
+---
+
+Source: [Лифшиц М. - Мифология древняя и современная - 1979](https://libgen.st/book/index.php?md5=CAAB63CB15436BDEA9D302AF4C31122F)
+
+Translation: lamescholar - 2024-08-24
+<br><br>
+
+# WHAT NOT TO BE AFRAID OF
+
+I
+
+In those times when there were no airplanes flying faster than sound, people searched for eternal, imperishable truth. But in our days, they have become so accustomed to constantly changing their views of the world that any holistic worldview evokes a sense of distrust in them. If the truth is already revealed and its significance extends to all areas of life, what will future humanity do? "A most unspeakable bore,"[^1] as the devil said to Ivan Karamazov.
+
+Critics of Marxism often resort to such arguments, using the prejudices of our age, which are no less false than the prejudices of the times of the Egyptian scarabs, the guardians of eternity. Marxism, its opponents say, seeks to impose on humanity a system of outdated views and thus contradicts its own conclusions about the universal significance of the dialectical method.
+
+Such criticism is facilitated by examples of dogmatic application of the ideas of Marx and Lenin. There is nothing more terrifying than a caricature of truth, no greater mockery than the zeal of its supposed friends. However, the misuse of truth, as Belinsky rightly thought, is not an argument against the truth itself; such an argument holds no significance, at least for independent and sober thought.
+
+Marxism is no more responsible for the vulgarization of its ideas than Christianity is for the stupidity of theological disputes, or the Enlightenment, represented by Diderot or Chernyshevsky, is responsible for the shallow speeches of Madame Kukshina, the emancipated lady from Turgenev's novel "Fathers and Sons." All great ideas have been subjected to vulgarization, and this in itself can serve as indirect proof of their social significance. Thus, Italian Humanism of the 15th–16th centuries degenerated into the petty pedantry of numerous literary-educated officials in the service of European governments, but this in no way diminishes its landmark significance. The revolutionary ideas of the French Enlightenment were vulgarized in France itself, partly turning into the philosophy of enjoyment for the idle aristocracy; yet, to hold these ideas responsible for the moral paradoxes of Marquis de Sade is an endeavor for modern sophists. In Germany, Enlightenment ideas took on an especially shallow form among popular writers like Nicolai, but without Winckelmann and Lessing, the rise of German classical literature and philosophy would have been impossible. Of course, a vaccine against the degeneration of great ideas exists, and only within the framework of the old class civilization is the victory of shallowness inevitable. The development of socialist democracy is the only means against all dogmatism and intellectual impoverishment.
+
+However, referencing dogmatic impoverishment cannot fully encapsulate the essence of the matter, for in a certain sense, Marxism indeed represents the end of development. This sounds strange. Do you mean "the end of a certain period in the development of ideas?" — a sympathetic reader might ask. Partly, yes, but not entirely. Finding a verbal exit is easy, but words often lull the mind, and it always needs to make an effort to rise above the level of commonplace notions.
+
+"Everything flows," said the sage, but dialectics is not reduced to a simple abstraction of movement. In the concrete world, there is nothing uniform, and therefore, 
+there is no uniform flow. Like any human achievement, Marxism marks the end of a time of prolonged searches for a specific form of scientific knowledge, which, in 
+principle, is no longer needed and is finalized *once and for all*. A line has been drawn, and the endless process, having passed through this threshold, will reveal new horizons, move further without repeating itself with monkey-like precision. Eternal development will take its course at another level and in other dimensions. Without this unlimited diversity, in mere constant flow, there would be what might be called "most unspeakable bore," that supposedly Heraclitean tragic constancy of fate, with which Nietzsche's worldview and all the philosophy stemming from that source adorns itself.
+
+The phrase "once and for all" sounds too harsh to our ears, but if the reader takes a moment to think, they will find that many things in the world have indeed happened once and for all. At one point, our distant ancestor stood up and walked. Where he walked and what else he has yet to measure with his steps is another question. However, the law of development certainly does not require him to go back on all fours again or start walking on his head. There is nothing permanent in the world. But—
+
+What life has once taken,<br>
+Fate cannot take from us.[^2]
+
+And if we manage to maintain an upright posture forever, dialectics will not be offended, and such constancy of achievement can hardly be considered stagnation.
+
+However, maintaining an upright posture has brought with it some inconveniences and illnesses! That's true, there are no absolute gains, and perhaps in time some kind of levitation or overcoming of gravity will introduce its own beneficial corrections, naturally accompanied by other losses. It's quite possible. But all of this cannot undo the fundamental boundary once reached by humans at the dawn of their existence, a boundary reached *once and for all*. Let's consider the worst-case scenario for our species—the possibility of biological regression. Even so, no fate can erase from the world's biography what *life has once taken*. What has happened has happened, and at least in an ideal sense, the poet's excellent lines will always remain true.
+
+Only a person drowning in their own bitterness could say: "What’s the point of all your struggles and efforts? After all, if the Arctic ice melts, you’ll all perish—guilty and innocent alike, capitalists and proletarians!" No, if tomorrow or someday in the future a global catastrophe occurs, it still will not erase from the history of the universe the beauty of the Athenian Acropolis, Hegel’s "Logic," Marx’s "Capital," the remarkable combination of philosopher and statesman in the person of Lenin, or the eternal glory of the October Revolution. Fuimus!—we were.
+
+These reflections can be applied to the entire history of culture. There are "elementary conditions of sociality," as Lenin put it, that arose who knows when. We are well aware that their disruption by waves of savagery, associated with wars, famine, the habit of violence, and other phenomena of this kind born from the depths of civilization itself, is at least dangerous for society.
+
+Similarly, there exist the elementary foundations of logical thinking, rooted in the distant past of humanity. They do not need to be rediscovered; they already exist. All subsequent development makes them more flexible without overturning the framework once established, which is necessary for any new historical synthesis.
+
+This is the general law—the law of the transition from content to form, which in turn becomes the condition for any further concrete development. In this sense, there is a grammar of culture in all its manifestations. This includes, for example, the formal characteristics of the genres and types of art, the rules of versification, musical harmony, perspective, and much, much more. Rumors that all of this must be broken in the name of the laws of development that create something absolutely new are akin to the medieval rumors about people with dog’s heads[^3].
+
+If life introduces adjustments to this system of forms developed by all previous history, that is, enriches them, then that's great. But we shouldn't faint at the thought that, in a *certain respect*, the most important part is already done. Ahead lies the infinite diversity of content capable of passing through these gates, these formal conditions, to create, in turn, new, fresh, and to some extent, exhaustive solutions. Every boundary is relative, but if the exposition of Cauchy's materialistic [sic] analysis represents an important milestone in the history of mathematics, then the discovery of calculus by Leibniz and Newton is not merely a deeper furrow. This boundary can rightly be called a major caesura[^4], a critical boundary. And even the presence of something resembling the calculus of infinitesimals among ancient mathematicians does not negate this fact, just as wars between the most savage tribes do not negate the truth that war, in its own devilry, rises with the emergence of private property and the division of land. "He who owns the land, owns the war," they said in the Middle Ages.
+
+Something similar to a major boundary exists in every field, in every stream of increasingly complex development. Let's recall such epochs of the creation of a national literary language as the early 17th century in France or the time from Lomonosov to Pushkin in Russia. After The Captain's Daughter, the history of the Russian language did not end, but in comparable respects, the most important part is already done. Gogol, Ostrovsky, Shchedrin—each has their own style, but no one can write as Sumarokov did, with a "barbarously delicate language." The main boundary is behind us, the critical period, like the epoch of the formation of stars, if it ever existed.
+
+Let the major and the minor change places, transition into one another—while maintaining a certain scale, the difference will always exist, and blurring these boundaries risks confusing our poor minds, turning science into a marketplace of arbitrary opinions, that is, into empty eclecticism. For example, Aristotle's synthesis of logical laws is, in a certain sense, a major caesura and a condition for any more concrete step in this field. Here we are dealing with a simple abstraction of logical thinking, and it goes without saying that the development of dialectical logic fills this abstraction with deeper content. There can be particular logical disciplines that develop certain aspects of logical form (sometimes to the point of extreme paradox). The techniques of new logical disciplines may have their value for scientific knowledge, yet it is impossible to present any of them without the general connections of traditional logic, which will always remain the framework capable of encompassing the most complex formulas of specialized language. There is not a single book in the world, filled to the brim with conditional symbols, that does not ultimately offer its content to the reader as a conclusion derived from accepted premises. Whether these premises are correct and strictly followed in this case—criticism armed with logical thinking in the usual sense of the word will tell us. To abandon this thinking is like trying to lift oneself by the hair, and therefore the rumor about the cancellation of classical logic by new logical disciplines is quite equivalent to the medieval rumor about people with dog’s heads.
+
+It is also incorrect to say that Aristotle's so-called logic is just one of many logical systems, no more valid than any other, and simply different. This idea becomes particularly false when coupled with the notion that belief in the unity and universality of logical thinking is "Eurocentrism," unjustly dismissing other types of thinking, such as primitive logic. We find something similar in the writings of Lévi-Strauss and many contemporary Western authors.
+
+Reason is one, Herzen rightly wrote. "Multiple reasons—this is such nonsense that the human imagination cannot only understand but even conceive it." Indeed, when you expound a fashionable theory of multiple reasons, you are implicitly assuming that your own theory is the only reasonable one, which contradicts its original premise. If, however, your logic does not claim universal significance, then do not assert that there are many different but equally reasonable minds, because such a statement is itself universal. "A different understanding of an object," Herzen wrote, "does not mean that the reasons are different but, firstly, that people are different and, secondly, that truth is defined differently, from different aspects, by one and the same reason depending on the development of the latter."[^5] The word "reason" can be replaced by the word "logic," as logos is the essence of reason—there is no other meaning in this concept.
+
+The same can be said about the so-called non-Aristotelian aesthetics, which denies "mimesis," that is, the representation of real reality in art. Advocates of this new aesthetics have been claiming for a century that the invention of photography makes painting redundant, or at least makes any painting that relies on a more or less deep resemblance to the model unnecessary; and now the argument in favor of replacing traditional painting with the projection of objects or anti-painting, based on dissimilarity to the model, has spread even to the most remote corners. It seems that many contemporaries are too intimidated by the danger of falling behind the eternal movement and struggle between the new and the old—a fact related to the social psychology of the twentieth century.
+<br><br>
+
+#### Footnotes:
+
+[^1]: [Translated](https://1337x.to/torrent/2066231/Fyodor-Dostoevsky-Novels-Stories-Letters-Diaries-54-books/) by Richard Revear and Larissa Volokhonsky. — lamescholar
+
+[^2]: From Nekrasov's poem [New Year](https://ru.wikisource.org/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B4_(%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2)), lines 35-36. — lamescholar
+
+[^3]: For Russian-speaking audience a phrase "rumors about people with dog's heads" is a reference to episode from Ostrovsky's play The Storm. In this episode couple of characters discuss this rumor. This episode is supposed to show the ignorance of these characters. Therefore in common discourse the phrase works as a metaphor for narrow-minded superstition. — lamescholar
+
+[^4]: Caesura is a break in the flow of sound in a line of verse occasioned usually by a rhetorical pause and occurring usually at about the middle of the verse ([Webster's Third New International Dictionary](https://lamescholar.github.io/en/reference-books)). — lamescholar
+
+[^5]: Alexander Herzen, Selected Philosophical Works (1956), p. 131 
+
+[^6]: 

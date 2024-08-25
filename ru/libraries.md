@@ -24,11 +24,11 @@ Twirpx - <https://www.twirpx.com/>
 
 Флибуста - <http://flibusta.is/a>
 
-Публичная библиотека - <http://publ.lib.ru/>
+НЭБ - <https://rusneb.ru/>
 
 ImWerden - <https://imwerden.de/>
 
-НЭБ - <https://rusneb.ru/>
+Публичная библиотека - <http://publ.lib.ru/>
 
 Internet Archive - <https://archive.org/>
 
