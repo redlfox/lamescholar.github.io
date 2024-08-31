@@ -49,9 +49,6 @@ Import config file. Get it from this address:
 To login use password you chose installing WireGuard on your server.
 <br><br>
 
-2) Mullvad
-<br><br>
-
 3) Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=en>
 <br><br>
 

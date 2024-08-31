@@ -30,6 +30,8 @@ ImWerden - <https://imwerden.de/>
 
 Публичная библиотека - <http://publ.lib.ru/>
 
+Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
+
 Internet Archive - <https://archive.org/>
 
 Google Books - <https://books.google.ru/advanced_book_search?hl=ru>
