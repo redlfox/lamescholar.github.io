@@ -175,8 +175,6 @@ Boerse (DE) - <https://boerse.am/boerse/dokumente/magazine-und-zeitschriften/>
 Edicola di MIRCrew (IT) - <https://mircrew-releases.org/viewforum.php?f=43&sid=d24bb98af07354a797bab77e64da30ec>
 <br><br>
 
-workerbee - <https://1337x.to/user/workerbee/>
-
 magzDB - <http://magzdb.org/>
 
 Internet Archive microfilms - <https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22>
