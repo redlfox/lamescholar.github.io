@@ -50,6 +50,8 @@ To login use password you chose installing WireGuard on your server.
 <br><br>
 
 2) AirVPN
+
+Got port-forwarding. For split tunneling use [WireSock](https://www.wiresock.net/wiresock-vpn-client/download).
 <br><br>
 
 3) Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=en>
