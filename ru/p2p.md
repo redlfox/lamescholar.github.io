@@ -80,3 +80,9 @@ BTDigg - <https://btdig.com/index.htm>
 Информация:
 
 <https://habr.com/ru/articles/318400/>
+
+Unblockit - <https://unblockit.pages.dev/>
+
+FMHY - <https://fmhy.net/>
+
+The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
