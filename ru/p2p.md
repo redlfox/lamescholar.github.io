@@ -63,9 +63,7 @@ The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
 
 Кинозал - <https://kinozal.tv/>
 
-1137x:<br>
-<https://1337x.to/><br>
-<https://1337x.to/user/workerbee/>
+1137x - <https://1337x.to/>
 
 BT4G - <https://bt4gprx.com/>
 
