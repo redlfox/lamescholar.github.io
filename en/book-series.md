@@ -13,6 +13,11 @@ Publishing History - <https://www.publishinghistory.com/>
 A Series of Series - <https://seriesofseries.com/>
 <br><br>
 
+You can find a lot of collected works on 1337x compiled by workerbee:
+
+workerbee - <https://1337x.to/user/workerbee/>
+<br><br>
+
 {:refdef: style="text-align: center;"}
 ![Books](/images/booksen.jpg)
 {: refdef}
