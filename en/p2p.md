@@ -60,8 +60,6 @@ Boerse - <https://boerse.am/>
 
 MIRCrew - <https://mircrew-releases.org/index.php>
 
-The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
-
 1137x:<br>
 <https://1337x.to/><br>
 <https://1337x.to/user/workerbee/>
@@ -79,3 +77,9 @@ Often releases contain disk images (.iso, .mdf). They are mounted, for example, 
 Information:
 
 [How to search and download unpopular and old files on the internet](/2023/09/26/valdik.html)
+
+Unblockit - <https://unblockit.pages.dev/>
+
+FMHY - <https://fmhy.net/>
+
+The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
