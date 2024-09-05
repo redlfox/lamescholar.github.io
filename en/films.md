@@ -23,13 +23,16 @@ Series.
 
 MVGroup - <https://forums.mvgroup.org/><br>
 Documentaries. You need to register.
+
+Subdl - <https://subdl.com/><br>
+Subtitles.
 <br><br>
 
 To play MKV, MP4 or AVI file install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) and open file with Media Player Classic.
 
 Hotkeys for Media Player Classic:
 
-D - to find subtitles. Ctrl+S - to save subtitles. Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
+Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
 <br><br>
 
 To rip DVD or Blu-Ray:

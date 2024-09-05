@@ -26,6 +26,9 @@ EZTV - <https://eztvx.to/home><br>
 MVGroup - <https://forums.mvgroup.org/><br>
 Документалки. Нужно зарегистрироваться.
 
+Subdl - <https://subdl.com/><br>
+Субтитры.
+
 Легенда<br>
 FanSerials - <https://vk.com/myserianet>
 <br><br>
@@ -34,7 +37,7 @@ FanSerials - <https://vk.com/myserianet>
 
 Горячие клавиши для Media Player Classic:
 
-D - найти субтитры. Ctrl+S - сохранить субтитры. Ctrl+L - подгрузить субтитры. W - выключить субтитры. F1, F2 - двигать субтитры. Cltr+O - подгрузить озвучку.
+Ctrl+L - подгрузить субтитры. W - выключить субтитры. F1, F2 - двигать субтитры. Cltr+O - подгрузить озвучку.
 <br><br>
 
 Чтобы рипнуть DVD или Blu-Ray:
