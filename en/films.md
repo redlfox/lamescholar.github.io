@@ -37,6 +37,8 @@ Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitle
 
 To rip DVD or Blu-Ray:
 
-1) Extract contents of the disk into MKV container with [MakeMKV](https://rutracker.org/forum/viewtopic.php?t=6237783)
+1) Get the disc. Buy it or rent it from local library.
 
-2) Compress MKV with [HandBrake](https://handbrake.fr/downloads.php)
+2) Extract contents of the disk into MKV container with [MakeMKV](https://rutracker.org/forum/viewtopic.php?t=6237783).
+
+3) Compress MKV with [HandBrake](https://handbrake.fr/downloads.php).
