@@ -3,7 +3,7 @@ comments: true
 title: Reference books
 ---
 
-Programs:
+#### Programs:
 
 GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%20builds/>
 
@@ -24,7 +24,7 @@ Creating dictionaries for GoldenDict:
 <https://code.google.com/archive/p/stardict-3/downloads>
 <br><br>
 
-Translators:
+#### Translators:
 
 Yandex Translate - <https://translate.yandex.ru/>
 
@@ -33,7 +33,7 @@ Google Translate - <https://translate.google.com/>
 [ChatGPT](/en/chatgpt)
 <br><br>
 
-Dictionaries:
+#### Dictionaries:
 
 Multitran - <https://www.multitran.com/>
 
@@ -48,7 +48,7 @@ Free Dictionary. Idioms and phrases - <https://idioms.thefreedictionary.com/>
 Visual Dictionary - <http://www.visualdictionaryonline.com/>
 <br><br>
 
-Encyclopedias:
+#### Encyclopedias:
 
 Encyclopaedia Britannica:
 

@@ -3,7 +3,7 @@ comments: true
 title: Справочники
 ---
 
-Программы:
+#### Программы:
 
 GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%20builds/>
 
@@ -26,7 +26,7 @@ GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%2
 ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475>
 <br><br>
 
-Переводчики:
+#### Переводчики:
 
 Yandex Translate - <https://translate.yandex.ru/>
 
@@ -37,7 +37,7 @@ Google Translate - <https://translate.google.com/>
 Славеница - <http://slavenica.com/>
 <br><br>
 
-Словари:
+#### Словари:
 
 Multitran - <https://www.multitran.com/>
 
@@ -52,7 +52,7 @@ Free Dictionary. Idioms and phrases - <https://idioms.thefreedictionary.com/>
 Visual Dictionary - <http://www.visualdictionaryonline.com/>
 <br><br>
 
-Энциклопедии:
+#### Энциклопедии:
 
 Большая российская энциклопедия - <https://old.bigenc.ru/>
 
