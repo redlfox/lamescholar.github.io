@@ -7,20 +7,14 @@ title: Reference books
 
 GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%20builds/>
 
-Dictionaries for GoldenDict:
-
-<https://rutracker.org/forum/viewtopic.php?t=3582459>
-
-<https://rutracker.org/forum/viewtopic.php?t=3369767>
-
-<http://dadako.narod.ru/paperpoe.htm>
-
+Dictionaries for GoldenDict:<br>
+<https://rutracker.org/forum/viewtopic.php?t=3582459><br>
+<https://rutracker.org/forum/viewtopic.php?t=3369767><br>
+<http://dadako.narod.ru/paperpoe.htm><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
 
-Creating dictionaries for GoldenDict:
-
-<http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html>
-
+Creating dictionaries for GoldenDict:<br>
+<http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html><br>
 <https://code.google.com/archive/p/stardict-3/downloads>
 <br><br>
 
@@ -50,12 +44,9 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/>
 
 #### Encyclopedias:
 
-Encyclopaedia Britannica:
-
-<https://rutracker.org/forum/viewtopic.php?t=6307320>
-
-<https://rutracker.org/forum/viewtopic.php?t=6304689>
-
+Encyclopaedia Britannica:<br>
+<https://rutracker.org/forum/viewtopic.php?t=6307320><br>
+<https://rutracker.org/forum/viewtopic.php?t=6304689><br>
 <https://www.britannica.com/>
 
 Encyclopedia Americana - <https://rutracker.org/forum/viewtopic.php?t=6311493>

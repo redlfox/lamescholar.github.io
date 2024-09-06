@@ -7,20 +7,14 @@ title: Справочники
 
 GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%20builds/>
 
-Словари для GoldenDict:
-
-<https://rutracker.org/forum/viewtopic.php?t=3582459>
-
-<https://rutracker.org/forum/viewtopic.php?t=3369767>
-
-<http://dadako.narod.ru/paperpoe.htm>
-
+Словари для GoldenDict:<br>
+<https://rutracker.org/forum/viewtopic.php?t=3582459><br>
+<https://rutracker.org/forum/viewtopic.php?t=3369767><br>
+<http://dadako.narod.ru/paperpoe.htm><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
 
-Создание словарей для GoldenDict:
-
-<http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html>
-
+Создание словарей для GoldenDict:<br>
+<http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html><br>
 <https://code.google.com/archive/p/stardict-3/downloads>
 
 ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475>
@@ -56,14 +50,10 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/>
 
 Большая российская энциклопедия - <https://old.bigenc.ru/>
 
-Большая советская энциклопедия:
-
-<https://rutracker.org/forum/viewtopic.php?t=5184546>
-
-<https://rutracker.org/forum/viewtopic.php?t=4892699>
-
-<https://rutracker.org/forum/viewtopic.php?t=4483562>
-
+Большая советская энциклопедия:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5184546><br>
+<https://rutracker.org/forum/viewtopic.php?t=4892699><br>
+<https://rutracker.org/forum/viewtopic.php?t=4483562><br>
 <https://www.booksite.ru/fulltext/1/001/008/130/index.htm>
 
 Энциклопедический словарь Брокгауза и Ефрона - <https://ru.wikisource.org>
@@ -74,12 +64,6 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/>
 
 Академик - <https://academic.ru/>
 
-Издательство Большая российская энциклопедия:
-
-<https://ru.wikipedia.org>
-
-<http://publ.lib.ru/ARCHIVES/S/Sovetskaya_Enciklopediya_(izdatel'stvo)/_SE.html>
-
 Новая философская энциклопедия - <https://iphlib.ru/library/collection/newphilenc/browse/CL1>
 
 Большая Медицинская Энциклопедия - <https://xn--90aw5c.xn--c1avg/>
@@ -88,12 +72,13 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/>
 
 Этимологические словари - <https://lexicography.online/etymology/>
 
-Encyclopaedia Britannica:
+Издательство Большая российская энциклопедия:<br>
+[Wikipedia]<br>(https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE))<br>
+<http://publ.lib.ru/ARCHIVES/S/Sovetskaya_Enciklopediya_(izdatel'stvo)/_SE.html>
 
-<https://rutracker.org/forum/viewtopic.php?t=6307320>
-
-<https://rutracker.org/forum/viewtopic.php?t=6304689>
-
+Encyclopaedia Britannica:<br>
+<https://rutracker.org/forum/viewtopic.php?t=6307320><br>
+<https://rutracker.org/forum/viewtopic.php?t=6304689><br>
 <https://www.britannica.com/>
 
 Encyclopedia Americana - <https://rutracker.org/forum/viewtopic.php?t=6311493>
