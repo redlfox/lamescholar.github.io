@@ -13,6 +13,9 @@ RuTracker - <https://rutracker.org/forum/index.php>
 Релиз-группы: QxR, UTR.<br>
 Запрос: название QxR
 
+Subdl - <https://subdl.com/><br>
+Субтитры.
+
 TorrentGalaxy - <https://torrentgalaxy.mx/>
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
@@ -25,9 +28,6 @@ EZTV - <https://eztvx.to/home><br>
 
 MVGroup - <https://forums.mvgroup.org/><br>
 Документалки. Нужно зарегистрироваться.
-
-Subdl - <https://subdl.com/><br>
-Субтитры.
 
 Легенда<br>
 FanSerials - <https://vk.com/myserianet>

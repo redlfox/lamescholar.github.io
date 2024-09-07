@@ -11,6 +11,9 @@ RuTracker - <https://rutracker.org/forum/index.php>
 Release groups: QxR, UTR.<br>
 Quiry: title QxR
 
+Subdl - <https://subdl.com/><br>
+Subtitles.
+
 TorrentGalaxy - <https://torrentgalaxy.mx/>
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
@@ -23,9 +26,6 @@ Series.
 
 MVGroup - <https://forums.mvgroup.org/><br>
 Documentaries. You need to register.
-
-Subdl - <https://subdl.com/><br>
-Subtitles.
 <br><br>
 
 To play MKV, MP4 or AVI file install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) and open file with Media Player Classic.
