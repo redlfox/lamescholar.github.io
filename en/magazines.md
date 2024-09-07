@@ -179,7 +179,8 @@ workerbee - <https://1337x.to/user/workerbee/>
 
 magzDB - <http://magzdb.org/>
 
-Internet Archive microfilms - <https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22>
+Internet Archive microfilms - <https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22><br>
+IrfanView. Resize: 50%. Sharpen: 30. If no illustrations, Contrast: 50.
 <br><br>
 
 You can find journals by searching:
