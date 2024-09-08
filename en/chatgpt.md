@@ -9,7 +9,7 @@ ChatGPT is a great tool for translation and self-education.
 ChatGPT input limit is 2000 characters. Therefore if you're translating a long text, you need to send it in chunks:
 
 ```
-Translate from German to English.
+Translate from German to English. Output only the translation.
 
 chunk of the text
 ```
