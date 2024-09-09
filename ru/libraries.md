@@ -8,11 +8,11 @@ title: Библиотеки
 {: refdef}
 <br>
 
-RuTracker - <https://rutracker.org/forum/index.php>
-
+RuTracker - <https://rutracker.org/forum/index.php><br>
 Мой аккаунт на рутрекере - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
-YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
+YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
+Место для поиска книг на французском.
 
 Library Genesis - <https://libgen.st/>
 
@@ -36,6 +36,8 @@ HathiTrust - <https://www.hathitrust.org/>
 
 Wikisource - <https://wikisource.org/wiki/Main_Page>
 
+Project Gutenberg - <https://www.gutenberg.org/>
+
 НЭБ - <https://rusneb.ru/><br>
 Много хороших сканов дореволюционных и раннесоветских книг.
 
@@ -52,8 +54,6 @@ RoyalLib.com - <https://royallib.com/>
 Научная библиотека - <http://niv.ru/>
 
 Lib.Ru: Библиотека Мошкова - <http://lib.ru/>
-
-Project Gutenberg - <https://www.gutenberg.org/>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases>
 <br><br>

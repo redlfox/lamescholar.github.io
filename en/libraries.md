@@ -8,11 +8,11 @@ title: Libraries
 {: refdef}
 <br>
 
-RuTracker - <http://rutracker.org/forum/index.php>
-
+RuTracker - <http://rutracker.org/forum/index.php><br>
 My RuTracker account - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
-YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
+YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
+A place to look for French books.
 
 Library Genesis - <https://libgen.st/>
 
