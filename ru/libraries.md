@@ -26,14 +26,6 @@ Twirpx - <https://www.twirpx.com/>
 
 Internet Archive - <https://archive.org/>
 
-НЭБ - <https://rusneb.ru/>
-
-ImWerden - <https://imwerden.de/>
-
-Публичная библиотека - <http://publ.lib.ru/>
-
-Общество распространения полезных книг - <https://orpk.org/>
-
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
 
 OceanofPDF - <https://oceanofpdf.com/>
@@ -43,6 +35,15 @@ Google Books - <https://books.google.ru/advanced_book_search?hl=ru>
 HathiTrust - <https://www.hathitrust.org/>
 
 Wikisource - <https://wikisource.org/wiki/Main_Page>
+
+НЭБ - <https://rusneb.ru/><br>
+Много хороших сканов дореволюционных и раннесоветских книг.
+
+ImWerden - <https://imwerden.de/>
+
+Публичная библиотека - <http://publ.lib.ru/>
+
+Общество распространения полезных книг - <https://orpk.org/>
 
 RoyalLib.com - <https://royallib.com/>
 
