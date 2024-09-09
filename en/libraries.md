@@ -24,9 +24,11 @@ Twirpx - <https://www.twirpx.com/>
 
 Флибуста - <http://flibusta.is/a>
 
+Internet Archive - <https://archive.org/>
+
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
 
-Internet Archive - <https://archive.org/>
+OceanofPDF - <https://oceanofpdf.com/>
 
 Google Books - <https://books.google.ru/advanced_book_search?hl=en>
 
