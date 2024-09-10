@@ -24,20 +24,6 @@ Twirpx - <https://www.twirpx.com/>
 
 Флибуста - <http://flibusta.is/a>
 
-Internet Archive - <https://archive.org/>
-
-Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
-
-OceanofPDF - <https://oceanofpdf.com/>
-
-Google Books - <https://books.google.ru/advanced_book_search?hl=ru>
-
-HathiTrust - <https://www.hathitrust.org/>
-
-Wikisource - <https://wikisource.org/wiki/Main_Page>
-
-Project Gutenberg - <https://www.gutenberg.org/>
-
 НЭБ - <https://rusneb.ru/><br>
 Много хороших сканов дореволюционных и раннесоветских книг.
 
@@ -47,6 +33,18 @@ ImWerden - <https://imwerden.de/>
 
 Общество распространения полезных книг - <https://orpk.org/>
 
+Internet Archive - <https://archive.org/>
+
+Google Books - <https://books.google.ru/advanced_book_search?hl=ru>
+
+HathiTrust - <https://www.hathitrust.org/>
+
+Wikisource - <https://wikisource.org/wiki/Main_Page>
+
+Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
+
+OceanofPDF - <https://oceanofpdf.com/>
+
 RoyalLib.com - <https://royallib.com/>
 
 Библиотека "Нестор" - <http://libelli.ru/library/alpha.htm>
@@ -54,6 +52,8 @@ RoyalLib.com - <https://royallib.com/>
 Научная библиотека - <http://niv.ru/>
 
 Lib.Ru: Библиотека Мошкова - <http://lib.ru/>
+
+Project Gutenberg - <https://www.gutenberg.org/>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases>
 <br><br>
