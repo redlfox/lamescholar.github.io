@@ -9,7 +9,7 @@ RuTracker - <https://rutracker.org/forum/index.php>
 
 1337x - <https://1337x.to/home/><br>
 Release groups: QxR, UTR.<br>
-Quiry: title QxR
+Search: title QxR
 
 Subdl - <https://subdl.com/><br>
 Subtitles.

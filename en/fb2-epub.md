@@ -28,8 +28,6 @@ Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy
 eBoox
 
 Translation - Yandex Translator
-
-PDF, DjVu - PocketBook Reader
 <br><br>
 
 #### Text recognition:
