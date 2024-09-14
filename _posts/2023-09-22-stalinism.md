@@ -158,7 +158,7 @@ title: "Дугин А.Н. - Сталинизм: легенды и факты"
 
 - [Пыхалов И. - Каковы масштабы "сталинских репрессий"?](http://stalinism.narod.ru/docs/repress/repress.htm)
 
-- [Кагарлицкий Б.Ю. - Cчет на миллионы. Хороший фашизм и фашизм плохой](http://rulife.ru/old/mode/article/1307/)
+- [Кагарлицкий Б.Ю. - Cчет на миллионы. Хороший фашизм и фашизм плохой](https://web.archive.org/web/20220107035825/http://rulife.ru/old/mode/article/1307/)
 
 - [Дугин А.Н. - Говорят архивы: неизвестные страницы ГУЛАГа](https://disk.yandex.ru/d/sHBSKCdNqhd7TQ)
 
