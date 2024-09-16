@@ -46,4 +46,4 @@ To rip DVD or Blu-Ray:
 
 To rip from streaming services, install:
 
-StreamFab - <https://1337x.to/search/StreamFab/1/>
+StreamFab - <https://1337x.to/sort-search/streamfab/time/desc/1/>
