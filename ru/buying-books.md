@@ -61,7 +61,7 @@ Amazon - 	<https://www.amazon.com/>
 
 eBay - <https://www.ebay.com/>
 
-Globus Books - <https://www.globusbooks.com/>
+Globus Books - <https://www.globusbooks.com/browse.php>
 
 Vasha-Kniga.com - <https://www.vasha-kniga.com/>
 <br><br>
