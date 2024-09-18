@@ -24,7 +24,7 @@ Nickname - legen848dary
 
 qBittorent - <https://www.qbittorrent.org/download.php>
 
-Recommendations. Limit upload speed to 2 MB/s. Limit upload slots to 4, upload sloats of single torrent - to 2. This way you won't have much load on your disk and internet, you won't disperse upload speed on many peers. qBittorent allow you to rename torrent folder and keep seeding with no problem. It's useful, if you organize your library in special way and folder named in inappropriate way.
+Recommendations. Limit upload speed to 2 MB/s. This way you won't have much load on your disk and internet. qBittorent allow you to rename torrent folder and keep seeding with no problem. It's useful, if you organize your library in special way and folder named in inappropriate way.
 
 Torrent File Editor - program for creating a torrent file.
 
