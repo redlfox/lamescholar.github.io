@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-My nickname is lamescholar. I made this site using [Jekyll](/en/jekyll) to spread access to sources of information.
+My nickname is lamescholar. I made this site using [Jekyll](/en/jekyll) to spread access to sources.
 
-Мой ник - lamescholar. Я сделал этот сайт с помощью [Jekyll] для распространения доступа к источникам информации.
+Мой ник - lamescholar. Я сделал этот сайт с помощью [Jekyll](/ru/jekyll) для распространения доступа к источникам.
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
