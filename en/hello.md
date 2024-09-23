@@ -16,7 +16,7 @@ to [research](/en/research) stuff interesting for you,<br>
 to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
 <br><br>
 
-Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet free flow of information, dismissively called piracy, remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Information is strictly conducted via commodity production and rent that bind the distribution of the cultural heritage of humanity via the Internet.
+Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet free flow of information, called piracy, remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Information is strictly conducted via commodity production and rent that bind the distribution of the cultural heritage of humanity via the Internet.
 
 Help share the knowledge. Share the link.
 
