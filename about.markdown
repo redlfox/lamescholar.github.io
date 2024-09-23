@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-I made this site using [Jekyll](/en/jekyll) to spread access to sources. Evenly distributed knowledge is essential to overcome the alienation between people.
+Equal access to knowledge is essential to overcome the alienation between people. I made this site using [Jekyll](/en/jekyll) to spread access to sources.
 
-Я сделал этот сайт с помощью [Jekyll](/ru/jekyll), чтобы доступ к источникам. Равномерно распространённое знание необходимо для преодоления отчуждения между людьми.
+Равный доступ к знанию необходим для преодоления отчуждения между людьми. Я сделал этот сайт с помощью [Jekyll](/ru/jekyll) для распространения доступа к источникам.
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
