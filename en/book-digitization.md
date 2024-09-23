@@ -64,7 +64,7 @@ Scans are processed by special programs.
 
 + After photographing, check if you have missed a page or photographed one page twice. An effective method is to quickly scroll 10 photos and see if the page number has grown by 10 or not. If it grew by 10, there was no mistake.
 
-+ **Caution.** Do not release the book earlier than a year after its publication. If you publish the book too early, it will undermine the book's sales during the period of most active sales, which may cause a conflict with the copyright holder.
++ **Caution.** Do not release the book earlier than a year after its publication to avoid the conflict with the copyright holder. If you publish the book too early, it will undermine the book's sales.
 <br><br>
 
 {:refdef: style="text-align: center;"}
