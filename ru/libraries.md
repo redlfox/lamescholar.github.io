@@ -58,7 +58,7 @@ Project Gutenberg - <https://www.gutenberg.org/>
 NYPL - <https://www.nypl.org/research/collections/articles-databases>
 <br><br>
 
-Если домен Library Genesis, Z-Library или Sci-Hub блокируют, новый смотри на Википедии.
+Если домен Library Genesis, Z-Library или Sci-Hub заблокирован, новый смотри на Википедии.
 <br><br>
 
 Книжные сообщества в ВК:
