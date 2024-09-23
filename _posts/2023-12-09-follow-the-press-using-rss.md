@@ -22,7 +22,7 @@ Author: lamescholar - 2023-12-09
 **1) [VPN](/en/vpn)**
 <br><br>
 
-**2) Bypass Paywalls Clean is an extension that opens articles accessible only to subscribers of newspapers and magazines.**
+**2) Bypass Paywalls Clean extension opens articles accessible only to subscribers of newspapers and magazines.**
 
 <https://twitter.com/Magnolia1234B>
 
