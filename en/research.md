@@ -3,10 +3,10 @@ comments: true
 title: Research
 ---
 
-A guide to research on a specific topic.
+My guide to research on a specific topic.
 <br><br>
 
-To begin with, you should look at the review articles. You can find a bibliography in them. Review articles can be found in encyclopedias. Look [Reference](/en/reference).
+First, look at the review articles. You can find a bibliography in them. Review articles can be found in encyclopedias. Look [Reference](/en/reference).
 
 Wikipedia articles have a bibliography.
 
@@ -19,7 +19,7 @@ And finally, you can look at this universal bibliography:
 <https://rutracker.org/forum/viewtopic.php?t=6314400>
 <br><br>
 
-And then go to look for sources:
+Then go to look for sources:
 
 [Particular book](/en/book-searching)
 
