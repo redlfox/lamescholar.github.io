@@ -7,7 +7,7 @@ permalink: /about/
 
 Equal access to knowledge is essential to overcome the alienation between people. I made this site using [Jekyll](/en/jekyll) to spread access to sources.
 
-Равный доступ к знанию необходим для преодоления отчуждения между людьми. Я сделал этот сайт с помощью [Jekyll](/ru/jekyll) для распространения доступа к источникам.
+Равный доступ к знанию необходим для преодоления отчуждения между людьми. Я сделал этот сайт с помощью [Jekyll](/ru/jekyll), чтобы распространить доступ к источникам.
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
