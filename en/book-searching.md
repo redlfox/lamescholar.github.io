@@ -3,7 +3,7 @@ comments: true
 title: Book searching
 ---
 
-Whenever I'm looking for an ebook, I check 6 sources:
+When I'm looking for an ebook, I check 6 sources:
 
 Library Genesis - <https://libgen.is/>
 
@@ -18,7 +18,7 @@ Twirpx - <https://www.twirpx.org/>
 Flibusta - <http://flibusta.is/a>
 <br><br>
 
-If the book is in English and it is not in these 6 sources, you can look at the Internet Archive. There are a lot of digitized books there due to the cooperation with American libraries:
+If the book is in English and it is not in these 6 sources, you should look at the Internet Archive. There are a lot of digitized books there due to the cooperation with American libraries:
 
 <https://archive.org/>
 <br><br>
