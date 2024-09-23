@@ -14,7 +14,7 @@ DuckDuckGo gives out good materials, in which you can also find literature on th
 
 <https://duckduckgo.com/>
 
-Finally, you can look at this universal bibliography:
+Finally, look at this universal bibliography:
 
 <https://rutracker.org/forum/viewtopic.php?t=6314400>
 <br><br>
