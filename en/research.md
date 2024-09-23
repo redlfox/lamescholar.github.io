@@ -19,7 +19,7 @@ And finally, you can look at this universal bibliography:
 <https://rutracker.org/forum/viewtopic.php?t=6314400>
 <br><br>
 
-And then go to look for:
+And then go to look for sources:
 
 [Particular book](/en/book-searching)
 

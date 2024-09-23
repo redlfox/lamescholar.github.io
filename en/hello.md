@@ -11,7 +11,8 @@ With this collection of guides you will be able<br>
 to [create](/en/book-digitization), [share](/en/how-to-share-your-stuff), [find](/en/book-searching) and [read](/en/reading-ebooks) ebooks,<br>
 to rip [DVDs](/en/films) and [CDs](/en/music#digitizing-cds),<br>
 to digitze [vinyl records](/en/music#digitizing-vinyl-records),<br>
-to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer.
+to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
+to [research](/en/research) stuff interesting for you.
 <br><br>
 
 Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet free flow of information, called piracy, remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Сommodity production and rent bind the distribution of the cultural heritage of humanity via the Internet.

@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-This site is made to spread access to sources. Made using [Jekyll](/en/jekyll).
+My nickname is lamescholar. I made this site using [Jekyll](/en/jekyll) to spread access to sources of information.
 
-Этот сайт создан для распространения доступа к источникам. Cделан с помощью [Jekyll](/ru/jekyll).
+Мой ник - lamescholar. Я сделал этот сайт с помощью [Jekyll] для распространения доступа к источникам информации.
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
