@@ -12,10 +12,11 @@ to [create](/en/book-digitization), [share](/en/how-to-share-your-stuff), [find]
 to rip [DVDs](/en/films) and [CDs](/en/music#digitizing-cds),<br>
 to digitze [vinyl records](/en/music#digitizing-vinyl-records),<br>
 to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
-to [research](/en/research) stuff interesting for you.
+to [research](/en/research) stuff interesting for you,<br>
+to follow stuff happening in the world 
 <br><br>
 
-Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet free flow of information, called piracy, remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Сommodity production and rent bind the distribution of the cultural heritage of humanity via the Internet.
+Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet free flow of information, dismissively called piracy, remains undeground, little known to the public. The reason for that is intellectual property, standing in the way of true freedom of information. Information is strictly conducted via commodity production and rent that bind the distribution of the cultural heritage of humanity via the Internet.
 
 Help share the knowledge. Share the link.
 
