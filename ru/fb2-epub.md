@@ -39,11 +39,11 @@ ABBYY Finereader PDF 15 - <https://rutracker.org/forum/viewtopic.php?t=6040898>
 
 <https://www.youtube.com/@andreilazarov8881/videos>
 
-FictionBook Editor 2.6.6:
+FictionBook Editor:
 
 <https://download.cnet.com/MSXML-4-0-Service-Pack-2-Microsoft-XML-Core-Services/3000-2070_4-10726922.html>
 
-<https://code.google.com/archive/p/fictionbookeditor/downloads>
+<https://github.com/sensboston/fictionbookeditor/releases>
 
 При расплывчатом тексте те же настройки совместимости, что и для WinDjView. См. [DjVu](/ru/djvu).
 <br><br>
