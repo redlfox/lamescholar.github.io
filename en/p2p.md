@@ -15,7 +15,7 @@ Nickname - legen848dary
 
 #### Direct Connect
 
-DC++ - <https://sourceforge.net/projects/dcplusplus/>
+ApexDC++ - <https://sourceforge.net/projects/apexdc/>
 
 Nickname - legen848dary
 <br><br>
