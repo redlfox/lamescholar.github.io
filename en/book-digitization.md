@@ -20,7 +20,7 @@ Stand
 
 Lamp
 
-Weight (for example, a puck) for pressing pages
+Weight for pressing pages (for example, a puck)
 
 Power bank
 
@@ -58,7 +58,7 @@ Scans are processed by special programs.
 
 + Before digitization check if the book is already on the Internet. Look [Book searching](/en/book-searching).
 
-+ How to get the book for digitization? Get it in the library. Sign up for the largest local library: there you can find books and periodicals that you won't find anywhere else. If the largest local library allows reading only inside the library, ask if there is a paid service of photographing, and if there is, photo the book inside the library. If you didn't find necessary book in local libraries, use interlibrary loan: find the book on [WorldCat](https://search.worldcat.org/) and head to interlibrary loan department of the largest local library. As a last resort, buy the book.
++ How to get the book for digitization? Get it in the library. Sign up for the large local library: there you can find books and periodicals that you won't find anywhere else. If the largest local library allows reading only inside the library, ask if there is a paid service of photographing, and if there is, photo the book inside the library. If you didn't find necessary book in local libraries, use interlibrary loan: find the book on [WorldCat](https://search.worldcat.org/) and head to interlibrary loan department of the large local library. As a last resort, buy the book.
 
 + During digitization, you can listen to lecture, podcast or audiobook.
 

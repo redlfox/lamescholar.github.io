@@ -15,7 +15,7 @@ Soulseek - <http://www.slsknet.org/news/node/1>
 
 #### Direct Connect
 
-ApexDC++ - <https://sourceforge.net/projects/apexdc/>
+ApexDC++ - <https://www.apexdc.net/download/>
 
 Ник - legen848dary
 <br><br>
