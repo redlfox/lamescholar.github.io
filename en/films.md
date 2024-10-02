@@ -44,4 +44,4 @@ To rip DVD or Blu-Ray:
 3) Compress MKV with [HandBrake](https://handbrake.fr/downloads.php).
 <br><br>
 
-To rip from streaming services, look for pazu streaming service name on [1337x](https://1337x.to/home/) and [BT4G](https://bt4gprx.com/).
+To rip from streaming services, look for <code>pazu streaming service name</code> on [1337x](https://1337x.to/home/) and [BT4G](https://bt4gprx.com/).
