@@ -165,8 +165,6 @@ Meduza - <https://meduza.io/articles>
 
 <https://rutracker.org/forum/viewtopic.php?t=6034837>
 
-Совершенно секретно - <https://rutracker.org/forum/viewtopic.php?t=6321286>
-
 Инженерная газета - <https://www.en-gzt.ru/arhiv-pechatnyh-vypuskov-gazety/>
 <br><br>
 
