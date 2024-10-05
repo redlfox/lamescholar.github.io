@@ -1,7 +1,7 @@
 ---
-comments: true
 layout: post
 tag: Посты
+comments: true
 title: Сага о Винланде
 ---
 

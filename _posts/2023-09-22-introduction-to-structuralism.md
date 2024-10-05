@@ -1,7 +1,7 @@
 ---
-comments: true
 layout: post
 tag: Reposts
+comments: true
 title: A Gentle Introduction to Structuralism, Postmodernism And All That
 ---
 

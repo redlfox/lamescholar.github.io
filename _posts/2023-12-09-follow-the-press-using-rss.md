@@ -1,7 +1,7 @@
 ---
-comments: true
 layout: post
 tag: Posts
+comments: true
 title: How to follow the press using RSS?
 ---
 

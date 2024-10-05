@@ -1,7 +1,7 @@
 ---
-comments: true
 layout: post
 tag: Репосты
+comments: true
 title: М.В. Ломоносов и его ученая деятельность. Очерк Е. Костко
 ---
 

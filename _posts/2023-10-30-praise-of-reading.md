@@ -1,7 +1,7 @@
 ---
-comments: true
 layout: post
 tag: Translations
+comments: true
 title: Praise of reading (and the new humanism)
 ---
 

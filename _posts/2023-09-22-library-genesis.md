@@ -1,7 +1,7 @@
 ---
-comments: true
 layout: post
 tag: Переводы
+comments: true
 title: "Library Genesis: рождение глобальной научной теневой библиотеки"
 ---
 
