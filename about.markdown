@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-Equal access to knowledge is essential to overcome the alienation between people. This site is made to spread access to sources. Made with [Jekyll](/en/jekyll).
+This site is made to spread access to sources. Equal access to knowledge is essential to overcome the alienation between people. The site is made with [Jekyll](/en/jekyll).
 
-Равный доступ к знанию необходим для преодоления отчуждения между людьми. Этот сайт создан для распространения доступа к источникам. Создан с помощью [Jekyll](/ru/jekyll).
+Этот сайт создан для распространения доступа к источникам. Равный доступ к знанию необходим для преодоления отчуждения между людьми. Сайт создан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
