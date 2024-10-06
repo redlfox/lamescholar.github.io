@@ -67,9 +67,7 @@ BT4G - <https://bt4gprx.com/>
 BTDigg - <https://btdig.com/index.htm>
 <br><br>
 
-Often releases contain disk images (.iso, .mdf). They are mounted, for example, by the DAEMON Tools Lite program.
-
-<https://www.daemon-tools.cc/eng/home>
+Often releases contain disk images (.iso, .mdf). Windows can mount them on its own.
 <br><br>
 
 Information:
