@@ -67,7 +67,7 @@ BT4G - <https://bt4gprx.com/>
 BTDigg - <https://btdig.com/index.htm>
 <br><br>
 
-Often releases contain disk images (.iso, .mdf). Windows can mount them on its own.
+Often releases contain disk images (.iso). Windows can mount them on its own.
 <br><br>
 
 Information:
