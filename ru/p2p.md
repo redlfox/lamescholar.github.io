@@ -68,7 +68,9 @@ BT4G - <https://bt4gprx.com/>
 BTDigg - <https://btdig.com/index.htm>
 <br><br>
 
-Часто раздачи содержат образы дисков (.iso). Windows может монтировать их сама по себе.
+Часто раздачи содержат образы дисков (.iso, .mdf). Их можно монтировать программой DAEMON Tools Lite.
+
+<https://www.daemon-tools.cc/downloads>
 <br><br>
 
 Информация:
