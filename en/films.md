@@ -41,7 +41,7 @@ To rip DVD or Blu-Ray:
 
 2) Extract contents of the disk into MKV container with [MakeMKV](https://rutracker.org/forum/viewtopic.php?t=6237783).
 
-3) Compress MKV with [HandBrake](https://handbrake.fr/downloads.php). I use H.264 MKV presets. Before starting thoroughly check Audio and Subtitles. If there is 5.1 track it should stay 5.1 in the output. If HandBrake uses 100% of CPU, Video->Advanced Options: ``threads=3``
+3) Compress MKV with [HandBrake](https://handbrake.fr/downloads.php). I use H.264 MKV presets. Before starting thoroughly check Audio and Subtitles. If there is 5.1 track it should stay 5.1 in the output. If HandBrake uses 100% of CPU, Video->Advanced Options: ``threads=2``
 <br><br>
 
 To rip from streaming services, look for ``pazu streaming service name`` on [1337x](https://1337x.to/home/) and [BT4G](https://bt4gprx.com/).

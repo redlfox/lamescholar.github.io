@@ -70,7 +70,7 @@ BTDigg - <https://btdig.com/index.htm>
 
 Часто раздачи содержат образы дисков (.iso, .mdf). Их можно монтировать программой DAEMON Tools Lite.
 
-<https://www.daemon-tools.cc/downloads>
+<https://www.daemon-tools.cc/products/dtLite>
 <br><br>
 
 Информация:

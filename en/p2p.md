@@ -69,7 +69,7 @@ BTDigg - <https://btdig.com/index.htm>
 
 Often releases contain disk images (.iso, .mdf). You can mount them with DAEMON Tools Lite.
 
-<https://www.daemon-tools.cc/downloads>
+<https://www.daemon-tools.cc/products/dtLite>
 <br><br>
 
 Information:
