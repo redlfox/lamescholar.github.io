@@ -24,11 +24,6 @@ Twirpx - <https://www.twirpx.com/>
 
 Флибуста - <http://flibusta.is/a>
 
-Либрусек:<br>
-<http://fb27.online/><br>
-<http://lib.rus.ec/><br>
-Первая ссылка - зеркало с открытым скачиванием. Вторая ссылка - главный сайт. Чтобы было доступно скачивание нужно принести пользу библиотеке.
-
 Internet Archive - <https://archive.org/>
 
 Google Books - <https://books.google.ru/advanced_book_search?hl=en>
