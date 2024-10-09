@@ -28,6 +28,11 @@ ImWerden:<br>
 <https://rutracker.org/forum/viewforum.php?f=31>
 <br><br>
 
+{:refdef: style="text-align: center;"}
+[![Quantum](/images/quantum.jpg)](https://www.nsta.org/quantum-magazine-math-and-science)
+{: refdef}
+<br>
+
 #### Журналы по темам
 
 [Естественные науки](#natural)
@@ -46,11 +51,6 @@ ImWerden:<br>
 
 [Экономика](#economy)
 <br><br>
-
-{:refdef: style="text-align: center;"}
-[![Quantum](/images/quantum.jpg)](https://www.nsta.org/quantum-magazine-math-and-science)
-{: refdef}
-<br>
 
 <a id="natural"></a>
 #### Естественные науки:

@@ -193,6 +193,11 @@ Or you can ask [ChatGPT](/en/chatgpt):
 List magazines similar to Philosophy Now.
 <br><br>
 
+{:refdef: style="text-align: center;"}
+[![Quantum](/images/quantum.jpg)](https://www.nsta.org/quantum-magazine-math-and-science)
+{: refdef}
+<br>
+
 #### Magazines by topic
 
 [History](#history)
@@ -253,11 +258,6 @@ Bücher am Sonntag - <https://www.nzz.ch/nzzas/nzz-am-sonntag/buecher-am-sonntag
 
 Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
 <br><br>
-
-{:refdef: style="text-align: center;"}
-[![Quantum](/images/quantum.jpg)](https://www.nsta.org/quantum-magazine-math-and-science)
-{: refdef}
-<br>
 
 <a id="natural"></a>
 #### Natural sciences:
