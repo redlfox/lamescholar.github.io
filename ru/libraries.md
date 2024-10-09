@@ -3,11 +3,6 @@ comments: true
 title: Библиотеки
 ---
 
-{:refdef: style="text-align: center;"}
-[![The Library of Babel](/images/babel.jpg)](https://flibusta.is/b/221600)
-{: refdef}
-<br>
-
 RuTracker - <https://rutracker.org/forum/index.php><br>
 Мой аккаунт на рутрекере - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
@@ -89,6 +84,11 @@ Henry's Bibliothek:
 
 <https://btdig.com/9be384b7b8b4bf4e7d1ee4f18734766847363256/henrys.bibliothek>
 <br><br>
+
+{:refdef: style="text-align: center;"}
+[![The Library of Babel](/images/babel.jpg)](https://flibusta.is/b/221600)
+{: refdef}
+<br>
 
 #### Библиотеки по темам
 

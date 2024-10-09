@@ -3,11 +3,6 @@ comments: true
 title: Libraries
 ---
 
-{:refdef: style="text-align: center;"}
-[![The Library of Babel](/images/babel.jpg)](https://library.lol/main/F99402AE51086BDE12EE2319FD45BC48)
-{: refdef}
-<br>
-
 RuTracker - <http://rutracker.org/forum/index.php><br>
 My RuTracker account - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
@@ -54,6 +49,11 @@ Henry's Bibliothek:
 
 <https://btdig.com/9be384b7b8b4bf4e7d1ee4f18734766847363256/henrys.bibliothek>
 <br><br>
+
+{:refdef: style="text-align: center;"}
+[![The Library of Babel](/images/babel.jpg)](https://library.lol/main/F99402AE51086BDE12EE2319FD45BC48)
+{: refdef}
+<br>
 
 #### Libraries by topic
 
