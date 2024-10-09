@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Reading ebooks
+title: ebook formats
 ---
 
 There are 4 main ebook formats:
