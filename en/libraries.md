@@ -22,7 +22,9 @@ VK Files - <https://vk.com/docs>
 
 Twirpx - <https://www.twirpx.com/>
 
-Флибуста - <http://flibusta.is/a>
+Flibusta - <http://flibusta.is/a>
+
+Librusec - <http://lib.rusec.net/a>
 
 Internet Archive - <https://archive.org/>
 
