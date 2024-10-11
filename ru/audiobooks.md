@@ -25,6 +25,11 @@ HexChat - <https://hexchat.github.io/downloads.html>
 #### Программы:
 
 Winamp - <https://www.winamp.com/downloads/>
+
+Отключить затихание:<br>
+Preferences...->Plug-ins->Output->Nullsoft DirectSound Output->Fading<br>
+on pause/stop - сними галочку<br>
+on seek - сними галочку
 <br><br>
 
 #### Аудиокнига с субтитрами

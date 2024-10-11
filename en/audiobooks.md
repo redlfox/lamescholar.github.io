@@ -25,6 +25,11 @@ HexChat - <https://hexchat.github.io/downloads.html>
 #### Programs:
 
 Winamp - <https://www.winamp.com/downloads/>
+
+To disable fading:<br>
+Preferences...->Plug-ins->Output->Nullsoft DirectSound Output->Fading<br>
+on pause/stop - untick<br>
+on seek - untick
 <br><br>
 
 #### Audiobook with subtitles
