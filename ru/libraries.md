@@ -44,8 +44,6 @@ Wikisource - <https://wikisource.org/wiki/Main_Page>
 
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
 
-OceanofPDF - <https://oceanofpdf.com/>
-
 RoyalLib.com - <https://royallib.com/>
 
 Библиотека "Нестор" - <http://libelli.ru/library/alpha.htm>

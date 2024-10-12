@@ -34,8 +34,6 @@ Wikisource - <https://wikisource.org/wiki/Main_Page>
 
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
 
-OceanofPDF - <https://oceanofpdf.com/>
-
 Gutenberg - <https://www.gutenberg.org/>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases>
