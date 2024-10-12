@@ -19,7 +19,11 @@ Twirpx - <https://www.twirpx.com/>
 
 Флибуста - <http://flibusta.is/a>
 
-Либрусек - <http://lib.rusec.net/a>
+Либрусек:<br>
+<http://lib.rusec.net/a><br>
+<http://fb27.online/a><br>
+<https://lib.rus.ec/>
+Два зеркала и основной сайт, где скачивание доступно только после вклада в библиотеку.
 
 НЭБ - <https://rusneb.ru/><br>
 Много хороших сканов дореволюционных и раннесоветских книг.

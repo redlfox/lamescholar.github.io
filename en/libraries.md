@@ -19,7 +19,10 @@ Twirpx - <https://www.twirpx.com/>
 
 Flibusta - <http://flibusta.is/a>
 
-Librusec - <http://lib.rusec.net/a>
+Librusec:<br>
+<http://lib.rusec.net/a><br>
+<http://fb27.online/a><br>
+<https://lib.rus.ec/>
 
 Internet Archive - <https://archive.org/>
 
