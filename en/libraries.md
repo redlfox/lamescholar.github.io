@@ -22,7 +22,7 @@ Flibusta - <http://flibusta.is/a>
 Librusec:<br>
 <http://lib.rusec.net/a><br>
 <http://fb27.online/a><br>
-<https://lib.rus.ec/>
+<https://lib.rus.ec/a>
 
 Internet Archive - <https://archive.org/>
 

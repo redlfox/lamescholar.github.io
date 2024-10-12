@@ -22,7 +22,7 @@ Twirpx - <https://www.twirpx.com/>
 Либрусек:<br>
 <http://lib.rusec.net/a><br>
 <http://fb27.online/a><br>
-<https://lib.rus.ec/><br>
+<https://lib.rus.ec/a><br>
 Два зеркала и основной сайт, где скачивание доступно только после вклада в библиотеку.
 
 НЭБ - <https://rusneb.ru/><br>
