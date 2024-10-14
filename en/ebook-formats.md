@@ -23,4 +23,4 @@ EPUB files are zipped HTML files with description, styles, images and fonts.
 
 So, DjVu and PDF are formats for scans. FB2 and EPUB are text formats.
 
-These formats emerge from book [digitization](/en/digitization). If you process and encode scans, you get DjVu or PDF. If you recongize the text on the scans, you get FB2.
+These formats emerge from [book digitization](/en/book-digitization). If you process and encode scans, you get DjVu or PDF. If you recongize the text on the scans, you get FB2.
