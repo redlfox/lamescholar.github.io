@@ -3,17 +3,16 @@ comments: true
 title: Naming ebooks
 ---
 
-On the Internet, ebooks can often be found with a random title, which is inconvenient to store. Therefore, such books should be renamed.
+On the Internet, ebooks can often be found with a random title, and that's inconvenient to store them. Therefore, such books should be renamed.
 
-You cannot use a question mark, quotation marks, or a colon in the file name. Use underscores instead.
-
-For example:
+Use this format:
 
 Block, Ned et al. (eds.) - The Nature of Consciousness_ Philosophical Debates - 1997
 
-et al. (et alii - and others) is used to abridge the list of authors.
-
+et al. (et alii - and others) is used to abridge the list of authors.<br>
 (eds.) is used to indicate the editors of the compilation.
+
+Windows doesn't allow to use a question mark, quotation marks, or a colon in the file name. Use underscores instead.
 
 If you want to list to authors, abridge the first name to one letter:
 
