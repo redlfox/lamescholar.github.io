@@ -22,7 +22,7 @@ Author: lamescholar - 2023-10-19
 
 [Inalcik H. - The Ottoman Empire_ The Classical Age 1300-1600 - 2001](http://library.lol/main/9B506CB0E224C808178D73BC34BE02D4)
 
-[Lewis B. - The Middle East. A Brief History of the Last 2000 Years - 2009](http://library.lol/main/A986A41D475D1B80739475FFCCF8F200)
+[Lewis B. - The Middle East_ A Brief History of the Last 2000 Years - 2009](http://library.lol/main/A986A41D475D1B80739475FFCCF8F200)
 
 [Mansel P. - Constantinople_ City of the World's Desire, 1453-1924 - 2006](http://library.lol/main/F39266A5D6B88D2823D503FBCF039D02)
 
