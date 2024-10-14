@@ -36,12 +36,9 @@ Author: lamescholar - 2023-10-19
 
 [Rogan E. - The Arabs_ A History - 2017](http://library.lol/main/6B45A4F39C9AAF811185FE859C8BD127)
 
-Runciman S. - A History of Crusades:
-
-[Volume 1, The First Crusade and the Foundation of the Kingdom of Jerusalem - 1951](http://library.lol/main/38DD2F974F47373D35F5E3CB66483D23)
-
-[Volume 2, The Kingdom of Jerusalem and the Frankish East - 1952](http://library.lol/main/A5E1E6B2356E589E5746E4602E372905)
-
+Runciman S. - A History of Crusades:<br>
+[Volume 1, The First Crusade and the Foundation of the Kingdom of Jerusalem - 1951](http://library.lol/main/38DD2F974F47373D35F5E3CB66483D23)<br>
+[Volume 2, The Kingdom of Jerusalem and the Frankish East - 1952](http://library.lol/main/A5E1E6B2356E589E5746E4602E372905)<br>
 [Volume 3, The Kingdom of Acre and the Later Crusades - 1954](http://library.lol/main/6D7B4ED08101D030864541034205E17B)
 
 [Said E.W. - Culture and Imperialism - 2012](http://library.lol/main/9BBF404EB6F2B24BECE7307E8AC374CB)
