@@ -33,6 +33,17 @@ This site is made to spread access to sources. The site is made with [Jekyll](/e
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
+<p>From each according to his ability, to each according to his needs.</p>
+
+<p>[Marx - Critique of the Gotha Programme](https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm)</p>
+
+<p>От каждого по способностям, каждому по потребностям.</p>
+
+<p>[Маркс - Критика Готской программы](https://libelli.ru/works/marks1/marks131.htm)</p>
+</div>
+<br><br>
+
+<div style="border: 1px solid black; padding: 10px;">
 <p>"In the first decade of the eighteenth century ... many in Europe believed that a great kingdom had been created in Madagascar by a certain Captain Henry Avery and ten thousand pirate henchmen, a kingdom that was on the verge of establishing itself as one of the world’s preeminent naval powers. In fact, this kingdom did not exist. It was a hoax. Most historians are now convinced the same could be said of the story of the great utopian experiment of Libertalia, a story also set in Madagascar, which appears in a chapter of a certain Captain Johnson’s A General History of the Pyrates in 1724. Johnson describes Libertalia as an egalitarian republic, in which slavery had been abolished and all things were shared in common and administered democratically, created by a retired French pirate captain named Misson under the philosophical influence of a defrocked Italian priest."</p>
 
 <p><a href="https://libgen.st/book/index.php?md5=2D9B649EC34630AD2CEAB3A731F7D344">Graeber, David - 	Pirate Enlightenment, or the Real Libertalia - 2023</a></p>
