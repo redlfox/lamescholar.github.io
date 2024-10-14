@@ -18,6 +18,8 @@ to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the 
 
 Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet free flow of information, called piracy, remains undeground, little known to the public. Modern states ensure that information is conducted strictly through the channels of commodity production and rent. By endowing a citizen with intellectual property rights, modern states limit access to the cultural heritage of mankind via the Internet.
 
+From each according to his ability, to each according to his needs.
+
 Help share the knowledge. Share the link.
 
 <https://lamescholar.github.io>
