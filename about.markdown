@@ -35,7 +35,7 @@ This site is made to spread access to sources. The site is made with [Jekyll](/e
 <div style="border: 1px solid black; padding: 10px;">
 <p>From each according to his ability, to each according to his needs.</p>
 
-<p><a href="https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm">Marx - Critique of the Gotha Programme](https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm</a></p>
+<p><a href="https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm">Marx - Critique of the Gotha Programme</a></p>
 
 <p>От каждого по способностям, каждому по потребностям.</p>
 
