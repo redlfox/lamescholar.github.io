@@ -21,6 +21,10 @@ There are no PDFs of most recent issues. But there is a way to get new issues. Y
 Just don't forget to cancel the subscription before the trial ends unless you want to get charged for a whole year. To cancel subscription write email here:<br>
 subscriptions@historytoday.com
 
+Here's 4 recent issues I obtained this way (received 1 extra):
+
+![History Today](/image/history-today-1.jpg)
+
 A bunch of issues can be found here:<br>
 <https://downmagaz.net/tags/history%20today/>
 
@@ -43,7 +47,7 @@ Quality: 7
 Result:<br>
 <https://disk.yandex.ru/i/chWxsj5wqWS9Ew>
 
-![History Today](/images/history-today.jpg)
+![History Today](/images/history-today-2.jpg)
 
 This is March issue of 1998. There is playful article about dangers of reading (page 11) and article about Walter Raleigh - the man who was sent by queen Elizabeth I to explore the New World (page 17).
 <br><br>
