@@ -49,7 +49,7 @@ Result:<br>
 
 ![History Today](/images/history-today-2.jpg)
 
-This is March issue of 1998. There is playful article about dangers of reading (page 11) and article about Walter Raleigh - the man who was sent by queen Elizabeth I to explore the New World (page 17).
+This is March issue of 1998. There are playful article about dangers of reading (page 11) and article about Walter Raleigh - the man who was sent by queen Elizabeth I to explore the New World (page 17).
 <br><br>
 
 It's a crime that you need to go roundabouts for knowledge. Old issues of History Today should be freely available. All good sources should be widely and freely distributed for purposes of the enlightenment.
