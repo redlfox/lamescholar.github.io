@@ -23,7 +23,7 @@ subscriptions@historytoday.com
 
 Here's 4 recent issues I obtained this way (received 1 extra):
 
-![History Today](/image/history-today-1.jpg)
+![History Today](/images/history-today-1.jpg)
 
 A bunch of issues can be found here:<br>
 <https://downmagaz.net/tags/history%20today/>
