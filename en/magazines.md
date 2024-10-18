@@ -180,10 +180,10 @@ workerbee - <https://1337x.to/user/workerbee/>
 magzDB - <http://magzdb.org/>
 
 Internet Archive microfilms - <https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22><br>
-Access: <https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform><br>
-Script to rip issues: [Internet Archive](/en/internet-archive)<br>
-[IrfanView](https://www.irfanview.com/) RESIZE: 50%. Sharpen: 30. If no illustrations, Contrast: 50.<br>
-[LuraTech PDF Compressor](https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4) Profile: Photo. Quality: 7.
+- Access: <https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform><br>
+- Script to rip issues: [Internet Archive](/en/internet-archive)<br>
+- [IrfanView](https://www.irfanview.com/) RESIZE: 50%. Sharpen: 30. If no illustrations, Contrast: 50.<br>
+- [LuraTech PDF Compressor](https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4) Profile: Photo. Quality: 7.
 <br><br>
 
 You can find journals by searching:
