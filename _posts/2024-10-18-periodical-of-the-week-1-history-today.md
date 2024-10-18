@@ -34,7 +34,7 @@ Older issues are available on Internet Acrhive:<br>
 To access them you need to fill this form:<br>
 <https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform>
 
-Use [this](/en/internet-archive) Python script to make PDFs of issues hosted on Internet Archive.
+Use [this](/en/internet-archive) Python script to make PDFs of these issues.
 
 For this particular magazine I figured out that you need to pre-process images in IrfanView:<br>
 RESIZE: 50%<br>
