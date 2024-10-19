@@ -13,7 +13,7 @@ Author: lamescholar - 2024-10-18
 I collected a lot of periodicals available on the Internet in [Magazines](/en/magazines). To further promote these sources of knowledge and recreation, I came up with an idea of a series of weekly posts that would overview various periodicals. The first Periodical of the Week is History Today.
 <br><br>
 
-**History Today** is British monthly history magazine. The articles are written by professional historians for general audience. Along with articles issues feature book reviews of new history books. It's probably the best popular history magazine.
+**History Today** is British monthly history magazine. The articles are written by professional historians for general audience. Along with articles the issues feature book reviews of new history books. It's probably the best popular history magazine.
 
 There are no PDFs of most recent issues. But there is a way to get new issues. You can get 3 printed issues for 5 pounds:<br>
 <https://www.historytoday.com/subscription/try-history-today>
