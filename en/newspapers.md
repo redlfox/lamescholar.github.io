@@ -141,7 +141,7 @@ Illustrated Times:
 https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=BNCN&u=nypl&id=GALE|6PEK&v=2.1&it=aboutJournal&sid=bookmark-BNCN
 ```
 
-The New York TImes - <https://archive.org/details/pub_new-york-times?sort=-date>
+The New York Times - <https://archive.org/details/pub_new-york-times?sort=-date>
 
 The Daily Worker - <https://archive.org/details/pub_daily-worker?sort=-date>
 
