@@ -10,7 +10,7 @@ title: "Periodical of the Week #1 - History Today"
 Author: lamescholar - 2024-10-18
 <br><br>
 
-I collected a number of periodicals available on the Internet in [Magazines](/en/magazines). To further promote these sources of knowledge and recreation, I came up with an idea of a series of weekly posts that would overview various periodicals. The first Periodical of the Week is History Today.
+I collected a number of periodicals available on the Internet in [Magazines](/en/magazines). To further promote these sources of knowledge and recreation, I came up with an idea of a series of weekly posts that would overview these periodicals. The first Periodical of the Week is History Today.
 <br><br>
 
 **History Today** is British monthly history magazine. The articles are written by professional historians for general audience. Along with articles the issues feature book reviews of new history books. It's probably the best popular history magazine.
