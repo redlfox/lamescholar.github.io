@@ -275,10 +275,8 @@ Non-Fiction. Большие книги - <https://flibusta.is/s/78452?order=t&sa
 
 Литературное наследство - <https://rutracker.org/forum/viewtopic.php?t=3246362>
 
-Литературные памятники:
-
-<https://rutracker.org/forum/viewtopic.php?t=4767886>
-
+Литературные памятники:<br>
+<https://rutracker.org/forum/viewtopic.php?t=4767886><br>
 [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B8)
 
 Миры... - <https://rutracker.org/forum/viewtopic.php?t=4708656>
