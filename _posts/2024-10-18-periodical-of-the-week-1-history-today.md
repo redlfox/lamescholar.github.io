@@ -18,7 +18,7 @@ I collected a number of periodicals available on the Internet in [Magazines](/en
 There are no PDFs of most recent issues. But there is a way to get new issues. You can get 3 printed issues for 5 pounds:<br>
 <https://www.historytoday.com/subscription/try-history-today>
 
-Just don't forget to cancel the subscription before the trial ends unless you want to get charged for a whole year. To cancel subscription write email here:<br>
+Just don't forget to cancel the subscription before the trial ends unless you want to get charged for a whole year. To cancel the subscription write an email:<br>
 subscriptions@historytoday.com
 
 Here's 4 recent issues I obtained this way (received 1 extra):
