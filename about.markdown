@@ -35,11 +35,11 @@ This site is made to spread access to sources. The site is made with [Jekyll](/e
 <div style="border: 1px solid black; padding: 10px;">
 <p>From each according to his ability, to each according to his needs.</p>
 
-<p>Marx - Critique of the Gotha Programme</p>
+<p>[Marx - Critique of the Gotha Programme](https://rutracker.org/forum/viewtopic.php?t=6244838)</p>
 
 <p>От каждого по способностям, каждому по потребностям.</p>
 
-<p>Маркс - Критика Готской программы</p>
+<p>[Маркс - Критика Готской программы](https://rutracker.org/forum/viewtopic.php?t=6057922)</p>
 </div>
 <br><br>
 
