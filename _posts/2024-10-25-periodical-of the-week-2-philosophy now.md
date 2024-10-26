@@ -12,7 +12,7 @@ Author: lamescholar - 2024-10-25
 
 **Philosophy Now** is British monthly philosophy magazine. It features popular articles on philosophy with inclination towards philosophy of mind. At the end of each issue there are always an intresting column by Raymond Tallis.
 
-If you're located in US and you want to get a printed issue, they can be found in Barnes & Noble magazine rack.
+If you're located in the US and you want to get a printed issue, they can be found in Barnes & Noble magazine rack.
 
 Got this issue at local Barnes & Noble:
 
