@@ -22,7 +22,7 @@ Tallis column of this issue is about physicalist confusion about human mind. [Th
 
 "how and why such brain activity might deceive itself as to its own nature"
 
-I think Tallis shouldn't slide into brain-activity-language. Blockhead darwinists may say that this deceite is conditioned by evolution. Even if the answer is provided, the language itself is still wrong. You cannot say that brain activity deceives itself, because this biological process lacks experience to have an illusive experience. Illusion is just a two step sophism to get rid of phenomenal consciousness. First-person experience cannot be just discarted, so it is rebranded as an illusion, bleached of its colors in the formal term, and then integrated into cosy domain of biological reasonings.
+I think Tallis shouldn't slide into brain-activity-language. Blockhead darwinists may say that this deceite is conditioned by evolution. Even if the answer is provided, the language itself is still wrong. You cannot say that brain activity deceives itself, because this biological process lacks experience to have an illusive experience. Illusionism is just a two step sophism to get rid of phenomenal consciousness. First-person experience cannot be just discarted, so it is rebranded as an illusion, bleached of its colors in the formal term, and then integrated into cosy domain of biological reasonings.
 
 You can find older issue on the website:<br>
 <https://philosophynow.org/issues>
