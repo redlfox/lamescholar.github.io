@@ -10,7 +10,7 @@ title: Sunday Press Pack 2024-10-27
 Author: lamescholar - 2024-10-27
 <br><br>
 
-<https://disk.yandex.ru/d/9-XwfeclACotvg>
+<https://disk.yandex.ru/d/9-XwfeclACotvg?lang=en>
 <br><br>
 
 #### Contents:
