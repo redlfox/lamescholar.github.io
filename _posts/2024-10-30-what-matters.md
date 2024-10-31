@@ -24,7 +24,7 @@ Enforcing orbits on otherwise wandering planets
 
 We aren't forced toward destruction and extinction
 
-We force ourselfs
+We force ourselves
 
 What we do for each other
 
