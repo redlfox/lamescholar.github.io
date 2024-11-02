@@ -387,7 +387,7 @@ Le Monde diplomatique:<br>
 
 Le Monde diplomatique DE - <https://de.downmagaz.net/tags/taz%20die%20tageszeitung/>
 
-Le Monde diplomatique EN - https://rutracker.org/forum/viewtopic.php?t=6497262
+Le Monde diplomatique EN - <https://rutracker.org/forum/viewtopic.php?t=6497262>
 
 Catalyst:<br>
 [My Anonamouse](https://www.myanonamouse.net/tor/browse.php?tor%5Btext%5D=catalyst&tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=79&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&&&tor%5BminSize%5D=0&tor%5BmaxSize%5D=0&tor%5Bunit%5D=1&tor%5BminSeeders%5D=0&tor%5BmaxSeeders%5D=0&tor%5BminLeechers%5D=0&tor%5BmaxLeechers%5D=0&tor%5BminSnatched%5D=0&tor%5BmaxSnatched%5D=0&&tor%5BsortType%5D=dateDesc&tor%5BstartNumber%5D=0&thumbnail=true)<br>
