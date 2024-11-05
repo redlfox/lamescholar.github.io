@@ -15,6 +15,7 @@ Author: lamescholar - 2024-11-03
 
 #### Contents:
 
+Cahiers du Cinéma 2024-10<br>
 Financial Times Weekend 2024-11-02<br>
 Kirkus Reviews 2024-11-01<br>
 New Scientist 2024-11-02<br>
@@ -27,4 +28,3 @@ The Wall Street Journal 2024-11-02<br>
 The Washington Post Sunday 2023-11-03<br>
 The Week 2024-11-08<br>
 Times Literary Supplement 2024-11-01<br>
-Cahiers du Cinéma 2024-10
