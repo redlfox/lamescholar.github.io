@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Репосты
 comments: true
 title: Конквест Р. - Большой террор (отрывок)
 ---
