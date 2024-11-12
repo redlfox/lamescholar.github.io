@@ -15,7 +15,7 @@ Author: lamescholar - 2024-11-11
 
 #### Contents:
 
-Financial Times Weekand 2024-11-09<br>
+Financial Times Weekend 2024-11-09<br>
 New Scientist 2024-11-09<br>
 Science 2024-11-08<br>
 The Economist 2024-11-09<br>
@@ -23,7 +23,7 @@ The Guardian Weekly 2024-11-08<br>
 The New York Times Book Review 2024-11-10<br>
 The New Yorker 2024-11-11<br>
 The New Yorker 2024-11-18<br>
-The Wall Street Journal Weekand 2024-11-09<br>
+The Wall Street Journal Weekend 2024-11-09<br>
 The Washington Post Sunday 2024-11-10<br>
 The Week 2024-11-15<br>
 Times Literary Supplement 2024-11-08<br>
