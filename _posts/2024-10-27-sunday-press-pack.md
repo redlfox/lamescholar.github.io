@@ -37,7 +37,7 @@ The Guardian Weekly 2024-10-25<br>
 The New York Review of Books 2024-11-07<br>
 The New York Times Book Review 2024-10-27<br>
 The New Yorker 2024-10-28<br>
+The Times Literary Supplement 2024-10-25<br>
 The Wall Street Journal Weekend 2024-10-26<br>
 The Washington Post Sunday 2024-10-27<br>
-The Week 2024-11-01<br>
-Times Literary Supplement 2024-10-25
+The Week 2024-11-01
