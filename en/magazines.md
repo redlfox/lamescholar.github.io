@@ -10,18 +10,12 @@ PressReader - <https://www-pressreader-com.i.ezproxy.nypl.org/catalog>
 <details>
 <summary>Press you can find on PressReader</summary>
 <pre>
-ABC
 ABC - Cultural
 Adbusters
-Aftenposten
 Alternatives Economiques
 Alternatives Economiques - Hors-Serie
 Angora
 Arab News
-Aravot
-Atlas Tarih
-Avgi
-Azer News
 BBC History Magazine
 BBC Music Magazine
 BookReporter
@@ -29,39 +23,29 @@ Challenges
 China Daily
 China Daily Weekly
 Chinese Social Sciences Today
-Clarin
 Clarin - Economico
 Corriere della Serra
-Corriere della Serra - Sette
+Corriere della Serra - La Lettura
 Daily Sabah
-De Standaard
 Delo (Slovenia)
 Denik N
 Dennik N
-Der Standard
 Der Tagesspiegel
 Deutsche Welle Russian Edition
-Diario de Noticias
 Diario Informacion - Arte y Letras
-Die Presse
 Die Presse am Sonntag
 Die Welt
-El Comercio
-El Mundo
 El Mundo - Weekend
 El Mundo - La Lectura
-El Pais
 EuroNews (English)
 Faro de Vigo - Faro de Cultura
 Filosofie Magazine
 Focus (Italia)
 Focus Storia
 FOCUS Magazin
-Folha de S.Paulo
 Foreign Affairs
 Gazeta Wyborcza
 Gazeta Wyborcza - Ale Historia
-Goteborgs-Posten
 Gulf Today
 Haaretz - English Edition
 Haaretz - English Edition (Friday)
@@ -69,8 +53,6 @@ Il Fatto Quotidiano
 Il Sole 24 Ore
 Il Sole 24 Ore - Domenica
 iNews
-Kathimrini
-Kleine Zeitung
 Kurier
 Kurier (Samstag)
 L'actualite
@@ -83,12 +65,7 @@ L'Opinion
 L'Osservatore
 L'Unita
 La Jornada
-La Lettura
-La Nacion
 La Nuevo Espana - Cultura
-La Razon
-La Tercera
-La Vanguardia
 La Vanguardia - Culturas
 La Voz
 Le Devoir
@@ -98,7 +75,6 @@ Le Point
 Le Temps
 Liberation
 Libero
-Lire
 Milenio
 nd.DerTag
 nd.DieWoche
@@ -113,13 +89,10 @@ New York Magazine
 Newsweek
 NRC
 NZZ am Sonntag
-O Estado de S. Paulo
 Pagina12
 Panorama
-Peace Magazine
 Perfil (Domingo)
 Polityka
-Politiken
 Popular Mechanics
 pro zukunft
 Przekroj
@@ -128,7 +101,6 @@ Sciences et Avenir
 South China Morning Post
 Smithsonian
 Suddeutsche Zeitung
-Svenska Dagbladet
 Trabajadores
 The Critic
 The Daily Telegraph
@@ -146,7 +118,6 @@ The New Review
 The New York Review of Books
 The Observer
 The Observer - The New Review
-The Straits Times
 The Week
 Toronto Star
 USA Today
