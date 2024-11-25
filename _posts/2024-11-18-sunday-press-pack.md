@@ -17,7 +17,7 @@ Author: lamescholar - 2024-11-18
 
 Cahiers du Cinéma 2024-11<br>
 Financial Times Weekend 2024-11-16<br>
-Kirkus Reviews 2024-11-15pdf<br>
+Kirkus Reviews 2024-11-15<br>
 New Scientist 2024-11-16<br>
 The Atlantic 2024-12<br>
 The Economist 2024-11-16<br>
