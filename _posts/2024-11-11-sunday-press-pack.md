@@ -22,7 +22,6 @@ The Economist 2024-11-09<br>
 The Guardian Weekly 2024-11-08<br>
 The New York Times Book Review 2024-11-10<br>
 The New Yorker 2024-11-11<br>
-The New Yorker 2024-11-18<br>
 The Times Literary Supplement 2024-11-08<br>
 The Wall Street Journal Weekend 2024-11-09<br>
 The Washington Post Sunday 2024-11-10<br>
