@@ -7,7 +7,7 @@ permalink: /about/
 
 This site is made to spread the ethos of owning and sharing information. The site is made with [Jekyll](/en/jekyll).
 
-Этот сайт создан для распространения этоса владения и обмена информацией. Сайт создан с помощью [Jekyll](/ru/jekyll).
+Этот сайт создан для распространения этоса владения и расшаривания информации. Сайт создан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
