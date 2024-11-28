@@ -54,16 +54,10 @@ This site is made to spread access to sources. The site is made with [Jekyll](/e
 </div>
 <br><br>
 
-<div style="border: 1px solid black; padding: 10px;">
-<p>What a joy to overthrow a crude and simple totalitarian system. I mean all of us enjoyed that, right? Dancing on the wall was fun, because that system was so crude, and not postmodern enough. They didn’t understand that there are walls that you can build that cannot be seen between people.</p>
+{% include embed-audio.html src="/files/rick.mp3" %}
 
-<p>Those are harder walls to overthrow, the walls they build between different races and classes and sexes in our society. Those walls are much more difficult to overthrow than crude and stupid walls like The Great Wall of China, which doesn’t wall anybody out, it just walls you in. But the stupid forms of totalitarianism build these walls in a way that people can storm them. The global system that I am talking about, not is already here, perhaps, but is on its way. Perhaps. About the present and future you can just guess. I mean, you know, that’s what scientists do too, make their best guess. You can just guess. But about this system, the walls will be much harder to storm, because they won’t be the kind that will be available for storming. Hard to storm the walls on TV, in fact you’ll already – like in Total Recall – have the feeling you have already stormed them. You’ve already… I mean, you know, the guy in Total Recall, well, he has already won the revolution, it’s cool. He did it in ten minutes sitting in a chair injected with the same emotions.</p>
-
-<p>Those kind of walls and that kind of totalitarianism I suspect many people in the world don’t suspect is the dark side of the American dream. I hope you… I hope there will be forms of resistance, but the basis for that hope today is slim.</p>
-
-<p><a href="https://rickroderick.org/108-philosophy-and-post-modern-culture-1990/">RIck Roderick - Philosophy and Human Values (1990) Lecture 8: Philosophy and Postmodern Culture</a></p>
-</div>
-<br><br>
+[Rick Roderick - Philosophy and Human Values (1990) Lecture 8: Philosophy and Postmodern Culture](https://1337x.to/torrent/6236906/Rick-Roderick-Lectures-1990-1993-VHSRip/)
+<br><br><br>
 
 {:refdef: style="text-align: center;"}
 ![Ex Libris](/images/ex-libris.jpg)
