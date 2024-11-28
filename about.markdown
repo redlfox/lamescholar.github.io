@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-This site is made to spread access to sources. The site is made with [Jekyll](/en/jekyll).
+This site is made to spread the ethos of owning and sharing important information. The site is made with [Jekyll](/en/jekyll).
 
-Этот сайт создан для распространения доступа к источникам. Сайт создан с помощью [Jekyll](/ru/jekyll).
+Этот сайт создан для распространения этоса владения и обмена важной информацией. Сайт создан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
