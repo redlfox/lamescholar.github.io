@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-I maintatin this site to spread the ethos of owning and sharing with others meaningful information. The site is made with [Jekyll](/en/jekyll).
+I maintatin this site to spread the ethos of owning and sharing meaningful information. The site is made with [Jekyll](/en/jekyll).
 
-Я поддерживаю этот сайт для распространения этоса владения и деления информацией. Сайт создан с помощью [Jekyll](/ru/jekyll).
+Я поддерживаю этот сайт для распространения этоса владения и обмена значительной информацией. Сайт создан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
