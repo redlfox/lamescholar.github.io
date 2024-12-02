@@ -15,6 +15,7 @@ Author: lamescholar - 2024-11-24
 
 #### Contents:
 
+Bücher am Sonntag 2024-11-24<br>
 Der Spiegel 2024-11-22<br>
 Die Zeit 2024-11-21<br>
 Financial Times Weekend 2024-12-23<br>
