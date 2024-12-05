@@ -87,7 +87,6 @@ Nedeljski Dnevnik
 Neue Zurcher Zeitung
 New York Magazine
 Newsweek
-NRC
 NZZ am Sonntag
 Pagina12
 Panorama
