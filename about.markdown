@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-Culture should be open. Open as to its sources and universally accessible. I maintain this site to spread such attitude. The site is made with [Jekyll](/en/jekyll).
+Culture should be open. Open as to its sources and universally accessible. I maintain this site to spread such attitude. I made the site with [Jekyll](/en/jekyll).
 
-Культура должна быть открытой. Открытой в отношении своих источников и доступной всем. Я поддерживаю этот сайт, чтобы распространить такой подход. Сайт создан с помощью [Jekyll](/ru/jekyll).
+Культура должна быть открытой. Открытой в отношении своих источников и доступной всем. Я поддерживаю этот сайт, чтобы распространить такой подход. Я сделал сайт с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
