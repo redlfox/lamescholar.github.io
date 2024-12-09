@@ -9,7 +9,6 @@ Source: [The Editor 1899-10](https://disk.yandex.ru/i/VqamX69KZGe17w?lang=en)
 <br><br>
 
 # ON WRITER'S PHILOSOPHY OF LIFE.
-<br>
 
 BY JACK LONDON.
 <br><br>
