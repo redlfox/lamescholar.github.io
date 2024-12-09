@@ -8,7 +8,7 @@ title: Jack London - On Writer's Philosophy of Life (1899)
 Source: [The Editor 1899-10](https://disk.yandex.ru/i/VqamX69KZGe17w?lang=en)
 <br><br>
 
-# ON WRITER'S PHILOSOPHY OF LIFE.
+# ON THE WRITER'S PHILOSOPHY OF LIFE.
 
 BY JACK LONDON.
 <br><br>
