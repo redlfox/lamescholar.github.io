@@ -3,7 +3,7 @@ comments: true
 title: Translation
 ---
 
-[ChatGPT](/ru/chatgpt), in addition to the much more known possibility of composing plausible texts, has, in my opinion, a much more significant possibility - the possibility of translation. Unlike Google Translate or Yandex Translate, ChatGPT translation is much more stable and holistic. However, ChatGPT itself has a number of disadvantages:
+[ChatGPT](/ru/chatgpt), in addition to the much more known ability of composing plausible texts, has, in my opinion, a much more significant ability - ability to translate. Unlike Google Translate or Yandex Translate, ChatGPT translation is much more stable and holistic. However, ChatGPT itself has a number of disadvantages:
 
 1) ChatGPT has a limit on the input size. The text should be inserted into the ChatGPT in parts.
 
