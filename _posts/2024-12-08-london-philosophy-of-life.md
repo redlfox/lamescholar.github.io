@@ -8,10 +8,10 @@ title: Jack London - On Writer's Philosophy of Life (1899)
 Source: [The Editor 1899-10](https://disk.yandex.ru/i/VqamX69KZGe17w?lang=en)
 <br><br>
 
-# ON THE WRITER'S PHILOSOPHY OF LIFE.
+<h1 style="text-align: center;">ON THE WRITER'S PHILOSOPHY OF LIFE.</h1>
 
-BY JACK LONDON.
-<br><br>
+<p style="text-align: center;">BY JACK LONDON.</p>
+<br>
 
 <img align="left" src="/images/T.jpg"> HE literary hack, the one who is satisfied to turn out “pot boilers” for the rest of his or her life, will save time and vexation by passing this article by. It contains no hints as to the disposal of manuscript, the vagaries of the blue-pencil, the filing of material, nor the innate perversity of adjectives and adverbs. Petrified “Pen-trotters,” pass on! This is for the writer—no matter how much hack-work he is turning out just now—who cherishes ambitions and ideals, and yearns for the time when agricultural newspapers and home magazines no more may occupy the major portion of his visiting list.
 
