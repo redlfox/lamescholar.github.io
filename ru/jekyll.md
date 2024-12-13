@@ -214,34 +214,7 @@ C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems\minima-2.5.1
 
 #### Указание источника в постах
 
-Иногда я "репощу" некоторые тексты в моих постах. Я предпочитаю указывать источник текста перед текстом. Дефолтный макет постов помещает заглавие наверху, так что я положил следующий post.html в папку _layout:
-
-<pre><code>
----
-layout: default
----
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-  
-  {% if page.comments %}
-  <br><br>
-  <div id="disqus_thread"></div>
-  <script>
-      (function() { // DON'T EDIT BELOW THIS LINE
-      var d = document, s = d.createElement('script');
-      s.src = 'https://lamescholar.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-      })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  {% endif %}
- 
- </article>
-</code></pre>
+Иногда я "репощу" некоторые тексты в моих постах. Я предпочитаю указывать источник текста перед текстом. Дефолтный макет постов помещает заглавие наверху, так что я скопировал post.html в папку _layout и удалил кусок кода, который создаёт заголовок.
  
 Markdown файл таких постов выглядит так:
 

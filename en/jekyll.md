@@ -214,34 +214,7 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 
 #### Stating a source in posts
 
-Sometimes I "repost" some texts in my posts. I prefer to state a source of the text in front of the text. Default post layout puts the title at the top, so I put such post.html in _layout folder:
-
-<pre><code>
----
-layout: default
----
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-  
-  {% if page.comments %}
-  <br><br>
-  <div id="disqus_thread"></div>
-  <script>
-      (function() { // DON'T EDIT BELOW THIS LINE
-      var d = document, s = d.createElement('script');
-      s.src = 'https://lamescholar.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-      })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  {% endif %}
- 
- </article>
-</code></pre>
+Sometimes I "repost" some texts in my posts. I prefer to state a source of the text in front of the text. Default post layout puts the title at the top, so I copied post.html into _layout folder and removed piece of code that create title.
  
 Markdown file of such posts looks like this:
 
