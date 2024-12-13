@@ -9,7 +9,7 @@ title: Привет
 
 С этой коллекцией гайдов ты сможешь<br>
 [создавать](/ru/book-digitization), [делиться](/ru/how-to-share-your-stuff), [находить](/ru/book-searching) и [читать](/ru/reading-ebooks) электронные книги,<br>
-рипать [DVD](/ru/films) и [CD](/ru/music),<br>
+рипать [DVD](/ru/films) и [CD](/ru/music#рип-cd),<br>
 оцифровывать [виниловые пластинки](/ru/music#оцифровка-виниловых-пластинок),<br>
 находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/newspapers), [словари](/ru/reference-books), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films) и проигрывать их на своём компьютере,<br>
 [исследовать](/ru/research) интересные тебе темы,<br>
