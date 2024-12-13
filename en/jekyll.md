@@ -231,6 +231,7 @@ Source: [Source title](link to the source)
 
 # Title of the text
 ```
+<br>
 
 #### Comments
 
