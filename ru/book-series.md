@@ -126,10 +126,8 @@ allisa1 - <https://rutracker.org/forum/tracker.php?rid=8917891>
 
 ART-COLLECTOR.RU Pictures Archive - <https://rutracker.org/forum/viewtopic.php?t=939626>
 
-History of XX century in B/W photos:
-
-<https://rutracker.org/forum/viewtopic.php?t=1036836>
-
+History of XX century in B/W photos:<br>
+<https://rutracker.org/forum/viewtopic.php?t=1036836><br>
 <http://static.rutracker.cc/old_attach/12401697.rar>
 <br><br>
 
@@ -158,10 +156,8 @@ History of XX century in B/W photos:
 
 Соловьёв С.М. История России с древнейших времён - <http://militera.lib.ru/common/solovyev1/index.html>
 
-Страницы истории нашей Родины:
-
-<http://flibusta.is/s/19000>
-
+Страницы истории нашей Родины:<br>
+<http://flibusta.is/s/19000><br>
 [Library Genesis](https://libgen.st/search.php?req=%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%BD%D0%B0%D1%88%D0%B5%D0%B9+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
 Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401>
@@ -238,12 +234,9 @@ pro et contra - <https://libgen.st/search.php?req=pro+et+contra&lg_topic=libgen&
 
 Библиотека мировой литературы для детей - <https://rutracker.org/forum/viewtopic.php?t=5561133>
 
-Библиотека поэта:
-
-<https://rutracker.org/forum/viewtopic.php?t=6056100>
-
-<https://rutracker.org/forum/viewtopic.php?t=5441959>
-
+Библиотека поэта:<br>
+<https://rutracker.org/forum/viewtopic.php?t=6056100><br>
+<https://rutracker.org/forum/viewtopic.php?t=5441959><br>
 <https://rutracker.org/forum/viewtopic.php?t=4938890>
 
 Библиотека фантастики - <https://rutracker.org/forum/viewtopic.php?t=4756926>
@@ -253,7 +246,7 @@ pro et contra - <https://libgen.st/search.php?req=pro+et+contra&lg_topic=libgen&
 Иностранная литература. Большие книги - <https://flibusta.is/s/34054?order=t&sa1=1><br>
 Русская литература. Большие книги - <https://flibusta.is/s/45148?order=t&sa1=1><br>
 Non-Fiction. Большие книги - <https://flibusta.is/s/78452?order=t&sa1=1><br>
-Фантастика и фэнтези. Большие книги - <https://flibusta.is/s/79287?order=t&sa1=1><br>
+Фантастика и фэнтези. Большие книги - <https://flibusta.is/s/79287?order=t&sa1=1>
 
 В мире фантастики и приключений - <http://flibusta.is/s/8867>
 
@@ -279,20 +272,13 @@ Non-Fiction. Большие книги - <https://flibusta.is/s/78452?order=t&sa
 
 Миры... - <https://rutracker.org/forum/viewtopic.php?t=4708656>
 
-Памятники литературы Древней Руси:
-
-<https://rutracker.org/forum/viewtopic.php?t=5719796>
-
-<https://rutracker.org/forum/viewtopic.php?t=5721164>
-
-<https://rutracker.org/forum/viewtopic.php?t=5731837>
-
-<https://rutracker.org/forum/viewtopic.php?t=5804876>
-
-<https://rutracker.org/forum/viewtopic.php?t=5713000>
-
-<https://rutracker.org/forum/viewtopic.php?t=5713006>
-
+Памятники литературы Древней Руси:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5719796><br>
+<https://rutracker.org/forum/viewtopic.php?t=5721164><br>
+<https://rutracker.org/forum/viewtopic.php?t=5731837><br>
+<https://rutracker.org/forum/viewtopic.php?t=5804876><br>
+<https://rutracker.org/forum/viewtopic.php?t=5713000><br>
+<https://rutracker.org/forum/viewtopic.php?t=5713006><br>
 <https://rutracker.org/forum/viewtopic.php?t=5713007>
 
 Писатели о писателях - [Library Genesis](https://libgen.st/search.php?req=%22%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8+%D0%BE+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%22&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
@@ -317,8 +303,6 @@ Corpus - <http://flibusta.is/s/22753>
 <a id="chess"></a>
 #### Шахматы
 
-Библиотечка шахматиста:
-
-<https://rutracker.org/forum/viewtopic.php?t=2979872>
-
+Библиотечка шахматиста:<br>
+<https://rutracker.org/forum/viewtopic.php?t=2979872><br>
 <https://rutracker.org/forum/viewtopic.php?t=5939631>
