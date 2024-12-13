@@ -216,7 +216,7 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 
 Sometimes I "repost" some texts in my posts. I prefer to state a source of the text in front of the text. Default post layout puts the title at the top, so I put such post.html in _layout folder:
 
-```
+<pre><code>
 ---
 layout: default
 ---
@@ -241,7 +241,7 @@ layout: default
   {% endif %}
  
  </article>
- ```
+</code></pre>
  
 Markdown file of such posts looks like this:
 
