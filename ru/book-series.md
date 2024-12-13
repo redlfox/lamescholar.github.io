@@ -9,10 +9,8 @@ title: Книжные серии
 В данном разделе размещены книжные серии, многотомники и собрания сочинения.
 <br><br>
 
-ImWerden:
-
-Книжные серии - <https://imwerden.de/series>
-
+ImWerden:<br>
+Книжные серии - <https://imwerden.de/series><br>
 Многотомники - <https://imwerden.de/multi-volume-sets>
 
 allisa1 - <https://rutracker.org/forum/tracker.php?rid=8917891>
