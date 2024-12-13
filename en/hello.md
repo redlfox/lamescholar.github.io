@@ -9,7 +9,7 @@ The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). I
 
 With this collection of guides you will be able<br>
 to [create](/en/book-digitization), [share](/en/how-to-share-your-stuff), [find](/en/book-searching) and [read](/en/reading-ebooks) ebooks,<br>
-to rip [DVDs](/en/films) and [CDs](/en/music#digitizing-cds),<br>
+to rip [DVDs](/en/films) and [CDs](/en/music#ripping-cds),<br>
 to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
 to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/newspapers), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
 to [research](/en/research) stuff interesting for you,<br>

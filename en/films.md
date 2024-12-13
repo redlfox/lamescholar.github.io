@@ -35,7 +35,7 @@ Hotkeys for Media Player Classic:
 Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
 <br><br>
 
-To rip DVD or Blu-Ray:
+#### To rip DVD or Blu-Ray:
 
 1) Get the disc. Buy it or rent it from local library.
 
