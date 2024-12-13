@@ -212,9 +212,9 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 ```
 <br>
 
-#### Stating the source in posts
+#### Stating a source in posts
 
-Sometimes I "repost" some texts in my posts. I prefer to state a source of the text in front of the text. Default post layout puts the title at the top, so I modified it:
+Sometimes I "repost" some texts in my posts. I prefer to state a source of the text in front of the text. Default post layout puts the title at the top, so I put such post.html in _layout folder:
 
 ```
 ---
@@ -243,7 +243,7 @@ layout: default
  </article>
  ```
  
-So, markdown file of such posts looks like this:
+Markdown file of such posts looks like this:
 
 ```
 ---
