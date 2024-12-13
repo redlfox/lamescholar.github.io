@@ -212,6 +212,53 @@ C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems\minima-2.5.1
 ```
 <br>
 
+#### Указание источника в постах
+
+Иногда я "репощу" некоторые тексты в моих постах. Я предпочитаю указывать источник текста перед текстом. Дефолтный макет постов помещает заглавие наверху, поэтому я скоректировал его:
+
+```
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+  
+  {% if page.comments %}
+  <br><br>
+  <div id="disqus_thread"></div>
+  <script>
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://lamescholar.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  {% endif %}
+ 
+ </article>
+ ```
+ 
+Соответственно, markdown файл таких постов выглядит так:
+
+```
+---
+layout: post
+tag: Reposts
+comments: true
+title: Заглавие текста
+---
+
+Источник: [Название источника](ссылка на источник)
+<br><br>
+
+# Заглавие текста
+```
+
 #### Комментарии
 
 <https://help.disqus.com/en/articles/1935528-jekyll-installation-instructions>
