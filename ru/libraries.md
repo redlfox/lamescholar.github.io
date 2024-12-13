@@ -60,17 +60,13 @@ NYPL - <https://www.nypl.org/research/collections/articles-databases>
 Если домен Library Genesis, Z-Library или Sci-Hub заблокирован, новый смотри на Википедии.
 <br><br>
 
-Книжные сообщества в ВК:
-
-<https://vk.com/public176520650>
-
+Книжные сообщества в ВК:<br>
+<https://vk.com/public176520650><br>
 <https://vk.com/club61771654>
 <br><br>
 
-Узнать об интересных книгах, чтобы затем попробовать найти их:
-
-<https://www.youtube.com/@bookinist_orsk/videos>
-
+Узнать об интересных книгах, чтобы затем попробовать найти их:<br>
+<https://www.youtube.com/@bookinist_orsk/videos><br>
 <https://www.youtube.com/@AndrewKrivolapov/videos>
 <br><br>
 
@@ -80,10 +76,8 @@ HarryFan Text Collection CD 1.0 - <https://archive.org/details/harry-fan-text-co
 
 e-Library - <https://rutracker.org/forum/viewtopic.php?t=495916>
 
-Henry's Bibliothek:
-
-<https://btdig.com/d96c3a3af2d88479ff591189e16ef1d826a7f286/henrys.bibliothek>
-
+Henry's Bibliothek:<br>
+<https://btdig.com/d96c3a3af2d88479ff591189e16ef1d826a7f286/henrys.bibliothek><br>
 <https://btdig.com/9be384b7b8b4bf4e7d1ee4f18734766847363256/henrys.bibliothek>
 <br><br>
 
