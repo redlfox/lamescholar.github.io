@@ -30,7 +30,7 @@ All .md files can be found here:
 
 Commands to download the site:
 
-WIn+R cmd
+Win+R cmd
 
 ```
 cd desktop
