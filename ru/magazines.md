@@ -18,8 +18,6 @@ ImWerden:<br>
 <https://vtoraya-literatura.com/periodika.html><br>
 Оцифровывают толстые журналы, альманахи, сборники.
 
-Журналы СССР - <https://web.archive.org/web/20230323125005/https://sites.google.com/site/zurnalysssr/>
-
 Журналы времён перестройки - <https://oldjornal.ucoz.net/>
 <br><br>
 
