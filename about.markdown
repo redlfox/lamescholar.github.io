@@ -58,7 +58,7 @@ With this site, I want to spread access to sources. I made this site with [Jekyl
 
 [Rick Roderick - Philosophy and Human Values (1990) Lecture 8: Philosophy and Postmodern Culture](https://1337x.to/torrent/6236906/Rick-Roderick-Lectures-1990-1993-VHSRip/)
 
-People defect from North Korea, but there is nowhere to defect from "free world". That's all there is. There is no physical wall to cross or topple. But this world is riddled with invisible walls. Between countries, between classes. These walls are hard to cross and even harder to eliminate.
+People defect from North Korea, but there is nowhere to defect from "free world". That's all there is. There is no physical wall to cross or topple. But this world is riddled with invisible walls. Between countries, between classes. These walls are hard to cross and impossible to topple.
 <br><br><br>
 
 {:refdef: style="text-align: center;"}
