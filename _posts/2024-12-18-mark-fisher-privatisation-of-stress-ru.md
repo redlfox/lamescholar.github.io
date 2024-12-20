@@ -5,7 +5,7 @@ comments: true
 title: Марк Фишер - Приватизация стресса (2011)
 ---
 
-Источник: [^Фишер М. - k-punk. Избранное - 2024](https://flibusta.is/b/808703)
+Источник: [Фишер М. - k-punk. Избранное - 2024](https://flibusta.is/b/808703)
 <br><br>
 
 # ПРИВАТИЗАЦИЯ СТРЕССА [^1] 07.09.2011
@@ -116,6 +116,6 @@ title: Марк Фишер - Приватизация стресса (2011)
 
 [^16]: Smail D. [Power, Interest and Psychology: Elements of a Social Materialist Understanding of Distress](https://libgen.st/book/index.php?md5=564FF628CBAEB558C0A98E48B4396255). PCCS, 2009. P. 11.
 
-[^17] Ibid. P. 7.
+[^17]: Ibid. P. 7.
 
 [^18]: Illouz E. [Cold Intimacies: The Making of Emotional Capitalism](https://libgen.st/book/index.php?md5=ABFD0D0F476FF4C882FCC9FD07B1A60E). Polity, 2007.
