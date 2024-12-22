@@ -155,10 +155,8 @@ Don't forget to delete folders with images.
 
 #### Publish your book:
 
-Library Genesis - <https://library.bz/main/upload/>
-
-genesis
-
+Library Genesis - <https://library.bz/main/upload/><br>
+genesis<br>
 upload
 
 RuTracker - <http://rutracker.org/forum/index.php>

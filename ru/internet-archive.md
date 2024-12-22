@@ -159,10 +159,8 @@ PDF на выходе: ClearScan
 
 #### Где опубликовать книгу:
 
-Library Genesis - <https://library.bz/main/upload/>
-
-genesis
-
+Library Genesis - <https://library.bz/main/upload/><br>
+genesis<br>
 upload
 
 RuTracker - <http://rutracker.org/forum/index.php>
