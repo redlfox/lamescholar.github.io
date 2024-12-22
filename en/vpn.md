@@ -3,7 +3,7 @@ comments: true
 title: VPN
 ---
 
-1) Your own VPN: Virtual server + WireGuard
+**1) Your own VPN: Virtual server + WireGuard**
 
 Buy a virtual server. Connect to it through MobaXterm:
 
@@ -49,14 +49,18 @@ Import config file. Get it from this address:
 To login use password you chose installing WireGuard on your server.
 <br><br>
 
-2) AirVPN
+**2) AirVPN**
 
 Got port-forwarding. For split tunneling use [WireSock](https://www.wiresock.net/wiresock-vpn-client/download).
 <br><br>
 
-3) Browsec - <https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=en>
+**3) Browsec**
+
+<https://chrome.google.com/webstore/detail/browsec-vpn-free-vpn-for/omghfjlpggmjjaagoclmmobgdodcjboh/related?hl=en>
 <br><br>
 
-4) Tor Browser - <https://www.torproject.org/ru/download/>
+**4) Tor Browser**
+
+<https://www.torproject.org/ru/download/>
 
 If Tor Browser is blocked in your country, use a bridge. Settings->Tor->Bridges->Use a bridge->Request a bridge from torproject.org->Request a New Bridge.
