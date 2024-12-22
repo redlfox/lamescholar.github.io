@@ -7,10 +7,8 @@ Ctrl+P
 
 SingleFile - <https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle>
 
-Webrecorder Archiveweb.page:
-
-<https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd>
-
+Webrecorder Archiveweb.page:<br>
+<https://chromewebstore.google.com/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd><br>
 <https://github.com/webrecorder/pywb>
 
 Offline Explorer Enterprise - <https://rutracker.org/forum/viewtopic.php?t=6018509>
