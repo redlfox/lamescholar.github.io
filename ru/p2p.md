@@ -37,6 +37,8 @@ Torrent File Editor - программа для создания торрент�
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
+1137x - <https://1337x.to/>
+
 My Anonamouse - <https://www.myanonamouse.net/index.php>
 
 <div style="border: 1px solid black; padding: 10px;">
@@ -53,17 +55,20 @@ My Anonamouse - <https://www.myanonamouse.net/index.php>
 <p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
 </div>
 
-Nyaa - <https://nyaa.si/>
+YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search><br>
+Французские штуки.
 
-YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search>
+Boerse - <https://boerse.am/><br>
+Немецкие штуки.
 
-Boerse - <https://boerse.am/>
+MIRCrew - <https://mircrew-releases.org/index.php><br>
+Итальянские штуки.
 
-MIRCrew - <https://mircrew-releases.org/index.php>
+Nyaa - <https://nyaa.si/><br>
+Азиатские штуки.
 
-The Italian Corsairs 🇮🇹 - <https://rentry.co/the-italian-corsairs>
-
-1137x - <https://1337x.to/>
+Гуртом - https://toloka.to/<br>
+Украинские штуки.
 
 BT4G - <https://bt4gprx.com/>
 

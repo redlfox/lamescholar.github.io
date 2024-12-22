@@ -37,6 +37,8 @@ Torrent File Editor - program for creating a torrent file.
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
+1137x - <https://1337x.to/>
+
 My Anonamouse - <https://www.myanonamouse.net/index.php><br>
 Ebooks and audiobooks.
 
@@ -54,15 +56,20 @@ Ebooks and audiobooks.
 <p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
 </div>
 
+YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search><br>
+French stuff.
+
+Boerse - <https://boerse.am/><br>
+German stuff.
+
+MIRCrew - <https://mircrew-releases.org/index.php><br>
+Italian stuff.
+
 Nyaa - <https://nyaa.si/>
+Asian stuff.
 
-YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search>
-
-Boerse - <https://boerse.am/>
-
-MIRCrew - <https://mircrew-releases.org/index.php>
-
-1137x - <https://1337x.to/>
+Hurtom - https://toloka.to/<br>
+Ukrainian stuff.
 
 BT4G - <https://bt4gprx.com/>
 
