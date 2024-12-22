@@ -29,7 +29,7 @@ yt-dlp --add-metadata -o "%(title)s.%(ext)s" -x --audio-format mp3 https://www.y
 ```
 <br>
 
-For program to work ffmpeg is required:
+For program to work, ffmpeg is required:
 
 Chocolatey - <https://chocolatey.org/install>
 
