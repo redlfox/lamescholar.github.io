@@ -50,10 +50,8 @@ PDF Arranger - <https://github.com/pdfarranger/pdfarranger/releases>
 
 #### Где опубликовать книгу:
 
-Library Genesis - <https://library.bz/main/upload/>
-
-genesis
-
+Library Genesis - <https://library.bz/main/upload/><br>
+genesis<br>
 upload
 
 RuTracker - <https://rutracker.org/forum/index.php>

@@ -50,10 +50,8 @@ Start a program. Drag a file to program window. Pages will show up. Now you need
 
 #### Publish your book:
 
-Library Genesis - <https://library.bz/main/upload/>
-
-genesis
-
+Library Genesis - <https://library.bz/main/upload/><br>
+genesis<br>
 upload
 
 RuTracker - <https://rutracker.org/forum/index.php>
