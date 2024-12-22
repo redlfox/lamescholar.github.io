@@ -9,18 +9,20 @@ AudioBook Bay - <https://audiobookbay.lu/member/advanced_search>
 
 My Anonymouse - <https://www.myanonamouse.net/index.php>
 
-Интервью:
+<div style="border: 1px solid black; padding: 10px;">
+<p>Интервью:</p>
 
-<https://www.myanonamouse.net/inviteapp.php>
+<p><a href="https://www.myanonamouse.net/inviteapp.php">https://www.myanonamouse.net/inviteapp.php</a></p>
 
-IRC клиент:
+<p>IRC-клиент:</p>
 
-mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
+<p>mIRC - <a href="https://rutracker.org/forum/viewtopic.php?t=2901572">https://rutracker.org/forum/viewtopic.php?t=2901572</a></p>
 
-AppData\Roaming\mIRC\scripts
+<p>AppData\Roaming\mIRC\scripts</p>
 
-HexChat - <https://hexchat.github.io/downloads.html>
-<br><br>
+<p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
+</div>
+<br>
 
 #### Программы:
 

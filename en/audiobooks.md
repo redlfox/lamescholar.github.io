@@ -9,18 +9,20 @@ AudioBook Bay - <https://audiobookbay.lu/member/advanced_search>
 
 My Anonymouse - <https://www.myanonamouse.net/index.php>
 
-Interview:
+<div style="border: 1px solid black; padding: 10px;">
+<p>Interview:</p>
 
-<https://www.myanonamouse.net/inviteapp.php>
+<p><a href="https://www.myanonamouse.net/inviteapp.php">https://www.myanonamouse.net/inviteapp.php</a></p>
 
-IRC client:
+<p>IRC client:</p>
 
-mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
+<p>mIRC - <a href="https://rutracker.org/forum/viewtopic.php?t=2901572">https://rutracker.org/forum/viewtopic.php?t=2901572</a></p>
 
-AppData\Roaming\mIRC\scripts
+<p>AppData\Roaming\mIRC\scripts</p>
 
-HexChat - <https://hexchat.github.io/downloads.html>
-<br><br>
+<p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
+</div>
+<br>
 
 #### Programs:
 
@@ -74,4 +76,4 @@ You have mp3 and cover of audiobook.
 
 It turns out to be something like a movie with subtitles. Audiobook with subtitles.
 
-You can do without translation. For example, you want to listen to an audiobook in English, but you don't recognize all the words. You're doing subtitles. You're making a video. You embed subtitles into the video. You get an audiobook with subtitles.
+You can dispense with translation. For example, you want to listen to an audiobook in English, but you don't recognize all the words. You're doing subtitles. You're making a video. You embed subtitles into the video. You get an audiobook with subtitles.
