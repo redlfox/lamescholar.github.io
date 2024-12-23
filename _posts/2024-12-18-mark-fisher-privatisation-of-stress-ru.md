@@ -94,7 +94,7 @@ title: Марк Фишер - Приватизация стресса (2011)
 
 [^5]: Джереми Гилберт, см.: [Elitism, Philistinism and Populism: the Sorry State of British Higher Education Policy](https://www.opendemocracy.net/en/opendemocracyuk/elitism-philistinism-and-populism-sorry-tale-of-british-higher-education-p/) // open Democracy. 2010.
 
-[^6]: [New Times: The Changing Face of Politics in the 1990s](https://archive.org/details/newtimeschanging0000unse) / eds. S. Hall, M. Jacques. Lawrence and Wishart, 1989.
+[^6]: [New Times: The Changing Face of Politics in the 1990s](https://libgen.st/book/index.php?md5=E2C93123D66A2805652BF0AE13533E58) / eds. S. Hall, M. Jacques. Lawrence and Wishart, 1989.
 
 [^7]: Negri A. [Art and Multitude](https://z-library.sk/book/21260598/54ddae/art-and-multitude.html). Polity, 2010. P. 10.
 
