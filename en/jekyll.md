@@ -90,14 +90,14 @@ text<a href="#note" id="note-back">†</a>
 #### Introduction
 13) Line break - <br>
 14) Blank line (double line break) - <br><br>
-15) Footnote:
+15) Note:
 text[^1] text[^2]
 
-[^1]: footnote text
+[^1]: note text
 
-	footnote text
+	note text
 
-[^2]: footnote text
+[^2]: note text
 16) Quote:
 > quote
 >
