@@ -7,7 +7,7 @@ title: Jefferson and Madison on the right of succeeding generations to fetch a n
 
 # Jefferson and Madison on the right of succeeding generations to fetch a new constitution
 
-Author: lamescholar - 2024-12-24
+Author: lamescholar - 2024-12-26
 <br><br>
 
 <button id="toggle-annotations">Show Annotations</button>
