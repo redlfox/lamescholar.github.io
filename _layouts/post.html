@@ -7,6 +7,72 @@ layout: default
     {{ content }}
   </div>
   
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+      let activeAnnotation = null;
+      const annotatedTexts = document.querySelectorAll('.annotated-text');
+      const toggleButton = document.getElementById('toggle-annotations');
+      let annotationsVisible = false;  // Start with annotations hidden
+  
+      // Create and append bubble element
+      function createBubble(text, parent) {
+          const bubble = document.createElement('div');
+          bubble.className = 'annotation-bubble';
+          bubble.textContent = text;
+          parent.appendChild(bubble);
+          return bubble;
+      }
+  
+      // Handle click on annotated text
+      annotatedTexts.forEach(text => {
+          const bubble = createBubble(text.dataset.annotation, text);
+          
+          text.addEventListener('click', (e) => {
+              e.stopPropagation();
+              if (!annotationsVisible) return;
+  
+              if (activeAnnotation === bubble) {
+                  bubble.classList.remove('active');
+                  activeAnnotation = null;
+              } else {
+                  if (activeAnnotation) {
+                      activeAnnotation.classList.remove('active');
+                  }
+                  bubble.classList.add('active');
+                  activeAnnotation = bubble;
+              }
+          });
+      });
+  
+      // Close annotation when clicking outside
+      document.addEventListener('click', () => {
+          if (activeAnnotation) {
+              activeAnnotation.classList.remove('active');
+              activeAnnotation = null;
+          }
+      });
+  
+      // Toggle all annotations
+      toggleButton.addEventListener('click', () => {
+          annotationsVisible = !annotationsVisible;
+          
+          annotatedTexts.forEach(text => {
+              if (annotationsVisible) {
+                  text.classList.add('visible');
+                  toggleButton.textContent = 'Hide Annotations';
+              } else {
+                  text.classList.remove('visible');
+                  if (activeAnnotation) {
+                      activeAnnotation.classList.remove('active');
+                      activeAnnotation = null;
+                  }
+                  toggleButton.textContent = 'Show Annotations';
+              }
+          });
+      });
+  });
+  </script>
+
   {% if page.comments %}
   <br><br>
   <div id="disqus_thread"></div>
