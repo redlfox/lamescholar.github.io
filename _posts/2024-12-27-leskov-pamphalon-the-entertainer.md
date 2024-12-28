@@ -274,7 +274,7 @@ The anchorite was glad to hear this mention of the name Pamphalon. It meant that
 ‘I do want to see someone called Pamphalon,’ Hermius said. ‘In fact, I’ve been sent to find him; but I’m not sure whether he’s the Pamphalon you’re talking about.’
 ‘What were you told about your Pamphalon?’
 
-‘Much that I wouldn’t relate tojust anyone; but I was informed that everyone knows him here.’
+‘Much that I wouldn’t relate to just anyone; but I was informed that everyone knows him here.’
 
 ‘Well, if that’s the case, then we’re talking about the same Pamphalon. He’s the only Pamphalon whom everyone knows.’
 
