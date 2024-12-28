@@ -5,12 +5,12 @@ comments: true
 title: Jefferson and Madison on the right of succeeding generations to fetch a new constitution
 ---
 
+<button id="toggle-annotations">Show Annotations</button>
+
 # Jefferson and Madison on the right of succeeding generations to fetch a new constitution
 
 Author: lamescholar - 2024-12-26
 <br><br>
-
-<button id="toggle-annotations">Show Annotations</button>
 
 I was listening to <span class="annotated-text" data-annotation="I listen to it in the car.">NPR</span> the other day. It was broadcasting [the episode](https://mediaplayer.whro.org/program/listeningtoamerica/e/listeningtoamerica-monday-december-9th-2024) of Listening to America. This episode was about how conspiracies theories today deteriorated to shallow denunciations compared to fruitful conspiracy theories of early American history. The guest of this episode, Beau Breslin, talked about how we can view the Declaration of Independence and Constitutional Convention as conspiracies based on conspiracy theories. In first case, a group of wealthy men conspired to denounce existing British power as cabal imposing unfair taxes upon the colonies. In second case, yet another group of wealthy men conspired to write a piece of paper to replace existing Articles of Confederation. So, in early American history, conspiracy theories used to denounce existing conditions only to bring about a better order in consistency with its critique.
 

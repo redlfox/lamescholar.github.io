@@ -5,6 +5,8 @@ comments: true
 title: Nikolai Leskov - Pamphalon the Entertainer (1887)
 ---
 
+<button id="toggle-annotations">Show Annotations</button>
+
 Source: [Leskov, Nikolai - Lady Macbeth of Mtsensk and Other Stories - 1987](https://libgen.st/book/index.php?md5=949DE39FD86DC9D4AB2ED874C272CC14)
 <br><br>
 
