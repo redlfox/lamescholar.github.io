@@ -22,7 +22,10 @@ It is good that the Constitution was based on thorough debate. The trouble is th
 That's my argument. Read the arguments of Jefferson and Madison.
 <br><br>
 
-Source: The Republic of Letters: The Correspondence between Thomas Jefferson and James Madison, 1776-1826: [Volume 1, 1776-1790 - 1995](https://archive.org/details/republicofletter0001jeff), p. 631, 650
+Source:<br>
+The Republic of Letters: The Correspondence between Thomas Jefferson and James Madison, 1776-1826<br>
+[Volume 1, 1776-1790 - 1995](https://archive.org/details/republicofletter0001jeff)<br>
+p. 631, 650
 <br><br>
 
 #### *Jefferson to Madison*
