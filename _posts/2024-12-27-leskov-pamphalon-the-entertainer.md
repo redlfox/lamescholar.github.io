@@ -1148,7 +1148,7 @@ risen above all human passions, and they have no power to shake you, but I have 
 
 ‘No sooner had I appeared in the covered passage, however, than I was met by Azella’s confidante, the blonde Ada. She was carrying a pitcher of some cooling drink as if it were specially intended for me, and I said to her:
 
-“‘Be merciful, fair Ada: refresh my lips -1 am dying of thirst. ” ‘She smiled and said, in jest:
+“‘Be merciful, fair Ada: refresh my lips - I am dying of thirst. ” ‘She smiled and said, in jest:
 
 ‘“What sort of dying will you be doing now, *Sir* Pamphalon? You aren’t poor any more and you can afford slaves who will cool your water for you.”
 
@@ -1205,7 +1205,7 @@ risen above all human passions, and they have no power to shake you, but I have 
 
 ‘‘‘Take all this, take it and hurry, rescue poor Magna’s children from the eunuch before he mutilates them!”
 
-‘I did as she urged: I took her treasures, added to them the money I had been given by Or the Corinthian and sent Magna off with it all to buy back her husband and her two sons from captivity. And it all worked out successfully, except that I had to say goodbye forever to any prospect of improving my way of life and thus to any hope of eternal blessedness. So I am still even now an entertainer - I’m a comedian, a dissolute fellow -1 caper, I play, I beat my tambourine, I whistle, I move my legs up and down and shake my head. In short, I’m a barrel, a tar-barrel, I’m a good-for-nothing who’s beyond redemption. That’s my story, anchorite, the story of how I lost the chance of improving my way of life and how I broke the vow I made to God.’
+‘I did as she urged: I took her treasures, added to them the money I had been given by Or the Corinthian and sent Magna off with it all to buy back her husband and her two sons from captivity. And it all worked out successfully, except that I had to say goodbye forever to any prospect of improving my way of life and thus to any hope of eternal blessedness. So I am still even now an entertainer - I’m a comedian, a dissolute fellow - I caper, I play, I beat my tambourine, I whistle, I move my legs up and down and shake my head. In short, I’m a barrel, a tar-barrel, I’m a good-for-nothing who’s beyond redemption. That’s my story, anchorite, the story of how I lost the chance of improving my way of life and how I broke the vow I made to God.’
 <br><br>
 
 <h1 style="text-align: center;">29</h1>
