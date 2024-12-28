@@ -236,3 +236,165 @@ title: Заглавие текста
 #### Комментарии
 
 <https://help.disqus.com/en/articles/1935528-jekyll-installation-instructions>
+<br><br>
+
+#### Аннотации
+
+Существует способ эмулировать заметки на полях - аннотации.
+
+Вставь папку _sass в папку сайта. Добавь в _layout.scss:
+
+```
+.annotated-text {
+    background-color: transparent;
+    cursor: default;
+    position: relative;
+    display: inline;
+}
+
+.annotated-text.visible {
+    background-color: #ffeeba;
+    cursor: pointer;
+}
+
+.annotation-bubble {
+    display: none;
+    position: absolute;
+    background: white;
+    border: 2px solid #999;  /* Thicker, darker border */
+    border-radius: 4px;
+    padding: 12px;  /* Slightly more padding */
+    width: 280px;   /* Wider bubble */
+    box-shadow: 0 3px 8px rgba(0,0,0,0.25);  /* More pronounced shadow */
+    z-index: 100;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 100%;
+    margin-top: 8px;
+    line-height: 1.4;  /* Better text readability */
+}
+
+.annotation-bubble::before {
+    content: '';
+    position: absolute;
+    top: -10px;  /* Adjusted for thicker border */
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 0 10px 10px 10px;  /* Larger arrow */
+    border-style: solid;
+    border-color: transparent transparent #999 transparent;  /* Match border color */
+}
+
+.annotation-bubble::after {
+    content: '';
+    position: absolute;
+    top: -7px;  /* Slightly below the border arrow */
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 0 8px 8px 8px;
+    border-style: solid;
+    border-color: transparent transparent white transparent;  /* White fill for arrow */
+}
+
+.annotation-bubble.active {
+    display: block;
+}
+
+#toggle-annotations {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#toggle-annotations:hover {
+    background-color: #0056b3;
+}
+```
+
+Добавь в post.html:
+
+```
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+      let activeAnnotation = null;
+      const annotatedTexts = document.querySelectorAll('.annotated-text');
+      const toggleButton = document.getElementById('toggle-annotations');
+      let annotationsVisible = false;  // Start with annotations hidden
+  
+      // Create and append bubble element
+      function createBubble(text, parent) {
+          const bubble = document.createElement('div');
+          bubble.className = 'annotation-bubble';
+          bubble.textContent = text;
+          parent.appendChild(bubble);
+          return bubble;
+      }
+  
+      // Handle click on annotated text
+      annotatedTexts.forEach(text => {
+          const bubble = createBubble(text.dataset.annotation, text);
+          
+          text.addEventListener('click', (e) => {
+              e.stopPropagation();
+              if (!annotationsVisible) return;
+  
+              if (activeAnnotation === bubble) {
+                  bubble.classList.remove('active');
+                  activeAnnotation = null;
+              } else {
+                  if (activeAnnotation) {
+                      activeAnnotation.classList.remove('active');
+                  }
+                  bubble.classList.add('active');
+                  activeAnnotation = bubble;
+              }
+          });
+      });
+  
+      // Close annotation when clicking outside
+      document.addEventListener('click', () => {
+          if (activeAnnotation) {
+              activeAnnotation.classList.remove('active');
+              activeAnnotation = null;
+          }
+      });
+  
+      // Toggle all annotations
+      toggleButton.addEventListener('click', () => {
+          annotationsVisible = !annotationsVisible;
+          
+          annotatedTexts.forEach(text => {
+              if (annotationsVisible) {
+                  text.classList.add('visible');
+                  toggleButton.textContent = 'Hide Annotations';
+              } else {
+                  text.classList.remove('visible');
+                  if (activeAnnotation) {
+                      activeAnnotation.classList.remove('active');
+                      activeAnnotation = null;
+                  }
+                  toggleButton.textContent = 'Show Annotations';
+              }
+          });
+      });
+  });
+  </script>
+```
+
+Добавь в Markdown поста:
+
+```
+<button id="toggle-annotations">Show Annotations</button>
+```
+
+Аннотирование:
+
+```
+<span class="annotated-text" data-annotation="Annotation.">Piece of the text.</span>
+```
