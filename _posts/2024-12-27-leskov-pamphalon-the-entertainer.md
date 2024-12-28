@@ -1,11 +1,11 @@
- ‒ - ‒ 
+---
 layout: post
 tag: Reposts
 comments: true
-title: Nikolai Leskov ‒ Pamphalon the Entertainer (1887)
- ‒ - ‒ 
+title: Nikolai Leskov - Pamphalon the Entertainer (1887)
+---
 
-Source: [Leskov, Nikolai ‒ Lady Macbeth of Mtsensk and Other Stories ‒ 1987](https://libgen.st/book/index.php?md5=949DE39FD86DC9D4AB2ED874C272CC14)
+Source: [Leskov, Nikolai - Lady Macbeth of Mtsensk and Other Stories - 1987](https://libgen.st/book/index.php?md5=949DE39FD86DC9D4AB2ED874C272CC14)
 <br><br>
 
 # *Pamphalon the Entertainer*
@@ -13,16 +13,16 @@ Source: [Leskov, Nikolai ‒ Lady Macbeth of Mtsensk and Other Stories ‒ 1987]
 
 ‘Weakness is all, strength is insignificant. When a man is born, he is weak and yielding; when he dies, he is strong and hard. When a tree begins to grow, it is yielding and tender, and when it is dry and tough, it dies. Hardness and strength are the concomitants of death. Pliancy and weakness express the freshness of existence. Therefore, that which has grown hard will not prevail.’
 
-Lao ‒ Tse
+Lao-Tse
 <br><br>
 
-<h1 style="text ‒ align: center;">1</h1>
+<h1 style="text-align: center;">1</h1>
 
 During the reign of Emperor Theodosius the Great there lived at Constantinople a certain nobleman, a ‘patrician and bishop’ named Hermius. Rich, high ‒ born and distinguished, he possessed a forthright and honest character. He loved truth and detested insincerity, an attitude that ill concorded with the times in which he lived. In those far ‒ off times there were in Byzantium (or Constantinople as it is called nowadays), just as there were in every part of the Byzantine Empire, a great many arguments about faith and piety, in the course of which the passions of men would become aroused; discord and quarrels would ensue, with the result that although everyone was preoccupied with questions of piety, there was in reality neither godliness nor peace. Indeed, among the lower orders of society at this time there prevailed a state of moral turpitude such as was too embarrassing even to be talked of, while the higher orders were characterized by a universal and dreadful hypocrisy. Everyone pretended to be Godfearing, but lived in a fashion that was thoroughly un ‒ Christian: there were backbiting, mutual hatred, and an absence of compassion for the poor people at the lower end of the scale; the rich drowned in luxury and felt not the slightest pangs of shame that the common people should, at the very same time, be suffering the most crushing needs. People who became impoverished were taken into servitude or slavery, and it not seldom happened that poor people actually died of hunger outside the houses of feasting nobles. Moreover, the plebeians knew that these eminent folk were constantly warring among themselves, and that they were frequently the cause of one another’s undoing. Not only did they make slanderous reports about one another to the Emperor ‒ they were even in the habit of poisoning one another at feasts or in their own homes, bribing the cooks or other minions to do their dirty work for them.
 At both its upper and lower levels, the entire state was filled with vice.
 <br><br>
 
-<h1 style="text ‒ align: center;">2</h1>
+<h1 style="text-align: center;">2</h1>
 
 Hermius’s soul was a *peaceful* one. What was more, he had strengthened it with a love of human beings, as taught by Christ in His Gospels. Hermius wanted to see genuine piety, not some simulated version of it that brought no one any benefit, but merely served as a pretext for vainglory and deceit. Hermius would say: ‘If we believe that the Gospels are divine and reveal to us how we must act in order to annihilate the evil in the world, we must act in the way the Gospels show us, and not merely pay lip ‒ service to them: such, for example, as to recite the words “and forgive us our debts, as we forgive our debtors”, and then forgive no one anything, but instead wax wrathful at the slightest offence and claim back what is owed by one’s neighbour, sparing him neither life nor limb.’
 
@@ -35,7 +35,7 @@ No sooner had Hermius begun to deliberate this notion in depth, than it appeared
 ‘I can’t please everyone,’ he thought. ‘If I side with the schemers I’ll ruin my soul, yet if I side with the guileless I won’t be of any assistance to them but will only create a lot of trouble for myself. I’ll be said to be a man of evil intent, who is out to sow unrest, and it might come to pass that I would lose patience with all the tales they told about me and would begin to justify myself; if that were to happen, my soul would grow brutalized ‒ I would start accusing my accusers and become every bit as nasty as them. No, things had better not work out like that. I don’t want to shame anyone or reproach anyone, because all that is repugnant to my soul; the best thing would be for me to give up all this; go to the Emperor and ask him to permit me to relinquish all the power that I have, and live out the rest of my days in peace somewhere, as an ordinary person.’
 <br><br>
 
-<h1 style="text ‒ align: center;">3</h1>
+<h1 style="text-align: center;">3</h1>
 
 Hermius did as his reflections prompted him. When he went to see Emperor Theodosius, he made no complaints or accusations about anyone, but merely asked to be relieved of his duties. At first the Emperor tried to persuade him to remain at his post, but then gave in. Hermius was allowed to take full retirement (‘Give up all power’).
 At this very same time Hermius’s wife died, and the former noble, now left on his own, began to reflect in a different way. ‘May this not be a sign to me from above?’ he wondered. ‘The Emperor has freed me from the cares of my post, and the Lord has freed me from marriage. My wife has died, and there is no one in my family for whose sake I must try to increase my substance. Now I can walk faster and further towards the aim that is outlined in the Gospels. What good is wealth to me? It brings nothing but worry, and even though I’ve given up my official position, wealth would compel me to worry about it and draw me into the kind of activities that are unsuitable for someone who wants to be a disciple of Christ.’
@@ -49,7 +49,7 @@ He acted in this way because he wanted to ‘be perfect’, and because to those
 Hermius followed this instruction very precisely, leaving himself without a farthing to his name, and he rejoiced that he in no way found it grievous or difficult. It was only at the outset that it cost him something of an effort; after a while he took pleasure in giving everything away, so that nothing should ensnare him or hinder him from travelling lightly towards the loftiest aim of the Gospels.
 <br><br>
 
-<h1 style="text ‒ align: center;">4</h1>
+<h1 style="text-align: center;">4</h1>
 
 Having thus freed himself from power and riches, Hermius left the capital in secret and set off to look for a secluded spot where no one would prevent him from keeping himself pure and holy, and from leading a life that was pleasing in the eyes of God. After a long journey, which he made barefoot, Hermius reached the remote town of Edessa,[^1] and quite unexpectedly came across ‘a certain pillar’ for himself. ‘Here it is,’ thought Hermius. ‘Here’s a place all ready for me.’ And he immediately clambered on to his ‘pillar’ by means of a frail piece of timber which someone had placed against the rock, and then pushed the timber away. It rolled far away down the precipice and broke in pieces; but Hermius remained standing where he was, and continued to stand there for thirty years. During all that time he prayed to God and tried to forget about the hypocrisy and other evils which he had seen and which had pained and angered him.
 
@@ -80,7 +80,7 @@ Hermius found it quite impossible to imagine a human being who might be worthy o
 And the stylite was at last seized by the desperate certainty that Eternity was quite empty, since there was no one worthy of entering it.
 <br><br>
 
-<h1 style="text ‒ align: center;">5</h1>
+<h1 style="text-align: center;">5</h1>
 
 One evening, as night was lowering her veils, and the stylite was ‘endeavouring with all his might to learn who are they that are pleasing in the sight of God’, he inclined his head to the edge of the precipice on which he perched, and a strange thing happened to him: he felt a gentle, even breeze wafting towards him, and at the same time heard the following words:
 
@@ -127,7 +127,7 @@ The voice on the delicate breeze said:
 ‘That is not your concern. All you need do is come down quickly from your pillar and walk to Damascus: there everyone knows the Pamphalon you want to see. Ask the first person you meet ‒ they’ll show you the way. Everyone knows him.’
 <br><br>
 
-<h1 style="text ‒ align: center;">6</h1>
+<h1 style="text-align: center;">6</h1>
 
 Now, after the third such conversation, Hermius was no longer in any doubt that this was the voice which must be obeyed. As for the question of which Pamphalon he was to see in Damascus, it ceased to trouble him. This Pamphalon whom everyone knew must doubtless be some famous poet or warrior, or possibly a well ‒ known noble. In short, Hermius had no more grounds for hesitation; in order to obtain the fulfilment of his request, he must go and bring it about himself.
 
@@ -158,7 +158,7 @@ He had already turned round, but his legs would not carry him, and in his ears o
 The old man turned round again to face Damascus, and his legs carried him forward. He arrived at the city wall just as the sentinel was closing the gates.
 <br><br>
 
-<h1 style="text ‒ align: center;">6</h1>
+<h1 style="text-align: center;">6</h1>
 
 With some difficulty the poor old man managed to persuade the gatesman to let him through, though in exchange for this he had to part with his basket and gourd, a transaction which left him defenceless in the midst of a city which was totally unfamiliar to him and which seemed to him quite terrifyingly sinful.
 
@@ -267,7 +267,7 @@ The elder threw up his hands:
 ‘*Go and see Pamphalon*.’
 <br><br>
 
-<h1 style="text ‒ align: center;">8</h1>
+<h1 style="text-align: center;">8</h1>
 
 The anchorite was glad to hear this mention of the name Pamphalon. It meant that his journey had not been in vain. But who, he wondered, was this talking to him in the dark? If it was a guiding angel, that was good ‒ but what if it were the Devil?
 
@@ -319,7 +319,7 @@ But the man who had spoken in the darkness did not seem to hear this curse, and 
 And with this, the speaker in the dark vanished off somewhere, as though he had never existed.
 <br><br>
 
-<h1 style="text ‒ align: center;">9</h1>
+<h1 style="text-align: center;">9</h1>
 
 Struck by what he had heard about Pamphalon, Hermius remained in the darkness, thinking:
 
@@ -388,7 +388,7 @@ The former nobleman, who had stood for thirty years exposed to the wind and the 
 These two quite disparate individuals stood facing each other in bewilderment: the entertainer, who had hidden the natural aspect of his features beneath a layer of paint, and the sun ‒ bleached anchorite. They were observed by the long ‒ muzzled dog and the bird of bright plumage. All were silent. But Hermius had not come to see Pamphalon in order to be silent, but in order to have a talk with him ‒ a profoundly significant talk.
 <br><br>
 
-<h1 style="text ‒ align: center;">10</h1>
+<h1 style="text-align: center;">10</h1>
 
 Pamphalon was the first to recover his composure.
 
@@ -658,7 +658,7 @@ Pamphalon whistled to Acra, took the pole on which his bird of bright plumage sa
 Hermius was left alone in the empty dwelling.
 <br><br>
 
-<h1 style="text ‒ align: center;">11</h1>
+<h1 style="text-align: center;">11</h1>
 
 Hermius did not quickly find oblivion in sleep. For a long time he meditated on how he was to match his conception of why he had come here with what he had actually found. It was, of course, easy to see at once that the entertainer was a good ‒ hearted fellow, but all the same he *was* rather frivolous: he increased the sum of pleasure by clapping his hands, kicking his legs in the air and twisting his head, and he was unwilling to renounce these devilish amusements. Would he indeed be capable of such a thing, so deeply was he immersed in this debauched existence? Consider, for example, his present whereabouts, after he had gone off with these shameless women who had left behind them in the air the mutter of their blood and the odour of Silenus’s acrid sweat.
 
@@ -721,7 +721,7 @@ Pamphalon thought for a moment or two, and then said:
 Together they left the city, and sat down on the edge of its wild, precipitous moat. Acra lay at their feet, and Pamphalon began to tell his story.
 <br><br>
 
-<h1 style="text ‒ align: center;">12</h1>
+<h1 style="text-align: center;">12</h1>
 
 ‘Not for anything in the world would I tell you what you ask me to relate,’ Pamphalon began. ‘But since you insist on regarding me as a good man, and since that makes me feel ashamed, because I’m not worthy to be considered such, but merit only contempt ‒ I shall tell you. I am a great sinner and drunkard, but ‒ what is worse ‒ I am a trickster, and not a simple trickster: I tricked God with regard to the vow I took before him at the very moment I was granted the opportunity of fulfilling it. Listen to me, please; and judge me sternly. In your judgement I wish to receive the healing wound I have deserved in punishment from you.
 
@@ -752,7 +752,7 @@ Together they left the city, and sat down on the edge of its wild, precipitous m
 ‘And I gave myself up to various forms of day ‒ dreaming. I began to indulge in self ‒ admiration as I summoned up thoughts of the worthy life I would lead: I would get up early in the mornings ‒ not, as I did at present, go to bed at dawn; I wouldn’t whistle, but sing psalms instead; during the daytime I would sit by *my* spring, under *my* palm tree, think about *my* soul and keep an eye open for a passing traveller. And were such a traveller to appear, I would get up and go to meet him, invite him into my home, put him at his ease, give him food and drink, and then in the quietness hold a conversation with him about God beneath the starry sky. My life would change entirely for the better, and when in my old age I should lose my strength, I would no longer be an entertainer. In order to fortify my resolve even more, and so that infirmity should not creep up on me from the side, I fettered my hands with an unbreakable chain . . . I did the thing you described: I took a vow that I would become a completely different person from that moment on. But listen to what happened then, and what it was that shook the resolution of my oath and promise.’
 <br><br>
 
-<h1 style="text ‒ align: center;">13</h1>
+<h1 style="text-align: center;">13</h1>
 
 ‘So as not to spend any of my earnings, I did not send my impoverished soldier home, but instead buried all my money under the floor below the head of my bed, and in the morning kept my rush curtain lowered. I pretended to be ill, as I had no intention of going out carousing with the revellers. To anyone who came to summon me, I replied that I was ill and was going out of town into the mountains in order to breathe fresh air and look for medicinal herbs with which to cure myself. Then, on the sly, I went to see a procurer, a Jew named Capiton who knows all about what is for sale anywhere, and asked him to find me a good plot of land with water and the shade of a palm tree. Capiton the procurer satisfied my wish at once.
 
@@ -794,7 +794,7 @@ Now people would discover that I had money; they would come to my house at night
 ‘This desire to inflict harm on me must now, of course, have intensified, and his old brigand’s habits would help him to put his evil intentions into execution. He had gold, and he took men into bondage and made them do his bidding.’
 <br><br>
 
-<h1 style="text ‒ align: center;">14</h1>
+<h1 style="text-align: center;">14</h1>
 
 ‘The thought of the danger Ammun presented to me flashed into my brain like lightning, and took such a hold of me that it even prevented me from drawing the bast curtain over my window and calling back the boys who had passed me, and from whom I had wanted to buy myself some fresh loaves.
 
@@ -811,7 +811,7 @@ Now people would discover that I had money; they would come to my house at night
 “‘Save me, Pamphalon!”’
 <br><br>
 
-<h1 style="text ‒ align: center;">15</h1>
+<h1 style="text-align: center;">15</h1>
 
 ‘Still taken up with the thoughts that filled my head at that moment, and fearing Ammun, I at first suspected that this was the beginning of his attack, conducted with the kind of subterfuge at which his brigand’s mind was very skilled.
 
@@ -848,7 +848,7 @@ Now people would discover that I had money; they would come to my house at night
 ‘And, the tears watering her cheeks, Magna began hastily to undo the belt of her tunic.’
 <br><br>
 
-<h1 style="text ‒ align: center;">16</h1>
+<h1 style="text-align: center;">16</h1>
 
 ‘Old man! I had seen a great many people before in my life, but never had I had a guest such as this one . . . She was attempting to sell herself, she was suffering, and this combination seemed to squeeze at my heart.
 
@@ -871,7 +871,7 @@ Now people would discover that I had money; they would come to my house at night
 ‘And at that very moment, anchorite, I was assailed by the temptation which caused me to forget my vow, my oath and eternal life itself.’
 <br><br>
 
-<h1 style="text ‒ align: center;">17</h1>
+<h1 style="text-align: center;">17</h1>
 
 ‘I had known Magna since the early days of her girlhood. I had never been in her father’s house, but only in its orchard as an entertainer, when I had been summoned there in order to amuse the child. They received few visitors, as the magnificent Ptolemy was a proud man and did not associate with people of easy morals. In his house there were none of the sort of gatherings which required the presence of an entertainer; the people who assembled there were learned theologians who talked solemnly about various lofty subjects and about the Holy Spirit. Ptolemy’s wife, Albina, the mother of the beautiful Magna, was a fitting match for her husband. The worldly women of Damascus viewed Albina with distaste, but they all acknowledged her purity. Albina’s fidelity could stand as a lesson for all. The excellent Magna took after her mother, whose attractive features she had inherited; but her youthfulness inclined her to be soft ‒ hearted. The magnificent orchard of Ptolemy, her father, adjoined a large ravine, on the other side of which a wide field began. I often crossed this field in order to avoid having to go the long way round to the suburban house of the *hetaera* Azella. I would always be carrying my entertainer’s bundle and would be walking in the company of this same dog that you see here. Acra was young in those days and didn’t know all the things that an entertainer’s dog is supposed to know.
 
@@ -902,7 +902,7 @@ Now people would discover that I had money; they would come to my house at night
 ‘As a result of this fall I sustained the most terrible injuries.’
 <br><br>
 
-<h1 style="text ‒ align: center;">18</h1>
+<h1 style="text-align: center;">18</h1>
 
 ‘My consolation in the disaster which had befallen me was that on each of the ten days I spent in the little cave at the foot of the ravine the virtuous Magna came down to see me. So much sumptuous food did she bring me that there was more than enough for both myself and Acra; she herself soaked cloths in the spring with her maidenly hands, and put them against my injured shoulder, trying thus to lessen the intolerable burning caused by the bruise. As she did so, we had conversations that delighted me, and I took pleasure in both the purity of her heart and in the clear light of her intelligence. The only thing I found annoying in her was her unwillingness to make allowances for anyone else’s weakness and her excessive tendency to see everything in terms of herself.
 
@@ -955,7 +955,7 @@ The tar which has been in a clean barrel makes it unfit to contain anything but 
 ‘And he continued to be inspired by her.’
 <br><br>
 
-<h1 style="text ‒ align: center;">19</h1>
+<h1 style="text-align: center;">19</h1>
 
 ‘When I had recovered, and arrived for my first evening at Azella’s house, Magistrian led me into the *hetaera*’s pavilion and showed me the murals he had painted on its walls. The pavilion was a large and spacious building, and it was divided into the “hours” of which each day of a person’s life is composed. Each division had been dedicated to the joys of life of the hour it represented. The entire building was dedicated to Saturn, a portrait of whom gleamed beneath the cupola. Near the main rotunda there were two wings in honour of the Horae, the daughters of Jupiter and Themis, and these divisions had subdivisions: here were chambers dedicated to Auge, from which the dawn was visible, Anatole, from which the sunrise could be seen, Musaea, where one could occupy oneself with study, Nymphaea, where baths were taken, Spondaea, where one could sponge oneself down, Aphrodite, where enjoyments were partaken of, and Eileithyia, where prayers were offered . . . And it was here, in a remote corner which had been set aside for solitary reveries, that the artist had with a light brush depicted a pious dream . . . The mural showed a feast, attended by well ‒ dressed and voluptuous women, each of whom I could identify by name. They were all Damascan *hetaerae*. They were reclining with their guests amidst flowers, at a sumptuous table, and a young man lay asleep with his head in one of the flower ‒ baskets. His face could not be seen, but I could tell from his toga that this was the artist, Magistrian. Above him was a scene of persecution: the lions in a circus were attacking a young girl . . . but she was standing resolutely, whispering prayers. She was Magna.
 
@@ -992,7 +992,7 @@ The tar which has been in a clean barrel makes it unfit to contain anything but 
 ‘“Why do you say that?” Magistrian exclaimed.’
 <br><br>
 
-<h1 style="text ‒ align: center;">20</h1>
+<h1 style="text-align: center;">20</h1>
 
 ‘Rufinus the Byzantine was of noble birth and very elegant in appearance; he was, however, the most dreadful hypocrite, and was such a skilful dissembler that even in Byzantium it was considered he went too far. The vain Corinthian Or and all the others who squandered their money and their energies at the feasts of Azella the *hetaera* were, in my opinion, better men than Rufinus. He had arrived in Damascus with an open letter of introduction, and had been received by Ptolemy in royal fashion. Rufinus, like the dissembler he was, would spend the entire daytime at home, asleep, but told everyone he was reading books on theology; in the evenings he would go out of town, ostensibly for edifying consultations with an aged anchorite who at that time lived near Damascus, standing on a rock during the day and moaning in an open grave by night. Rufinus would go to him in order to pray, standing in his shadow at sunset; but from thence winged Aeolus would invariably lead him under the roof of Azella, where he always appeared with a facial disguise, thanks to Magistrian’s art. It was for this reason that we were well acquainted with him, since, being my friend, Magistrian made no secret to me of the fact that he was the author of Rufinus’s disguise, and on several occasions we had a good laugh together on the subject of this Byzantine duplicity. Azella also knew about it, since when they had seen their clients off at the end of the night, they would often chat with us, and they took a liking to us, finding that we simple folk possessed both heart and intelligence, qualities they did not always encounter in their rich and noble clients.
 
@@ -1005,7 +1005,7 @@ The tar which has been in a clean barrel makes it unfit to contain anything but 
 ‘But Ptolemy and Albina had their own opinion of the Byzantine, their good ‒ hearted daughter was obedient to her parents’ wishes, and her destiny was sealed. Magna became the wife of Rufinus, who took her, together with a rich dowry provided by Ptolemy, and carried her off to Byzantium.’
 <br><br>
 
-<h1 style="text ‒ align: center;">21</h1>
+<h1 style="text-align: center;">21</h1>
 
 ‘Ptolemy and Albina were soon punished by fate. The dissembling Rufinus turned out not to have much money, and to be less famous than he had given himself out to be in Damascus. Worst of all, however, he proved to be dishonest, and was so heavily in debt that Magna’s rich dowry all went on settlements with the creditors who were pressing him. Magna soon found herself in poverty, and there were rumours that she was receiving cruel treatment at the hands of her husband. Rufinus made her ask for more silver and gold from her parents, and when she was unwilling to do this, he dealt roughly with her. Rufinus spent all the money that Magna’s parents sent her in an ignominious fashion, forgetting all about the debts he had to pay and about the two children Magna had borne him. Like many other Byzantine nobles, he was having an affair with another woman in Byzantium, and in order to keep her happy robbed and humiliated his wife.
 
@@ -1025,7 +1025,7 @@ As he spoke these words, the entertainer noticed that the anchorite who was sitt
 And Pamphalon went on.
 <br><br>
 
-<h1 style="text ‒ align: center;">22</h1>
+<h1 style="text-align: center;">22</h1>
 
 ‘In order to avoid unpleasant gossip in the capital and be more confident of obtaining his money, the brothel ‒ keeper did not allow Magna to remain in Byzantium, but sent her to Damascus, where everyone knew her as a virtuous and inaccessible woman and where men would therefore doubtless now be eager to possess her.
 ‘Magna, being a slave, was kept under careful observation, and all the means of escape were removed from her. She was unable even to take her own life ‒ but she had no thoughts of suicide, because she was a mother and was desperate to find her children and rescue them from the eunuch who held them in captivity.
@@ -1033,7 +1033,7 @@ And Pamphalon went on.
 ‘So she was brought to Damascus under guard and in secret, and on the following day ‒ the very same day on which I shut myself up in my house and lay in bed on top of my gold ‒ it became known that Magna’s keeper was charging five *litrae* of gold a night to any man who wished to possess her.’
 <br><br>
 
-<h1 style="text ‒ align: center;">23</h1>
+<h1 style="text-align: center;">23</h1>
 
 ‘The man who had undertaken to make money out of Magna naturally lost no time in seeing to it that his venture was as profitable as possible, and to this end he sent a female courier out to the houses of all the rich men in Damascus, who informed them of the exquisite goods he had to offer.
 
@@ -1052,7 +1052,7 @@ And Pamphalon went on.
 ‘As the brothel ‒ keeper took the ten litrae of gold he pulled a cord which overturned a brass cup containing a brass ball. The ball rolled along a canvas duct to the canopied partition where Magna was kept, and fell with a loud clang into a basin, also of brass, which stood by the head of her bed. After this, the brothel ‒ keeper immediately led his client in to her.’
 <br><br>
 
-<h1 style="text ‒ align: center;">24</h1>
+<h1 style="text-align: center;">24</h1>
 
 ‘The stranger entered the remote apartment, which reeked of spikenard and amber, and there by the light of a flower ‒ shaped lamp he saw Magna lying asleep. She had not been woken by the sound of the ball falling into the basin, because just at that time she was having the dream in which she saw her high ‒ minded fortitude vanishing into thin air and in which she was now saved because of her recognition of her own weakness.
 
@@ -1080,7 +1080,7 @@ And Pamphalon went on.
 ‘It was then that this woman conceived the idea that was to deprive me forever of the chance to mend my ways and lead a respectable life.’
 <br><br>
 
-<h1 style="text ‒ align: center;">25</h1>
+<h1 style="text-align: center;">25</h1>
 
 ‘When Magna revealed to me the disasters which had befallen her, and told me about the risk Magistrian was exposing himself to for her sake, an abyss seemed to open up before me. I knew that Magistrian could never from his own meagre resources have found the ten *litrae* of gold which he had paid for Magna and which still would not rescue her from her degrading situation, as they represented only a fraction of the price of her bondage, and yet left nothing over with which to buy the freedom of her children from the eunuch in Byzantium. But where could Magistrian have obtained these *litra* of gold? He worked in Azella’s house; there the *hetaera*, who was in love with him, always kept a chest full of her treasures . . . My soul was gripped by a sense of horror . . . I thought: what if his love for poor Magna had driven him mad and he had stolen the treasure ‒ chest? From this day on the name of Magistrian would be without honour: *he was a thief*!
 
@@ -1102,7 +1102,7 @@ risen above all human passions, and they have no power to shake you, but I have 
 ‘This filled me with even greater horror . . . I trembled as I saw how misery had degraded her to the point where she sought to sell men her caresses as if this would bring her happiness.’
 <br><br>
 
-<h1 style="text ‒ align: center;">26</h1>
+<h1 style="text-align: center;">26</h1>
 
 ‘I hastened to console her.
 
@@ -1141,7 +1141,7 @@ risen above all human passions, and they have no power to shake you, but I have 
 ‘“Well, even so, wait here with me for what merciful Heaven may send us,” I said and, putting out the lamp, locked up the entrance to my dwelling, in which Magna remained under the protection of Acra, and then dashed off along the dark alley ways of Damascus as fast as my legs would carry me.’
 <br><br>
 
-<h1 style="text ‒ align: center;">27</h1>
+<h1 style="text-align: center;">27</h1>
 
 ‘I did not heed Magna’s warning and with the help of servants managed to obtain entry to the house of Taora, Sylvia and Photina . . . It embarrasses me now to recall what I heard from their lips . . . Magna was right in everything she had told me about those women. My words merely provoked them to fiery anger, and I was thrown out of their house for having dared to enter it with such a plea . . . Two of them, Taora and Photina, ordered me to be thrown out with the mere mention that I deserved a good hiding; but the maid Sylvia ordered me to be flogged in her presence, and her servants beat me with a copper switch ‒ I emerged from her chamber bleeding all over and my throat parched. Thus, tormented by thirst, I stumbled into Azella’s kitchen, in order to ask for a little wine and water, so that I could continue my journey. I had no idea where I would go.
 
@@ -1174,7 +1174,7 @@ risen above all human passions, and they have no power to shake you, but I have 
 ‘But she had also told her mistress about me, and no sooner had she finished wiping my wounds clean with a cool sponge and covering my shoulders with the linen tunic she had brought than, in the portico where I lay leaning sideways against a tree, appeared Azella, dressed in extravagant attire.’
 <br><br>
 
-<h1 style="text ‒ align: center;">28</h1>
+<h1 style="text-align: center;">28</h1>
 
 ‘Azella was covered in gold and pearls, one of which was of enormous value. This rare pearl had been given to her by a great magnate from Egypt.
 
@@ -1207,7 +1207,7 @@ risen above all human passions, and they have no power to shake you, but I have 
 ‘I did as she urged: I took her treasures, added to them the money I had been given by Or the Corinthian and sent Magna off with it all to buy back her husband and her two sons from captivity. And it all worked out successfully, except that I had to say goodbye forever to any prospect of improving my way of life and thus to any hope of eternal blessedness. So I am still even now an entertainer ‒ I’m a comedian, a dissolute fellow ‒ I caper, I play, I beat my tambourine, I whistle, I move my legs up and down and shake my head. In short, I’m a barrel, a tar ‒ barrel, I’m a good ‒ for ‒ nothing who’s beyond redemption. That’s my story, anchorite, the story of how I lost the chance of improving my way of life and how I broke the vow I made to God.’
 <br><br>
 
-<h1 style="text ‒ align: center;">29</h1>
+<h1 style="text-align: center;">29</h1>
 
 Hermius rose, reached for his goatskin, and said to the entertainer:
 
