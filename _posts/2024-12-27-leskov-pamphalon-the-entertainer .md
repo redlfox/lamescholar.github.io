@@ -826,7 +826,7 @@ Now people would discover that I had money; they would come to my house at night
 
 ‘“Very well, I will lock up, but what do you want of me?”
 
-* “Hurry and give me your hand, let me have water to drink and sit me down by your lamp. Then I will tell you what I want.”
+“Hurry and give me your hand, let me have water to drink and sit me down by your lamp. Then I will tell you what I want.”
 
 ‘“Very well,” I replied. “Whatever your intentions may have been, here is my hand, and here is a cup of water and a place by my lamp.”
 
