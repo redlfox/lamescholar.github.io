@@ -261,39 +261,39 @@ title: Заглавие текста
     display: none;
     position: absolute;
     background: white;
-    border: 2px solid #999;  /* Thicker, darker border */
+    border: 2px solid #999;
     border-radius: 4px;
-    padding: 12px;  /* Slightly more padding */
-    width: 280px;   /* Wider bubble */
-    box-shadow: 0 3px 8px rgba(0,0,0,0.25);  /* More pronounced shadow */
+    padding: 12px;
+    width: 280px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.25);
     z-index: 100;
     left: 50%;
     transform: translateX(-50%);
     top: 100%;
     margin-top: 8px;
-    line-height: 1.4;  /* Better text readability */
+    line-height: 1.4;
 }
 
 .annotation-bubble::before {
     content: '';
     position: absolute;
-    top: -10px;  /* Adjusted for thicker border */
+    top: -10px;
     left: 50%;
     transform: translateX(-50%);
-    border-width: 0 10px 10px 10px;  /* Larger arrow */
+    border-width: 0 10px 10px 10px;
     border-style: solid;
-    border-color: transparent transparent #999 transparent;  /* Match border color */
+    border-color: transparent transparent #999 transparent;
 }
 
 .annotation-bubble::after {
     content: '';
     position: absolute;
-    top: -7px;  /* Slightly below the border arrow */
+    top: -7px;
     left: 50%;
     transform: translateX(-50%);
     border-width: 0 8px 8px 8px;
     border-style: solid;
-    border-color: transparent transparent white transparent;  /* White fill for arrow */
+    border-color: transparent transparent white transparent;
 }
 
 .annotation-bubble.active {
