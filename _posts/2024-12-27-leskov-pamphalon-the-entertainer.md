@@ -11,8 +11,7 @@ Source: [Leskov, Nikolai - Lady Macbeth of Mtsensk and Other Stories - 1987](htt
 # *Pamphalon the Entertainer*
 <br>
 
-‘Weakness is all, strength is insignificant. When a man is born, he is weak and yielding; when he dies, he is strong and hard. When a tree begins to grow, it is yielding and tender, and when it is dry and tough, it dies. Hardness and strength are the concomitants of death. Pliancy and weakness express the freshness of existence.
-Therefore, that which has grown hard will not prevail.’
+‘<span class="annotated-text" data-annotation="Strange claim in the context of the story makes perfect sense: the strength you bring into grave is insignificant before the hardships of the weak.">Weakness is all, strength is insignificant.</span> When a man is born, he is weak and yielding; when he dies, he is strong and hard. When a tree begins to grow, it is yielding and tender, and when it is dry and tough, it dies. Hardness and strength are the concomitants of death. Pliancy and weakness express the freshness of existence. Therefore, that which has grown hard will not prevail.’
 
 Lao-Tse
 <br><br>
