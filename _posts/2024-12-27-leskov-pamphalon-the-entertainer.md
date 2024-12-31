@@ -44,7 +44,7 @@ But Hermius owned a very great deal of wealth (‘for he had great possessions�
 
 Hermius set all his slaves free. As for the rest of his ‘great possessions’, he sold them and distributed the proceeds among poor people who were in need.
 
-He acted in this way because he wanted to ‘be perfect’, and because to those who wanted to attain perfection, Christ had clearly and concisely pointed out a single path: ‘Go and sell all that thou hast. . . and come and follow me.’
+He acted in this way because he wanted to ‘be perfect’, and because to those who wanted to attain perfection, Christ had clearly and concisely pointed out a single path: ‘Go and sell all that thou hast . . . and come and follow me.’
 
 Hermius followed this instruction very precisely, leaving himself without a farthing to his name, and he rejoiced that he in no way found it grievous or difficult. It was only at the outset that it cost him something of an effort; after a while he took pleasure in giving everything away, so that nothing should ensnare him or hinder him from travelling lightly towards the loftiest aim of the Gospels.
 <br><br>
@@ -540,7 +540,7 @@ And, noticing that Hermius had turned away, Pamphalon touched him gently on the 
 
 ‘Believe me, esteemed old man: where there’s life there’s hope ‒ in those *hetaerae* there often beat hearts of gold. But it saddens us to be present at the feasts of the rich masters. One meets unpleasant people there; they are proud and arrogant, and they want enjoyment ‒ yet they won’t tolerate levity or uninhibited laughter. There they demand what human nature is ashamed of, there they threaten us with blows and injuries, there they tweak the feathers of my bird of bright plumage, there they blow and spit in the face of my dog Acra. There they make light of all the insults they inflict on the lower orders and next morning . . . they go to church simply for appearances’ sake.’
 
-‘O woe, woe!’ Hermius whispered to himself. ‘I see that he is still very far from realizing the degree to which he has become ensnared ‒ but his nature and intelligence may be good. . . That is doubtless why I have been sent to him ‒ in order to set his gifted soul on a different path.’
+‘O woe, woe!’ Hermius whispered to himself. ‘I see that he is still very far from realizing the degree to which he has become ensnared ‒ but his nature and intelligence may be good . . . That is doubtless why I have been sent to him ‒ in order to set his gifted soul on a different path.’
 
 And to Pamphalon he said, in a tone of exhortation:
 
@@ -862,7 +862,7 @@ Now people would discover that I had money; they would come to my house at night
 
 ‘But Magna sadly shook her head and replied:
 
-‘“Oh, Pamphalon, you don’t know all the terrible misfortunes that have befallen me! I wasn’t mocking you: I’ve come to sell myself in earnest. My husband and children!. . . My husband and my children are all in captivity. My grief is terrible!”
+‘“Oh, Pamphalon, you don’t know all the terrible misfortunes that have befallen me! I wasn’t mocking you: I’ve come to sell myself in earnest. My husband and children! . . . My husband and my children are all in captivity. My grief is terrible!”
 
 “‘Well, tell me then at once the reason for your grief, and if I can 4p anything to help you, I will do it instantly, with joy.”
 
@@ -1000,7 +1000,7 @@ The tar which has been in a clean barrel makes it unfit to contain anything but 
 
 ‘“He’s a poor peacock . . . Everyone has a tweak at his feathers, and when he comes here with Rufinus the Byzantine, you might do worse than give Rufinus’s cloak a shake.’’
 
-‘This meant that Rufinus could be a thief. . . Azella was never mistaken, and both Magistrian and I knew it.
+‘This meant that Rufinus could be a thief . . . Azella was never mistaken, and both Magistrian and I knew it.
 
 ‘But Ptolemy and Albina had their own opinion of the Byzantine, their good-hearted daughter was obedient to her parents’ wishes, and her destiny was sealed. Magna became the wife of Rufinus, who took her, together with a rich dowry provided by Ptolemy, and carried her off to Byzantium.’
 <br><br>
