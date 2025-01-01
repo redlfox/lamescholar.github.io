@@ -72,6 +72,6 @@ sudo systemctl enable vlc-stream
 sudo systemctl start vlc-stream
 ```
 
-OK. We are finished on virtual server end. Virtual server constantly attempting to receive and rebroadcast audio coming from your IP. Now you need to broadcast audio from your computer. Again, we''l be using [VLC](https://www.videolan.org/vlc/). Open VLC. Media->Stream... Choose File or Capture Device. Stream. New destination->RTP / MPEG Transport System. Add. Fill virtual server IP. Next. Profile->Audio - MP3. Next. Stream. Now you should be able to listen to your broadcast here:
+OK. We are finished on virtual server end. Virtual server constantly attempting to receive and rebroadcast audio coming from your IP. Now you need to broadcast audio from your computer. Again, we'll be using [VLC](https://www.videolan.org/vlc/). Open VLC. Media->Stream... Choose File or Capture Device. Stream. New destination->RTP / MPEG Transport System. Add. Fill virtual server IP. Next. Profile->Audio - MP3. Next. Stream. Now you should be able to listen to your broadcast here:
 
 http://VIRTUAL_SERVER_IP:8080/radio.mp3
