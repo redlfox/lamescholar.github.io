@@ -2,4 +2,4 @@
 title: Radio
 ---
 
-http://15.204.219.33:8080/radio.mp3
+{% include embed-audio.html src="http://15.204.219.33:8080/radio.mp3" %}
