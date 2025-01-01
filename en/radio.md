@@ -35,7 +35,7 @@ sudo apt update
 sudo apt install vlc
 ```
 
-OK, you have VLC on virtual server. Now we need to create constantly running service that would keep rebroadcasting any incoming RTP broadcast.
+OK, you have VLC on virtual server. Now we need to create constantly running service that would keep rebroadcasting incoming audio broadcast.
 
 Create service file:
 
