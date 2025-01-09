@@ -18,6 +18,21 @@ Here you can find the transcripts:
 <https://www.bbc.co.uk/radio4/features/the-reith-lectures/transcripts/2011/>
 <br><br>
 
+#### How to record radio broadcast
+
+Media->Stream...->Network. Enter broadcast link. Profile->Audio - MP3. Devise destination file. Start.
+
+Links:
+
+WNYC - <https://fm939.wnyc.org/wnycfm-mobile.aac>
+
+BBC Radio 4 - <https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_fourfm.mpd>
+
+France Culture - <https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8>
+
+Deutschlandfunk Kultur - <https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3>
+<br><br>
+
 #### How to make your own online radio
 
 Technically, you could broadcast from your own IP, but it's not safe to disclose your IP. So, buy cheap virtual server.
@@ -72,6 +87,6 @@ sudo systemctl enable vlc-stream
 sudo systemctl start vlc-stream
 ```
 
-OK. We are finished on virtual server end. Virtual server constantly attempting to receive and rebroadcast audio coming from your IP. Now you need to broadcast audio from your computer. Again, we'll be using [VLC](https://www.videolan.org/vlc/). Open VLC. Media->Stream... Choose File or Capture Device. Stream. New destination->RTP / MPEG Transport System. Add. Fill virtual server IP. Next. Profile->Audio - MP3. Next. Stream. Now you should be able to listen to your broadcast here:
+OK. We are finished on virtual server end. Virtual server constantly attempting to receive and rebroadcast audio coming from your IP. Now you need to broadcast audio from your computer. Again, we'll be using [VLC](https://www.videolan.org/vlc/). Open VLC. Media->Stream... Here choose File or Capture Device. Stream. New destination->RTP / MPEG Transport System. Add. Fill virtual server IP. Next. Profile->Audio - MP3. Next. Stream. Now you should be able to listen to your broadcast here:
 
 http://VIRTUAL_SERVER_IP:8080/radio.mp3
