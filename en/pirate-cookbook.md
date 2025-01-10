@@ -19,6 +19,8 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [Bulletin Board Systems](/en/bbs)
 
+[Buying Books](/en/buying-books)
+
 [Bypass Paywalls Clean](/en/bypass-paywalls-clean)
 
 [ChatGPT](/en/chatgpt)
