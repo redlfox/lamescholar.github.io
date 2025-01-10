@@ -27,5 +27,5 @@ The New York Times Book Review 2024-11-17<br>
 The New Yorker 2024-11-18<br>
 The Times Literary Supplement 2024-11-15<br>
 The Wall Street Journal 2024-11-16<br>
-The Washington Post Sunday 2024-11-17<br>
+The Washington Post 2024-11-17<br>
 The Week 2024-11-22
