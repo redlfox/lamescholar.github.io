@@ -100,7 +100,8 @@ We look at the result of binarization. If parts of the letters disappear - set t
 
 **Book Restorer** - program for straightening crooked images. Create Book. If necessary, you can leave the original file names: Standart page->Properties->Numbering->Original name. Select all files (Ctrl+A). Tools->Restore->Geometrical correction. Publish (icon of disk in menu). When straightening bitonal images in column Types of files choose G4-compressed, in column Color range - Binary. Check the result. If the result is more crooked than original image, substitute the result with original image. When straightening text of the book with pictures, you need to input into the program colored images you got from Scan Tailor. TIFF LZW compressed, Color range - RGB colors. Split the straightened images into text and images in Scan Tailor.
 
-<http://djvu-converter.narod.ru/>
+<http://djvu-converter.narod.ru/><br>
+<https://archive.org/details/book-restorer-v.-4.2.1>
 <br><br>
 
 **Tsushima** - program for clearing slur. Drag images to program icon. Result - images in 8BPP 96DPI format. Convert images to 1BPP 600DPI format in IrfanView.
@@ -174,7 +175,7 @@ DjVu Small Mod + DjVu Imager and FSD realize the method of separated scans. The 
 <https://forum.ru-board.com/topic.cgi?forum=5&topic=38467>
 <br><br>
 
-Archive with programs in case the links break - <https://disk.yandex.ru/d/odtW8TX4diIVsg>
+Zip-archive with programs in case the links break - <https://disk.yandex.ru/d/odtW8TX4diIVsg>
 <br><br>
 
 #### Publish your book:
