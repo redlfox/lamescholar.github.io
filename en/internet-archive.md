@@ -79,7 +79,7 @@ If there is greenish or orange tint remaining, you can lower the color saturatio
 
 It is better to apply color correction to the cover separately. Often a combination of 50 2.00 is suitable, sometimes just 2.00 when the photo is very dark.
 
-In addition to color correction tools, Sharpen tool is useful very often. It is used in case of blurred text (photography defect). The optimal value is 30.
+In addition to color correction tools, I use Sharpen tool all the time against blurred text. The optimal value is 30.
 
 Script download pictures without a certain DPI. Because of this, there may be problems when creating a file. DPI is set in the same IrfanView program.
 
