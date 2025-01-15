@@ -19,7 +19,7 @@ Mainstream debates on serious issues in modern US have a strong fixation on the 
 
 It's good that the Constitution was based on thorough debate. But the subject of critique (aristocracy) is long gone. Two-hundred-year-old debate has become dogma. The Constitution is not set in stone. Today we too can devise a conspiracy theory, for example, that all existing parties are in the pocket of donors. We can work out a better structure of society, get together and write a new constitution. This is in the spirit of American history.
 
-That's my argument. Here's the arguments of Jefferson and Madison. Little comment on Jefferson's argument. I think it's very symptomatic of discourse about democracy of the times. It's prone to accountant's logic. Tocqueville in his book "Democracy in America" illustrates equality of democracy on length of leases, and Jefferson shows the debt of future generations to previous in terms of literal debts.
+That's my argument. Here's the arguments of Jefferson and Madison. Little comment on Jefferson's argument. I think it's very symptomatic of discourse about democracy of the times. It's prone to accountant's logic. Tocqueville in his book "Democracy in America" illustrates equality of democracy on length of leases, and Jefferson shows the debt of modern generation to previous in terms of literal debts.
 <br><br>
 
 Source:<br>
