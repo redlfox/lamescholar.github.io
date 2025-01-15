@@ -19,7 +19,7 @@ Mainstream debates on serious issues in modern US have a strong fixation on the 
 
 It's good that the Constitution was based on thorough debate. But the subject of critique (aristocracy) is long gone. Two-hundred-year-old debate has become dogma. The Constitution is not set in stone. Today we too can devise a conspiracy theory, for example, that all existing parties are in the pocket of donors. We can work out a better structure of society, get together and write a new constitution. This is in the spirit of American history.
 
-That's my argument. Read the arguments of Jefferson and Madison.
+That's my argument. Here's the arguments of Jefferson and Madison.
 <br><br>
 
 Source:<br>
