@@ -84,7 +84,7 @@ title: Марк Фишер - Приватизация стресса (2011)
 
 # Примечания
 
-[^1]: Первая публикация: Soundings. No. 48: The Neoliberal Revolution. Summer 2011. Репринт: New Left Project. 7 September 2011: [Internet Archive](https://web.archive.org/web/20120208155025/http://www.newleftproject.org/index.php/site/article_comments/the_privatisation_of_stress)
+[^1]: Первая публикация: Soundings. No. 48: The Neoliberal Revolution. Summer 2011. Репринт: New Left Project. 7 September 2011: [Wayback Machine](https://web.archive.org/web/20120208155025/http://www.newleftproject.org/index.php/site/article_comments/the_privatisation_of_stress)
 
 [^2]: Southwood I. [Non-Stop Inertia](https://libgen.st/book/index.php?md5=48C6FBA1F62393F9FB289978C6B1433C). Zer0, 2010. P. 72.
 
