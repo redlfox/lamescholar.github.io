@@ -37,7 +37,16 @@ Deutschlandfunk Kultur - <https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp
 
 Technically, you could broadcast from your own IP, but it's not safe to disclose your IP. So, buy cheap virtual server.
 
-OK, you have virtual server and you connected to it via [MobaXterm](https://mobaxterm.mobatek.net/download.html). We need to configure virtual server to receive audio broadcast from your computer. We'll be using RTP protocol. First, we need to open the port on virtual server only for your IP:
+If your VPS provider gives you password to root, you need to connect to virtual server via root and create a user, because VLC runs only from user. To connect virtual server, use [MobaXterm](https://mobaxterm.mobatek.net/download.html).
+
+```
+sudo adduser ubuntu
+usermod -aG sudo ubuntu
+```
+
+Now connect to server via ubuntu user.
+
+OK, you have virtual server and you connected to it via MobaXterm. We need to configure virtual server to receive audio broadcast from your computer. We'll be using RTP protocol. First, we need to open the port on virtual server only for your IP:
 
 ```
 sudo iptables -A INPUT -p udp --dport 5004 -j DROP
