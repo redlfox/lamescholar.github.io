@@ -35,9 +35,9 @@ Deutschlandfunk Kultur - <https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp
 
 #### How to make your own online radio
 
-Technically, you could broadcast from your own IP, but it's not safe to disclose your IP. So, buy cheap virtual server.
+Technically, you could broadcast from your own IP, but it's not safe to disclose your IP. So, buy cheap virtual server. To connect to virtual server, use [MobaXterm](https://mobaxterm.mobatek.net/download.html).
 
-If your VPS provider gives you password to root, you need to connect to virtual server via root and create a user, because VLC runs only from user. To connect virtual server, use [MobaXterm](https://mobaxterm.mobatek.net/download.html).
+If your VPS provider gives you password to root, you need to connect to virtual server via root and create a user, because VLC runs only from user.
 
 ```
 sudo adduser ubuntu
