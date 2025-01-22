@@ -40,6 +40,7 @@ Technically, you could broadcast from your own IP, but it's not safe to disclose
 OK, you have virtual server and you connected to it via [MobaXterm](https://mobaxterm.mobatek.net/download.html). We need to configure virtual server to receive audio broadcast from your computer. We'll be using RTP protocol. First, we need to open the port on virtual server only for your IP:
 
 ```
+sudo iptables -A INPUT -p udp --dport 5004 -j DROP
 sudo iptables -A INPUT -p udp -s YOUR_IP --dport 5004 -j ACCEPT
 ```
 
