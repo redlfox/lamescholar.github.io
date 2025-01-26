@@ -130,7 +130,7 @@ Quality: 10
 
 **Option №2:**
 
-Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5480244>
+Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5160028>
 
 Create->Combine Files into a Single PDF...->Always add bookmarks to Adobe PDF. Untick.
 
