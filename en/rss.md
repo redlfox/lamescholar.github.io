@@ -49,7 +49,7 @@ You can import my subscriptions:
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
 
 To read periodicals in foreign languages, use Google Chrome in-build Google Translate. Right-click some blank space, choose Translate to English. Or use ChatGPT:
-https://lamescholar.github.io/ru/chatgpt
+<https://lamescholar.github.io/ru/chatgpt>
 <br><br>
 
 How to find RSS feed? Add to URL:

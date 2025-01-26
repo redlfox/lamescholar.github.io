@@ -49,7 +49,7 @@ make build_windows  # -> _output/windows/yarr.exe
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
 
 Чтобы читать периодику на иностранных языках, используй Google Translate, встроенный в Google Chrome, для перевода на английский (Google Translate сносно переводит только на английский). Кликни правой кнопкой мыши по пустому месту, выбери Перевести на English. Либо используй ChatGPT:
-https://lamescholar.github.io/ru/chatgpt
+<https://lamescholar.github.io/ru/chatgpt>
 <br><br>
 
 Как найти RSS-ленту? Добавь к URL:
