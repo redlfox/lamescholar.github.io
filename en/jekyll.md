@@ -236,3 +236,112 @@ Source: [Source title](link to the source)
 #### Comments
 
 <https://help.disqus.com/en/articles/1935528-jekyll-installation-instructions>
+<br><br>
+
+#### Underlinings and marginalia
+
+There is a way to reproduce underlinings and marginalia as in printed books in posts.
+
+
+```
+I was listening to <span class="underlining">NPR</span> the other day. <span class="marginalia">I listen to it in the car.</span>
+```
+
+Add this script to post.html:
+
+```
+  <style>
+    .post-content {
+      position: relative;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .marginalia {
+      position: absolute;
+      right: -250px;
+      width: 200px;
+      padding: 10px;
+      background-color: #f8f9fa;
+      border-left: 3px solid #dee2e6;
+      border-radius: 4px;
+      font-size: 0.9em;
+      color: #000000;
+      opacity: 0;
+      transform: translateX(20px);
+      transition: all 0.3s ease;
+      margin-top: -10px;
+    }
+
+    .marginalia.visible {
+      opacity: 1;
+      transform: translateX(0);
+    }
+
+    .toggle-annotations {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      padding: 8px 16px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+      z-index: 1000;
+    }
+
+    .toggle-annotations:hover {
+      background-color: #0056b3;
+    }
+
+    .underlining {
+      text-decoration: none;
+      transition: text-decoration 0.3s ease;
+    }
+
+    .underlining.visible {
+      text-decoration: underline;
+      text-decoration-color: blue;
+      text-decoration-thickness: 3px;
+    }
+
+    @media (max-width: 1200px) {
+      .toggle-annotations {
+        display: none;
+      }
+    }
+  </style>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', function() {
+      const marginalia = document.querySelectorAll('.marginalia');
+      const button = document.getElementById('annotationsButton');
+      
+      if (marginalia.length > 0) {
+        button.style.display = 'block';
+      }
+    });
+
+    let annotationsVisible = false;
+
+    function toggleAnnotations() {
+      const marginalia = document.querySelectorAll('.marginalia');
+      const underlinedText = document.querySelectorAll('.underlining');
+      const button = document.querySelector('.toggle-annotations');
+      
+      annotationsVisible = !annotationsVisible;
+      
+      marginalia.forEach(note => {
+        note.classList.toggle('visible', annotationsVisible);
+      });
+
+      underlinedText.forEach(text => {
+        text.classList.toggle('visible', annotationsVisible);
+      });
+
+      button.textContent = annotationsVisible ? 'Hide Annotations' : 'Show Annotations';
+    }
+  </script>
+```
