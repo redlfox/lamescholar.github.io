@@ -19,7 +19,7 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [Bulletin Board Systems](/en/bbs)
 
-[Buying Books](/en/buying-books)
+[Buying books](/en/buying-books)
 
 [Bypass Paywalls Clean](/en/bypass-paywalls-clean)
 
