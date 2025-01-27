@@ -55,7 +55,7 @@ If you have blurry image, you need to follow Properties->Compatibility->Change h
 **Scan Tailor Universal** - program for images processing.
 
 Settings:<br>
-Tools->Settings...->General->Ask every time. Untick.<br>
+General->Ask every time. Untick.<br>
 General->Thumbnails panel->Scale cashed images to this size: 1000 px<br>
 General->Tiff compression->TIFF compression (b/w): CCIITTFAX4<br>
 Page layout->Margins. 10 everywhere.<br>
