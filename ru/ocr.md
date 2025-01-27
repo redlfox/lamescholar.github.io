@@ -38,6 +38,8 @@ Capture2Text - <https://capture2text.sourceforge.net/>
 
 Ставишь мышь в угол текста. Win+Q. Выводишь прямоугольник. Текст распознаётся в буфер.
 
+Отключи комбинацию Win+R.
+
 Программа распознаёт Tesseract'ом. Тренировочные файлы устарели - 2015 года. Их необходимо заменить. Удаляешь папку tessdata. Копируешь и вставляешь папку tessdata из установочной папки Tesseract'а.
 
 <https://github.com/UB-Mannheim/tesseract/wiki>

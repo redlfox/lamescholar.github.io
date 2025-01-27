@@ -38,6 +38,8 @@ Capture2Text - <https://capture2text.sourceforge.net/>
 
 Point a mouse at the corner of the text. Win+Q. Draw a rectangle. Text is recognized into buffer.
 
+Disable WIn+R shotcut.
+
 Program use Tesseract for recognition. Training data is out of date - 2015. You need to replace it. Delete tessdata folder. Copy and paste tessdata folder from Tesseract installation folder.
 
 <https://github.com/UB-Mannheim/tesseract/wiki>
