@@ -3,7 +3,7 @@ comments: true
 title: Buying books
 ---
 
-New books can be monitored by reviews in newspapers and literary magazines.
+You can follow new books by reviews in newspapers and literary magazines.
 
 The Guardian:<br>
 <https://www.theguardian.com/books><br>
