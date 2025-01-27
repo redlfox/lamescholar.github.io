@@ -2,9 +2,9 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  <div id="marginaliaButton" style="display: none;">
-    <button class="toggle-marginalia" onclick="toggleMarginalia()">
-      Show Marginalia
+  <div id="annotationsButton" style="display: none;">
+    <button class="toggle-annotations" onclick="toggleAnnotations()">
+      Show Annotations
     </button>
   </div>
 
@@ -55,7 +55,7 @@ layout: default
       transform: translateX(0);
     }
 
-    .toggle-marginalia {
+    .toggle-annotations {
       position: fixed;
       top: 20px;
       right: 20px;
@@ -69,8 +69,19 @@ layout: default
       z-index: 1000;
     }
 
-    .toggle-marginalia:hover {
+    .toggle-annotations:hover {
       background-color: #0056b3;
+    }
+
+    .underlining {
+      text-decoration: none;
+      transition: text-decoration 0.3s ease;
+    }
+
+    .underlining.visible {
+      text-decoration: underline;
+      text-decoration-color: blue;
+      text-decoration-thickness: 3px;
     }
 
     @media (max-width: 1200px) {
@@ -87,29 +98,31 @@ layout: default
   <script>
     window.addEventListener('DOMContentLoaded', function() {
       const marginalia = document.querySelectorAll('.marginalia');
-      const button = document.getElementById('marginaliaButton');
+      const button = document.getElementById('annotationsButton');
       
       if (marginalia.length > 0) {
         button.style.display = 'block';
       }
     });
 
-    let marginaliaVisible = false;
+    let annotationsVisible = false;
 
-    function toggleMarginalia() {
+    function toggleAnnotations() {
       const marginalia = document.querySelectorAll('.marginalia');
-      const button = document.querySelector('.toggle-marginalia');
-      marginaliaVisible = !marginaliaVisible;
+      const underlinedText = document.querySelectorAll('.underlining');
+      const button = document.querySelector('.toggle-annotations');
+      
+      annotationsVisible = !annotationsVisible;
       
       marginalia.forEach(note => {
-        if (marginaliaVisible) {
-          note.classList.add('visible');
-          button.textContent = 'Hide Marginalia';
-        } else {
-          note.classList.remove('visible');
-          button.textContent = 'Show Marginalia';
-        }
+        note.classList.toggle('visible', annotationsVisible);
       });
+
+      underlinedText.forEach(text => {
+        text.classList.toggle('visible', annotationsVisible);
+      });
+
+      button.textContent = annotationsVisible ? 'Hide Annotations' : 'Show Annotations';
     }
   </script>
 </article>
