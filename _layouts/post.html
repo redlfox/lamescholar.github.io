@@ -2,6 +2,11 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <div id="marginaliaButton" style="display: none;">
+    <button class="toggle-marginalia" onclick="toggleMarginalia()">
+      Show Marginalia
+    </button>
+  </div>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
@@ -20,4 +25,91 @@ layout: default
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   {% endif %}
+
+  <style>
+    .post-content {
+      position: relative;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .marginalia {
+      position: absolute;
+      right: -250px;
+      width: 200px;
+      padding: 10px;
+      background-color: #f8f9fa;
+      border-left: 3px solid #dee2e6;
+      border-radius: 4px;
+      font-size: 0.9em;
+      color: #000000;
+      opacity: 0;
+      transform: translateX(20px);
+      transition: all 0.3s ease;
+      margin-top: -10px;
+    }
+
+    .marginalia.visible {
+      opacity: 1;
+      transform: translateX(0);
+    }
+
+    .toggle-marginalia {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      padding: 8px 16px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+      z-index: 1000;
+    }
+
+    .toggle-marginalia:hover {
+      background-color: #0056b3;
+    }
+
+    @media (max-width: 1200px) {
+      .marginalia {
+        position: relative;
+        right: 0;
+        width: auto;
+        margin: 10px 0;
+        border-left-width: 5px;
+      }
+    }
+  </style>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', function() {
+      const marginalia = document.querySelectorAll('.marginalia');
+      const button = document.getElementById('marginaliaButton');
+      
+      if (marginalia.length > 0) {
+        button.style.display = 'block';
+      }
+    });
+
+    let marginaliaVisible = false;
+
+    function toggleMarginalia() {
+      const marginalia = document.querySelectorAll('.marginalia');
+      const button = document.querySelector('.toggle-marginalia');
+      marginaliaVisible = !marginaliaVisible;
+      
+      marginalia.forEach(note => {
+        if (marginaliaVisible) {
+          note.classList.add('visible');
+          button.textContent = 'Hide Marginalia';
+        } else {
+          note.classList.remove('visible');
+          button.textContent = 'Show Marginalia';
+        }
+      });
+    }
+  </script>
 </article>
