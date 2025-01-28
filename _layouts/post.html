@@ -7,6 +7,7 @@ layout: default
       Show Annotations
     </button>
   </div>
+  
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
@@ -24,12 +25,14 @@ layout: default
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   {% endif %}
+  
   <style>
     .post-content {
       position: relative;
       max-width: 700px;
       margin: 0 auto;
     }
+	
     .marginalia {
       position: absolute;
       right: -250px;
@@ -45,19 +48,23 @@ layout: default
       transition: all 0.3s ease;
       margin-top: -10px;
     }
+	
     .marginalia.visible {
       opacity: 1;
       transform: translateX(0);
     }
+	
     .highlighting {
       background-color: transparent;
       transition: background-color 0.3s ease;
       cursor: pointer;
       position: relative;
     }
+	
     .highlighting.visible {
-      background-color: #ffeb3b;
+      background-color: #ffff00;
     }
+	
     .text {
       position: absolute;
       bottom: -40px;
@@ -76,6 +83,7 @@ layout: default
       z-index: 1000;
       pointer-events: none;
     }
+	
     .text::before {
       content: '';
       position: absolute;
@@ -86,11 +94,13 @@ layout: default
       border-style: solid;
       border-color: transparent transparent #495057 transparent;
     }
+	
     .text.visible {
       opacity: 1;
       visibility: visible;
       transform: translateX(-50%) translateY(0);
     }
+	
     .toggle-annotations {
       position: fixed;
       top: 20px;
@@ -104,18 +114,22 @@ layout: default
       transition: background-color 0.2s;
       z-index: 1000;
     }
+	
     .toggle-annotations:hover {
       background-color: #0056b3;
     }
+	
     .underlining {
       text-decoration: none;
       transition: text-decoration 0.3s ease;
     }
+	
     .underlining.visible {
       text-decoration: underline;
       text-decoration-color: blue;
       text-decoration-thickness: 3px;
     }
+	
     @media (max-width: 1200px) {
       .toggle-annotations {
         display: none;
