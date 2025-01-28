@@ -238,15 +238,13 @@ Source: [Source title](link to the source)
 <https://help.disqus.com/en/articles/1935528-jekyll-installation-instructions>
 <br><br>
 
-#### Underlinings, marginalia, highlightings
+#### Underlinings and marginalia
 
 There is a way to reproduce underlinings and marginalia as in printed books in posts.
 
 
 ```
-<span class="underlining"></span>
-<span class="marginalia"></span>
-<span class="highlightings" data-text=""></span>
+I was listening to <span class="underlining">NPR</span> the other day. <span class="marginalia">I listen to it in the car.</span>
 ```
 
 Add this script to post.html:
@@ -258,7 +256,7 @@ Add this script to post.html:
       max-width: 700px;
       margin: 0 auto;
     }
-	
+
     .marginalia {
       position: absolute;
       right: -250px;
@@ -274,59 +272,12 @@ Add this script to post.html:
       transition: all 0.3s ease;
       margin-top: -10px;
     }
-	
+
     .marginalia.visible {
       opacity: 1;
       transform: translateX(0);
     }
-	
-    .highlighting {
-      background-color: transparent;
-      transition: background-color 0.3s ease;
-      cursor: pointer;
-      position: relative;
-    }
-	
-    .highlighting.visible {
-      background-color: #ffff5c;
-    }
-	
-    .text {
-      position: absolute;
-      bottom: -40px;
-      left: 50%;
-      transform: translateX(-50%) translateY(10px);
-      background-color: #495057;
-      color: white;
-      padding: 8px 12px;
-      border-radius: 6px;
-      font-size: 0.9em;
-      opacity: 0;
-      visibility: hidden;
-      transition: all 0.3s ease;
-      width: max-content;
-      max-width: 300px;
-      z-index: 1000;
-      pointer-events: none;
-    }
-	
-    .text::before {
-      content: '';
-      position: absolute;
-      top: -6px;
-      left: 50%;
-      transform: translateX(-50%);
-      border-width: 0 6px 6px 6px;
-      border-style: solid;
-      border-color: transparent transparent #495057 transparent;
-    }
-	
-    .text.visible {
-      opacity: 1;
-      visibility: visible;
-      transform: translateX(-50%) translateY(0);
-    }
-	
+
     .toggle-annotations {
       position: fixed;
       top: 20px;
@@ -340,97 +291,44 @@ Add this script to post.html:
       transition: background-color 0.2s;
       z-index: 1000;
     }
-	
+
     .toggle-annotations:hover {
       background-color: #0056b3;
     }
-	
+
     .underlining {
       text-decoration: none;
       transition: text-decoration 0.3s ease;
     }
-	
+
     .underlining.visible {
       text-decoration: underline;
       text-decoration-color: blue;
       text-decoration-thickness: 3px;
     }
-	
+
     @media (max-width: 1200px) {
       .toggle-annotations {
         display: none;
       }
     }
   </style>
+
   <script>
     window.addEventListener('DOMContentLoaded', function() {
       const marginalia = document.querySelectorAll('.marginalia');
-      const highlights = document.querySelectorAll('.highlighting');
       const button = document.getElementById('annotationsButton');
       
-      if (marginalia.length > 0 || highlights.length > 0) {
+      if (marginalia.length > 0) {
         button.style.display = 'block';
       }
-
-      // Create popup elements for each highlight
-      highlights.forEach(highlight => {
-        const text = highlight.getAttribute('data-text');
-        if (text) {
-          const popup = document.createElement('div');
-          popup.className = 'text';
-          popup.textContent = text;
-          highlight.appendChild(popup);
-        }
-      });
-
-      // Add click handlers for highlights
-      highlights.forEach(highlight => {
-        highlight.addEventListener('click', function(e) {
-          if (!annotationsVisible) return;
-          
-          // Hide any other visible popups
-          document.querySelectorAll('.text.visible').forEach(popup => {
-            if (popup !== highlight.querySelector('.text')) {
-              popup.classList.remove('visible');
-            }
-          });
-          
-          // Toggle this popup
-          const popup = this.querySelector('.text');
-          if (popup) {
-            popup.classList.toggle('visible');
-            
-            // Prevent popup from going off-screen
-            const rect = popup.getBoundingClientRect();
-            if (rect.left < 0) {
-              popup.style.left = '0';
-              popup.style.transform = 'translateY(0)';
-            } else if (rect.right > window.innerWidth) {
-              popup.style.left = 'auto';
-              popup.style.right = '0';
-              popup.style.transform = 'translateY(0)';
-            }
-          }
-          
-          e.stopPropagation();
-        });
-      });
-
-      // Click outside to close popups
-      document.addEventListener('click', function(e) {
-        if (!e.target.closest('.highlighting')) {
-          document.querySelectorAll('.text.visible').forEach(popup => {
-            popup.classList.remove('visible');
-          });
-        }
-      });
     });
 
     let annotationsVisible = false;
+
     function toggleAnnotations() {
       const marginalia = document.querySelectorAll('.marginalia');
       const underlinedText = document.querySelectorAll('.underlining');
-      const highlights = document.querySelectorAll('.highlighting');
       const button = document.querySelector('.toggle-annotations');
       
       annotationsVisible = !annotationsVisible;
@@ -438,20 +336,11 @@ Add this script to post.html:
       marginalia.forEach(note => {
         note.classList.toggle('visible', annotationsVisible);
       });
+
       underlinedText.forEach(text => {
         text.classList.toggle('visible', annotationsVisible);
       });
-      highlights.forEach(highlight => {
-        highlight.classList.toggle('visible', annotationsVisible);
-      });
-      
-      // Hide all popups when toggling off
-      if (!annotationsVisible) {
-        document.querySelectorAll('.text.visible').forEach(popup => {
-          popup.classList.remove('visible');
-        });
-      }
-      
+
       button.textContent = annotationsVisible ? 'Hide Annotations' : 'Show Annotations';
     }
   </script>
