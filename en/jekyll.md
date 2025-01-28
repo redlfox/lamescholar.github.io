@@ -288,7 +288,7 @@ Add this script to post.html:
     }
 	
     .highlighting.visible {
-      background-color: #ffff00;
+      background-color: #ffff5c;
     }
 	
     .text {

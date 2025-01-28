@@ -288,7 +288,7 @@ title: Заглавие текста
     }
 	
     .highlighting.visible {
-      background-color: #ffff00;
+      background-color: #ffff5c;
     }
 	
     .text {
