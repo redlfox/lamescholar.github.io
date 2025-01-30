@@ -253,8 +253,6 @@ I was listening to <span class="underlining">NPR</span> the other day. <span cla
   <style>
     .post-content {
       position: relative;
-      max-width: 700px;
-      margin: 0 auto;
     }
 
     .marginalia {

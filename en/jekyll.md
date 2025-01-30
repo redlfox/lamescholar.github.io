@@ -253,8 +253,6 @@ Add this script to post.html:
   <style>
     .post-content {
       position: relative;
-      max-width: 700px;
-      margin: 0 auto;
     }
 
     .marginalia {
