@@ -77,9 +77,9 @@ After=network.target
 
 [Service]
 Type=simple
-User=YOUR_USERNAME
-Group=YOUR_USERNAME
-Environment=HOME=/home/YOUR_USERNAME
+User=ubuntu
+Group=ubuntu
+Environment=HOME=/home/ubuntu
 ExecStart=/usr/bin/cvlc rtp://@:5004 --sout '#standard{access=http,mux=mp3,dst=:8080/radio.mp3}'
 Restart=always
 RestartSec=30
