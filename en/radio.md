@@ -49,8 +49,8 @@ Now connect to server via ubuntu user.
 OK, you have virtual server and you connected to it via MobaXterm. We need to configure virtual server to receive audio broadcast from your computer. We'll be using RTP protocol. First, we need to open the port on virtual server only for your IP:
 
 ```
-sudo iptables -A INPUT -p udp --dport 5004 -j DROP
 sudo iptables -A INPUT -p udp -s YOUR_IP --dport 5004 -j ACCEPT
+sudo iptables -A INPUT -p udp --dport 5004 -j DROP
 ```
 
 Now port 5004 is open for your IP. Now we need to set up virtual server to receive and rebroadcast audio coming from your IP. For that we need to install VLC on virtual server:
