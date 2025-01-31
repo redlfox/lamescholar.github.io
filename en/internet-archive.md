@@ -126,7 +126,7 @@ Profile: B/W
 
 Quality: 10
 
-<sup>If the book got no pictures. In this scenario there's no need in color correction, except the cover. You can add the cover to B/W document with [PDF-XChange](https://rutracker.org/forum/viewtopic.php?t=5998062) (creates bookmarks).</sup>
+<sup>If the book got no pictures. In this scenario there's no need in color correction, except the cover. You can add the cover to B/W document with [PDF-XChange](https://rutracker.org/forum/viewtopic.php?t=6601303) (creates bookmarks).</sup>
 
 **Option №2:**
 
