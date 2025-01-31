@@ -35,7 +35,9 @@ Deutschlandfunk Kultur - <https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp
 
 #### How to make your own online radio
 
-Technically, you could broadcast from your own IP, but it's not safe to disclose your IP. So, buy cheap virtual server. To connect to virtual server, use [MobaXterm](https://mobaxterm.mobatek.net/download.html).
+Technically, you could broadcast from your own IP, but it's not safe to disclose your IP. So, buy cheap virtual server.
+
+To connect to virtual server, use [MobaXterm](https://mobaxterm.mobatek.net/download.html).
 
 If your VPS provider gives you password to root, you need to connect to virtual server via root and create a user, because VLC runs only from user.
 
@@ -44,23 +46,14 @@ sudo adduser ubuntu
 usermod -aG sudo ubuntu
 ```
 
-Now connect to server via ubuntu user.
+We will set up virtual server to receive and rebroadcast audio coming from your IP. Constantly running service will rebroadcast incoming audio broadcast.
 
-OK, you have virtual server and you connected to it via MobaXterm. We need to configure virtual server to receive audio broadcast from your computer. We'll be using RTP protocol. First, we need to open the port on virtual server only for your IP:
-
-```
-sudo iptables -A INPUT -p udp -s YOUR_IP --dport 5004 -j ACCEPT
-sudo iptables -A INPUT -p udp --dport 5004 -j DROP
-```
-
-Now port 5004 is open for your IP. Now we need to set up virtual server to receive and rebroadcast audio coming from your IP. For that we need to install VLC on virtual server:
+Connect to server via ubuntu user. Install VLC on virtual server:
 
 ```
 sudo apt update
 sudo apt install vlc
 ```
-
-OK, you have VLC on virtual server. Now we need to create constantly running service that would keep rebroadcasting incoming audio broadcast.
 
 Create service file:
 
@@ -95,6 +88,13 @@ Now start the service:
 ```
 sudo systemctl enable vlc-stream
 sudo systemctl start vlc-stream
+```
+
+Now virtual server listens to any audio broadcast coming to port 5004. That's insecure. We need to set port 5004 open only to your IP:
+
+```
+sudo iptables -A INPUT -p udp -s YOUR_IP --dport 5004 -j ACCEPT
+sudo iptables -A INPUT -p udp --dport 5004 -j DROP
 ```
 
 OK. We are finished on virtual server end. Virtual server constantly attempting to receive and rebroadcast audio coming from your IP. Now you need to broadcast audio from your computer. Again, we'll be using [VLC](https://www.videolan.org/vlc/). Open VLC. Media->Stream... Here choose File or Capture Device. Stream. New destination->RTP / MPEG Transport System. Add. Fill virtual server IP. Next. Profile->Audio - MP3. Next. Stream. Now you should be able to listen to your broadcast here:
