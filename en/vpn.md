@@ -12,8 +12,8 @@ Buy a virtual server. Connect to it through MobaXterm:
 Enter in MobaXterm (Shift+Insert):
 
 ```
-apt update
-apt install docker.io
+sudo apt update
+sudo apt install docker.io
 ```
 
 To install WireGuard on your server, install this container:
@@ -23,7 +23,7 @@ To install WireGuard on your server, install this container:
 To install, enter in MobaXterm (write in your server ip and [some password](https://www.random.org/strings/?num=1&len=15&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new)):
 
 ```
-docker run -d \
+sudo docker run -d \
   --name=wg-easy \
   -e WG_HOST=🚨YOUR_SERVER_IP \
   -e PASSWORD=🚨YOUR_ADMIN_PASSWORD \
