@@ -1,9 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
     const searchInput = document.getElementById("search");
+    const searchButton = document.getElementById("search-button");
     const resultsDiv = document.getElementById("results");
     let dictionary = [];
 
-    // ✅ Check the path: Change this if using GitHub Pages
+    // ✅ Adjust this if using GitHub Pages with a subdirectory
     const jsonPath = "/assets/dictionary.json";
 
     // 🔍 Fetch Dictionary JSON
@@ -23,13 +24,26 @@ document.addEventListener("DOMContentLoaded", function () {
             resultsDiv.innerHTML = "<p style='color: red;'>Error loading dictionary.</p>";
         });
 
-    // 🖊 Handle User Input
-    searchInput.addEventListener("input", function () {
+    // 🖊 Handle Search Button Click
+    searchButton.addEventListener("click", function () {
+        performSearch();
+    });
+
+    // 🖊 Allow pressing "Enter" to search
+    searchInput.addEventListener("keypress", function (event) {
+        if (event.key === "Enter") {
+            performSearch();
+        }
+    });
+
+    // 🔍 Search Function
+    function performSearch() {
         const query = searchInput.value.trim().toLowerCase();
         resultsDiv.innerHTML = "";
 
         if (query.length === 0) {
-            return; // Clear results if input is empty
+            resultsDiv.innerHTML = "<p>Please enter a word to search.</p>";
+            return;
         }
 
         console.log("🔍 Searching for:", query);
@@ -47,5 +61,5 @@ document.addEventListener("DOMContentLoaded", function () {
         } else {
             resultsDiv.innerHTML = "<p>No results found.</p>";
         }
-    });
+    }
 });
