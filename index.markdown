@@ -26,8 +26,5 @@ layout: home
 ## [Radio](radio)
 <br>
 
-## [Dictionary](dictionary)
-<br>
-
 ## [Archive / Архив](archive)
 <br>
