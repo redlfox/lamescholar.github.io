@@ -303,6 +303,7 @@ Add this script to post.html:
       text-decoration: underline;
       text-decoration-color: blue;
       text-decoration-thickness: 3px;
+	  text-underline-offset: 4px;
     }
 
     @media (max-width: 1200px) {

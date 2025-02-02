@@ -303,6 +303,7 @@ I was listening to <span class="underlining">NPR</span> the other day. <span cla
       text-decoration: underline;
       text-decoration-color: blue;
       text-decoration-thickness: 3px;
+	  text-underline-offset: 4px;
     }
 
     @media (max-width: 1200px) {
