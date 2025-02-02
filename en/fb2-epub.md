@@ -13,7 +13,7 @@ Version 4.23.0 because later versions are slow, and earlier ones have poor quali
 
 Alt+Left - go back after clicking on the hyperlink.
 
-Esc - menu. Suitable font size is usually 15 px. Sometimes it's 19 px.
+Esc - menu.
 
 Preferences:
 
