@@ -44,6 +44,8 @@ Globus Books - <https://www.globusbooks.com/browse.php>
 Vasha-Kniga.com - <https://www.vasha-kniga.com/>
 <br><br>
 
+#### Clear book covers
+
 If you're buying paperbacks, spend extra 15 dollars and buy a pack of clear book covers. They will protect them from wearing out. For Penguin paperbacks pick 7 3/4" (the actual height is 8"):
 
 <https://www.amazon.com/ClearBags-Protect-Against-Archival-BC9/dp/B00O7OH6D4>
