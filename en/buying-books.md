@@ -19,9 +19,17 @@ List of magazines you would want to look for:<br>
 
 #### 1. Online stores
 
-Amazon - 	<https://www.amazon.com/>
+**New books:**
+
+Amazon - <https://www.amazon.com/>
+
+Bookshop.ru - <https://bookshop.org/>
+
+**Used books:**
 
 eBay - <https://www.ebay.com/>
+
+AbeBooks - <https://www.abebooks.com/servlet/SearchEntry?cm_sp=TopNav-_-Section-_-Advs>
 <br><br>
 
 #### 2. Bookstores
@@ -36,6 +44,6 @@ Globus Books - <https://www.globusbooks.com/browse.php>
 Vasha-Kniga.com - <https://www.vasha-kniga.com/>
 <br><br>
 
-If you're buying paperbacks, spend extra 15 dollars and buy a pack of clear book covers. They will protect them from wearing out. For Penguin paperbacks the height is 7 3/4":
+If you're buying paperbacks, spend extra 15 dollars and buy a pack of clear book covers. They will protect them from wearing out. For Penguin paperbacks pick 7 3/4" (the actual height is 8"):
 
 <https://www.amazon.com/ClearBags-Protect-Against-Archival-BC9/dp/B00O7OH6D4>

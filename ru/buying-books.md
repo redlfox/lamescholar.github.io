@@ -62,9 +62,19 @@ The Guardian:<br>
 
 #### 1. Онлайн магазины
 
-Amazon - 	<https://www.amazon.com/>
+**Новые книги:**
+
+Amazon - <https://www.amazon.com/>
+
+Bookshop.ru - <https://bookshop.org/>
+
+**Подержанные книги:**
 
 eBay - <https://www.ebay.com/>
+
+AbeBooks - <https://www.abebooks.com/servlet/SearchEntry?cm_sp=TopNav-_-Section-_-Advs>
+
+**Русские книги в США:**
 
 Globus Books - <https://www.globusbooks.com/browse.php>
 
