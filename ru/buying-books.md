@@ -3,11 +3,6 @@ comments: true
 title: Покупка книг
 ---
 
-За выходом новых книг можно следить по рецензиям на «Горьком»:<br>
-<https://gorky.media/><br>
-<https://t.me/gorky_media>
-<br><br>
-
 # В России
 
 #### 0. Поисковые системы
@@ -47,15 +42,9 @@ Alib.ru - <https://www.alib.ru/>
 В букинистах можно найти хорошие издания по низкой цене. Ищи в Яндекс.Картах.
 <br><br>
 
-За выходом новых книг на английском можно следить по рецензиям в газетах и литературных журналах.
-
-The Guardian:<br>
-<https://www.theguardian.com/books><br>
-<https://twitter.com/GuardianBooks>
-
-[Литературные журналы](/en/articles#literary)
-
-[Моя коллекция RSS-лент газет и литературных журналов](https://lamescholar.github.io/2023/12/08/follow-the-press-using-rss-ru.html)
+За выходом новых книг можно следить по рецензиям на «Горьком»:<br>
+<https://gorky.media/><br>
+<https://t.me/gorky_media>
 <br><br>
 
 # В США
@@ -84,3 +73,14 @@ Vasha-Kniga.com - <https://www.vasha-kniga.com/>
 #### 2. Книжные магазины
 
 Поищи в Google Maps "bookstore".
+<br><br>
+
+За выходом новых книг на английском можно следить по рецензиям в газетах и литературных журналах.
+
+The Guardian:<br>
+<https://www.theguardian.com/books><br>
+<https://twitter.com/GuardianBooks>
+
+[Литературные журналы](/en/articles#literary)
+
+[Моя коллекция RSS-лент газет и литературных журналов](https://lamescholar.github.io/2023/12/08/follow-the-press-using-rss-ru.html)
