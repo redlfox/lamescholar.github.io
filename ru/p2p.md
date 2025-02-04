@@ -55,6 +55,10 @@ My Anonamouse - <https://www.myanonamouse.net/index.php>
 <p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
 </div>
 
+BT4G - <https://bt4gprx.com/>
+
+BTDigg - <https://btdig.com/index.htm>
+
 YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search><br>
 Французские штуки.
 
@@ -69,10 +73,6 @@ Nyaa - <https://nyaa.si/><br>
 
 Гуртом - https://toloka.to/<br>
 Украинские штуки.
-
-BT4G - <https://bt4gprx.com/>
-
-BTDigg - <https://btdig.com/index.htm>
 <br><br>
 
 Часто раздачи содержат образы дисков (.iso, .mdf). Их можно монтировать программой DAEMON Tools Lite.

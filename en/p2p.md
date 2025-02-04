@@ -56,6 +56,10 @@ Ebooks and audiobooks.
 <p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
 </div>
 
+BT4G - <https://bt4gprx.com/>
+
+BTDigg - <https://btdig.com/index.htm>
+
 YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search><br>
 French stuff.
 
@@ -70,10 +74,6 @@ Asian stuff.
 
 Hurtom - https://toloka.to/<br>
 Ukrainian stuff.
-
-BT4G - <https://bt4gprx.com/>
-
-BTDigg - <https://btdig.com/index.htm>
 <br><br>
 
 Often releases contain disk images (.iso, .mdf). You can mount them with DAEMON Tools Lite.
