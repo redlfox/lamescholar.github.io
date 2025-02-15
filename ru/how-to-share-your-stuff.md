@@ -10,9 +10,7 @@ title: Как поделиться своим добром
 
 Чтобы поделиться оцифрованной книгой, ты можешь загрузить её на:
 
-Library Genesis - <https://library.bz/main/upload/><br>
-genesis<br>
-upload
+Library Genesis - <https://libgen.li/librarian.php>
 
 Z-Library - <https://singlelogin.re/book-add>
 

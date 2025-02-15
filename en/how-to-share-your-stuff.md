@@ -10,9 +10,7 @@ There are private torrent trackers that you can get on via interview. [Redacted]
 
 To share a digitized book, you can upload it to:
 
-Library Genesis - <https://library.bz/main/upload/><br>
-genesis<br>
-upload
+Library Genesis - <https://libgen.li/librarian.php>
 
 Z-Library - <https://singlelogin.re/book-add>
 <br><br>

@@ -9,7 +9,7 @@ RuTracker - <https://rutracker.org/forum/index.php><br>
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
 Место для поиска книг на французском.
 
-Library Genesis - <https://libgen.st/>
+Library Genesis - <https://libgen.li/>
 
 Z-Library - <https://singlelogin.re/>
 

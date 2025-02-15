@@ -9,7 +9,7 @@ My RuTracker account - <https://rutracker.org/forum/tracker.php?rid=45195282>
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
 A place to look for French books.
 
-Library Genesis - <https://libgen.st/>
+Library Genesis - <https://libgen.li/>
 
 Z-Library - <https://singlelogin.re/>
 
