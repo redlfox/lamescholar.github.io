@@ -32,6 +32,8 @@ Winamp - <https://www.winamp.com/downloads/>
 Preferences...->Plug-ins->Output->Nullsoft DirectSound Output->Fading<br>
 on pause/stop - сними галочку<br>
 on seek - сними галочку
+
+<https://getwacup.com/community/index.php?topic=1081.0>
 <br><br>
 
 #### Аудиокнига с субтитрами

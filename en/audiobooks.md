@@ -32,6 +32,8 @@ To disable fading:<br>
 Preferences...->Plug-ins->Output->Nullsoft DirectSound Output->Fading<br>
 on pause/stop - untick<br>
 on seek - untick
+
+<https://getwacup.com/community/index.php?topic=1081.0>
 <br><br>
 
 #### Audiobook with subtitles
