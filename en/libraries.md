@@ -7,7 +7,7 @@ RuTracker - <http://rutracker.org/forum/index.php><br>
 My RuTracker account - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
-A place to look for French books.
+French books.
 
 Library Genesis - <https://libgen.li/>
 
@@ -24,11 +24,13 @@ Librusec:<br>
 <http://fb27.online/a><br>
 <https://lib.rus.ec/a>
 
-Internet Archive - <https://archive.org/>
+Internet Archive - <https://archive.org/><br>
+<https://lamescholar.github.io/en/internet-archive>
+
+HathiTrust - <https://www.hathitrust.org/><br>
+<https://github.com/elementdavv/internet_archive_downloader>
 
 Google Books - <https://books.google.ru/advanced_book_search?hl=en>
-
-HathiTrust - <https://www.hathitrust.org/>
 
 Wikisource - <https://wikisource.org/wiki/Main_Page>
 

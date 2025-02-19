@@ -7,7 +7,7 @@ RuTracker - <https://rutracker.org/forum/index.php><br>
 Мой аккаунт на рутрекере - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
-Место для поиска книг на французском.
+Книги на французском.
 
 Library Genesis - <https://libgen.li/>
 
@@ -25,6 +25,20 @@ Twirpx - <https://www.twirpx.com/>
 <https://lib.rus.ec/a><br>
 Два зеркала и основной сайт, где скачивание доступно только после вклада в библиотеку.
 
+Internet Archive - <https://archive.org/><br>
+<https://lamescholar.github.io/ru/internet-archive>
+
+HathiTrust - <https://www.hathitrust.org/><br>
+<https://github.com/elementdavv/internet_archive_downloader>
+
+Google Books - <https://books.google.ru/advanced_book_search?hl=ru>
+
+Wikisource - <https://wikisource.org/wiki/Main_Page>
+
+Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
+
+Project Gutenberg - <https://www.gutenberg.org/>
+
 НЭБ - <https://rusneb.ru/><br>
 Много хороших сканов дореволюционных и раннесоветских книг.
 
@@ -34,16 +48,6 @@ ImWerden - <https://imwerden.de/>
 
 Общество распространения полезных книг - <https://orpk.org/>
 
-Internet Archive - <https://archive.org/>
-
-Google Books - <https://books.google.ru/advanced_book_search?hl=ru>
-
-HathiTrust - <https://www.hathitrust.org/>
-
-Wikisource - <https://wikisource.org/wiki/Main_Page>
-
-Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
-
 RoyalLib.com - <https://royallib.com/>
 
 Библиотека "Нестор" - <http://libelli.ru/library/alpha.htm>
@@ -51,8 +55,6 @@ RoyalLib.com - <https://royallib.com/>
 Научная библиотека - <http://niv.ru/>
 
 Lib.Ru: Библиотека Мошкова - <http://lib.ru/>
-
-Project Gutenberg - <https://www.gutenberg.org/>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases>
 <br><br>
