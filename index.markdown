@@ -21,6 +21,8 @@ layout: home
 [RuTracker](https://rutracker.org/forum/tracker.php?rid=45195282)
 
 [1337x](https://1337x.to/user/legen848dary/)
+
+[AudioBook Bay](https://audiobookbay.lu/member/users/index?&mode=userinfo&username=legen848dary)
 <br><br>
 
 ## [Radio](radio)
