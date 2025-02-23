@@ -10,6 +10,12 @@ I did this site to spread access to sources. I did it with [Jekyll](/en/jekyll).
 Я сделал этот сайт, чтобы распространить доступ к источникам. Я сделал его с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
+Никто не даст нам избавленья:<br>
+Ни бог, ни царь и не герой<br>
+Добьёмся мы освобожденья<br>
+Своею собственной рукой.
+<br><br>
+
 <div style="border: 1px solid black; padding: 10px;">
 <p>We need to take information, wherever it is stored, make our copies and share them with the world.</p>
 
@@ -18,17 +24,6 @@ I did this site to spread access to sources. I did it with [Jekyll](/en/jekyll).
 <p>Мы должны брать информацию везде, где бы она ни хранилась, делать копии и делиться ими с миром.</p>
 
 <p><a href="/2024/07/17/guerilla-open-access-manifesto-ru.html">Аарон Шварц - Манифест партизанского открытого доступа (2008)</a></p>
-</div>
-<br><br>
-
-<div style="border: 1px solid black; padding: 10px;">
-<p>"Доступ к новым знаниям надо расширять, а не городить на этом пути новые заборы"</p>
-
-<p><a href="/2023/09/22/kapitsa-intellectual-property.html">Сергей Капица</a></p>
-
-<p>"We need to expand access to new knowledge, not erect new fences on this path"</p>
-
-<p>Sergey Kapitsa</p>
 </div>
 <br><br>
 
