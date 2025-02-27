@@ -68,8 +68,6 @@ If you possess a CD that is not uploaded on Redacted or RuTracker, and you have 
 <https://wiki.hydrogenaud.io/index.php?title=EAC_Compression_Options>
 
 [FLAC.cfg](/files/FLAC.cfg)
-
-[V0.cfg](/files/V0.cfg)
 <br><br>
 
 #### Digitizing vinyl records:
