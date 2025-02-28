@@ -38,11 +38,11 @@ Availability
 
 Fix the phone on the stand. Turn on the lamp. Put the book so that one page completely falls into the frame of camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs.
 
-To do a b/w ebook or a b/w ebook with colored illustrations (method of separated scans), look [DjVu](/en/djvu).
+To do a b/w ebook or a b/w ebook with colored illustrations (method of separated scans), see [DjVu](/en/djvu).
 
-To do a colored ebook, look [PDF](/en/pdf).
+To do a colored ebook, see [PDF](/en/pdf).
 
-To do a text ebook, look [FB2, EPUB](/en/fb2-epub).
+To do a text ebook, see [FB2, EPUB](/en/fb2-epub).
 <br><br>
 
 #### Method №2. Scanning
@@ -56,7 +56,7 @@ Scans are processed by special programs.
 
 #### Practical recommendations on digitization
 
-+ Before digitization check if the book is already on the Internet. Look [Book searching](/en/book-searching).
++ Before digitization check if the book is already on the Internet. See [Book searching](/en/book-searching).
 
 + How to get the book for digitization? Get it in the library. Sign up for the large local library: there you can find books and periodicals that you won't find anywhere else. If the largest local library allows reading only inside the library, ask if there is a paid service of photographing, and if there is, photo the book inside the library. If you didn't find necessary book in local libraries, use interlibrary loan: find the book on [WorldCat](https://search.worldcat.org/) and reach interlibrary loan department of the large local library. As a last resort, [buy the book](/en/buying-books).
 

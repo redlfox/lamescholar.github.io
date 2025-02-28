@@ -77,7 +77,7 @@ Rotatation of pages on 90 degrees. To apply to a group of pictures, click Apply 
 
 2) Split Pages
 
-If there is a piece of another page in the pictures or two pages in the pictures, we start. The program will either crop the picture or split it into two. Just in case, it is better to check behind the program and view the result on thumbnails.
+If there is a piece of another page in the pictures or two pages in the pictures, start. The program will either crop the picture or split it into two. Just in case, it is better to check behind the program and view the result on thumbnails.
 
 3) Deskew
 
@@ -85,7 +85,7 @@ Text skew correction.
 
 4) Select Content
 
-The program automatically finds the content of the page - throws a rectangle on the page, the content of which will be taken into the final image. Again, we launch and then check for the program and, in case of inaccuracy, we correct it manually.
+The program automatically finds the content of the page - throws a rectangle on the page, the content of which will be taken into the final image. Again, launch and then check for the program and, in case of inaccuracy, correct it manually.
 
 5) Page Layout
 
@@ -93,7 +93,7 @@ If the content rectangle is small, the margins can be 5 mm. If you process image
 
 6) Output
 
-We look at the result of binarization. If parts of the letters disappear - set the Binarization threshold to 20. In extreme cases - 30. An increased Binarization threshold adds boldness to the text. If the book got pictures, you must use the Mixed mode. Untick Auto layer. Tick Picture zone layer. Untick Equalize illumination, if pictures lose details. Let's run the output. The program will automatically find pictures. After the output you need to check behind the program. We look through all the pages with pictures. In the same time we looking for spots on pages that can be deleted in Fill Zones section. If the picture zone was found incorrectly, you need to correct it. You need to go to the Layers section. Either drag vertices. Or delete the zone and create your own. You right-click on the picture, hold down Ctrl to make the area rectangular and draw a rectangle. If the zone has a complex shape, you make a polygon. The picture zone can be used on a part of the picture where the text is poorly recognized and text details will disappear during binarization. Split text and images. Tools->Export...->Export. After processing the images, save the project.
+Look at the result of binarization. If parts of the letters disappear - set the Binarization threshold to 20. In extreme cases - 30. An increased Binarization threshold adds boldness to the text. If the book got pictures, you must use the Mixed mode. Untick Auto layer. Tick Picture zone layer. Untick Equalize illumination, if pictures lose details. Let's run the output. The program will automatically find pictures. After the output you need to check behind the program. Look through all the pages with pictures. In the same time you are looking for spots on pages that can be deleted in Fill Zones section. If the picture zone was found incorrectly, you need to correct it. You need to go to the Layers section. Either drag vertices. Or delete the zone and create your own. You right-click on the picture, hold down Ctrl to make the area rectangular and draw a rectangle. If the zone has a complex shape, you make a polygon. The picture zone can be used on a part of the picture where the text is poorly recognized (text details will disappear during binarization). Split text and images. Tools->Export...->Export. After processing the images, save the project.
 
 <http://forum.ru-board.com/topic.cgi?forum=5&topic=32945>
 <br><br>

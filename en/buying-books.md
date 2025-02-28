@@ -43,7 +43,7 @@ The Guardian:<br>
 <https://www.theguardian.com/books><br>
 <https://twitter.com/GuardianBooks>
 
-List of magazines you would want to look into:<br>
+List of magazines to look into:<br>
 [Sunday Press Pack 2024-10-27](/2024/10/27/sunday-press-pack.html)
 
 [Literary magazines](/en/articles#literary)
