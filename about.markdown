@@ -10,12 +10,6 @@ I did this site to spread access to sources. I did it with [Jekyll](/en/jekyll).
 Я сделал этот сайт, чтобы распространить доступ к источникам. Я сделал его с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
-Il n’est pas de sauveurs suprêmes:<br>
-Ni dieu, ni césar, ni tribun,<br>
-Producteurs, sauvons-nous nous-mêmes!<br>
-Décrétons le salut commun!
-<br><br>
-
 <div style="border: 1px solid black; padding: 10px;">
 <p>We need to take information, wherever it is stored, make our copies and share them with the world.</p>
 
