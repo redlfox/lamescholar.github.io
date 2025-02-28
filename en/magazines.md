@@ -346,7 +346,7 @@ Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/
 
 Jacobin:<br>
 [My Anonamouse](https://www.myanonamouse.net/tor/browse.php?tor%5Btext%5D=jacobin&tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&&&tor%5BminSize%5D=0&tor%5BmaxSize%5D=0&tor%5Bunit%5D=1&tor%5BminSeeders%5D=0&tor%5BmaxSeeders%5D=0&tor%5BminLeechers%5D=0&tor%5BmaxLeechers%5D=0&tor%5BminSnatched%5D=0&tor%5BmaxSnatched%5D=0&&tor%5BsortType%5D=dateDesc&tor%5BstartNumber%5D=0&thumbnail=true)<br>
-How to get on My Anonymouse look [P2P](/en/p2p).<br>
+How to get on My Anonymouse see [P2P](/en/p2p).<br>
 <https://1337x.to/torrent/6000892/Jacobin-magazine-socialist-quarterly-2021-2023-complete-12-issues/><br>
 <https://1337x.to/torrent/4793383/Jacobin-Magazine-2011-2020-complete-socialist-quarterly/>
 

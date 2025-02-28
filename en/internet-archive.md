@@ -51,7 +51,7 @@ python archive-org-downloader.py -e email -p password -r 0 -u https://archive.or
 
 On this stage you can process images in Scan Tailor and encode them into DjVu file with DjVu Small Mod.
 
-Look [DjVu](/en/djvu).
+See [DjVu](/en/djvu).
 
 Or you can do a color correction and encode images into PDF.
 <br><br>

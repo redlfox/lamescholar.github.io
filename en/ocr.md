@@ -3,7 +3,7 @@ comments: true
 title: OCR
 ---
 
-These programs allow you to get the text out of screenshot. For adding text layer look [DjVu](/en/djvu) and [PDF](/en/pdf).
+These programs allow you to get the text out of screenshot. For adding text layer see [DjVu](/en/djvu) and [PDF](/en/pdf).
 <br><br>
 
 ABBYY Screenshot Reader - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>

@@ -45,7 +45,7 @@ FictionBook Editor:
 
 <https://github.com/sensboston/fictionbookeditor/releases>
 
-If text is blurry, use compatibility settings as described for WinDjView. Look [DjVu](/en/djvu).
+If text is blurry, use compatibility settings as described for WinDjView. See [DjVu](/en/djvu).
 <br><br>
 
 #### Convertion:

@@ -6,7 +6,7 @@ title: Research
 My guide to research on a specific topic.
 <br><br>
 
-First, look at the review articles. You can find a bibliography in them. Review articles can be found in encyclopedias. Look [Reference](/en/reference).
+First, look at the review articles. You can find a bibliography in them. Review articles can be found in encyclopedias. See [Reference](/en/reference).
 
 Wikipedia articles have a bibliography.
 

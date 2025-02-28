@@ -5,7 +5,7 @@ title: Hello
 
 Pirate Cookbook will help you find and share files online.
 
-The first thing to do is to install a BitTorrent client (look [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Cookbook.
+The first thing to do is to install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Cookbook.
 
 With this collection of guides you will be able<br>
 to [create](/en/book-digitization), [share](/en/how-to-share-your-stuff), [find](/en/book-searching) and [read](/en/reading-ebooks) ebooks,<br>
