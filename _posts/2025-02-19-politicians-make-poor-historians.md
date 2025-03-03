@@ -69,7 +69,7 @@ Benoît Bréville is president and editorial director of <i>Le Monde diplomatiqu
 
 <div id="nb1">
 
-<span class="spip_note_ref">(<a href="#nh1" class="spip_note" title="Footnotes 1">1</a>) </span>Matej Friedl, ‘<a href="https://www.adaptinstitute.org/war-in-ukraine-as-the-second-world-war-how-is-zelenskyy-shaping-the-perception-of-war-through-historical-analogies/02/08/2023/" class="spip_out">War in Ukraine as the Second World War: How is Zelensky shaping the perception of war through historical analogies</a>’, Adapt Institute, 2 August 2023, <a href="http://www.adaptinstitute.org/" class="spip_url spip_out auto">www.adaptinstitute.org/</a>.
+<span class="spip_note_ref">(<a href="#nh1" class="spip_note" title="Footnotes 1">1</a>) </span>Matej Friedl, ‘<a href="https://web.archive.org/web/20230926191449/https://www.adaptinstitute.org/war-in-ukraine-as-the-second-world-war-how-is-zelenskyy-shaping-the-perception-of-war-through-historical-analogies/02/08/2023/" class="spip_out">War in Ukraine as the Second World War: How is Zelensky shaping the perception of war through historical analogies</a>’, Adapt Institute, 2 August 2023, <a href="http://www.adaptinstitute.org/" class="spip_url spip_out auto">www.adaptinstitute.org/</a>.
 
 </div>
 
