@@ -85,7 +85,6 @@
     <outline type="rss" text="Il Sole 24 Ore: Cultura" xmlUrl="https://www.ilsole24ore.com/rss/cultura--libri.xml" htmlUrl="https://www.ilsole24ore.com/rss/cultura--libri.xml"/>
     <outline type="rss" text="Información: Arte y Letras" xmlUrl="https://www.informacion.es/rss/microsite/7050" htmlUrl="https://www.informacion.es/rss/microsite/7050"/>
     <outline type="rss" text="La Nueva España: Cultura" xmlUrl="https://www.lne.es/rss/section/3035" htmlUrl="https://www.lne.es/rss/section/3035"/>
-    <outline type="rss" text="la Repubblica: Cultura" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Arepubblica.it%2Fcultura%2F&amp;hl=it&amp;gl=IT&amp;ceid=IT%3Ait" htmlUrl="https://news.google.com/search?q=when:168h+inurl:repubblica.it/cultura/&amp;hl=it&amp;gl=IT&amp;ceid=IT:it"/>
     <outline type="rss" text="La Vanguardia: Cultura|s" xmlUrl="https://www.lavanguardia.com/rss/cultura/culturas.xml" htmlUrl="https://www.lavanguardia.com/rss/cultura/culturas.xml"/>
     <outline type="rss" text="Le Figaro: Livres" xmlUrl="https://www.lefigaro.fr/rss/figaro_livres.xml" htmlUrl="http://www.lefigaro.fr"/>
     <outline type="rss" text="Le Monde des Livres" xmlUrl="https://www.lemonde.fr/livres/rss_full.xml" htmlUrl="https://www.lemonde.fr/livres/rss_full.xml"/>
@@ -284,8 +283,6 @@
     <outline type="rss" text="Internazionale" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml" htmlUrl="https://www.internazionale.it/"/>
     <outline type="rss" text="l&#39;Opinion" xmlUrl="https://www.lopinion.fr/index.rss" htmlUrl="https://www.lopinion.fr/index.rss"/>
     <outline type="rss" text="L&#39;Unità" xmlUrl="https://www.unita.it/feed/" htmlUrl="https://www.unita.it/"/>
-    <outline type="rss" text="la Repubblica" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml" htmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
-    <outline type="rss" text="la Repubblica: Commenti" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Arepubblica.it%2Fcommenti%2F&amp;hl=it&amp;gl=IT&amp;ceid=IT%3Ait" htmlUrl="https://news.google.com/search?q=when:168h+inurl:repubblica.it/commenti/&amp;hl=it&amp;gl=IT&amp;ceid=IT:it"/>
     <outline type="rss" text="Law.com" xmlUrl="https://feeds.feedblitz.com/law/legal-news/" htmlUrl="https://feeds.feedblitz.com/law/legal-news/"/>
     <outline type="rss" text="Le Figaro" xmlUrl="https://www.lefigaro.fr/rss/figaro_actualites.xml" htmlUrl="http://www.lefigaro.fr"/>
     <outline type="rss" text="Le Figaro: Vox" xmlUrl="https://www.lefigaro.fr/rss/figaro_vox.xml" htmlUrl="http://www.lefigaro.fr"/>
