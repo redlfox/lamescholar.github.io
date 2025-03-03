@@ -244,7 +244,7 @@ title: Заглавие текста
 
 
 ```
-I was listening to <span class="underlining">NPR</span> the other day. <span class="marginalia">I listen to it in the car.</span>
+<span class="underlining">текст</span> <span class="marginalia">комментарий</span>
 ```
 
 Добавь этот скрипт в post.html:

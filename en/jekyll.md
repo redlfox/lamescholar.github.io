@@ -244,7 +244,7 @@ There is a way to reproduce underlinings and marginalia as in printed books in p
 
 
 ```
-I was listening to <span class="underlining">NPR</span> the other day. <span class="marginalia">I listen to it in the car.</span>
+<span class="underlining">text</span> <span class="marginalia">comment</span>
 ```
 
 Add this script to post.html:
