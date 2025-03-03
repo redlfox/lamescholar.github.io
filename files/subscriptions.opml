@@ -95,7 +95,6 @@
     <outline type="rss" text="The Times: Books" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awww.thetimes.com/culture/books/&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:www.thetimes.com/culture/books/&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
     <outline type="rss" text="The Virginian-Pilot: Books" xmlUrl="https://www.pilotonline.com/things-to-do/books/feed/" htmlUrl="https://www.pilotonline.com"/>
     <outline type="rss" text="The Washington Post: Books" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awashingtonpost.com/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:washingtonpost.com/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
-    <outline type="rss" text="WSJ: Arts &amp; Culture" xmlUrl="https://feeds.content.dowjones.io/public/rss/RSSArtsCulture" htmlUrl="https://www.wsj.com/arts-culture/"/>
     <outline type="rss" text="WSJ: Books" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20inurl%3Awsj.com/arts-culture/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+inurl:wsj.com/arts-culture/books/&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
   </outline>
   <outline text="Magazines">
@@ -439,7 +438,6 @@
     <outline type="rss" text="Дискурс" xmlUrl="https://rss.discours.io/" htmlUrl="https://rss.discours.io/"/>
     <outline type="rss" text="Журнал историка-германиста" xmlUrl="https://navlasov.livejournal.com/data/rss" htmlUrl="https://navlasov.livejournal.com/"/>
     <outline type="rss" text="Нож: Статьи" xmlUrl="https://knife.media/category/longreads/feed/" htmlUrl="https://knife.media"/>
-    <outline type="rss" text="После" xmlUrl="https://posle.media/feed/" htmlUrl="https://posle.media/"/>
     <outline type="rss" text="Рабкор" xmlUrl="https://rabkor.ru/feed/" htmlUrl="https://rabkor.ru"/>
     <outline type="rss" text="Собака.ru" xmlUrl="https://www.sobaka.ru/rss/spb.xml" htmlUrl="https://www.sobaka.ru"/>
     <outline type="rss" text="Социальный Компас" xmlUrl="https://www.socialcompas.com/feed/" htmlUrl="https://www.socialcompas.com"/>
@@ -452,7 +450,6 @@
     <outline type="rss" text="KP.UA" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Akp.ua&amp;hl=uk&amp;gl=UA&amp;ceid=UA%3Auk" htmlUrl="https://news.google.com/search?q=when:24h+inurl:kp.ua&amp;hl=uk&amp;gl=UA&amp;ceid=UA:uk"/>
     <outline type="rss" text="Kyiv Post" xmlUrl="https://www.kyivpost.com/feed" htmlUrl="https://www.kyivpost.com/feed"/>
     <outline type="rss" text="Liga.net" xmlUrl="https://www.liga.net/news/all/rss.xml" htmlUrl="https://www.liga.net"/>
-    <outline type="rss" text="Today.ua" xmlUrl="https://today.ua/ru/feed/" htmlUrl="https://today.ua"/>
     <outline type="rss" text="Буквоїд" xmlUrl="http://bukvoid.com.ua/export/rss/all.xml" htmlUrl="http://bukvoid.com.ua/"/>
     <outline type="rss" text="Главное в Украине" xmlUrl="https://glavnoe.in.ua/ru/feed" htmlUrl="https://glavnoe.in.ua"/>
     <outline type="rss" text="День" xmlUrl="https://news.google.com/rss/search?hl=uk&amp;gl=UA&amp;ceid=UA%3Auk&amp;oc=11&amp;q=when%3A24h%20inurl%3Aday.kyiv.ua" htmlUrl="https://news.google.com/search?hl=uk&amp;gl=UA&amp;ceid=UA:uk&amp;oc=11&amp;q=when:24h+inurl:day.kyiv.ua"/>
@@ -514,7 +511,6 @@
     <outline type="rss" text="Агентство" xmlUrl="https://www.agents.media/feed/" htmlUrl="https://www.proekt.media/"/>
     <outline type="rss" text="Аргументы и Факты" xmlUrl="https://aif.ru/rss/googlenews" htmlUrl="https://aif.ru/rss/googlenews"/>
     <outline type="rss" text="Аргументы недели" xmlUrl="https://news.google.com/rss/search?q=when%3A24h%20inurl%3Aargumenti.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU%3Aru" htmlUrl="https://news.google.com/search?q=when:24h+inurl:argumenti.ru&amp;hl=ru&amp;gl=RU&amp;ceid=RU:ru"/>
-    <outline type="rss" text="Бизнес Online" xmlUrl="https://www.business-gazeta.ru/rss.xml" htmlUrl="https://www.business-gazeta.ru"/>
     <outline type="rss" text="Бумага" xmlUrl="https://paperpaper.io/feed/" htmlUrl="https://paperpaper.io"/>
     <outline type="rss" text="Важные истории" xmlUrl="https://istories.media/rss/all.xml" htmlUrl="https://istories.media"/>
     <outline type="rss" text="Ведомости" xmlUrl="https://www.vedomosti.ru/rss/news.xml" htmlUrl="https://www.vedomosti.ru"/>
