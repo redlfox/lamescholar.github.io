@@ -5,9 +5,9 @@ title: About
 permalink: /about/
 ---
 
-I did this site to spread access to sources. I did it with [Jekyll](/en/jekyll).
+On this siteI share thoughts and sources. I did it with [Jekyll](/en/jekyll).
 
-Я сделал этот сайт, чтобы распространить доступ к источникам. Я сделал его с помощью [Jekyll](/ru/jekyll).
+На этом сайте делюс мыслями и источниками. Я сделал его с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 <div style="border: 1px solid black; padding: 10px;">
