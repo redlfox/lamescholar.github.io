@@ -14,7 +14,7 @@ by Benoît Bréville
 <br><br>
 
 {:refdef: style="text-align: center;"}
-<img src="/images/munich.jpg" height="400">
+<img src="/images/munich.jpg" height="400" width="569">
 {: refdef}
 
 <sub>Munich: Édouard Daladier of France, accompanied by German foreign minister Joachim von Ribbentrop, inspects German troops on his arrival at Munich airport, 29 September 1938</sub><br>
