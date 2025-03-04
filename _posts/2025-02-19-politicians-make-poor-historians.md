@@ -65,17 +65,19 @@ Zelensky has seen the Russian army’s weaknesses and, with the support of Weste
 Benoît Bréville is president and editorial director of <i>Le Monde diplomatique</i>.</p>
 
 *Translated by George Miller*
+
+https://libgen.li/edition.php?id=131874818
 <br><br>
 
 <div id="nb1">
 
-<span class="spip_note_ref">(<a href="#nh1" class="spip_note" title="Footnotes 1">1</a>) </span>Matej Friedl, ‘<a href="https://web.archive.org/web/20230926191449/https://www.adaptinstitute.org/war-in-ukraine-as-the-second-world-war-how-is-zelenskyy-shaping-the-perception-of-war-through-historical-analogies/02/08/2023/" class="spip_out">War in Ukraine as the Second World War: How is Zelensky shaping the perception of war through historical analogies</a>’, Adapt Institute, 2 August 2023, <a href="http://www.adaptinstitute.org/" class="spip_url spip_out auto">www.adaptinstitute.org/</a>.
+<span class="spip_note_ref">(<a href="#nh1" class="spip_note" title="Footnotes 1">1</a>) </span>Matej Friedl, ‘<a href="https://web.archive.org/web/20230926191449/https://www.adaptinstitute.org/war-in-ukraine-as-the-second-world-war-how-is-zelenskyy-shaping-the-perception-of-war-through-historical-analogies/02/08/2023/">War in Ukraine as the Second World War: How is Zelensky shaping the perception of war through historical analogies</a>’, Adapt Institute, 2 August 2023, <a href="http://www.adaptinstitute.org/">www.adaptinstitute.org/</a>.
 
 </div>
 
 <div id="nb2">
 
-<span class="spip_note_ref">(<a href="#nh2" class="spip_note" title="Footnotes 2">2</a>) </span>Yuen Foong Khong, <i>Analogies at War: Korea, Munich, Dien Bien Phu, and the Vietnam Decisions of 1965</i>, Princeton University Press, 1992.
+<span class="spip_note_ref">(<a href="#nh2" class="spip_note" title="Footnotes 2">2</a>) </span>Yuen Foong Khong, <a href="https://libgen.li/edition.php?id=131874818"><i>Analogies at War: Korea, Munich, Dien Bien Phu, and the Vietnam Decisions of 1965</i></a>, Princeton University Press, 1992.
 
 </div>
 
@@ -93,6 +95,6 @@ Benoît Bréville is president and editorial director of <i>Le Monde diplomatiqu
 
 <div id="nb5">
 
-<span class="spip_note_ref">(<a href="#nh5" class="spip_note" title="Footnotes 5">5</a>) </span>Anatol Lieven ‘<a href="https://foreignpolicy.com/2022/10/27/ukraines-war-is-like-world-war-i-not-world-war-ii/" class="spip_out">Ukraine’s war is like World War I, not World War II</a>’, <i>Foreign Policy</i>, 27 October 2022, foreignpolicy.com/.
+<span class="spip_note_ref">(<a href="#nh5" class="spip_note" title="Footnotes 5">5</a>) </span>Anatol Lieven ‘<a href="https://foreignpolicy.com/2022/10/27/ukraines-war-is-like-world-war-i-not-world-war-ii/">Ukraine’s war is like World War I, not World War II</a>’, <i>Foreign Policy</i>, 27 October 2022, foreignpolicy.com/.
 
 </div>
