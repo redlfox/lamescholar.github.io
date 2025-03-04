@@ -5,7 +5,7 @@ title: About
 permalink: /about/
 ---
 
-On this siteI share thoughts and sources. I did it with [Jekyll](/en/jekyll).
+On this site I share thoughts and sources. I did it with [Jekyll](/en/jekyll).
 
 На этом сайте делюс мыслями и источниками. Я сделал его с помощью [Jekyll](/ru/jekyll).
 <br><br>
