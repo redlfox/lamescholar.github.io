@@ -38,7 +38,7 @@ On this siteI share thoughts and sources. I did it with [Jekyll](/en/jekyll).
 <br><br><br>
 
 {:refdef: style="text-align: center;"}
-![Ex Libris](/images/ex-libris.jpg)
+<img src="/images/ex-libris.jpg" height="400">
 {: refdef}
 
 {:refdef: style="text-align: center;"}

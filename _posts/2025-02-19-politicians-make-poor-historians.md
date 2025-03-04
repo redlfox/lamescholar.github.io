@@ -13,9 +13,9 @@ Source: [Le Monde diplomatique EN 2024-04](https://rutracker.org/forum/viewtopi
 by Benoît Bréville
 <br><br>
 
-<div style="text-align: center;">
+{:refdef: style="text-align: center;"}
 <img src="/images/munich.jpg" height="400">
-</div>
+{: refdef}
 
 <sub>Munich: Édouard Daladier of France, accompanied by German foreign minister Joachim von Ribbentrop, inspects German troops on his arrival at Munich airport, 29 September 1938</sub><br>
 <sub>Keystone-France · Gamma-Rapho · Getty</sub>
