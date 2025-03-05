@@ -85,7 +85,7 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [Radio](/en/radio)
 
-[Reference](/en/reference)
+[Reference books](/en/reference-books)
 
 [Research](/en/research)
 

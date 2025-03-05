@@ -99,7 +99,7 @@ title: Поваренная книга пирата
 
 [Радио](/ru/radio)
 
-[Справочники](/ru/reference)
+[Справочники](/ru/reference-books)
 
 [Статьи](/ru/articles)
 

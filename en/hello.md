@@ -8,7 +8,7 @@ Pirate Cookbook will help you find and share files online.
 The first thing to do is to install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites mentioned in corresponding sections of the Cookbook.
 
 With this collection of guides you will be able<br>
-to [create](/en/book-digitization), [share](/en/how-to-share-your-stuff), [find](/en/book-searching) and [read](/en/reading-ebooks) ebooks,<br>
+to [create](/en/book-digitization), [share](/en/how-to-share-your-stuff), [find](/en/book-searching) and [read](/en/ebook-formats) ebooks,<br>
 to rip [DVDs](/en/films) and [CDs](/en/music#ripping-cds),<br>
 to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
 to broadcast you own [online radio](/en/radio#how-to-make-your-own-online-radio)<br>
