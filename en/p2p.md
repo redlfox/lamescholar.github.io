@@ -69,7 +69,7 @@ German stuff.
 MIRCrew - <https://mircrew-releases.org/index.php><br>
 Italian stuff.
 
-Nyaa - <https://nyaa.si/>
+Nyaa - <https://nyaa.si/><br>
 Asian stuff.
 
 Hurtom - https://toloka.to/<br>
