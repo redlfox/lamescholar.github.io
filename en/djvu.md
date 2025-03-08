@@ -33,9 +33,6 @@ This is comprehensive collection of programs to create, edit and read DjVu files
 12) [Document Express Editor 6.0.1](#editor) - editing hyperlinks.
 <br><br>
 
-#### Functions of programs
-<br>
-
 **WinDjView** - program for reading of .djvu files.
 
 Alt+Left - go back after clicking on the hyperlink.
