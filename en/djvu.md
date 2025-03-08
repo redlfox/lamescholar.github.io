@@ -16,7 +16,7 @@ This is comprehensive collection of programs to create, edit and read DjVu files
 
 4) [DjVu Small Mod 0.7.6.1](#djvu-small) - creation of DjVu document.
 
-5) [DjVu Imager](#djvu-imager) - inserting coloured/grey pictures.
+5) [DjVu Imager](#djvu-imager) - inserting colored/grey pictures.
 
 6) [ABBYY Finereader](#finereader) - creation of OCR layer.
 
