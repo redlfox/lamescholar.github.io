@@ -304,7 +304,7 @@ Nicolai Woodenko - <https://archive.org/details/@nicolai_woodenko>
 
 Ленин - <https://leninism.su/>
 
-Сталин И.В. Сочинения: Т. 1–18 - <https://c21ch.newcastle.edu.au/stalin/>
+Сталин - <https://c21ch.newcastle.edu.au/stalin/>
 
 Материалистическая диалектика - <http://libelli.ru/>
 

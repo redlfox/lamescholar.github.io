@@ -11,7 +11,7 @@ French books.
 
 Library Genesis:<br>
 <https://libgen.rs/><br>
-<https://libgen.li/
+<https://libgen.li/>
 
 Z-Library - <https://singlelogin.re/>
 
