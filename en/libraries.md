@@ -9,7 +9,9 @@ My RuTracker account - <https://rutracker.org/forum/tracker.php?rid=45195282>
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
 French books.
 
-Library Genesis - <https://libgen.li/>
+Library Genesis:<br>
+<https://libgen.rs/><br>
+<https://libgen.li/
 
 Z-Library - <https://singlelogin.re/>
 

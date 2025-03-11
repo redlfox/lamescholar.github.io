@@ -177,7 +177,11 @@ Zip-архив с программами на случай, если ссылк�
 
 #### Где опубликовать книгу:
 
-Library Genesis - <https://libgen.li/librarian.php>
+Library Genesis:<br>
+<https://library.bz/main/upload/><br>
+genesis<br>
+upload<br>
+<https://libgen.li/librarian.php>
 
 Z-Library - <https://singlelogin.re/book-add>
 
