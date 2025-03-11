@@ -625,7 +625,7 @@ Pamphalon was silent.
 
 ‘I entreat you,’ Hermius repeated. ‘Tell me, have you ever felt that you were good?’
 
-‘Yes,’said the entertainer. ‘I have . . .’
+‘Yes,’ said the entertainer. ‘I have . . .’
 
 ‘When was that?’
 
