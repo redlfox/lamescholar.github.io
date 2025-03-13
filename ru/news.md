@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Газеты
+title: Новости
 ---
 
 [Газеты на иностранных языках](/en/newspapers)
