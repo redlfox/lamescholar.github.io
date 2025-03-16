@@ -137,15 +137,11 @@ This, then, is the key to the problem by trying to preserve (even as one “dial
 
 <a href="#ch9fn4" id="ch9-fn4">4.</a> In this case, the expression “consciousness industry” which Enzensberger uses to characterize the existing media is a dangerous metaphor. Unfortunately, it underlies his entire analytic hypothesis, which is to extend the Marxist analysis of the capitalist mode of production to the media, to the point of discovering a structural analogy between the following relations:
 
-<div class="blockn">
+• dominant class / dominated class
 
-<span class="sbull">•</span> dominant class / dominated class
+•producer entrepreneur / consumer
 
-<span class="sbull">•</span> producer entrepreneur / consumer
-
-<span class="sbull">•</span> transmitter broadcaster / receiver
-
-</div>
+• transmitter broadcaster / receiver
 
 <a href="#ch9fn5" id="ch9-fn5">5.</a> In fact, Marxist analysis can be questioned at two very different levels of radicality: either as a system for interpreting the separated order of *material* production, or else as that of the separated order of *production* (in general). In the first case, the hypothesis of the non-relevance of the dialectic outside its field of “origin” must be logically pushed further if “dialectical” contradictions between the productive forces and the relations of production largely vanish in the field of language, signs and ideology, *perhaps they were never really operative in the field, of material production either*, since a certain capitalist development of productive forces has been able to absorb—not all conflict, to be sure—but revolutionary antagonisms at the level of social relations. Wherein lies the validity of these concepts, then, aside from a purely conceptual coherence?
 
