@@ -46,7 +46,7 @@ Monthly<br>
 <br><br>
 
 6\. Le Monde diplomatique<br>
-Monthly, large format
+Monthly, large format<br>
 1 month - $5.50<br>
 <https://mondediplo.com/subscribe>
 <br><br>
