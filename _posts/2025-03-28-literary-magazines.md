@@ -11,6 +11,7 @@ Author: lamescholar - 2025-03-28
 <br><br>
 
 Clipboard for large-format magazines:<br>
+Mr. Pen- Clipboard, 11.5x17 Inches<br>
 <https://www.amazon.com/Mr-Pen-Wooden-Landscape-Clipboard/dp/B0CMQ1B5S1>
 <br><br>
 
