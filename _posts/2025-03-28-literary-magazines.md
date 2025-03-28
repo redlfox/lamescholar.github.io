@@ -34,7 +34,7 @@ Bi-monthly, large format<br>
 <br><br>
 
 4\. Financial Times Weekend<br>
-Saturday issue of Financial Times with Life&Arts section<br>
+Saturday issue of Financial Times with Life & Arts section<br>
 3 months - $20, then $35<br>
 <https://subs.ft.com/weekend_podcast>
 <br><br>
