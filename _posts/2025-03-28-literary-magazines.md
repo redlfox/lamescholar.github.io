@@ -42,7 +42,9 @@ Saturday issue of Financial Times with Life & Arts section<br>
 5\. History Today<br>
 Monthly<br>
 3 months - $5<br>
-<https://historytoday.com/subscription/subscribe-history-today-pw1/as-us>
+<https://historytoday.com/subscription/subscribe-history-today-pw1/as-us><br>
+Just before 3 months pass, cancel your subscription unless you want to pay full annual rate around $100. To cancel, write a letter to:
+subscriptions@historytoday.com
 <br><br>
 
 6\. Le Monde diplomatique<br>
