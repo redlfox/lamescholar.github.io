@@ -178,7 +178,7 @@ The Philosophers' Magazine - <https://www.philosophersmag.com/>
 
 Philosophie - <https://www.philomag.com/archives>
 
-Philosophie DE - <https://www.philomag.de/>
+Philosophie Magazin - <https://www.philomag.de/>
 
 Diacritics - <https://muse-jhu-edu.i.ezproxy.nypl.org/pub/1/journal/46>
 
