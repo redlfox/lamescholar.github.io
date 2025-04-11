@@ -27,6 +27,7 @@ cd C:\
 git clone https://github.com/MiniGlome/Archive.org-Downloader.git
 cd Archive.org-Downloader
 pip install -r requirements.txt
+pip install pycryptodome
 ```
 <br>
 
