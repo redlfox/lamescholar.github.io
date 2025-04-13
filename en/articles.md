@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Magazine articles
+title: Articles
 ---
 
 #### Full text:

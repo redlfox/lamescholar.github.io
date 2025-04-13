@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Журнальные статьи
+title: Cтатьи
 ---
 
 [Статьи на иностранных языках](/en/articles)

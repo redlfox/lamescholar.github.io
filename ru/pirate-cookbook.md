@@ -61,8 +61,6 @@ title: Поваренная книга пирата
 
 [Журналы](/ru/magazines)
 
-[Журнальные статьи](/ru/articles)
-
 [Игры](/ru/games)
 
 [Издательства](/ru/publishers)
@@ -102,6 +100,8 @@ title: Поваренная книга пирата
 [Радио](/ru/radio)
 
 [Справочники](/ru/reference-books)
+
+[Статьи](/ru/articles)
 
 [Установка Windows](/ru/windows)
 
