@@ -17,8 +17,6 @@ Stack Exchange - <https://stackexchange.com/sites>
 
 Imgur - <https://imgur.com/>
 
-4chan - <https://4chan.org/>
-
 LiveLib - <https://www.livelib.ru/>
 
 Кинопоиск - <https://www.kinopoisk.ru/>

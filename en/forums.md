@@ -16,5 +16,3 @@ Philosophy Now Forum - <https://forum.philosophynow.org/>
 Stack Exchange - <https://stackexchange.com/sites>
 
 Imgur - <https://imgur.com/>
-
-4chan - <https://4chan.org/>
