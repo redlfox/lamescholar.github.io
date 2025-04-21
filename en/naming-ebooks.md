@@ -14,6 +14,6 @@ et al. (et alii - and others) is used to abridge the list of authors.<br>
 
 Windows doesn't allow to use a question mark, quotation marks, or a colon in the file name. Use underscores instead.
 
-If you want to list to authors, abridge the first name to one letter:
+If you want to list two authors, abridge the first name to one letter:
 
 Osterhammel J., Camiller P. - The Transformation of the World_ A Global History of the Nineteenth Century - 2014
