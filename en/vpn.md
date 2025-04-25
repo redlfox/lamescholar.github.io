@@ -38,6 +38,13 @@ sudo docker run -d \
   weejewel/wg-easy
   ```
   
+Port forwarding:
+
+```
+sudo iptables -t nat -A PREROUTING -p tcp --dport 50000 -j DNAT --to-destination 10.8.0.2:50000
+sudo iptables -A FORWARD -p tcp -d 10.8.0.2 --dport 50000 -j ACCEPT
+```
+  
 Install WireGuard client on your computer:
 
 <https://www.wireguard.com/install/>

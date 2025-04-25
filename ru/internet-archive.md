@@ -94,7 +94,7 @@ File->Batch Conversion/Rename...
 
 Output format:->JPG
 
-Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 или 600. Если ширина картинок меньше 2400 - 300 DPI, больше 2400 - 600 DPI. В случае с LuraTech PDF Compressor 300 DPI устанавливать не обязательно - это значение по умолчанию, когда DPI не установлено. Вводишь значения Gamma correction, Constrast, Saturation, Sharpen, если необходимо.
+Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 или 600. Если ширина картинок меньше 2200 - 300 DPI, больше 2200 - 600 DPI. В случае с LuraTech PDF Compressor 300 DPI устанавливать не обязательно - это значение по умолчанию, когда DPI не установлено. Вводишь значения Gamma correction, Constrast, Saturation, Sharpen, если необходимо.
 
 Выбираешь выходную папку.
 
