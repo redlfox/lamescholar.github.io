@@ -6,7 +6,7 @@ title: Internet Archive
 <https://github.com/MiniGlome/Archive.org-Downloader>
 <br><br>
 
-With this Python script you can download any book from Internet Archive. The script downloads the pages of the book. To convert images to PDF, the script uses img2pdf package. But it creates too big PDF file. So I recommend you to keep -j setting at the end of the command to get only the images. Further I list three options how you can efficiently convert them into PDF or DjVu.
+With this Python script you can download any book from Internet Archive. The script downloads the pages of the book. To convert images to PDF, the script uses img2pdf package. But it creates too big PDF file. So I recommend you to keep -j setting to get only the images. Further I list three options how you can efficiently convert them into PDF or DjVu.
 <br><br>
 
 #### Requirements to install:
@@ -46,7 +46,7 @@ Win+R cmd
 
 ```
 cd C:\Archive.org-Downloader
-python archive-org-downloader.py -e email -p password -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j
+python archive-org-downloader.py -j -e email -p password -r 0 -u https://archive.org/details/untoldhistoryoft00ston
 ```
 <br>
 

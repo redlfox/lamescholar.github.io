@@ -6,7 +6,7 @@ title: Internet Archive
 <https://github.com/MiniGlome/Archive.org-Downloader>
 <br><br>
 
-С помощью этого скрипта ты можешь скачать любую книгу с Internet Archive. Cкрипт скачивает страницы книги. Для преобразования изображений в PDF скрипт использует пакет img2pdf. Но он создает большой PDF-файл. Поэтому я рекомендую тебе сохранить параметр -j в конце команды, чтобы получить только изображения. Ниже указаны три варианта, как ты можешь эффективно конвертировать их в PDF или DjVu.
+С помощью этого скрипта ты можешь скачать любую книгу с Internet Archive. Cкрипт скачивает страницы книги. Для преобразования изображений в PDF скрипт использует пакет img2pdf. Но он создает большой PDF-файл. Поэтому я рекомендую тебе сохранить параметр -j, чтобы получить только изображения. Ниже указаны три варианта, как ты можешь эффективно конвертировать их в PDF или DjVu.
 <br><br>
 
 #### Для установки необходимы:
@@ -46,7 +46,7 @@ Win+R cmd
 
 ```
 cd C:\Archive.org-Downloader
-python archive-org-downloader.py -e email -p пароль -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j
+python archive-org-downloader.py -j -e email -p пароль -r 0 -u https://archive.org/details/untoldhistoryoft00ston
 ```
 <br>
 
