@@ -29,7 +29,7 @@ All .md files can be found here:
 <https://github.com/lamescholar/lamescholar.github.io>
 <br><br>
 
-Commands to download the site:
+Commands to download the blog:
 
 Win+R cmd
 
@@ -39,6 +39,6 @@ git clone https://github.com/lamescholar/lamescholar.github.io
 ```
 <br>
 
-How to create your own site:
+How to create your own blog:
 
 [Jekyll](/en/jekyll)
