@@ -28,7 +28,7 @@ title: Привет
 <https://github.com/lamescholar/lamescholar.github.io>
 <br><br>
 
-Команды, чтобы скачать сайт:
+Команды, чтобы скачать блог:
 
 WIn+R cmd
 
@@ -38,6 +38,6 @@ git clone https://github.com/lamescholar/lamescholar.github.io
 ```
 <br>
 
-Как создать свой сайт:
+Как создать свой блог:
 
 [Jekyll](/ru/jekyll)
