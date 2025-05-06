@@ -7,6 +7,10 @@ title: Reference books
 
 GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%20builds/>
 
+```
+<maxPictureWidth>
+```
+
 Dictionaries for GoldenDict:<br>
 <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
 <https://rutracker.org/forum/viewtopic.php?t=3369767><br>
