@@ -10,7 +10,7 @@ title: "Periodical of the Week #2 - Philosophy Now"
 Author: lamescholar - 2024-10-25
 <br><br>
 
-**Philosophy Now** is British monthly philosophy magazine. It features popular articles on philosophy with inclination towards philosophy of mind. At the end of each issue there is always an intresting column by Raymond Tallis.
+**Philosophy Now** is British monthly philosophy magazine. It features popular articles on philosophy with inclination towards philosophy of mind. At the end of each issue there is always an interesting column by Raymond Tallis.
 
 If you're located in the US and you want to get a printed issue, they can be found in Barnes & Noble magazine rack.
 
