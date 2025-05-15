@@ -8,7 +8,7 @@ title: Alberto Moravia - Marx and Dostoevsky (1956)
 Source: [Encounter 1956-11](https://disk.yandex.ru/i/ZYiW3fQH19TRTA)
 <br><br>
 
-In 1956, Italian writer Alberto Moravia visited USSR and published his thoughts in the newspaper Corriere della Sera. Later, in 1958, he published the book [Un mese in Urss](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ). Articles in Corriere della Sera were translated by British magazine Encounter that was covertly funded by CIA at the time. So, props to CIA for the translation. Below is translation of book's first chapter MARX E DOSTOEVSKIJ.
+In 1956, Italian writer Alberto Moravia visited USSR and published his thoughts in the newspaper Corriere della Sera. Later, in 1958, he published the book [Un mese in Urss](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ). Articles in Corriere della Sera were translated by British magazine Encounter that was covertly funded by CIA at the time. So, props to CIA for this translation. Below is translation of book's first chapter MARX E DOSTOEVSKIJ.
 <br><br>
 
 MARX AND DOSTOEVSKY
