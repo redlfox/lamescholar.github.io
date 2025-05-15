@@ -11,7 +11,7 @@ Source: [Encounter 1956-11](https://disk.yandex.ru/i/ZYiW3fQH19TRTA)
 In 1956, Italian writer Alberto Moravia visited USSR and published his thoughts in the newspaper Corriere della Sera. Later, in 1958, he published the book [Un mese in Urss](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ). Articles in Corriere della Sera were translated by British magazine Encounter that was covertly funded by CIA at the time. So, props to CIA for this translation. Below is translation of the book's first chapter MARX E DOSTOEVSKIJ.
 <br><br>
 
-MARX AND DOSTOEVSKY
+# MARX AND DOSTOEVSKY
 
 This spring Leningrad’s sky, filled with grey clouds, had a vast melancholy, and in the misty distances the city looked flat and indistinct, almost levelled out on its horizon to a smoky relief of long, uniform buildings over which here and there the spire of a tower rose or the gold of a minaret gleamed forth. It was raining; or rather the atmosphere was so humid that it covered everything, the marble walls of the great public buildings and the trees in the parks, with a thin film of gelid moisture.
 
