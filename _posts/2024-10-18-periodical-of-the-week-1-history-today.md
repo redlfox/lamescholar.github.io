@@ -38,7 +38,8 @@ Use [this](/en/internet-archive) Python script to make PDFs of these issues.
 
 For this particular magazine I figured out that you need to pre-process images in IrfanView:<br>
 RESIZE: 50%<br>
-Sharpen: 30
+Sharpen: 60<br>
+Gamma: 1.50
 
 Then encode PDF with LuraTech PDF Compress with these settings:<br>
 Profile: Photo<br>
