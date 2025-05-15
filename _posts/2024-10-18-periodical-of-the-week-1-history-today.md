@@ -39,14 +39,13 @@ Use [this](/en/internet-archive) Python script to make PDFs of these issues.
 For this particular magazine I figured out that you need to pre-process images in IrfanView:<br>
 RESIZE: 50%<br>
 Sharpen: 60<br>
-Gamma: 1.50
 
 Then encode PDF with LuraTech PDF Compress with these settings:<br>
 Profile: Photo<br>
 Quality: 7
 
 Result:<br>
-<https://disk.yandex.ru/i/chWxsj5wqWS9Ew>
+<https://disk.yandex.ru/i/qoUxXcGxU5Lc-g>
 
 ![History Today](/images/history-today-2.jpg)
 
