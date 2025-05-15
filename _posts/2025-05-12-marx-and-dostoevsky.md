@@ -3,7 +3,7 @@ layout: post
 tag: Reposts
 comments: true
 title: Alberto Moravia - Marx and Dostoevsky (1956)
-
+---
 
 Source: [Encounter 1956-11](https://disk.yandex.ru/i/ZYiW3fQH19TRTA)
 <br><br>
