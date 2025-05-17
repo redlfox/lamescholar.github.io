@@ -34,4 +34,4 @@ Why it's important to give access to digitized materials? Why "preservation for 
 
 Because a bunch of publishers want to keep their profits. Even if they don't reprint the books, they won't allow printing to others, because they hold these rights as an asset. This whole situation shows hopelessness of using legal loopholes to try, at least one reader at a time, to grant access to books for everybody. The solution is direct exchange, ran by people for the people, without regard for copyright law. Only this way we achieve unconditional access to books for everybody.
 
-What can you do? Spread the means of piracy. Digitize materials you got and spread them.
+What can you do? Spread the means of piracy. Digitize materials you have and spread them.
