@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts Moravia
+tags: Reposts Moravia
 comments: true
 title: "Alberto Moravia - A Month in the USSR (1958): I. Marx and Dostoevsky"
 ---
