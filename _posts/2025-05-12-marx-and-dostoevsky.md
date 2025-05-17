@@ -14,6 +14,7 @@ In 1956, Italian writer Alberto Moravia visited USSR and published articles abou
 # I
 
 # MARX AND DOSTOEVSKY
+<br>
 
 This spring Leningrad’s sky, filled with grey clouds, had a vast melancholy, and in the misty distances the city looked flat and indistinct, almost levelled out on its horizon to a smoky relief of long, uniform buildings over which here and there the spire of a tower rose or the gold of a minaret gleamed forth. It was raining; or rather the atmosphere was so humid that it covered everything, the marble walls of the great public buildings and the trees in the parks, with a thin film of gelid moisture.
 
