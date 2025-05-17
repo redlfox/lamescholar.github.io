@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Репосты
 comments: true
 title: Марк Фишер - Приватизация стресса (2011)
 ---

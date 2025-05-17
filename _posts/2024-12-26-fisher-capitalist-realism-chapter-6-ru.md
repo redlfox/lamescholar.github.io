@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Репосты
 comments: true
 title: Марк Фишер - Капиталистический реализм. Глава 6
 ---
