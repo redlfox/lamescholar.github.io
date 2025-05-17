@@ -13,9 +13,9 @@ Translation: lamescholar - 2025-05-17
 In 1956, Italian writer Alberto Moravia visited USSR and published articles about it in the newspaper Corriere della Sera. Later, in 1958, he published a book Un mese in URSS. Below is the third chapter Il monastero Troizki.
 <br><br>
 
-III.
+# III.
 
-THE TROITSKY MONASTERY
+# THE TROITSKY MONASTERY
 <br>
 
 Moscow is situated at the center of a region that, more than any other part of Russia, possesses profoundly and authentically national characteristics. It is an immense, scarcely undulating plain, of sandy ground and formerly marshy, furrowed by countless waterways, largely covered by dense pine forests, lacking color and movement, gray and melancholic beneath vast and often nebulous skies. This region has a beauty that is far from ostentatious, made up primarily of monotony and repetition. We go on for dozens and dozens of kilometers, and the landscape repeats its few effects again and again, until it inspires in the traveler a state of patient and almost voluptuous disappointment, always produced by certain oriental melodies based on a single, constantly recurring motif. It is the rustic Russia, immutable, mysterious, sung by Esenin in so many beautiful poems; the “wood Russia,” the “vegetable Russia,” the “heavenly Russia,” according to the poet’s words, a land of still, mirrored waters among the forests, of peaceful villages, of peasants in blouses and boots, of docile beasts. Pine forests stream past on either side of the road for hours on end, like silent, dense armies; occasionally, here are two rows of izbas with sloping roofs, with framed windows in carved and painted frames; or, on a hilltop, solitary against the sky, a white church topped with a cluster of golden onion domes.
