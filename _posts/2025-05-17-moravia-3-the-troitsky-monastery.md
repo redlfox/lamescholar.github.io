@@ -5,12 +5,12 @@ comments: true
 title: "Alberto Moravia - A Month in the URSS (1958): III. The Troitsky Monastery"
 ---
 
-Source: [Moravia, Albertio - Un mese in URSS - 2013](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ)
+Source: [Moravia, Albertio - Un mese in Urss - 2013](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ)
 
 Translation: lamescholar - 2025-05-17
 <br><br>
 
-In 1956, Italian writer Alberto Moravia visited USSR and published articles about it in the newspaper Corriere della Sera. Later, in 1958, he published a book Un mese in URSS. Below is the third chapter Il monastero Troizki.
+In 1956, Italian writer Alberto Moravia visited USSR and published articles about it in the newspaper Corriere della Sera. Later, in 1958, he published a book Un mese in Urss. Below is the third chapter Il monastero Troizki.
 <br><br>
 
 # III.

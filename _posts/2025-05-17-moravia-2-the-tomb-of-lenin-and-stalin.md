@@ -2,13 +2,13 @@
 layout: post
 tags: Reposts Moravia
 comments: true
-title: "Alberto Moravia - A Month in the URSS (1958): II. The Tomb of Lenin and Stalin"
+title: "Alberto Moravia - A Month in the USSR (1958): II. The Tomb of Lenin and Stalin"
 ---
 
 Source: [Encounter 1956-11](https://disk.yandex.ru/i/ZYiW3fQH19TRTA)
 <br><br>
 
-In 1956, Italian writer Alberto Moravia visited USSR and published articles about it in the newspaper Corriere della Sera. Later, in 1958, he published a book [Un mese in URSS](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ). Below is the second chapter Il mausoleo di Lenin e Stalin.
+In 1956, Italian writer Alberto Moravia visited USSR and published articles about it in the newspaper Corriere della Sera. Later, in 1958, he published a book [Un mese in Urss](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ). Below is the second chapter Il mausoleo di Lenin e Stalin.
 <br><br>
 
 # II.
