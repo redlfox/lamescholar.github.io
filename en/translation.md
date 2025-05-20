@@ -3,391 +3,353 @@ comments: true
 title: Translation
 ---
 
-[ChatGPT](/ru/chatgpt), in addition to the much more known ability of composing plausible texts, has, in my opinion, a much more significant ability - ability to translate. Unlike Google Translate or Yandex Translate, ChatGPT translation is much more stable and holistic. However, ChatGPT itself has a number of disadvantages:
+[ChatGPT](/ru/chatgpt), in addition to the much more known ability of composing plausible texts, has, in my opinion, a much more significant ability - ability to translate. Unlike Google Translate or Yandex Translate, ChatGPT translation is much more stable. However, ChatGPT itself has a number of disadvantages:
 
-1) ChatGPT has a limit on the input size. The text should be inserted into the ChatGPT in parts.
+1) Limit on the input size and number of messages.
 
-2) To use ChatGPT in Russia, you need to create a fake phone for registration and enable VPN when using.
+2) Not available in some regions.
 
-3) Today or tomorrow, OpenAI can make paid access.
+3) Today or tomorrow, OpenAI can make access paid.
 
-Because of these disadvantages, an open source analogue of ChatGPT is needed. And it exists. How does it work on the surface? You insert the text of the article into a text file. Format it with macros. Run the script. In the case of an average article, wait 20 minutes. And you get a text file with a translation of the entire article.
+Because of these disadvantages, an open source alternative to ChatGPT is needed. And it exists. How does it work? You insert the text into a text file. You run the script. The script translates text in chunks of three sentences. The script immediately displays each chunk on the screen as soon as it has translated it. The translation is gradually assembled in the command line. You can read what script already translated. At the end, the translation is saved in a text file.
 
-On the [Hugging Face](https://huggingface.co/tasks/translation) platform it is possible to find open source language models - neural networks that have been trained on large volumes of parallel translation. For each pair of languages - a separate model trained on its database of parallel translations. These models can be used offline. To do this, you need to download the weights of the model. There is a good model for en-ru, ru-en, en-de, de-en pairs - [wmt19](https://huggingface.co/facebook/wmt19-de-en). For all other languages, you must use [opus-mt](https://huggingface.co/Helsinki-NLP/opus-mt-fr-en).
+About the script. The script splits the text into paragraphs, and paragraphs into sentences. Each paragraph is split into chunks of 3 sentences, which are fed to the qwen3:4b model. I install it via Ollama.
 
-Translation made using scripts in [Python](https://www.python.org/downloads/). When installing, you need to tick the option Add option python.exe to PATH. After downloading, you need to install the necessary packages:
+3 sentences is optimal size. Too large a chunk may overload the model, break the translation. One sentence at a time - no context.
 
-Win+R cmd
-
-pip install transformers[torch] sentencepiece sacremoses colorama
-<br><br>
-
-Script for downloading weights:
+Once you have a translation, you can have the model to check the translation. Again in chunks. The second script goes through the parallel chunks in text.txt and translation.txt files and makes the following request:
 
 ```
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-
-model_name = "facebook/wmt19-de-en"
-
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-
-tokenizer.save_pretrained('./wmt19-de-en')
-model.save_pretrained('./wmt19-de-en')
+Text: chunk of text
+Translation: chunk of translation
+Review the translation. Improve it if possible. Return only final English translation.
 ```
 
-Create a model_download.py file and put this code in it. Then go to the command line.
+Unlike [this service](https://www.booktranslate.ai/), you can check as many times as you want. And for free.
 
-Win+R cmd
+Before running the scripts, you need to have these **prerequisites**:
 
-```
-cd path to folder, where weights will be saved
-python model_download.py
-```
+**Ollama** - <https://ollama.com/>
 
-wmt19-de-en folder will appear soon. We have weights. Now let's create a script that will use these weights for translation.
-
-Script for translation:
+Download, then install **qwen3:4b** model:
 
 ```
-import time
-from colorama import Fore, init
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+ollama run qwen3:4b
+```
 
-init()
+**Python** - <https://www.python.org/downloads/>
 
-model = './wmt19-de-en'
+Download, then install **nltk package** (to break down paragraphs into sentences):
 
-tokenizer = AutoTokenizer.from_pretrained(model)
-model = AutoModelForSeq2SeqLM.from_pretrained(model)
+```
+pip install nltk
+```
 
-time_start = time.monotonic()
+Now the scripts. I recommend you create a folder and hold all files in this folder.
 
-with open('text.txt', encoding="utf-8") as txt:
-    lines = txt.readlines()
+**First script:**
 
-def translate_line(line: str) -> str:
-    inputs = tokenizer(line, return_tensors="pt")
-    output = model.generate(**inputs, max_new_tokens=100)
-    out_text = tokenizer.batch_decode(output, skip_special_tokens=True)
-    return out_text[0]
-	
-print("\nTranslation...")
+```
+import nltk
+from nltk.tokenize import sent_tokenize
+import subprocess
+import re
+import textwrap
 
-translation = []
+# Download punkt tokenizer if not already present
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
 
-for line in lines:
-    if line == "\n":
-        translation.append("\n\n")
-    else:
-        translation.append(f'{translate_line(line)}')
+# Config
+input_file = 'text.txt'
+output_file = 'translation.txt'
 
-with open("translation.txt", "w", encoding="utf-8") as txt:
-    for i in range(len(translation)-1):
-        if translation[i + 1] == "\n\n":
-            txt.write(translation[i])
-        elif translation[i] == "\n\n":
-            txt.write(translation[i])
+# Read and split text into paragraphs
+with open(input_file, 'r', encoding='utf-8') as f:
+    raw_text = f.read()
+
+# Split paragraphs
+paragraphs = [p.strip() for p in raw_text.split('\n\n') if p.strip()]
+
+# Function to split paragraph into sentences
+def split_into_sentences(text):
+    return sent_tokenize(text)
+
+# Generate batching rule
+def generate_batching_rule(n):
+    if n < 1:
+        return []
+    if n == 1:
+        return [1]
+    threes = n // 3
+    remainder = n % 3
+    if remainder == 0:
+        return [3] * threes
+    elif remainder == 1:
+        if threes >= 1:
+            return [3] * (threes - 1) + [2, 2]
         else:
-            txt.write(translation[i]+" ")
-    txt.write(translation[-1])
-    
-print(f"\n{Fore.GREEN}Translation completed")
-print(f'{Fore.CYAN}Elapsed time {Fore.RESET}| '
-     f'{(int(time.monotonic() - time_start) // 3600) % 24:d} ч. '
-     f'{(int(time.monotonic() - time_start) // 60) % 60:02d} м. '
-     f'{int(time.monotonic() - time_start) % 60:02d} с.\n')
+            return [2, 2]
+    elif remainder == 2:
+        return [3] * threes + [2]
+
+# Split paragraphs into sentence batches
+def create_batches(paragraphs):
+    batches = []
+    paragraph_batch_counts = []
+    for p_idx, paragraph in enumerate(paragraphs):
+        sentences = split_into_sentences(paragraph)
+        n = len(sentences)
+        if n == 0:
+            paragraph_batch_counts.append(0)
+            continue
+        rule = generate_batching_rule(n)
+        pointer = 0
+        batch_count = 0
+        for size in rule:
+            batch = " ".join(sentences[pointer:pointer + size])
+            batches.append((p_idx, batch))
+            pointer += size
+            batch_count += 1
+        paragraph_batch_counts.append(batch_count)
+    return batches, paragraph_batch_counts
+
+# Prepare batches
+batches, paragraph_batch_counts = create_batches(paragraphs)
+translated_paragraphs = [[] for _ in paragraphs]
+batches_processed_per_paragraph = [0] * len(paragraphs)
+
+print(f"🔄 Translating {len(batches)} batches...\n")
+
+# For streaming-aware wrapping
+max_width = 80
+line_length_by_paragraph = {}
+
+# Process each batch
+for (p_idx, batch) in batches:
+    prompt = f"Return only translation. Translate to English: {batch}"
+
+    try:
+        result = subprocess.run(
+            ['ollama', 'run', 'qwen3:4b', '/no_think'],
+            input=prompt,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            encoding='utf-8',
+        )
+
+        if result.returncode != 0:
+            print(f"\n[ERROR] Batch failed:\nPrompt: {prompt}\nError: {result.stderr.strip()}")
+            translated = '[TRANSLATION ERROR]'
+        else:
+            translated = re.sub(r'</?think>', '', result.stdout).strip()
+
+    except Exception as e:
+        print(f"\n[EXCEPTION] Batch failed:\nPrompt: {prompt}\nException: {str(e)}")
+        translated = '[TRANSLATION ERROR]'
+
+    translated_paragraphs[p_idx].append(translated)
+    batches_processed_per_paragraph[p_idx] += 1
+
+    current_length = line_length_by_paragraph.get(p_idx, 0)
+    words = translated.split()
+
+    for word in words:
+        if current_length + len(word) + 1 > max_width:
+            print()
+            print(word, end=' ', flush=True)
+            current_length = len(word) + 1
+        else:
+            print(word, end=' ', flush=True)
+            current_length += len(word) + 1
+
+    line_length_by_paragraph[p_idx] = current_length
+
+    if batches_processed_per_paragraph[p_idx] == paragraph_batch_counts[p_idx]:
+        print('\n')
+        line_length_by_paragraph[p_idx] = 0
+
+# Write final translation to output file
+with open(output_file, 'w', encoding='utf-8') as out:
+    for paragraph_batches in translated_paragraphs:
+        out.write(' '.join(paragraph_batches).strip() + '\n\n')
+
+print("✅ Translation complete.")
 ```
 
-Create a translate.py file and put this code in it.
-<br><br>
+I named it qwen3-visual.py, since it displays translated chunks in command line.
 
-So, we have weights and a script for translation. Only text is missing.
-
-What is this formatting with macros mentioned earlier? Models from the Hugging Face site have a limit on the input length. Accordingly, the model needs to get separate sentences. To do this, the text must be formatted in such a way that each line contains one sentence (you cannot entrust the breakdown of the text into sentences to the script, because the dot and space are not only at the end of the sentence, these cases must be corrected by hand). A paragraph is an empty line.
-<br><br>
-
-Formatting is automatic - you need to record the replacement macro once in the [Notepad++](https://notepad-plus-plus.org/downloads/) program.
-
-Notepad++ settings:
-
-Settings->Preferences...->Backup->Remember current session for next launch. Uncheck. This setting is needed so that when opening text files, previously opened text files do not dangle.
-<br><br>
-
-Let's start creating macros. Create a text file text.txt. Let's say you want to translate text from a PDF with a text layer. Paste it into text.txt. In this case, your text will look like this:
+**Second script:**
 
 ```
-Vor mehr als zehntausend Jahren lebten in Nordamerika,
-in den Gebieten der heutigen Staaten Arizona, Neu­
-Mexiko, Texas, Colorado zahlreiche Jägergruppen, die
-nach einer Fundstätte ihrer Speerspitzen Folsomjäger
-genannt werden. Woher sie kamen und wie sie lebten,
-erzählt diese Geschichte.
-Der Schneesturm
-Nordwind tobt um kahle Tafelberge. Graugelb und rötlich
-heben sie sich gegen eine fast schwarze Wolkenwand
-ab, die der Sturm heranpeitscht Heulend wie eine Hyäne
-zwängt er sich in die Schlucht Felsen, steil und ausge­
-höhlt, begrenzen sie. Auf ihrem Grund strudelt über
-Steine und entwurzelte Bäume hinweg ein Fluß.
+import nltk
+from nltk.tokenize import sent_tokenize
+import subprocess
+import re
+
+# Download punkt tokenizer if not already present
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
+
+# Config
+input_file = 'text.txt'
+initial_translation_file = 'translation.txt'
+output_file = 'translation_new.txt'
+
+# Read original and translated texts
+with open(input_file, 'r', encoding='utf-8') as f:
+    source_text = f.read()
+
+with open(initial_translation_file, 'r', encoding='utf-8') as f:
+    translated_text = f.read()
+
+# Split into paragraphs
+source_paragraphs = [p.strip() for p in source_text.split('\n\n') if p.strip()]
+translated_paragraphs = [p.strip() for p in translated_text.split('\n\n') if p.strip()]
+
+# Sanity check
+if len(source_paragraphs) != len(translated_paragraphs):
+    raise ValueError("Mismatch in paragraph count between source and translated text.")
+
+# Sentence tokenizer
+def split_into_sentences(text):
+    return sent_tokenize(text)
+
+# Batching rule (same as original)
+def generate_batching_rule(n):
+    if n < 1:
+        return []
+    if n == 1:
+        return [1]
+    threes = n // 3
+    remainder = n % 3
+    if remainder == 0:
+        return [3] * threes
+    elif remainder == 1:
+        if threes >= 1:
+            return [3] * (threes - 1) + [2, 2]
+        else:
+            return [2, 2]
+    elif remainder == 2:
+        return [3] * threes + [2]
+
+# Create batches with paragraph indexing, same as original script
+def create_batches(paragraphs):
+    batches = []
+    paragraph_batch_counts = []
+    for p_idx, paragraph in enumerate(paragraphs):
+        sentences = split_into_sentences(paragraph)
+        n = len(sentences)
+        if n == 0:
+            paragraph_batch_counts.append(0)
+            continue
+        rule = generate_batching_rule(n)
+        pointer = 0
+        batch_count = 0
+        for size in rule:
+            batch = " ".join(sentences[pointer:pointer + size])
+            batches.append((p_idx, batch))
+            pointer += size
+            batch_count += 1
+        paragraph_batch_counts.append(batch_count)
+    return batches, paragraph_batch_counts
+
+# Prepare batches from both source and translation
+source_batches, source_batch_counts = create_batches(source_paragraphs)
+translated_batches, translated_batch_counts = create_batches(translated_paragraphs)
+
+if source_batch_counts != translated_batch_counts:
+    raise ValueError("Mismatch in batch counts between source and translated text.")
+
+print(f"🔍 Reviewing {len(source_batches)} batches...\n")
+
+# Variables to track printing length per paragraph (for wrapping)
+max_width = 80
+line_length_by_paragraph = {}
+batches_processed_per_paragraph = [0] * len(source_paragraphs)
+
+reviewed_batches = [[] for _ in source_paragraphs]
+
+for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batches):
+    prompt = f"Text: {src_batch}\nTranslation: {trans_batch}\nReview the translation. Improve it if possible. Return only final English translation."
+
+    try:
+        result = subprocess.run(
+            ['ollama', 'run', 'qwen3:4b', '/no_think'],
+            input=prompt,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            encoding='utf-8',
+        )
+
+        if result.returncode != 0:
+            print(f"\n[ERROR] Batch failed:\nPrompt: {prompt}\nError: {result.stderr.strip()}")
+            improved = '[REVIEW ERROR]'
+        else:
+            improved = re.sub(r'</?think>', '', result.stdout).strip()
+
+    except Exception as e:
+        print(f"\n[EXCEPTION] Batch failed:\nPrompt: {prompt}\nException: {str(e)}")
+        improved = '[REVIEW ERROR]'
+
+    # Append improved batch to corresponding paragraph
+    reviewed_batches[p_idx].append(improved)
+    batches_processed_per_paragraph[p_idx] += 1
+
+    # Wrapped printing (exactly your original illustration adapted)
+    current_length = line_length_by_paragraph.get(p_idx, 0)
+    words = improved.split()
+
+    for word in words:
+        if current_length + len(word) + 1 > max_width:
+            print()
+            print(word, end=' ', flush=True)
+            current_length = len(word) + 1
+        else:
+            print(word, end=' ', flush=True)
+            current_length += len(word) + 1
+
+    line_length_by_paragraph[p_idx] = current_length
+
+    # After last batch of paragraph, print a newline and reset length counter
+    if batches_processed_per_paragraph[p_idx] == source_batch_counts[p_idx]:
+        print('\n')
+        line_length_by_paragraph[p_idx] = 0
+
+# Combine improved batches back into paragraphs
+final_paragraphs = [' '.join(batches).strip() for batches in reviewed_batches]
+
+# Write improved translation to file
+with open(output_file, 'w', encoding='utf-8') as out:
+    for para in final_paragraphs:
+        out.write(para + '\n\n')
+
+print("✅ Translation review complete.")
 ```
 
-In such a way [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) copies the text layer from PDF files. In this case, it is necessary to mark paragraphs with empty lines:
+I called it qwen3-visual-review.py
+
+OK, you have in your folder:<br>
+text.txt<br>
+qwen3-visual.py<br>
+qwen3-visual-review.py
+
+To easily run your scripts, create 2 .bat files.
+
+qwen3-visual.bat:
 
 ```
-Vor mehr als zehntausend Jahren lebten in Nordamerika,
-in den Gebieten der heutigen Staaten Arizona, Neu­
-Mexiko, Texas, Colorado zahlreiche Jägergruppen, die
-nach einer Fundstätte ihrer Speerspitzen Folsomjäger
-genannt werden. Woher sie kamen und wie sie lebten,
-erzählt diese Geschichte.
-
-Der Schneesturm
-
-Nordwind tobt um kahle Tafelberge. Graugelb und rötlich
-heben sie sich gegen eine fast schwarze Wolkenwand
-ab, die der Sturm heranpeitscht Heulend wie eine Hyäne
-zwängt er sich in die Schlucht Felsen, steil und ausge­
-höhlt, begrenzen sie. Auf ihrem Grund strudelt über
-Steine und entwurzelte Bäume hinweg ein Fluß.
+python qwen3-visual.py
+pause
 ```
 
-Now that the paragraphs are marked, we can start recording the macro.
-
-Macro->Start Recording.
-
-With the help of substitutions, we'll format this text in the appropriate way.
-
-Ctrl+H
-
-Search mode Extended
-
-In Notepad++, the line break symbol has the notation \r\n. We make the following replacement:
-
-Find what:\r\n
-
-Replace with:space (instead of the word, type the symbol)
-
-Replace All
-
-In the case of lines, the line break is replaced by a space. In the case of a paragraph, you will get two spaces (because an empty line means two line breaks). We will use this in the next replacement:
-
-Find what:2 spaces
-
-Replace with:\r\n\r\n
-
-Two spaces were replaced by two line breaks. Paragraphs are marked again, only now the division into lines has been eliminated. Next, we will distribute each sentence in a separate line. To do this, you need to make 3 substitutions:
-
-Find what:.space
-
-Replace with:.\r\n
-
-Find what:?space
-
-Replace with:.\r\n
-
-Find what:!space
-
-Replace with:.\r\n
-
-Stop Recording. Save Currently Recorded Macro... You can call it PDF.
-
-Now all these substitutions do not need to be executed manually, but you just need to run the PDF macro.
-
-Now text look like this:
+qwen3-visual-review.bat:
 
 ```
-Vor mehr als zehntausend Jahren lebten in Nordamerika, in den Gebieten der heutigen Staaten Arizona, Neu- Mexiko, Texas, Colorado zahlreiche Jägergruppen, die nach einer Fundstätte ihrer Speerspitzen Folsomjäger genannt werden.
-Woher sie kamen und wie sie lebten, erzählt diese Geschichte.
-
-Der Schneesturm
-
-Nordwind tobt um kahle Tafelberge.
-Graugelb und rötlich heben sie sich gegen eine fast schwarze Wolkenwand ab, die der Sturm heranpeitscht Heulend wie eine Hyäne zwängt er sich in die Schlucht Felsen, steil und ausge- höhlt, begrenzen sie.
-Auf ihrem Grund strudelt über Steine und entwurzelte Bäume hinweg ein Fluß.
+python qwen3-visua-review.py
+pause
 ```
-
-Words Neu- Mexiko and ausge- höhlt are broken. Texts with hyphens will look like this after using the macro. In such cases you need to manually replace the hyphen and space with nothing. No Replace All - you will erase the hyphen in word Neu-Mexiko.
-
-There are texts of the second type. Without dividing into lines and without empty lines between paragraphs:
-
-```
-Vor mehr als zehntausend Jahren lebten in Nordamerika, in den Gebieten der heutigen Staaten Arizona, Neu­Mexiko, Texas, Colorado zahlreiche Jägergruppen, die nach einer Fundstätte ihrer Speerspitzen Folsomjäger genannt werden. Woher sie kamen und wie sie lebten, erzählt diese Geschichte.
-Der Schneesturm
-Nordwind tobt um kahle Tafelberge. Graugelb und rötlich heben sie sich gegen eine fast schwarze Wolkenwand ab, die der Sturm heranpeitscht Heulend wie eine Hyäne zwängt er sich in die Schlucht Felsen, steil und ausgehöhlt, begrenzen sie. Auf ihrem Grund strudelt über Steine und entwurzelte Bäume hinweg ein Fluß.
-```
-
-In this case, other replacements. Provide without a comment. Macro->Start Recording.
-
-Find what:\r\n
-
-Replace with:\r\n\r\n
-
-Find what:.space
-
-Replace with:.\r\n
-
-Find what:?space
-
-Replace with:.\r\n
-
-Find what:!space
-
-Replace with:.\r\n
-
-Stop Recording. Save Currently Recorded Macro... You can call it No empty lines.
-<br><br>
-
-Finally, there are texts of the third type. Without dividing into lines and with empty lines between paragraphs:
-
-```
-Vor mehr als zehntausend Jahren lebten in Nordamerika, in den Gebieten der heutigen Staaten Arizona, Neu­Mexiko, Texas, Colorado zahlreiche Jägergruppen, die nach einer Fundstätte ihrer Speerspitzen Folsomjäger genannt werden. Woher sie kamen und wie sie lebten, erzählt diese Geschichte.
-
-Der Schneesturm
-
-Nordwind tobt um kahle Tafelberge. Graugelb und rötlich heben sie sich gegen eine fast schwarze Wolkenwand ab, die der Sturm heranpeitscht Heulend wie eine Hyäne zwängt er sich in die Schlucht Felsen, steil und ausgehöhlt, begrenzen sie. Auf ihrem Grund strudelt über Steine und entwurzelte Bäume hinweg ein Fluß.
-```
-
-In this case, you just need to distribute each sentence in a separate line.
-
-Find what:.space
-
-Replace with:.\r\n
-
-Find what:?space
-
-Replace with:.\r\n
-
-Find what:!space
-
-Replace with:.\r\n
-
-Stop Recording. Save Currently Recorded Macro... You can call it With empty lines.
-<br><br>
-
-Format some text using one of the marcos. The result should look like this:
-
-```
-Vor mehr als zehntausend Jahren lebten in Nordamerika, in den Gebieten der heutigen Staaten Arizona, Neu­Mexiko, Texas, Colorado zahlreiche Jägergruppen, die nach einer Fundstätte ihrer Speerspitzen Folsomjäger genannt werden.
-Woher sie kamen und wie sie lebten, erzählt diese Geschichte.
-
-Der Schneesturm
-
-Nordwind tobt um kahle Tafelberge.
-Graugelb und rötlich heben sie sich gegen eine fast schwarze Wolkenwand ab, die der Sturm heranpeitscht Heulend wie eine Hyäne zwängt er sich in die Schlucht Felsen, steil und ausgehöhlt, begrenzen sie.
-Auf ihrem Grund strudelt über Steine und entwurzelte Bäume hinweg ein Fluß.
-```
-
-Save the result - Ctrl+S. The text is ready for translation.
-<br><br>
-
-We go to the command line.
-
-Win+R cmd
-
-```
-cd path to folder with scripts and text
-python translate.py
-```
-
-We wait. The result will be in the file translation.txt .
-
-Machine translation cannot be perfect. It needs to be proofreaded. For the convenience of proofreading, it is good to "assemble" the source text. To do this, you can make another macro. Macros->Start Recording.
-
-Find what:\r\n
-
-Replace with:space
-
-Find what:2 spaces
-
-Replace with:\r\n\r\n
-
-Stop Recording. Save Currently Recorded Macro... You can call it Assemble.
-<br><br>
-
-So. What do we have as a result? Two scripts and four macros. Commands for the command line for convenience should be written to a file cmd.txt. If you need to install another model or use another model in translation, open the script with the same Notepad++ and change the name of the model. For example, if you download the open-mt-fr-en model, in the model_download script.py change facebook/wmt19-de-en to, for example, Helsinki-NLP/opus-mt-fr-ru, and wmt19-de-en to opus-mt-fr-en. If you change the model for translation, in the script translate.py change wmt19-de-en to opus-mt-fr-en.
-<br><br>
-
-This is what concerns the translation of texts. You can also use these models to translate subtitles in .srt format. To do this, create the following script:
-
-```
-import sys
-import time
-from pathlib import Path
-
-from colorama import Fore, init
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-
-init()
-
-model = './wmt19-de-en'
-
-tokenizer = AutoTokenizer.from_pretrained(model)
-model = AutoModelForSeq2SeqLM.from_pretrained(model)
-
-
-def translate_phrase(phrase: str) -> str:
-    inputs = tokenizer(phrase, return_tensors="pt")
-    output = model.generate(**inputs, max_new_tokens=100)
-    out_text = tokenizer.batch_decode(output, skip_special_tokens=True)
-    return out_text[0]
-
-
-def load_files(path: str):
-    translate_text = []
-    files = [x for x in Path(path).iterdir() if Path(x).suffix in [".srt", ".vtt"]]
-    for nm, file in enumerate(files):
-        print(f"\n{Fore.GREEN}[{nm + 1}/{len(files)}] Processing file: {Path(file).name}")
-        text = (x.strip() for x in open(file, "r", encoding="utf-8"))
-        for txt in text:
-            if not txt:
-                translate_text.append(" \n")
-            elif txt == "WEBVTT":
-                translate_text.append(f'{txt}\n')
-            elif txt[0].isdigit() and txt[-1].isdigit():
-                translate_text.append(f'{txt}\n')
-            else:
-                translate_text.append(f'{translate_phrase(txt)}\n')
-        save_srt(path, file, translate_text)
-        translate_text.clear()
-
-
-def save_srt(path: str, file: Path, translate_text: list):
-    with open(f'{Path(path) / Path(file).name.split(Path(file).suffix)[0]}.translation.srt', "w", encoding="utf-8") as fl:
-        for phrase in translate_text:
-            fl.write(phrase)
-
-
-def main():
-    path = input("Input path to folder with files to translate\n>>>  ")
-    time_start = time.monotonic()
-    if not Path(path).exists() or not Path(path).is_dir():
-        print("[!] Check that the path is entered correctly")
-        sys.exit(0)
-    load_files(path)
-    print(f"\n\n{Fore.GREEN}All files are processed and saved")
-    print(f'{Fore.CYAN}Elapsed time {Fore.RESET}| '
-          f'{(int(time.monotonic() - time_start) // 3600) % 24:d} ч. '
-          f'{(int(time.monotonic() - time_start) // 60) % 60:02d} м. '
-          f'{int(time.monotonic() - time_start) % 60:02d} с.\n')
-
-
-if __name__ == "__main__":
-    main()
-```
-
-Create translatesubs.py and put this code in it.
-<br><br>
-
-Go to the command line.
-
-Win+R cmd
-
-```
-cd path to folder with script
-python translatesubs.py
-path with subtitles
-```
-<br>
-
-Code source: <https://codeby.net/threads/perevodim-tekst-s-pomoschju-predobuchennoj-modeli-transformers-hugging-face-i-python.81875/>
