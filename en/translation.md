@@ -16,6 +16,7 @@ Because of these disadvantages, an open source alternative to ChatGPT is needed.
 About the script. The script splits the text into paragraphs, and paragraphs into sentences. Each paragraph is split into chunks of 3 sentences, which are fed to the qwen3:4b model. I install it via Ollama.
 
 3 sentences is optimal size. Too large a chunk may overload the model, break the translation. One sentence at a time - no context.
+<br><br>
 
 Once you have a translation, you can have the model to check the translation. Again in chunks. The second script goes through the parallel chunks in text.txt and translation.txt files and makes the following request:
 
@@ -26,6 +27,7 @@ Review the translation. Improve it if possible. Return only final English transl
 ```
 
 Unlike [this service](https://www.booktranslate.ai/), you can check as many times as you want. And for free.
+<br><br>
 
 Before running the scripts, you need to have these **prerequisites**:
 
@@ -44,8 +46,9 @@ Download, then install **nltk package** (to break down paragraphs into sentences
 ```
 pip install nltk
 ```
+<br>
 
-Now the scripts. I recommend you create a folder and hold all files in this folder.
+Now the scripts. I recommend you create a folder and hold all files in it.
 
 **First script:**
 
