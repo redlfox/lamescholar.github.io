@@ -18,7 +18,7 @@ About the script. The script splits the text into paragraphs, and paragraphs int
 3 sentences is optimal size. Too large a chunk may overload the model, break the translation. One sentence at a time - no context.
 <br><br>
 
-Once you have a translation, you can have the model to check the translation. Again in chunks. The second script goes through the parallel chunks in text.txt and translation.txt files and makes the following request:
+Once you have a translation, you can have the model to review the translation. Again in chunks. The second script goes through the parallel chunks in text.txt and translation.txt files and makes the following request:
 
 ```
 Text: chunk of text
@@ -26,7 +26,7 @@ Translation: chunk of translation
 Review the translation. Improve it if possible. Return only final English translation.
 ```
 
-Unlike [this service](https://www.booktranslate.ai/), you can check as many times as you want. And for free.
+Unlike [this service](https://www.booktranslate.ai/), you can run review as many times as you want. And for free.
 <br><br>
 
 Before running the scripts, you need to have these **prerequisites**:
