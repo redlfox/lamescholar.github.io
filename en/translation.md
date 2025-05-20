@@ -182,7 +182,8 @@ with open(output_file, 'w', encoding='utf-8') as out:
 print("✅ Translation complete.")
 ```
 
-I named it qwen3-visual.py, since it displays translated chunks in command line.
+I called it qwen3-visual.py, since it displays translated chunks in command line.
+<br><br>
 
 **Second script:**
 
