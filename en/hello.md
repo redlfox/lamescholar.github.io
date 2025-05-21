@@ -17,7 +17,7 @@ to [research](/en/research) stuff interesting for you,<br>
 to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
 <br><br>
 
-Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet free flow of information, called piracy, remains undeground, little known to the public. Modern states ensure that information is conducted strictly through the channels of commodity production and rent. By endowing companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
+Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet genuinely free flow of information, called piracy, remains underground, little known to the public. Modern states ensure that information is conducted strictly through the channels of commodity production and rent. By endowing companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
 
 Help share the knowledge. Share the link.
 
