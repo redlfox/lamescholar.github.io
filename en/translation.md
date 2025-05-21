@@ -280,7 +280,7 @@ batches_processed_per_paragraph = [0] * len(source_paragraphs)
 reviewed_batches = [[] for _ in source_paragraphs]
 
 for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batches):
-    prompt = f"Text: {src_batch}\nTranslation: {trans_batch}\nReview the translation. Improve it if possible. Return only final English translation."
+    prompt = f"Text: {src_batch}\nTranslation: {trans_batch}\nReview the translation. Improve it if necessary.\nReturn only final English translation."
 
     try:
         result = subprocess.run(
