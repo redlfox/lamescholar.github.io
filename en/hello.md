@@ -5,7 +5,7 @@ title: Hello
 
 Pirate Cookbook is my collection of guides on finding and sharing files online.
 
-To do that, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites. Torrent sites are mentioned in corresponding sections of the Cookbook.
+To do that, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
 
 With this collection of guides you will be able<br>
 to [create](/en/book-digitization), [share](/en/how-to-share-your-stuff), [find](/en/book-searching) and [read](/en/ebook-formats) ebooks,<br>
@@ -17,7 +17,7 @@ to [research](/en/research) stuff interesting for you,<br>
 to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
 <br><br>
 
-Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet genuinely free flow of information, called piracy, remains underground, little known to the public. Modern states ensure that information is conducted strictly through the channels of commodity production and rent. By endowing companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
+Thanks to the emergence of the Internet, the free exchange of information has become possible. Yet genuinely free flow of information, called piracy, remains underground, little known to the public. Modern states ensure that information is conducted strictly through the channels of commodity production and rent. By endowing <del>people</del> companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
 
 Help share the knowledge. Share the link.
 
