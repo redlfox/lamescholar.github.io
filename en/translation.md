@@ -23,7 +23,8 @@ Once you have a translation, you can have the model to review the translation. A
 ```
 Text: chunk of text
 Translation: chunk of translation
-Review the translation. Improve it if possible. Return only final English translation.
+Review the translation. Improve it if necessary.
+Return only final English translation.
 ```
 
 Unlike [this service](https://www.booktranslate.ai/), you can run review as many times as you want. And for free.
