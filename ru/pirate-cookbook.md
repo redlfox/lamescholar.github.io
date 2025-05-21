@@ -85,7 +85,7 @@ title: Поваренная книга пирата
 
 [Оцифровка книг](/ru/book-digitization)
 
-[Перевод](/ru/translation)
+[Перевод](/en/translation)
 
 [Поиск книг](/ru/book-searching)
 
