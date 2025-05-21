@@ -22,9 +22,9 @@ Once you have a translation, you can have the model to review the translation. A
 
 ```
 Text: chunk of text
-Translation: chunk of translation
-Review the translation. Improve it if necessary.
-Return only final English translation.
+English translation: chunk of translation
+Evaluate the translation. If it's poor, improve it.
+Return only translation.
 ```
 
 Unlike [this service](https://www.booktranslate.ai/), you can run review as many times as you want. And for free.
@@ -280,7 +280,7 @@ batches_processed_per_paragraph = [0] * len(source_paragraphs)
 reviewed_batches = [[] for _ in source_paragraphs]
 
 for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batches):
-    prompt = f"Text: {src_batch}\nTranslation: {trans_batch}\nReview the translation. Improve it if necessary.\nReturn only final English translation."
+    prompt = f"Text: {src_batch}\nEnglish translation: {trans_batch}\nEvalute the translation. If it's poor, improve it.\nReturn only translation."
 
     try:
         result = subprocess.run(
