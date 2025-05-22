@@ -21,9 +21,14 @@ About the script. The script splits the text into paragraphs, and paragraphs int
 Once you have a translation, you can have the model to review the translation. Again in chunks. The second script goes through the parallel chunks in text.txt and translation.txt files and makes the following request:
 
 ```
+\no_think
+
 Text: chunk of text
+
 English translation: chunk of translation
+
 Evaluate the translation. If it's deficient, improve it.
+
 Return only translation.
 ```
 
