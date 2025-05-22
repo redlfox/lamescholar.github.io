@@ -127,32 +127,35 @@ batches_processed_per_paragraph = [0] * len(paragraphs)
 
 print(f"🔄 Translating {len(batches)} batches...\n")
 
-# For streaming-aware wrapping
 max_width = 80
 line_length_by_paragraph = {}
 
 # Process each batch
 for (p_idx, batch) in batches:
-    prompt = f"Return only translation. Translate to English: {batch}"
+    
+    if len(batch.split()) < 3:
+        translated = batch
+    else:
+        prompt = f"Return only translation. Translate to English: {batch}"
 
-    try:
-        result = subprocess.run(
-            ['ollama', 'run', 'qwen3:4b', '/no_think'],
-            input=prompt,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            encoding='utf-8',
-        )
+        try:
+            result = subprocess.run(
+                ['ollama', 'run', 'qwen3:4b', '/no_think'],
+                input=prompt,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                encoding='utf-8',
+            )
 
-        if result.returncode != 0:
-            print(f"\n[ERROR] Batch failed:\nPrompt: {prompt}\nError: {result.stderr.strip()}")
+            if result.returncode != 0:
+                print(f"\n[ERROR] Batch failed:\nPrompt: {prompt}\nError: {result.stderr.strip()}")
+                translated = '[TRANSLATION ERROR]'
+            else:
+                translated = re.sub(r'</?think>', '', result.stdout).strip()
+
+        except Exception as e:
+            print(f"\n[EXCEPTION] Batch failed:\nPrompt: {prompt}\nException: {str(e)}")
             translated = '[TRANSLATION ERROR]'
-        else:
-            translated = re.sub(r'</?think>', '', result.stdout).strip()
-
-    except Exception as e:
-        print(f"\n[EXCEPTION] Batch failed:\nPrompt: {prompt}\nException: {str(e)}")
-        translated = '[TRANSLATION ERROR]'
 
     translated_paragraphs[p_idx].append(translated)
     batches_processed_per_paragraph[p_idx] += 1
@@ -272,7 +275,6 @@ if source_batch_counts != translated_batch_counts:
 
 print(f"🔍 Reviewing {len(source_batches)} batches...\n")
 
-# Variables to track printing length per paragraph (for wrapping)
 max_width = 80
 line_length_by_paragraph = {}
 batches_processed_per_paragraph = [0] * len(source_paragraphs)
@@ -280,26 +282,30 @@ batches_processed_per_paragraph = [0] * len(source_paragraphs)
 reviewed_batches = [[] for _ in source_paragraphs]
 
 for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batches):
-    prompt = f"Text: {src_batch}\nEnglish translation: {trans_batch}\nEvalute the translation. If it's poor, improve it.\nReturn only translation."
+    
+    if len(batch.split()) < 3:
+        translated = batch
+    else:
+        prompt = f"Text: {src_batch}\nEnglish translation: {trans_batch}\nEvalute the translation. If it's poor, improve it.\nReturn only translation."
 
-    try:
-        result = subprocess.run(
-            ['ollama', 'run', 'qwen3:4b', '/no_think'],
-            input=prompt,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            encoding='utf-8',
-        )
+        try:
+            result = subprocess.run(
+                ['ollama', 'run', 'qwen3:4b', '/no_think'],
+                input=prompt,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                encoding='utf-8',
+            )
 
-        if result.returncode != 0:
-            print(f"\n[ERROR] Batch failed:\nPrompt: {prompt}\nError: {result.stderr.strip()}")
+            if result.returncode != 0:
+                print(f"\n[ERROR] Batch failed:\nPrompt: {prompt}\nError: {result.stderr.strip()}")
+                improved = '[REVIEW ERROR]'
+            else:
+                improved = re.sub(r'</?think>', '', result.stdout).strip()
+
+        except Exception as e:
+            print(f"\n[EXCEPTION] Batch failed:\nPrompt: {prompt}\nException: {str(e)}")
             improved = '[REVIEW ERROR]'
-        else:
-            improved = re.sub(r'</?think>', '', result.stdout).strip()
-
-    except Exception as e:
-        print(f"\n[EXCEPTION] Batch failed:\nPrompt: {prompt}\nException: {str(e)}")
-        improved = '[REVIEW ERROR]'
 
     # Append improved batch to corresponding paragraph
     reviewed_batches[p_idx].append(improved)
