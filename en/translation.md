@@ -284,7 +284,7 @@ reviewed_batches = [[] for _ in source_paragraphs]
 for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batches):
     
     if len(batch.split()) < 3:
-        translated = batch
+        translated = trans_batch
     else:
         prompt = f"Text: {src_batch}\nEnglish translation: {trans_batch}\nEvalute the translation. If it's poor, improve it.\nReturn only translation."
 
