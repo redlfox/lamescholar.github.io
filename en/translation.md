@@ -18,16 +18,16 @@ About the script. The script splits the text into paragraphs, and paragraphs int
 3 sentences is optimal size. Too large a chunk may overload the model, break the translation. One sentence at a time - no context.
 <br><br>
 
-Once you have a translation, you can have the model to review the translation. Again in chunks. The second script goes through the parallel chunks in text.txt and translation.txt files and makes the following request:
+Once you have a translation, you can have the model to proofread the translation. Again in chunks. The second script goes through the parallel chunks in text.txt and translation.txt files and makes the following request:
 
 ```
 Text: chunk of text
 English translation: chunk of translation
-Evaluate the translation. If it's poor, improve it.
+Evaluate the translation. If it's deficient, improve it.
 Return only translation.
 ```
 
-Unlike [this service](https://www.booktranslate.ai/), you can run review as many times as you want. And for free.
+Unlike [this service](https://www.booktranslate.ai/), you can run proofread as many times as you want. And for free.
 <br><br>
 
 Before running the scripts, you need to have these **prerequisites**:
@@ -273,20 +273,20 @@ translated_batches, translated_batch_counts = create_batches(translated_paragrap
 if source_batch_counts != translated_batch_counts:
     raise ValueError("Mismatch in batch counts between source and translated text.")
 
-print(f"🔍 Reviewing {len(source_batches)} batches...\n")
+print(f"🔍 Proofreading {len(source_batches)} batches...\n")
 
 max_width = 80
 line_length_by_paragraph = {}
 batches_processed_per_paragraph = [0] * len(source_paragraphs)
 
-reviewed_batches = [[] for _ in source_paragraphs]
+proofread_batches = [[] for _ in source_paragraphs]
 
 for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batches):
     
     if len(trans_batch.split()) < 3:
         improved = trans_batch
     else:
-        prompt = f"Text: {src_batch}\nEnglish translation: {trans_batch}\nEvalute the translation. If it's poor, improve it.\nReturn only translation."
+        prompt = f"Text: {src_batch}\nEnglish translation: {trans_batch}\nProofread the translation. If it's deficient, improve it.\nReturn only translation."
 
         try:
             result = subprocess.run(
@@ -308,7 +308,7 @@ for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batch
             improved = '[REVIEW ERROR]'
 
     # Append improved batch to corresponding paragraph
-    reviewed_batches[p_idx].append(improved)
+    proofread_batches[p_idx].append(improved)
     batches_processed_per_paragraph[p_idx] += 1
 
     # Wrapped printing (exactly your original illustration adapted)
@@ -332,23 +332,23 @@ for (p_idx, src_batch), (_, trans_batch) in zip(source_batches, translated_batch
         line_length_by_paragraph[p_idx] = 0
 
 # Combine improved batches back into paragraphs
-final_paragraphs = [' '.join(batches).strip() for batches in reviewed_batches]
+final_paragraphs = [' '.join(batches).strip() for batches in proofread_batches]
 
 # Write improved translation to file
 with open(output_file, 'w', encoding='utf-8') as out:
     for para in final_paragraphs:
         out.write(para + '\n\n')
 
-print("✅ Translation review complete.")
+print("✅ Translation proofread complete.")
 ```
 
-I called it qwen3-visual-review.py
+I called it qwen3-visual-proofread.py
 <br><br>
 
 OK, you have in your folder:<br>
 text.txt<br>
 qwen3-visual.py<br>
-qwen3-visual-review.py
+qwen3-visual-proofread.py
 
 To easily run your scripts, create 2 .bat files.
 
@@ -359,9 +359,9 @@ python qwen3-visual.py
 pause
 ```
 
-qwen3-visual-review.bat:
+qwen3-visual-proofread.bat:
 
 ```
-python qwen3-visua-review.py
+python qwen3-visua-proofread.py
 pause
 ```
