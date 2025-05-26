@@ -85,7 +85,7 @@ def generate_batching_rule(n):
     elif remainder == 2:
         return [3] * threes + [2]
 
-# Split paragraphs into sentence batches
+# Split paragraphs into batches
 def create_batches(paragraphs):
     batches = []
     paragraph_batch_counts = []
