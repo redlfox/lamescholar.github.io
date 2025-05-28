@@ -9,12 +9,10 @@ Here I share my thoughts and sources I find. I did this blog with [Jekyll](/en/j
 Тут я делюсь своими мыслями и источниками, которые нахожу. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
-We need to take information, wherever it is stored, make our copies and share them with the world.
-
+We need to take information, wherever it is stored, make our copies and share them with the world.<br>
 [Aaron Swartz - Guerilla Open Access Manifesto (2008)](/2024/07/14/guerilla-open-access-manifesto.html)
 
-Мы должны брать информацию везде, где бы она ни хранилась, делать копии и делиться ими с миром.
-
+Мы должны брать информацию везде, где бы она ни хранилась, делать копии и делиться ими с миром.<br>
 [Аарон Шварц - Манифест партизанского открытого доступа (2008)](/2024/07/17/guerilla-open-access-manifesto-ru.html)
 <br><br>
 
