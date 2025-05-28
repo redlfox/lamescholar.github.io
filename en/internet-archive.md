@@ -78,7 +78,7 @@ Useful combinations:<br>
 
 If there is greenish or orange tint remaining, you can lower the color saturation of the scan. Saturation tool is used for this. The value is -100/-150.
 
-It is better to apply color correction to the cover separately. Often a combination of 50 2.00 is suitable, sometimes just 2.00 when the photo is very dark.
+It is better to apply color correction to the cover separately. Often a combination of 50/70 2.00 is suitable, sometimes just 2.00 when the photo is very dark.
 
 In addition to color correction tools, I use Sharpen tool all the time against blurred text. The optimal value is 30.
 
