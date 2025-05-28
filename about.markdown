@@ -14,11 +14,12 @@ We need to take information, wherever it is stored, make our copies and share th
 
 Мы должны брать информацию везде, где бы она ни хранилась, делать копии и делиться ими с миром.<br>
 [Аарон Шварц - Манифест партизанского открытого доступа (2008)](/2024/07/17/guerilla-open-access-manifesto-ru.html)
-<br><br>
+<br><br><br>
 
 {% include embed-audio.html src="/files/rick.mp3" %}
 
-[Rick Roderick - Philosophy and Human Values (1990) Lecture 8: Philosophy and Postmodern Culture](https://1337x.to/torrent/6236906/Rick-Roderick-Lectures-1990-1993-VHSRip/)
+[Rick Roderick]](https://1337x.to/torrent/6236906/Rick-Roderick-Lectures-1990-1993-VHSRip/) - Philosophy and Human Values (1990)<br>
+Lecture 8: Philosophy and Postmodern Culture
 <br><br><br>
 
 {:refdef: style="text-align: center;"}
