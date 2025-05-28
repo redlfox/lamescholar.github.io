@@ -11,7 +11,7 @@ title: Translation
 
 3) Today or tomorrow, OpenAI can make access paid.
 
-Because of these disadvantages, a local, open source alternative to ChatGPT is needed. And it exists. How does it work? You insert the text into text.txt You run the script. The script translates the text in chunks of 3 sentences. The script, as soon as it translates a chunk of text, displays a chunk of translation. Translation is gradually assembled in the command line. You can read as translation happens. At the end, translation is saved into translation.txt
+Because of these disadvantages, a local, open source alternative to ChatGPT is needed. And it exists. How does it work? You insert the text into text.txt. You run the script. The script translates the text in chunks of 3 sentences. The script, as soon as it translates a chunk of text, displays a chunk of translation. Translation is gradually assembled in the command line. You can read as translation happens. At the end, translation is saved into translation.txt
 
 About the script. The script splits the text into paragraphs, and paragraphs into sentences. Each paragraph is split into chunks of 3 sentences, which are fed to the qwen3:4b model. I install it via Ollama.
 
