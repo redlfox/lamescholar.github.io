@@ -18,7 +18,7 @@ We need to take information, wherever it is stored, make our copies and share th
 
 {% include embed-audio.html src="/files/rick.mp3" %}
 
-[Rick Roderick]](https://1337x.to/torrent/6236906/Rick-Roderick-Lectures-1990-1993-VHSRip/) - Philosophy and Human Values (1990)<br>
+[Rick Roderick](https://1337x.to/torrent/6236906/Rick-Roderick-Lectures-1990-1993-VHSRip/) - Philosophy and Human Values (1990)<br>
 Lecture 8: Philosophy and Postmodern Culture
 <br><br><br>
 
