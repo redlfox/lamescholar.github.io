@@ -185,7 +185,7 @@ OK, you have in your folder:<br>
 text.txt<br>
 qwen3-visual.py
 
-To easily run your script, create a .bat files.
+To easily run your script, create a .bat file.
 
 qwen3-visual.bat:
 
