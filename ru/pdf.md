@@ -18,13 +18,12 @@ ZoomLevels = 18 25 31 37 43 50 62 75 87 100 125 150 175 200 250 300 400 600 800 
 
 #### Создание PDF:
 
-Scan Tailor (исправление наклона) - <http://forum.ru-board.com/topic.cgi?forum=5&topic=32945>
+ImageMagick (исправление наклона)
 
-IrfanView (обрезание изображений):
-
-<https://www.irfanview.com/>
-
-<https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images>
+IrfanView (обрезание изображений):<br>
+<https://www.irfanview.com/><br>
+<https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images><br>
+Чтобы исправить наклон, Ctrl+U.
 
 IrfanView (цветокоррекция) - см. [Internet Archive](/ru/internet-archive#цветокоррекция)
 
