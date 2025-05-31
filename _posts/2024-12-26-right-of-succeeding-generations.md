@@ -65,7 +65,7 @@ Establish the principle also in the new law to be passed for protecting copyrigh
 
 I write you no news, because, when an occasion occurs, I shall write a separate letter for that. I am always with great and sincere esteem, dear Sir Your affectionate friend and servt,
 
-<p style="text-align: center;">Th: Jefferson</p>
+<p style="text-align: center;">Th. Jefferson</p>
 <br>
 
 #### *Madison to Jefferson*
