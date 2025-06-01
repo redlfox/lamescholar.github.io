@@ -128,7 +128,7 @@ for (p_idx, batch) in batches:
     if len(batch.split()) < 3:
         translated = batch
     else:
-        prompt = f"/no_think\n\nTranslate to English: {batch}\n\nReturn only translation."
+        prompt = f"/no_think\n\nReturn only translation. Translate to English: {batch}"
 
         try:
             result = subprocess.run(
