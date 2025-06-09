@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: Reposts Moravia
+tags: Translations Moravia
 comments: true
 title: "Alberto Moravia - A Month in the USSR (1958): IV. Provincialism and Mechanical Civilization in the USSR"
 ---
