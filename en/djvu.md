@@ -12,7 +12,7 @@ This is comprehensive collection of programs to create, edit and read DjVu files
 
 2) Book Restorer - straightening text lines.
 
-3) Tsushima- cleaning slur.
+3) Tsushima - cleaning slur.
 
 4) DjVu Small Mod 0.7.6.1 - creation of DjVu document.
 
