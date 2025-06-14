@@ -11,15 +11,9 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [Blogs](/en/blogs)
 
-[Book digitization](/en/book-digitization)
-
-[Book searching](/en/book-searching)
-
 [Book series](/en/book-series)
 
 [Bulletin Board Systems](/en/bbs)
-
-[Buying books](/en/buying-books)
 
 [Bypass Paywalls Clean](/en/bypass-paywalls-clean)
 
@@ -47,6 +41,14 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [Hostings](/en/hostings)
 
+[How to buy books](/en/how-to-buy-books)
+
+[How to digitize books](/en/how-to-digitize-books)
+
+[How to find books](/en/how-to-find-books)
+
+[How to name ebooks](/en/how-to-name-ebooks)
+
 [How to share your stuff](/en/how-to-share-your-stuff)
 
 [Internet Archive](/en/internet-archive)
@@ -62,8 +64,6 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 [Magazines](/en/magazines)
 
 [Manga](/en/manga)
-
-[Naming ebooks](/en/naming-ebooks)
 
 [News](/en/news)
 

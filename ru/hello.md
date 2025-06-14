@@ -8,7 +8,7 @@ title: Привет
 Для этого первым делом скачай BitTorrent-клиент (смотри [P2P](/ru/p2p)). Он позволит тебе скачивать раздачи с торрент-сайтов.
 
 С этой коллекцией гайдов ты сможешь<br>
-[создавать](/ru/book-digitization), [делиться](/ru/how-to-share-your-stuff), [находить](/ru/book-searching) и [читать](/ru/ebook-formats) электронные книги,<br>
+[создавать](/ru/how-to-digitize-books), [делиться](/ru/how-to-share-your-stuff), [находить](/ru/how-to-find-books) и [читать](/ru/ebook-formats) электронные книги,<br>
 рипать [DVD](/ru/films) и [CD](/ru/music#рип-cd),<br>
 оцифровывать [виниловые пластинки](/ru/music#оцифровка-виниловых-пластинок),<br>
 находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/news), [словари](/ru/reference-books), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films) и проигрывать их на своём компьютере,<br>

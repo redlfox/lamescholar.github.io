@@ -69,7 +69,15 @@ title: Поваренная книга пирата
 
 [Исследование](/ru/research)
 
+[Как называть электронные книги](/ru/how-to-name-ebooks)
+
+[Как находить книги](/ru/how-to-find-books)
+
+[Как оцифровывать книги](/ru/how-to-digitize-books)
+
 [Как поделиться своим добром](/ru/how-to-share-your-stuff)
+
+[Как покупать книги(/ru/how-to-buy-books)
 
 [Книжные серии](/ru/book-series)
 
@@ -77,21 +85,13 @@ title: Поваренная книга пирата
 
 [Музыка](/ru/music)
 
-[Название электронной книги](/ru/naming-ebooks)
-
 [Новости](/ru/news)
 
 [Олимпиады](/ru/olympiads)
 
-[Оцифровка книг](/ru/book-digitization)
-
 [Перевод](/en/translation)
 
-[Поиск книг](/ru/book-searching)
-
 [Поисковые системы](/ru/search-engines)
-
-[Покупка книг](/ru/buying-books)
 
 [Полнотекстовый поиск](/ru/full-text-search)
 
