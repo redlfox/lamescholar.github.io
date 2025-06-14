@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Book digitization
+title: How to digitize books
 ---
 
 There are two methods to digitize a book.

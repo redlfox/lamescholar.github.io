@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Buying books
+title: How to buy books
 ---
 
 #### 1. Online stores

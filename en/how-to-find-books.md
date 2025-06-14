@@ -1,9 +1,9 @@
 ---
 comments: true
-title: Book searching
+title: How to find books
 ---
 
-When I'm looking for an ebook, I check 6 sources:
+When I'm looking for the book, I check 6 sources:
 
 Library Genesis - <https://libgen.is/>
 

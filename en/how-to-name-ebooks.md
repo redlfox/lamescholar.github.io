@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Naming ebooks
+title: How to name ebooks
 ---
 
 On the Internet, ebooks can often be found with a random title, and that's inconvenient to store them. Therefore, such books should be renamed.
