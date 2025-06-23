@@ -94,7 +94,7 @@ Add images. Sort files. By Name. Auto sort file list after insert. Add all.
 
 Output format:->JPG
 
-Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 or 600. If width of image is less than 2200 - 300 DPI, greater than 2200 - 600 DPI. In the case of LuraTech PDF Compressor 300 DPI is not necessary to set - this is the default value when DPI is not set. Enter the values of Gamma correction, Constrast, Saturation, Sharpen, if necessary.
+Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 or 600. If width of image is less than 2000 - 300 DPI, greater than 2000 - 600 DPI. In the case of LuraTech PDF Compressor 300 DPI is not necessary to set - this is the default value when DPI is not set. Enter the values of Gamma correction, Constrast, Saturation, Sharpen, if necessary.
 
 Choose output folder.
 
