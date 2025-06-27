@@ -8,9 +8,10 @@ title: "Jean Baudrillard - The Masses: The Implosion of the Social in the Media 
 Source: <https://www.jstor.org/stable/468841>
 <br><br>
 
-The Masses: The Implosion of the Social in the Media<a href="#note" id="note-back">*</a>
+# The Masses: The Implosion of the Social in the Media<a href="#note" id="note-back">*</a>
 
-Jean Baudrillard
+# Jean Baudrillard
+<br>
 
 Up to now there have been two great versions of the analysis of the media (as indeed that of the masses), one optimistic and one pessimistic. The optimistic one has assumed two major tonalities, very different from one another. There is the technological optimism of Marshall McLuhan: for him the electronic media inaugurate a generalized planetary communication and should conduct us, by the mental effect alone of new technologies, beyond the atomizing rationality of the Gutenberg galaxy to the global village, to the new electronic tribalism—an achieved transparency of information and communication. The other version, more traditional, is that of dialectical optimism inspired by progressivist and Marxist thought: the media constitute a new, gigantic productive force and obey the dialectic of productive forces. Momentarily alienated and submitted to the law of capitalism, their intensive development can only eventually explode this monopoly. “For the first time in history,” writes Hans Enzensberger, “the media make possible a mass participation in a productive process at once social and socialized, a participation whose practical means are in the hands of the masses themselves.”[^1] These two positions more or less, the one technological, the other ideological, inspire the whole analysis and the present practice of the media.[^2]
 
