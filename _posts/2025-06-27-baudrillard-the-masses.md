@@ -89,6 +89,7 @@ University of Paris, Nanterre
 <br><br>
 
 <a href="#note-back" id="note">*</a> Lecture delivered at the University of Melbourne.
+<br><br>
 
 # Notes
 
