@@ -22,9 +22,9 @@ jobs:
                             # output to "source-directory" ("output" in the example)
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main # docs https://cpina.github.io/push-to-another-repository-docs/configuration.html#source-directory https://cpina.github.io/push-to-another-repository-docs/generic-example.html#generic-example
-        # env:
-        #   SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-        #   API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: 'images'
           destination-github-username: 'redlfox'
