@@ -27,8 +27,9 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: 'images'
+          target-directory: 'images'
           destination-github-username: 'redlfox'
           destination-repository-name: 'resource-search-download-archive'
           user-name: 'github-actions[bot]'
           user-email: github-actions[bot]@users.noreply.github.com
-          target-branch: main
+          target-branch: b2a2bf6-1
